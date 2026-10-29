@@ -1,0 +1,41 @@
+﻿id,slug,nhom,mau_ung_vien,goc_review,trang_thai,mau_da_chot,gia_vn,thong_so_da_xac_minh,nguon,so_clip,so_nguon,credit
+01,01_anker-soundcore-p20i,Tai nghe,Anker Soundcore P20i,"TWS giá rẻ: pin, chống nước, kết nối",mot_phan,Anker Soundcore P20i (mã A3949),,,,10,6,120
+02,02_qcy-t13,Tai nghe,QCY T13,TWS rất rẻ: chất âm so với giá,mot_phan,QCY T13 ANC2 (mã HT09),290.000-490.000,,,11,3,132
+03,03_xiaomi-redmi-buds-6-active,Tai nghe,Xiaomi Redmi Buds 6 Active,"TWS phổ thông: pin, độ trễ",mot_phan,Xiaomi Redmi Buds 6 Active (mã model hãng: chưa xác minh),361.000-590.000,,,12,2,144
+04,04_jbl-wave-beam-2,Tai nghe,JBL Wave Beam 2,"TWS thương hiệu: đeo lâu, mic",mot_phan,JBL Wave Beam 2 (SKU Hacom TNJB0098-0101; mã model hãng chưa xác minh),1.250.000-1.364.000,,,13,4,156
+05,05_xiaomi-power-bank-20000mah,Sạc dự phòng,Xiaomi Power Bank 20000mAh,"dung lượng thật, mang lên máy bay",mot_phan,"Xiaomi 33W Power Bank 20000mAh (Integrated Cable), mã model PB2030MI",790.000-890.000,,,11,7,132
+06,06_anker-nano-power-bank,Sạc dự phòng,Anker Nano Power Bank (cáp liền),gọn nhẹ đi làm,mot_phan,"Anker Nano Power Bank (30W, Built-In USB-C Cable) 10000mAh, mã model A1259",675.000-960.000,,,10,6,120
+07,07_baseus-blade,Sạc dự phòng,Baseus Blade / Cuktech 20,sạc laptop bằng sạc dự phòng,mot_phan,"Baseus Blade High Power Digital Display Power Bank 20000mAh 100W (mã LVA021-2K, kèm cáp C-C 1m)",1.370.000-1.650.000,,,10,4,120
+08,08_ugreen-nexode-power-bank,Sạc dự phòng,Ugreen Nexode Power Bank,"công suất cao, nhiều cổng",mot_phan,"Ugreen Nexode Power Bank 20000mAh 130W PB721 (2 USB-C + 1 USB-A, màn hình số)",1.290.000-1.690.000,,,11,2,132
+09,09_anker-nano-45w,Củ sạc,Anker Nano 30W / 45W GaN,"sạc iPhone, Android nhanh",xac_minh,"Anker Nano Charger 45W (mã A2692), 1 cổng USB-C, GaN",390.000-550.000,,,9,4,108
+10,10_ugreen-nexode-65w,Củ sạc,Ugreen Nexode 65W,một củ sạc cho laptop và điện thoại,xac_minh,"UGREEN Nexode GaN 3 cổng 65W, mã CD244 (10334 chân dẹt / 10335 chân tròn)",577.000-599.000,,,9,5,108
+11,11_baseus-gan-65w,Củ sạc,Baseus GaN 65W,gọn hơn củ gốc,mot_phan,"Baseus GaN5 Pro 65W 2C+U (2 USB-C + 1 USB-A); SKU baseus.com CCGP120101, SKU đại lý VN LVJ032-AK-CK",629.000-780.000,,,9,6,108
+12,12_anker-332-usb-c-hub-5in1,"Cáp, hub",Anker 332 USB-C Hub 5in1,hub cho laptop mỏng,xac_minh,"Anker 332 USB-C Hub (5-in-1), mã A8355",550.000-650.000,,,10,9,120
+13,13_ugreen-hub-usb-c-6in1,"Cáp, hub",Ugreen hub USB-C 6in1,"cổng HDMI, thẻ nhớ",mot_phan,"Ugreen USB-C Hub 6 in 1 (3x USB-A, HDMI 4K@30Hz, SD/TF), mã 20956A",570.000-570.000,,,10,4,120
+14,14_xiaomi-smart-band-9,Đồng hồ,Xiaomi Smart Band 9,"vòng đeo tay: pin, theo dõi sức khỏe",mot_phan,"Xiaomi Smart Band 9 (vòng đeo tay, mã SKU FPT Shop 00910368)",880.000-980.000,,,11,3,132
+15,15_amazfit-bip-6,Đồng hồ,Amazfit Bip 6 / Active,"đồng hồ giá mềm: GPS, pin",mot_phan,Amazfit Bip 6 46.3mm dây silicone (Zepp OS),2.150.000-2.490.000,,,12,3,144
+16,16_redmi-watch-5-active,Đồng hồ,Redmi Watch 5 Active,"màn hình lớn, gọi Bluetooth",mot_phan,"Xiaomi Redmi Watch 5 Active (đồng hồ thông minh, bản bạc/đen)",880.000-880.000,,,11,3,132
+17,17_huawei-band-10,Đồng hồ,Huawei Band 10,vòng đeo mỏng nhẹ,xac_minh,"Huawei Band 10 (viền nhựa, bản Đen)",590.000-740.000,,,10,3,120
+18,18_logitech-pebble-mouse-2,Chuột,Logitech M331 / Pebble 2,chuột yên tĩnh văn phòng,xac_minh,"Logitech Pebble Mouse 2 M350s (bản đen, mã 910-006988)",459.000-490.000,,,10,5,120
+19,19_logitech-mx-anywhere-3s,Chuột,Logitech MX Anywhere 3S,chuột cao cấp cho dân văn phòng,xac_minh,"Logitech MX Anywhere 3S (bản Graphite/Đen, mã 910-006262)",1.550.000-1.680.000,,,10,4,120
+20,20_logitech-g304x,Chuột,Razer / Logitech G gaming nhẹ (xác định mẫu),chuột gaming nhẹ giá mềm,xac_minh,"Logitech G304 X LIGHTSPEED (bản Đen, mã 910-007867)",949.000-999.000,,,11,3,132
+21,21_keychron-k2,Bàn phím,Keychron K2 / K3,bàn phím cơ không dây gọn,mot_phan,Keychron K2 Pro QMK/VIA Wireless Mechanical Keyboard (mã SKU ThinkPro KCK2Pro01CF),2.490.000-2.490.000,,,10,3,120
+22,22_aula-f75,Bàn phím,Aula F75,bàn phím cơ giá rẻ có hotswap,xac_minh,"AULA F75 bản 3 chế độ không dây, switch Milk White (mã HACOM KBAU0155)",949.000-949.000,,,11,4,132
+23,23_logitech-k380,Bàn phím,Logitech K380,bàn phím mỏng đa thiết bị,mot_phan,Logitech K380 Multi-Device Bluetooth Keyboard (mã 920-007582 trên trang Logitech Việt Nam; mã khác theo màu),730.000-750.000,,,9,5,108
+24,24_jbl-go-4,Loa,JBL Go 4,"loa bỏ túi: chống nước, pin",xac_minh,JBL Go 4 (loa Bluetooth di động),1.070.000-1.070.000,,,10,5,120
+25,25_xiaomi-sound-pocket,Loa,Xiaomi Sound Pocket / Anker Soundcore 3,loa giá rẻ,mot_phan,Xiaomi Sound Pocket (mã MDZ-37-DB),455.000-580.000,,,11,2,132
+26,26_marshall-emberton,Loa,Marshall Emberton / Soundcore Boom,loa ngoài trời,mot_phan,Marshall Emberton III (Bluetooth speaker),4.400.000-4.770.000,,,11,4,132
+27,27_xiaomi-a24i,Màn hình,Xiaomi A24i / A27i,màn hình văn phòng giá rẻ,mot_phan,Xiaomi Monitor A24i 2026 23.8 inch (mã ELA6416EU),2.290.000-2.290.000,,,11,3,132
+28,28_dell-s2425h,Màn hình,Dell S2425H,màn hình văn phòng 100Hz,mot_phan,Dell S2425H 23.8 inch (mã S2425H),3.359.000-3.399.000,,,11,3,132
+29,29_lg-27u631a,Màn hình,LG / ViewSonic 27 inch 2K (xác định mẫu),màn hình 2K cho làm việc,mot_phan,"LG 27U631A-B (27 inch QHD IPS 100Hz, USB-C)",4.090.000-4.390.000,,,11,6,132
+30,30_logitech-c922,"Webcam, mic",Logitech C920 / C922,webcam họp trực tuyến,mot_phan,Logitech C922 Pro Stream Webcam,2.099.000-2.099.000,,,9,5,108
+31,31_hollyland-lark-m2,"Webcam, mic",Mic không dây (Hollyland / Rode Wireless GO),mic quay video,mot_phan,"Hollyland Lark M2 Combo (hai bộ phát, ba đầu thu camera/USB-C/Lightning, hộp sạc)",2.760.000-2.790.000,,,11,5,132
+32,32_samsung-t7,Lưu trữ,Samsung T7 / T7 Shield,SSD di động nhanh,mot_phan,Samsung Portable SSD T7 Shield 1TB (MU-PE1T0S),2.750.000-3.499.000,,,11,5,132
+33,33_sandisk-extreme,Lưu trữ,SanDisk Extreme / thẻ nhớ microSD,"thẻ nhớ cho điện thoại, camera",mot_phan,SanDisk Extreme microSDXC UHS-I 128GB (SDSQXAA-128G-GN6MN),950.000-1.190.000,,,9,4,108
+34,34_tp-link-archer-ax23,Mạng,TP-Link Archer AX23 / AX55,router Wi-Fi 6 giá rẻ,mot_phan,TP-Link Archer AX23 (AX1800 Wi-Fi 6 băng tần kép),850.000-1.290.000,,,10,4,120
+35,35_mercusys-mr80x,Mạng,Mercusys MR80X / TP-Link Deco X20,mesh cho nhà ống,xac_minh,Mercusys MR80X AX3000 Wi-Fi 6 băng tần kép,990.000-1.230.000,,,10,5,120
+36,36_ezviz-c6n,Camera an ninh,EZVIZ C6N / Imou Ranger 2,camera trong nhà quay quét,mot_phan,EZVIZ C6N G1 5MP (camera trong nhà xoay quét),680.000-680.000,,,10,4,120
+37,37_ezviz-h8c,Camera an ninh,Camera ngoài trời Imou / EZVIZ (xác định mẫu),camera ngoài trời chống nước,xac_minh,"EZVIZ H8c 4MP, camera Wi-Fi xoay ngoài trời (CS-H8c)",1.040.000-1.265.000,,,11,3,132
+38,38_jisulife-fa43,"Đèn, quạt",Quạt cầm tay Jisulife / Xiaomi,quạt mini mang theo,xac_minh,"Jisulife FA43 4000mAh (Life5 Plus), quạt cầm tay",329.000-420.000,,,10,3,120
+39,39_den-ban-xiaomi,"Đèn, quạt",Đèn bàn Xiaomi / Baseus (xác định mẫu),đèn bảo vệ mắt,mot_phan,"Xiaomi LED Desk Lamp 2 (đèn bàn thông minh, ra mắt 2025)",1.200.000-1.590.000,,,10,2,120
+40,40_xiaomi-redmi-pad-2,Máy tính bảng,Xiaomi Redmi Pad 2,máy tính bảng giá mềm,xac_minh,"Xiaomi Redmi Pad 2 WiFi 11 inch, 4GB/128GB",5.890.000-6.490.000,,,11,4,132

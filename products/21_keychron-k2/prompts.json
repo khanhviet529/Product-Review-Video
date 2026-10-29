@@ -1,0 +1,212 @@
+{
+  "product_id": "21",
+  "slug": "21_keychron-k2",
+  "model": "Keychron K2 Pro QMK/VIA Wireless Mechanical Keyboard (mã SKU ThinkPro KCK2Pro01CF)",
+  "presenter": "M",
+  "takeaway": "Cần bàn phím cơ không dây gọn, đổi được switch và gán lại phím thì Keychron K2 Pro hợp; chơi game thi đấu hoặc cần mang đi hằng ngày thì nên cân nhắc loại khác.",
+  "target_seconds": 80,
+  "clips": [
+    {
+      "n": 1,
+      "code": "P21C01",
+      "role": "hook",
+      "narration_vi": "Cần bàn phím cơ không dây gọn, đổi switch được thì Keychron K2 Pro hợp. Chơi game thi đấu thì cân nhắc.",
+      "facts_used": [
+        "s5",
+        "s8"
+      ],
+      "camera": "push in",
+      "camera_reason": "tiến vào người nói để mở đầu bằng câu trả lời ngắn",
+      "first_frame": "seated at the desk facing the camera, the Keychron K2 Pro QMK/VIA Wireless Mechanical Keyboard resting on the desk beside him, relaxed upright posture",
+      "motion": "slow push in toward his face as he starts speaking, he glances at the product then back to the lens",
+      "last_frame": "tighter on his face and shoulders, product still visible at the lower edge of the frame",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P21C01. Vertical 9:16, 8 seconds, photorealistic, medium close-up. First frame: seated at the desk facing the camera, the Keychron K2 Pro QMK/VIA Wireless Mechanical Keyboard resting on the desk beside him, relaxed upright posture. Motion: slow push in toward his face as he starts speaking, he glances at the product then back to the lens. Last frame: tighter on his face and shoulders, product still visible at the lower edge of the frame. The presenter from the character reference sits at a light oak desk, soft window light. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Cần bàn phím cơ không dây gọn, đổi switch được thì Keychron K2 Pro hợp. Chơi game thi đấu thì cân nhắc.\" He is the Keychron K2 Pro QMK/VIA Wireless Mechanical Keyboard on the desk within reach; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P21C01. Vertical 9:16, 8 seconds, photorealistic, medium shot. First frame: She sits centered facing the camera, the keyboard (the exact product shown in the reference image) on the desk. Motion: slow push in toward her face as she speaks. Last frame: tight on her face. a Vietnamese woman in her late 20s with shoulder-length straight black hair and light side-swept bangs, warm light-brown skin, small gold stud earrings, natural makeup, wearing a plain white crew-neck t-shirt under a light beige overshirt, friendly confident expression, seated in a bright modern minimalist desk studio, light oak desk, soft natural window light from the left, plain warm-white wall, shallow depth of field. She says in Vietnamese, in a natural friendly tone: \"Cần bàn phím cơ không dây gọn, đổi switch được thì Keychron K2 Pro hợp. Chơi game thi đấu thì cân nhắc.\" No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+    },
+    {
+      "n": 2,
+      "code": "P21C02",
+      "role": "feature",
+      "narration_vi": "Layout bảy mươi lăm phần trăm, tám mươi bốn phím. Vẫn giữ phím mũi tên và hàng chức năng, bàn gọn hơn.",
+      "facts_used": [
+        "s1"
+      ],
+      "camera": "push in",
+      "camera_reason": "tiến vào đúng chi tiết sản phẩm đang nói đến",
+      "first_frame": "seated at the desk, one hand lifting the Keychron K2 Pro QMK/VIA Wireless Mechanical Keyboard toward the camera at chest height",
+      "motion": "slow push in on the product in his open palm while he keeps eye contact with the lens",
+      "last_frame": "product held close to the lens in sharp focus, his face softly blurred behind it",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P21C02. Vertical 9:16, 8 seconds, photorealistic, medium close-up. First frame: seated at the desk, one hand lifting the Keychron K2 Pro QMK/VIA Wireless Mechanical Keyboard toward the camera at chest height. Motion: slow push in on the product in his open palm while he keeps eye contact with the lens. Last frame: product held close to the lens in sharp focus, his face softly blurred behind it. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Layout bảy mươi lăm phần trăm, tám mươi bốn phím. Vẫn giữ phím mũi tên và hàng chức năng, bàn gọn hơn.\" He is holding the Keychron K2 Pro QMK/VIA Wireless Mechanical Keyboard in his open palm; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P21C02. Vertical 9:16, 8 seconds, photorealistic, top-down product shot, 50mm lens. First frame: The whole keyboard centered on the oak desk seen from above. Motion: Slow dolly in toward the arrow-key cluster at the lower right, no hands in frame. Last frame: Close view of the arrow keys and right edge. The product is the exact product shown in the reference image: a 75 percent compact wireless mechanical keyboard with a black frame, dark grey and slate blue-grey keycaps, and red Esc and Enter keys. Voice-over by the presenter, off-screen, speaking Vietnamese in a natural friendly tone: \"Layout bảy mươi lăm phần trăm, tám mươi bốn phím. Vẫn giữ phím mũi tên và hàng chức năng, bàn gọn hơn.\" No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+    },
+    {
+      "n": 3,
+      "code": "P21C03",
+      "role": "feature",
+      "narration_vi": "Bluetooth năm chấm một, ghép tối đa ba thiết bị. Khi cần ổn định hơn thì cắm dây USB-C.",
+      "facts_used": [
+        "s2"
+      ],
+      "camera": "rack focus",
+      "camera_reason": "chuyển nét từ sản phẩm sang người nói để nối chi tiết với đánh giá",
+      "first_frame": "face and shoulders, one hand bringing the Keychron K2 Pro QMK/VIA Wireless Mechanical Keyboard up next to his cheek",
+      "motion": "rack focus from the product beside his cheek to his eyes, he turns slightly toward the lens",
+      "last_frame": "sharp on his face, product soft beside his cheek",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P21C03. Vertical 9:16, 8 seconds, photorealistic, close-up. First frame: face and shoulders, one hand bringing the Keychron K2 Pro QMK/VIA Wireless Mechanical Keyboard up next to his cheek. Motion: rack focus from the product beside his cheek to his eyes, he turns slightly toward the lens. Last frame: sharp on his face, product soft beside his cheek. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Bluetooth năm chấm một, ghép tối đa ba thiết bị. Khi cần ổn định hơn thì cắm dây USB-C.\" He is showing the Keychron K2 Pro QMK/VIA Wireless Mechanical Keyboard beside his face; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P21C03. Vertical 9:16, 8 seconds, photorealistic, medium product shot at 30 degrees, 50mm lens. First frame: The keyboard at a three-quarter angle on the desk, a smartphone and a small tablet resting beside it. Motion: Slow orbit around the keyboard to its top edge while a hand plugs a USB-C cable into it. Last frame: The keyboard from the back-left angle with the cable plugged in. The product is the exact product shown in the reference image: a 75 percent compact wireless mechanical keyboard with a black frame, dark grey and slate blue-grey keycaps, and red Esc and Enter keys. Voice-over by the presenter, off-screen, speaking Vietnamese in a natural friendly tone: \"Bluetooth năm chấm một, ghép tối đa ba thiết bị. Khi cần ổn định hơn thì cắm dây USB-C.\" No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+    },
+    {
+      "n": 4,
+      "code": "P21C04",
+      "role": "feature",
+      "narration_vi": "Mạch hot-swap nhận switch ba chân và năm chân, thay không cần hàn. Hợp người thích tự chỉnh cảm giác gõ.",
+      "facts_used": [
+        "s5"
+      ],
+      "camera": "dolly in",
+      "camera_reason": "lại gần dần để tạo cảm giác trò chuyện trực tiếp",
+      "first_frame": "seated at the desk, both hands holding the Keychron K2 Pro QMK/VIA Wireless Mechanical Keyboard at table height, looking down at it",
+      "motion": "he looks up at the camera mid-sentence while the camera does a slow dolly in",
+      "last_frame": "closer on his face with both hands and the product still in frame",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P21C04. Vertical 9:16, 8 seconds, photorealistic, medium shot. First frame: seated at the desk, both hands holding the Keychron K2 Pro QMK/VIA Wireless Mechanical Keyboard at table height, looking down at it. Motion: he looks up at the camera mid-sentence while the camera does a slow dolly in. Last frame: closer on his face with both hands and the product still in frame. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Mạch hot-swap nhận switch ba chân và năm chân, thay không cần hàn. Hợp người thích tự chỉnh cảm giác gõ.\" He is turning the Keychron K2 Pro QMK/VIA Wireless Mechanical Keyboard in both hands; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P21C04. Vertical 9:16, 8 seconds, photorealistic, macro close-up, 100mm lens. First frame: Sharp focus on a few keycaps, a single red switch lying out of focus on the desk beside them. Motion: Rack focus from the keycaps to the red switch; a hand slides a keycap puller into frame. Last frame: Sharp focus on the red switch, keycaps soft. The product is the exact product shown in the reference image: a 75 percent compact wireless mechanical keyboard with a black frame, dark grey and slate blue-grey keycaps, and red Esc and Enter keys. Voice-over by the presenter, off-screen, speaking Vietnamese in a natural friendly tone: \"Mạch hot-swap nhận switch ba chân và năm chân, thay không cần hàn. Hợp người thích tự chỉnh cảm giác gõ.\" No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+    },
+    {
+      "n": 5,
+      "code": "P21C05",
+      "role": "feature",
+      "narration_vi": "Phím nào cũng gán lại được bằng phần mềm QMK và VIA, chạy cả Windows, macOS lẫn Linux.",
+      "facts_used": [
+        "s6"
+      ],
+      "camera": "pan",
+      "camera_reason": "lia từ thiết bị sang người nói để cho thấy cách dùng thực tế",
+      "first_frame": "standing near the window, the Keychron K2 Pro QMK/VIA Wireless Mechanical Keyboard in one hand and a smartphone in the other",
+      "motion": "slow pan from the phone in his hand across to his face as he speaks",
+      "last_frame": "centred on his face, phone and product low in the frame",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P21C05. Vertical 9:16, 8 seconds, photorealistic, medium shot. First frame: standing near the window, the Keychron K2 Pro QMK/VIA Wireless Mechanical Keyboard in one hand and a smartphone in the other. Motion: slow pan from the phone in his hand across to his face as he speaks. Last frame: centred on his face, phone and product low in the frame. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Phím nào cũng gán lại được bằng phần mềm QMK và VIA, chạy cả Windows, macOS lẫn Linux.\" He is holding the Keychron K2 Pro QMK/VIA Wireless Mechanical Keyboard and a phone; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P21C05. Vertical 9:16, 8 seconds, photorealistic, close-up at a low angle, 50mm lens. First frame: The keyboard at a low angle, a laptop beside it with a softly lit blurred screen. Motion: Slow dolly in as one finger presses a key. Last frame: Close on the pressed key and the fingertip. The product is the exact product shown in the reference image: a 75 percent compact wireless mechanical keyboard with a black frame, dark grey and slate blue-grey keycaps, and red Esc and Enter keys. Voice-over by the presenter, off-screen, speaking Vietnamese in a natural friendly tone: \"Phím nào cũng gán lại được bằng phần mềm QMK và VIA, chạy cả Windows, macOS lẫn Linux.\" No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+    },
+    {
+      "n": 6,
+      "code": "P21C06",
+      "role": "feature",
+      "narration_vi": "Pin bốn nghìn mi-li-am-pe giờ, tắt đèn dùng được đến ba trăm giờ. Bật đèn thì ngắn hơn nhiều.",
+      "facts_used": [
+        "s3",
+        "s4"
+      ],
+      "camera": "pull back",
+      "camera_reason": "mở rộng khung hình để thấy quy mô sản phẩm so với người",
+      "first_frame": "seated at the desk, the Keychron K2 Pro QMK/VIA Wireless Mechanical Keyboard held out toward the camera at arm's length",
+      "motion": "he draws the product back toward himself as the camera pulls back to reveal the desk",
+      "last_frame": "wider shot of him at the desk, product held at chest height",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P21C06. Vertical 9:16, 8 seconds, photorealistic, medium close-up. First frame: seated at the desk, the Keychron K2 Pro QMK/VIA Wireless Mechanical Keyboard held out toward the camera at arm's length. Motion: he draws the product back toward himself as the camera pulls back to reveal the desk. Last frame: wider shot of him at the desk, product held at chest height. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Pin bốn nghìn mi-li-am-pe giờ, tắt đèn dùng được đến ba trăm giờ. Bật đèn thì ngắn hơn nhiều.\" He is pulling the Keychron K2 Pro QMK/VIA Wireless Mechanical Keyboard back from the lens; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P21C06. Vertical 9:16, 8 seconds, photorealistic, side-angle product shot, 50mm lens. First frame: The top edge of the keyboard at left of frame, a USB-C cable lying nearby. Motion: Slow pan left to right along the top edge to the USB-C port; backlight glows softly. Last frame: The USB-C port area centered in frame. The product is the exact product shown in the reference image: a 75 percent compact wireless mechanical keyboard with a black frame, dark grey and slate blue-grey keycaps, and red Esc and Enter keys. Voice-over by the presenter, off-screen, speaking Vietnamese in a natural friendly tone: \"Pin bốn nghìn mi-li-am-pe giờ, tắt đèn dùng được đến ba trăm giờ. Bật đèn thì ngắn hơn nhiều.\" No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+    },
+    {
+      "n": 7,
+      "code": "P21C07",
+      "role": "caveat",
+      "narration_vi": "Đổi lại, bàn nặng khoảng một ki-lô-gam nên mang đi hằng ngày hơi cồng kềnh.",
+      "facts_used": [
+        "s7"
+      ],
+      "camera": "dolly in",
+      "camera_reason": "tiến gần để nhấn vào điểm cần cân nhắc một cách thẳng thắn",
+      "first_frame": "seated at the desk, thoughtful expression, the Keychron K2 Pro QMK/VIA Wireless Mechanical Keyboard held loosely in one hand",
+      "motion": "slow dolly in as he tilts his head slightly and raises his eyebrows while speaking",
+      "last_frame": "closer on his face, product lowered out of focus",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P21C07. Vertical 9:16, 8 seconds, photorealistic, medium close-up. First frame: seated at the desk, thoughtful expression, the Keychron K2 Pro QMK/VIA Wireless Mechanical Keyboard held loosely in one hand. Motion: slow dolly in as he tilts his head slightly and raises his eyebrows while speaking. Last frame: closer on his face, product lowered out of focus. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Đổi lại, bàn nặng khoảng một ki-lô-gam nên mang đi hằng ngày hơi cồng kềnh.\" He is holding the Keychron K2 Pro QMK/VIA Wireless Mechanical Keyboard loosely; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P21C07. Vertical 9:16, 8 seconds, photorealistic, medium wide shot, 35mm lens. First frame: Close view of the keyboard filling the frame. Motion: Slow pull back to reveal a small backpack next to the keyboard on the desk. Last frame: Wide view of the keyboard beside the backpack. The product is the exact product shown in the reference image: a 75 percent compact wireless mechanical keyboard with a black frame, dark grey and slate blue-grey keycaps, and red Esc and Enter keys. Voice-over by the presenter, off-screen, speaking Vietnamese in a natural friendly tone: \"Đổi lại, bàn nặng khoảng một ki-lô-gam nên mang đi hằng ngày hơi cồng kềnh.\" No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+    },
+    {
+      "n": 8,
+      "code": "P21C08",
+      "role": "caveat",
+      "narration_vi": "RTINGS thấy độ trễ không dây đủ cho game thường, quá cao cho game thi đấu. Hộp cũng không kèm kê tay.",
+      "facts_used": [
+        "s8",
+        "s9"
+      ],
+      "camera": "pull back",
+      "camera_reason": "lùi ra để đặt điểm yếu trong bức tranh chung",
+      "first_frame": "seated at the desk, the Keychron K2 Pro QMK/VIA Wireless Mechanical Keyboard set down in front of him, hands open",
+      "motion": "slow pull back as he gestures with one open hand",
+      "last_frame": "wide on him and the desk, product small at the centre of the table",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P21C08. Vertical 9:16, 8 seconds, photorealistic, medium shot. First frame: seated at the desk, the Keychron K2 Pro QMK/VIA Wireless Mechanical Keyboard set down in front of him, hands open. Motion: slow pull back as he gestures with one open hand. Last frame: wide on him and the desk, product small at the centre of the table. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"RTINGS thấy độ trễ không dây đủ cho game thường, quá cao cho game thi đấu. Hộp cũng không kèm kê tay.\" He is with the Keychron K2 Pro QMK/VIA Wireless Mechanical Keyboard on the desk in front of him; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P21C08. Vertical 9:16, 8 seconds, photorealistic, close-up, 50mm lens. First frame: Two hands rest above the keyboard, the front edge of the keyboard just visible. Motion: Tilt down from the hands to the empty strip of desk in front of the keyboard. Last frame: The empty desk edge in front of the keyboard. The product is the exact product shown in the reference image: a 75 percent compact wireless mechanical keyboard with a black frame, dark grey and slate blue-grey keycaps, and red Esc and Enter keys. Voice-over by the presenter, off-screen, speaking Vietnamese in a natural friendly tone: \"RTINGS thấy độ trễ không dây đủ cho game thường, quá cao cho game thi đấu. Hộp cũng không kèm kê tay.\" No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+    },
+    {
+      "n": 9,
+      "code": "P21C09",
+      "role": "fit",
+      "narration_vi": "Hợp dân văn phòng, thích tự chỉnh phím. Giá khoảng hai triệu bốn trăm chín mươi nghìn đồng.",
+      "facts_used": [
+        "s10"
+      ],
+      "camera": "dolly in",
+      "camera_reason": "lại gần như nói chuyện với đúng người cần sản phẩm này",
+      "first_frame": "leaning slightly forward at the desk, the Keychron K2 Pro QMK/VIA Wireless Mechanical Keyboard beside him, open friendly posture",
+      "motion": "slow dolly in as he gestures with an open hand toward the camera",
+      "last_frame": "close on his smiling face, product visible at the edge",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P21C09. Vertical 9:16, 8 seconds, photorealistic, medium close-up. First frame: leaning slightly forward at the desk, the Keychron K2 Pro QMK/VIA Wireless Mechanical Keyboard beside him, open friendly posture. Motion: slow dolly in as he gestures with an open hand toward the camera. Last frame: close on his smiling face, product visible at the edge. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Hợp dân văn phòng, thích tự chỉnh phím. Giá khoảng hai triệu bốn trăm chín mươi nghìn đồng.\" He is with the Keychron K2 Pro QMK/VIA Wireless Mechanical Keyboard beside him; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P21C09. Vertical 9:16, 8 seconds, photorealistic, medium shot. First frame: the keyboard (the exact product shown in the reference image) sharp in the foreground, her face soft behind. Motion: rack focus from the keyboard to her face as she speaks. Last frame: her face sharp. a Vietnamese woman in her late 20s with shoulder-length straight black hair and light side-swept bangs, warm light-brown skin, small gold stud earrings, natural makeup, wearing a plain white crew-neck t-shirt under a light beige overshirt, friendly confident expression, seated in a bright modern minimalist desk studio, light oak desk, soft natural window light from the left, plain warm-white wall, shallow depth of field. She says in Vietnamese, in a natural friendly tone: \"Hợp dân văn phòng, thích tự chỉnh phím. Giá khoảng hai triệu bốn trăm chín mươi nghìn đồng.\" No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+    },
+    {
+      "n": 10,
+      "code": "P21C10",
+      "role": "outro",
+      "narration_vi": "Cần không dây gọn, tùy biến sâu thì chọn K2 Pro. Lưu lại trước khi mua. Bạn đang dùng loại nào?",
+      "facts_used": [],
+      "camera": "pull back",
+      "camera_reason": "lùi ra khép lại video một cách thân thiện",
+      "first_frame": "seated at the desk, the Keychron K2 Pro QMK/VIA Wireless Mechanical Keyboard on the table, bright smile toward the camera",
+      "motion": "slow pull back while he gives a small friendly wave at the end",
+      "last_frame": "wide on him and the desk with the product, warm and relaxed",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P21C10. Vertical 9:16, 8 seconds, photorealistic, medium shot. First frame: seated at the desk, the Keychron K2 Pro QMK/VIA Wireless Mechanical Keyboard on the table, bright smile toward the camera. Motion: slow pull back while he gives a small friendly wave at the end. Last frame: wide on him and the desk with the product, warm and relaxed. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Cần không dây gọn, tùy biến sâu thì chọn K2 Pro. Lưu lại trước khi mua. Bạn đang dùng loại nào?\" He is with the Keychron K2 Pro QMK/VIA Wireless Mechanical Keyboard on the desk; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P21C10. Vertical 9:16, 8 seconds, photorealistic, medium shot. First frame: tight on her face, the keyboard (the exact product shown in the reference image) just visible below. Motion: slow pull back to a wide medium shot. Last frame: wide medium shot of her behind the desk and the keyboard. a Vietnamese woman in her late 20s with shoulder-length straight black hair and light side-swept bangs, warm light-brown skin, small gold stud earrings, natural makeup, wearing a plain white crew-neck t-shirt under a light beige overshirt, friendly confident expression, seated in a bright modern minimalist desk studio, light oak desk, soft natural window light from the left, plain warm-white wall, shallow depth of field. She says in Vietnamese, in a natural friendly tone: \"Cần không dây gọn, tùy biến sâu thì chọn K2 Pro. Lưu lại trước khi mua. Bạn đang dùng loại nào?\" No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+    }
+  ],
+  "onscreen_presenter": true
+}

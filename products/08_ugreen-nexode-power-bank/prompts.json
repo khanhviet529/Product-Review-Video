@@ -1,0 +1,236 @@
+{
+  "product_id": "08",
+  "slug": "08_ugreen-nexode-power-bank",
+  "model": "Ugreen Nexode Power Bank 20000mAh 130W PB721 (2 USB-C + 1 USB-A, màn hình số)",
+  "presenter": "M",
+  "takeaway": "Cần một viên pin vừa sạc laptop qua USB-C vừa sạc điện thoại cùng lúc thì Ugreen Nexode PB721 đáng cân nhắc; cần pin nhẹ gọn hoặc muốn chắc về độ bền thì nên so thêm loại khác và giữ hóa đơn bảo hành.",
+  "target_seconds": 88,
+  "clips": [
+    {
+      "n": 1,
+      "code": "P08C01",
+      "role": "hook",
+      "narration_vi": "Cần sạc laptop và điện thoại cùng lúc? Ugreen Nexode này hợp. Cần nhẹ thì xem loại khác.",
+      "facts_used": [
+        "s3",
+        "s7"
+      ],
+      "camera": "push in",
+      "camera_reason": "tiến vào người nói để mở đầu bằng câu trả lời ngắn",
+      "first_frame": "seated at the desk facing the camera, the Ugreen Nexode Power Bank 20000mAh 130W PB721 resting on the desk beside him, relaxed upright posture",
+      "motion": "slow push in toward his face as he starts speaking, he glances at the product then back to the lens",
+      "last_frame": "tighter on his face and shoulders, product still visible at the lower edge of the frame",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P08C01. Vertical 9:16, 8 seconds, photorealistic, medium close-up. First frame: seated at the desk facing the camera, the Ugreen Nexode Power Bank 20000mAh 130W PB721 resting on the desk beside him, relaxed upright posture. Motion: slow push in toward his face as he starts speaking, he glances at the product then back to the lens. Last frame: tighter on his face and shoulders, product still visible at the lower edge of the frame. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Cần sạc laptop và điện thoại cùng lúc? Ugreen Nexode này hợp. Cần nhẹ thì xem loại khác.\" He is the Ugreen Nexode Power Bank 20000mAh 130W PB721 on the desk within reach; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P08C01. Vertical 9:16, 8 seconds, photorealistic, medium close-up, 50mm lens. First frame: the presenter sits centered, the blue-gray power bank upright beside him, eyes on camera. Motion: slow push in on the presenter as he speaks with a small nod. Last frame: tighter framing, slight smile, power bank in frame. a handsome young Vietnamese man in his mid-20s, textured black quiff hairstyle, clear skin, sharp jawline, bright confident smile, athletic build, olive bomber jacket over a white t-shirt, upbeat energetic expression, in a bright modern minimalist desk studio, light oak desk, soft natural window light from the left, plain warm-white wall, shallow depth of field. He says in Vietnamese, in a natural friendly tone: \"Cần sạc laptop và điện thoại cùng lúc? Ugreen Nexode này hợp. Cần nhẹ thì xem loại khác.\" Exact product shown in the reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+    },
+    {
+      "n": 2,
+      "code": "P08C02",
+      "role": "feature",
+      "narration_vi": "Cổng USB-C thứ nhất ra tối đa một trăm oát, đủ cho nhiều laptop sạc qua USB-C.",
+      "facts_used": [
+        "s3"
+      ],
+      "camera": "push in",
+      "camera_reason": "tiến vào đúng chi tiết sản phẩm đang nói đến",
+      "first_frame": "seated at the desk, one hand lifting the Ugreen Nexode Power Bank 20000mAh 130W PB721 toward the camera at chest height",
+      "motion": "slow push in on the product in his open palm while he keeps eye contact with the lens",
+      "last_frame": "product held close to the lens in sharp focus, his face softly blurred behind it",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P08C02. Vertical 9:16, 8 seconds, photorealistic, medium close-up. First frame: seated at the desk, one hand lifting the Ugreen Nexode Power Bank 20000mAh 130W PB721 toward the camera at chest height. Motion: slow push in on the product in his open palm while he keeps eye contact with the lens. Last frame: product held close to the lens in sharp focus, his face softly blurred behind it. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Cổng USB-C thứ nhất ra tối đa một trăm oát, đủ cho nhiều laptop sạc qua USB-C.\" He is holding the Ugreen Nexode Power Bank 20000mAh 130W PB721 in his open palm; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P08C02. Vertical 9:16, 8 seconds, photorealistic, macro close-up. First frame: a thin laptop on the oak desk with a USB-C cable running to the top end of the power bank, sharp on the ports. Motion: slow dolly in along the cable from the laptop to the first USB-C port. Last frame: USB-C port and plug in sharp focus. Product: exact product shown in the reference image, a tall slim power bank in matte blue-gray metal with a large glossy black color display on the upper front and UGREEN printed near the bottom. Light oak desk, soft natural window light from the left. Voice-over by the presenter, off-screen, in Vietnamese, in a natural friendly tone: \"Cổng USB-C thứ nhất ra tối đa một trăm oát, đủ cho nhiều laptop sạc qua USB-C.\" No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+    },
+    {
+      "n": 3,
+      "code": "P08C03",
+      "role": "feature",
+      "narration_vi": "Cổng USB-C thứ hai ra ba mươi oát, cổng USB-A ra hai mươi hai phẩy năm oát. Đủ cho điện thoại.",
+      "facts_used": [
+        "s3"
+      ],
+      "camera": "rack focus",
+      "camera_reason": "chuyển nét từ sản phẩm sang người nói để nối chi tiết với đánh giá",
+      "first_frame": "face and shoulders, one hand bringing the Ugreen Nexode Power Bank 20000mAh 130W PB721 up next to his cheek",
+      "motion": "rack focus from the product beside his cheek to his eyes, he turns slightly toward the lens",
+      "last_frame": "sharp on his face, product soft beside his cheek",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P08C03. Vertical 9:16, 8 seconds, photorealistic, close-up. First frame: face and shoulders, one hand bringing the Ugreen Nexode Power Bank 20000mAh 130W PB721 up next to his cheek. Motion: rack focus from the product beside his cheek to his eyes, he turns slightly toward the lens. Last frame: sharp on his face, product soft beside his cheek. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Cổng USB-C thứ hai ra ba mươi oát, cổng USB-A ra hai mươi hai phẩy năm oát. Đủ cho điện thoại.\" He is showing the Ugreen Nexode Power Bank 20000mAh 130W PB721 beside his face; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P08C03. Vertical 9:16, 8 seconds, photorealistic, macro close-up. First frame: the top end of the power bank showing one USB-A and two USB-C ports, sharp on the second USB-C port. Motion: rack focus from the second USB-C port to the USB-A port; soft light unchanged. Last frame: USB-A port in sharp focus, USB-C ports soft. Product: exact product shown in the reference image, a tall slim power bank in matte blue-gray metal with a large glossy black color display on the upper front and UGREEN printed near the bottom. Light oak desk, soft natural window light from the left. Voice-over by the presenter, off-screen, in Vietnamese, in a natural friendly tone: \"Cổng USB-C thứ hai ra ba mươi oát, cổng USB-A ra hai mươi hai phẩy năm oát. Đủ cho điện thoại.\" No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+    },
+    {
+      "n": 4,
+      "code": "P08C04",
+      "role": "feature",
+      "narration_vi": "Hai mươi nghìn mi-li-am-pe giờ, bảy mươi hai oát giờ. Dung lượng định mức ghi là mười một nghìn mi-li-am-pe giờ.",
+      "facts_used": [
+        "s1",
+        "s2"
+      ],
+      "camera": "dolly in",
+      "camera_reason": "lại gần dần để tạo cảm giác trò chuyện trực tiếp",
+      "first_frame": "seated at the desk, both hands holding the Ugreen Nexode Power Bank 20000mAh 130W PB721 at table height, looking down at it",
+      "motion": "he looks up at the camera mid-sentence while the camera does a slow dolly in",
+      "last_frame": "closer on his face with both hands and the product still in frame",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P08C04. Vertical 9:16, 8 seconds, photorealistic, medium shot. First frame: seated at the desk, both hands holding the Ugreen Nexode Power Bank 20000mAh 130W PB721 at table height, looking down at it. Motion: he looks up at the camera mid-sentence while the camera does a slow dolly in. Last frame: closer on his face with both hands and the product still in frame. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Hai mươi nghìn mi-li-am-pe giờ, bảy mươi hai oát giờ. Dung lượng định mức ghi là mười một nghìn mi-li-am-pe giờ.\" He is turning the Ugreen Nexode Power Bank 20000mAh 130W PB721 in both hands; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P08C04. Vertical 9:16, 8 seconds, photorealistic, medium close-up, 50mm lens. First frame: the power bank standing on the desk, its large display dark. Motion: slow push in as the display lights up and the ring fills. Last frame: display lit, filling most of the frame. Product: exact product shown in the reference image, a tall slim power bank in matte blue-gray metal with a large glossy black color display on the upper front and UGREEN printed near the bottom. Light oak desk, soft natural window light from the left. Voice-over by the presenter, off-screen, in Vietnamese, in a natural friendly tone: \"Hai mươi nghìn mi-li-am-pe giờ, bảy mươi hai oát giờ. Dung lượng định mức ghi là mười một nghìn mi-li-am-pe giờ.\" No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+    },
+    {
+      "n": 5,
+      "code": "P08C05",
+      "role": "feature",
+      "narration_vi": "Nạp lại qua cổng USB-C thứ nhất tối đa sáu mươi lăm oát, mất khoảng ba đến bốn tiếng.",
+      "facts_used": [
+        "s4",
+        "s5"
+      ],
+      "camera": "pan",
+      "camera_reason": "lia từ thiết bị sang người nói để cho thấy cách dùng thực tế",
+      "first_frame": "standing near the window, the Ugreen Nexode Power Bank 20000mAh 130W PB721 in one hand and a smartphone in the other",
+      "motion": "slow pan from the phone in his hand across to his face as he speaks",
+      "last_frame": "centred on his face, phone and product low in the frame",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P08C05. Vertical 9:16, 8 seconds, photorealistic, medium shot. First frame: standing near the window, the Ugreen Nexode Power Bank 20000mAh 130W PB721 in one hand and a smartphone in the other. Motion: slow pan from the phone in his hand across to his face as he speaks. Last frame: centred on his face, phone and product low in the frame. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Nạp lại qua cổng USB-C thứ nhất tối đa sáu mươi lăm oát, mất khoảng ba đến bốn tiếng.\" He is holding the Ugreen Nexode Power Bank 20000mAh 130W PB721 and a phone; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P08C05. Vertical 9:16, 8 seconds, photorealistic, medium shot, 35mm lens. First frame: a white wall charger in a power strip, a USB-C cable running to the power bank. Motion: slow tilt down from the charger along the cable to the power bank; its display lights up. Last frame: power bank centered, display lit. Product: exact product shown in the reference image, a tall slim power bank in matte blue-gray metal with a large glossy black color display on the upper front and UGREEN printed near the bottom. Light oak desk, soft natural window light from the left. Voice-over by the presenter, off-screen, in Vietnamese, in a natural friendly tone: \"Nạp lại qua cổng USB-C thứ nhất tối đa sáu mươi lăm oát, mất khoảng ba đến bốn tiếng.\" No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+    },
+    {
+      "n": 6,
+      "code": "P08C06",
+      "role": "feature",
+      "narration_vi": "Màn hình màu lớn hiện phần trăm pin và công suất từng cổng. Nhìn là biết cổng nào đang sạc bao nhiêu.",
+      "facts_used": [
+        "s6"
+      ],
+      "camera": "pull back",
+      "camera_reason": "mở rộng khung hình để thấy quy mô sản phẩm so với người",
+      "first_frame": "seated at the desk, the Ugreen Nexode Power Bank 20000mAh 130W PB721 held out toward the camera at arm's length",
+      "motion": "he draws the product back toward himself as the camera pulls back to reveal the desk",
+      "last_frame": "wider shot of him at the desk, product held at chest height",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P08C06. Vertical 9:16, 8 seconds, photorealistic, medium close-up. First frame: seated at the desk, the Ugreen Nexode Power Bank 20000mAh 130W PB721 held out toward the camera at arm's length. Motion: he draws the product back toward himself as the camera pulls back to reveal the desk. Last frame: wider shot of him at the desk, product held at chest height. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Màn hình màu lớn hiện phần trăm pin và công suất từng cổng. Nhìn là biết cổng nào đang sạc bao nhiêu.\" He is pulling the Ugreen Nexode Power Bank 20000mAh 130W PB721 back from the lens; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P08C06. Vertical 9:16, 8 seconds, photorealistic, close-up, then medium shot. First frame: close-up of the power bank display held toward camera in one hand. Motion: slow pull back to reveal the presenter pointing at the display. Last frame: medium shot, presenter pointing at the display. a handsome young Vietnamese man in his mid-20s, textured black quiff hairstyle, clear skin, sharp jawline, bright confident smile, athletic build, olive bomber jacket over a white t-shirt, upbeat energetic expression, in a bright modern minimalist desk studio, light oak desk, soft natural window light from the left, plain warm-white wall, shallow depth of field. He says in Vietnamese, in a natural friendly tone: \"Màn hình màu lớn hiện phần trăm pin và công suất từng cổng. Nhìn là biết cổng nào đang sạc bao nhiêu.\" Exact product shown in the reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+    },
+    {
+      "n": 7,
+      "code": "P08C07",
+      "role": "caveat",
+      "narration_vi": "Một trăm ba mươi oát chỉ đạt khi cắm cả hai cổng USB-C cùng lúc, và phải chia cho hai thiết bị.",
+      "facts_used": [
+        "s3"
+      ],
+      "camera": "dolly in",
+      "camera_reason": "tiến gần để nhấn vào điểm cần cân nhắc một cách thẳng thắn",
+      "first_frame": "seated at the desk, thoughtful expression, the Ugreen Nexode Power Bank 20000mAh 130W PB721 held loosely in one hand",
+      "motion": "slow dolly in as he tilts his head slightly and raises his eyebrows while speaking",
+      "last_frame": "closer on his face, product lowered out of focus",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P08C07. Vertical 9:16, 8 seconds, photorealistic, medium close-up. First frame: seated at the desk, thoughtful expression, the Ugreen Nexode Power Bank 20000mAh 130W PB721 held loosely in one hand. Motion: slow dolly in as he tilts his head slightly and raises his eyebrows while speaking. Last frame: closer on his face, product lowered out of focus. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Một trăm ba mươi oát chỉ đạt khi cắm cả hai cổng USB-C cùng lúc, và phải chia cho hai thiết bị.\" He is holding the Ugreen Nexode Power Bank 20000mAh 130W PB721 loosely; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P08C07. Vertical 9:16, 8 seconds, photorealistic, medium shot, 35mm lens. First frame: the power bank with a laptop cable and a phone cable plugged into two ports. Motion: slow pull back to widen on both devices connected to the one power bank. Last frame: wide view, laptop and phone both connected. Product: exact product shown in the reference image, a tall slim power bank in matte blue-gray metal with a large glossy black color display on the upper front and UGREEN printed near the bottom. Light oak desk, soft natural window light from the left. Voice-over by the presenter, off-screen, in Vietnamese, in a natural friendly tone: \"Một trăm ba mươi oát chỉ đạt khi cắm cả hai cổng USB-C cùng lúc, và phải chia cho hai thiết bị.\" No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+    },
+    {
+      "n": 8,
+      "code": "P08C08",
+      "role": "caveat",
+      "narration_vi": "Đổi lại, nặng khoảng bốn trăm tám mươi gam, tức gần nửa ký. Mang đi mỗi ngày sẽ thấy rõ.",
+      "facts_used": [
+        "s7"
+      ],
+      "camera": "pull back",
+      "camera_reason": "lùi ra để đặt điểm yếu trong bức tranh chung",
+      "first_frame": "seated at the desk, the Ugreen Nexode Power Bank 20000mAh 130W PB721 set down in front of him, hands open",
+      "motion": "slow pull back as he gestures with one open hand",
+      "last_frame": "wide on him and the desk, product small at the centre of the table",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P08C08. Vertical 9:16, 8 seconds, photorealistic, medium shot. First frame: seated at the desk, the Ugreen Nexode Power Bank 20000mAh 130W PB721 set down in front of him, hands open. Motion: slow pull back as he gestures with one open hand. Last frame: wide on him and the desk, product small at the centre of the table. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Đổi lại, nặng khoảng bốn trăm tám mươi gam, tức gần nửa ký. Mang đi mỗi ngày sẽ thấy rõ.\" He is with the Ugreen Nexode Power Bank 20000mAh 130W PB721 on the desk in front of him; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P08C08. Vertical 9:16, 8 seconds, photorealistic, close-up, then medium shot. First frame: close-up of the power bank resting in one hand. Motion: slow pull back to reveal the presenter weighing it in his hand. Last frame: medium shot, power bank at chest height. a handsome young Vietnamese man in his mid-20s, textured black quiff hairstyle, clear skin, sharp jawline, bright confident smile, athletic build, olive bomber jacket over a white t-shirt, upbeat energetic expression, in a bright modern minimalist desk studio, light oak desk, soft natural window light from the left, plain warm-white wall, shallow depth of field. He says in Vietnamese, in a natural friendly tone: \"Đổi lại, nặng khoảng bốn trăm tám mươi gam, tức gần nửa ký. Mang đi mỗi ngày sẽ thấy rõ.\" Exact product shown in the reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+    },
+    {
+      "n": 9,
+      "code": "P08C09",
+      "role": "caveat",
+      "narration_vi": "Đa số đánh giá năm sao, nhưng vài người báo hỏng sau vài tháng. Hãng ghi bảo hành mười tám tháng.",
+      "facts_used": [
+        "s10",
+        "s11"
+      ],
+      "camera": "dolly in",
+      "camera_reason": "tiến gần để nhấn vào điểm cần cân nhắc một cách thẳng thắn",
+      "first_frame": "seated at the desk, thoughtful expression, the Ugreen Nexode Power Bank 20000mAh 130W PB721 held loosely in one hand",
+      "motion": "slow dolly in as he tilts his head slightly and raises his eyebrows while speaking",
+      "last_frame": "closer on his face, product lowered out of focus",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P08C09. Vertical 9:16, 8 seconds, photorealistic, medium close-up. First frame: seated at the desk, thoughtful expression, the Ugreen Nexode Power Bank 20000mAh 130W PB721 held loosely in one hand. Motion: slow dolly in as he tilts his head slightly and raises his eyebrows while speaking. Last frame: closer on his face, product lowered out of focus. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Đa số đánh giá năm sao, nhưng vài người báo hỏng sau vài tháng. Hãng ghi bảo hành mười tám tháng.\" He is holding the Ugreen Nexode Power Bank 20000mAh 130W PB721 loosely; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P08C09. Vertical 9:16, 8 seconds, photorealistic, medium shot, 50mm lens. First frame: the presenter sits at the desk, the power bank in front of him, calm serious expression. Motion: slow push in as the presenter glances at the power bank then at camera. Last frame: closer framing, calm expression. a handsome young Vietnamese man in his mid-20s, textured black quiff hairstyle, clear skin, sharp jawline, bright confident smile, athletic build, olive bomber jacket over a white t-shirt, upbeat energetic expression, in a bright modern minimalist desk studio, light oak desk, soft natural window light from the left, plain warm-white wall, shallow depth of field. He says in Vietnamese, in a natural friendly tone: \"Đa số đánh giá năm sao, nhưng vài người báo hỏng sau vài tháng. Hãng ghi bảo hành mười tám tháng.\" Exact product shown in the reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+    },
+    {
+      "n": 10,
+      "code": "P08C10",
+      "role": "fit",
+      "narration_vi": "Hợp người cần một pin sạc laptop mỏng và điện thoại khi đi công tác. Không hợp nếu cần pin nhẹ, nhỏ.",
+      "facts_used": [
+        "s3",
+        "s7"
+      ],
+      "camera": "dolly in",
+      "camera_reason": "lại gần như nói chuyện với đúng người cần sản phẩm này",
+      "first_frame": "leaning slightly forward at the desk, the Ugreen Nexode Power Bank 20000mAh 130W PB721 beside him, open friendly posture",
+      "motion": "slow dolly in as he gestures with an open hand toward the camera",
+      "last_frame": "close on his smiling face, product visible at the edge",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P08C10. Vertical 9:16, 8 seconds, photorealistic, medium close-up. First frame: leaning slightly forward at the desk, the Ugreen Nexode Power Bank 20000mAh 130W PB721 beside him, open friendly posture. Motion: slow dolly in as he gestures with an open hand toward the camera. Last frame: close on his smiling face, product visible at the edge. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Hợp người cần một pin sạc laptop mỏng và điện thoại khi đi công tác. Không hợp nếu cần pin nhẹ, nhỏ.\" He is with the Ugreen Nexode Power Bank 20000mAh 130W PB721 beside him; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P08C10. Vertical 9:16, 8 seconds, photorealistic, medium shot, 50mm lens. First frame: a thin laptop and a phone on the desk, the presenter sits behind them. Motion: slow pan left to right across the devices, ending on the presenter smiling. Last frame: presenter faces camera with a friendly smile. a handsome young Vietnamese man in his mid-20s, textured black quiff hairstyle, clear skin, sharp jawline, bright confident smile, athletic build, olive bomber jacket over a white t-shirt, upbeat energetic expression, in a bright modern minimalist desk studio, light oak desk, soft natural window light from the left, plain warm-white wall, shallow depth of field. He says in Vietnamese, in a natural friendly tone: \"Hợp người cần một pin sạc laptop mỏng và điện thoại khi đi công tác. Không hợp nếu cần pin nhẹ, nhỏ.\" Exact product shown in the reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+    },
+    {
+      "n": 11,
+      "code": "P08C11",
+      "role": "outro",
+      "narration_vi": "Giá khoảng một triệu hai trăm chín mươi đến một triệu sáu trăm chín mươi nghìn đồng. Lưu lại trước khi mua.",
+      "facts_used": [
+        "s9"
+      ],
+      "camera": "pull back",
+      "camera_reason": "lùi ra khép lại video một cách thân thiện",
+      "first_frame": "seated at the desk, the Ugreen Nexode Power Bank 20000mAh 130W PB721 on the table, bright smile toward the camera",
+      "motion": "slow pull back while he gives a small friendly wave at the end",
+      "last_frame": "wide on him and the desk with the product, warm and relaxed",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P08C11. Vertical 9:16, 8 seconds, photorealistic, medium shot. First frame: seated at the desk, the Ugreen Nexode Power Bank 20000mAh 130W PB721 on the table, bright smile toward the camera. Motion: slow pull back while he gives a small friendly wave at the end. Last frame: wide on him and the desk with the product, warm and relaxed. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Giá khoảng một triệu hai trăm chín mươi đến một triệu sáu trăm chín mươi nghìn đồng. Lưu lại trước khi mua.\" He is with the Ugreen Nexode Power Bank 20000mAh 130W PB721 on the desk; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P08C11. Vertical 9:16, 8 seconds, photorealistic, medium close-up, 50mm lens. First frame: the presenter sits centered with the power bank in front of him, friendly smile. Motion: slow push in as he speaks, ending with a small nod. Last frame: close framing, warm smile, power bank in frame. a handsome young Vietnamese man in his mid-20s, textured black quiff hairstyle, clear skin, sharp jawline, bright confident smile, athletic build, olive bomber jacket over a white t-shirt, upbeat energetic expression, in a bright modern minimalist desk studio, light oak desk, soft natural window light from the left, plain warm-white wall, shallow depth of field. He says in Vietnamese, in a natural friendly tone: \"Giá khoảng một triệu hai trăm chín mươi đến một triệu sáu trăm chín mươi nghìn đồng. Lưu lại trước khi mua.\" Exact product shown in the reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+    }
+  ],
+  "onscreen_presenter": true
+}

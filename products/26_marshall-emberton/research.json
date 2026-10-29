@@ -1,0 +1,229 @@
+{
+  "id": "26",
+  "slug": "26_marshall-emberton",
+  "status": "mot_phan",
+  "chosen_model": "Marshall Emberton III (Bluetooth speaker)",
+  "alternatives_rejected": [
+    {
+      "model": "Soundcore Boom",
+      "reason": "Không được nghiên cứu trong lượt này; chọn Emberton III vì là đời mới nhất của dòng Emberton, đang bán ở Việt Nam và có đủ số liệu. Soundcore Boom chưa xác minh."
+    },
+    {
+      "model": "Marshall Emberton II",
+      "reason": "Đời cũ, đã có Emberton III thay thế."
+    }
+  ],
+  "official_page": "https://www.marshall.com/vn/en/product/emberton-iii-black-and-brass",
+  "official_page_note": "URL này trả 404 khi mở; chưa có trang chính hãng đã xác minh",
+  "price_vnd": {
+    "low": 4400000,
+    "high": 4770000,
+    "as_of": "2026-10-22",
+    "sources": [
+      "src1",
+      "src2",
+      "src3"
+    ],
+    "confidence": "vua"
+  },
+  "specs": [
+    {
+      "id": "s1",
+      "key": "Pin",
+      "value_vi": "Hơn 32 giờ phát nhạc",
+      "condition": "tùy âm lượng; công bố của hãng, chưa đo",
+      "source": "src1",
+      "confidence": "cao"
+    },
+    {
+      "id": "s2",
+      "key": "Sạc",
+      "value_vi": "Đầy khoảng 2 giờ qua USB-C; sạc nhanh 20 phút cho khoảng 6 giờ nghe",
+      "condition": "công bố của hãng, BGR nhắc cùng con số",
+      "source": "src4",
+      "confidence": "vua"
+    },
+    {
+      "id": "s3",
+      "key": "Chống bụi nước",
+      "value_vi": "IP67",
+      "condition": "",
+      "source": "src1",
+      "confidence": "cao"
+    },
+    {
+      "id": "s4",
+      "key": "Bluetooth",
+      "value_vi": "Bluetooth 5.3",
+      "condition": "",
+      "source": "src1",
+      "confidence": "cao"
+    },
+    {
+      "id": "s5",
+      "key": "Khối lượng",
+      "value_vi": "0,67 kg",
+      "condition": "",
+      "source": "src2",
+      "confidence": "cao"
+    },
+    {
+      "id": "s6",
+      "key": "Kích thước",
+      "value_vi": "160 x 68 x 76,9 mm",
+      "condition": "",
+      "source": "src2",
+      "confidence": "vua"
+    },
+    {
+      "id": "s7",
+      "key": "Giá",
+      "value_vi": "4.400.000 đ (CellphoneS, flash sale) đến 4.770.000 đ (FPT Shop); Thế Giới Di Động 4.700.000 đ, niêm yết 5.390.000 đ",
+      "condition": "22/10/2026",
+      "source": "src1",
+      "confidence": "vua"
+    },
+    {
+      "id": "s8",
+      "key": "Ghép nhiều loa",
+      "value_vi": "Có Stack Mode; ứng dụng Marshall Bluetooth cho chỉnh EQ gồm bass và giọng",
+      "condition": "",
+      "source": "src1",
+      "confidence": "vua"
+    },
+    {
+      "id": "s9",
+      "key": "Âm thanh (đánh giá)",
+      "value_vi": "Loa có mặt trước và sau cho âm thanh nhiều hướng; âm hay hơn khi mở trên khoảng 70% âm lượng",
+      "condition": "theo BGR, một người đánh giá",
+      "source": "src4",
+      "confidence": "vua"
+    },
+    {
+      "id": "s10",
+      "key": "Thiết kế",
+      "value_vi": "Bản Black and Brass hoặc Cream; logo vàng ở lưới trước; núm xoay điều khiển ở đỉnh; có dây đeo",
+      "condition": "theo BGR",
+      "source": "src4",
+      "confidence": "cao"
+    },
+    {
+      "id": "s11",
+      "key": "Hạn chế điều khiển",
+      "value_vi": "Không có nút vật lý đổi chế độ âm; không hỗ trợ Dolby Atmos",
+      "condition": "theo BGR",
+      "source": "src4",
+      "confidence": "cao"
+    }
+  ],
+  "strengths": [
+    {
+      "text": "Pin công bố hơn 32 giờ, sạc nhanh 20 phút cho khoảng 6 giờ",
+      "source": "src1"
+    },
+    {
+      "text": "IP67 chống bụi và nước",
+      "source": "src1"
+    },
+    {
+      "text": "Thiết kế kiểu ampli Marshall, núm xoay điều khiển trên đỉnh",
+      "source": "src4"
+    },
+    {
+      "text": "Âm thanh nhiều hướng, chỉnh EQ trong ứng dụng",
+      "source": "src4"
+    }
+  ],
+  "caveats": [
+    {
+      "text": "Nặng 0,67 kg, không thuộc nhóm loa bỏ túi",
+      "source": "src2"
+    },
+    {
+      "text": "Giá khoảng 4,4 đến 4,77 triệu, cao hơn nhóm loa mini phổ thông",
+      "source": "src2"
+    },
+    {
+      "text": "Âm hay hơn khi mở lớn; không có nút vật lý đổi chế độ âm",
+      "source": "src4"
+    }
+  ],
+  "sources": [
+    {
+      "id": "src1",
+      "url": "https://www.thegioididong.com/loa-laptop/loa-bluetooth-marshall-emberton-iii-xanh-bong-dem",
+      "title": "Loa Bluetooth Marshall Emberton III Xanh Bóng Đêm - Thế Giới Di Động",
+      "type": "cua_hang"
+    },
+    {
+      "id": "src2",
+      "url": "https://cellphones.com.vn/loa-bluetooth-marshall-emberton-iii.html",
+      "title": "Loa Bluetooth Marshall Emberton III - CellphoneS",
+      "type": "cua_hang"
+    },
+    {
+      "id": "src3",
+      "url": "https://fptshop.com.vn/tin-tuc/danh-gia/loa-emberton-iii-157015",
+      "title": "Loa Emberton III - FPT Shop",
+      "type": "cua_hang"
+    },
+    {
+      "id": "src4",
+      "url": "https://www.bgr.com/reviews/marshall-emberton-iii-review/",
+      "title": "Marshall Emberton III Review: Louder And More Rugged - BGR",
+      "type": "danh_gia"
+    }
+  ],
+  "unverified": [
+    "Công suất: các nguồn lệch (20 W tổng; 2 x 20 W; 2 x 38 W Class D), không dùng trong lời đọc.",
+    "Tầm Bluetooth: các nguồn ghi 10 m hoặc 100 m, không dùng.",
+    "Pin khi mở hết âm lượng: chỉ thấy tóm tắt kết quả tìm kiếm nói người dùng báo khoảng 6 đến 8 giờ, chưa mở được trang gốc; không dùng.",
+    "Trang chính hãng Marshall trả 404; ảnh và thông số lấy từ cửa hàng.",
+    "TechRadar, 91mobiles, T3 không mở được nội dung (403 hoặc cắt); không dùng làm nguồn.",
+    "Soundcore Boom chưa nghiên cứu.",
+    "Loại ảnh (kind) suy ra từ tên file; ảnh Thế Giới Di Động là bản màu Xanh Bóng Đêm."
+  ],
+  "product_visual_description": "compact portable Bluetooth speaker styled like a Marshall amp, black and brass finish, gold logo on the front grille, control knob on top with small power and Bluetooth buttons, fastening strap",
+  "ref_image_candidates": [
+    {
+      "url": "https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/2162/341492/loa-bluetooth-marshall-emberton-iii-xanh-bong-dem-1-638890610917109062.jpg",
+      "page": "https://www.thegioididong.com/loa-laptop/loa-bluetooth-marshall-emberton-iii-xanh-bong-dem",
+      "kind": "product_main"
+    },
+    {
+      "url": "https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/2162/341492/loa-bluetooth-marshall-emberton-iii-xanh-bong-dem-2-638890610923676984.jpg",
+      "page": "https://www.thegioididong.com/loa-laptop/loa-bluetooth-marshall-emberton-iii-xanh-bong-dem",
+      "kind": "product_angle"
+    },
+    {
+      "url": "https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/2162/341492/loa-bluetooth-marshall-emberton-iii-xanh-bong-dem-3-638890610930314680.jpg",
+      "page": "https://www.thegioididong.com/loa-laptop/loa-bluetooth-marshall-emberton-iii-xanh-bong-dem",
+      "kind": "product_angle"
+    },
+    {
+      "url": "https://cdn2.fptshop.com.vn/unsafe/800x0/loa_emberton_iii_1_f2221f5e5a.jpg",
+      "page": "https://fptshop.com.vn/tin-tuc/danh-gia/loa-emberton-iii-157015",
+      "kind": "product_main"
+    },
+    {
+      "url": "https://cdn2.fptshop.com.vn/unsafe/360x0/filters:format(webp):quality(75)/loa_bluetooth_marshall_emberton_iii_den_1_d25846deaa.jpg",
+      "page": "https://fptshop.com.vn/tin-tuc/danh-gia/loa-emberton-iii-157015",
+      "kind": "product_main"
+    },
+    {
+      "url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/l/o/loa-bluetooth-marshall-emberton-iii-1.png",
+      "page": "https://cellphones.com.vn/loa-bluetooth-marshall-emberton-iii.html",
+      "kind": "product_main"
+    },
+    {
+      "url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/l/o/loa-bluetooth-marshall-emberton-iii-br01_1.jpg",
+      "page": "https://cellphones.com.vn/loa-bluetooth-marshall-emberton-iii.html",
+      "kind": "product_angle"
+    }
+  ],
+  "takeaway": "Cần loa ngoài trời pin rất lâu, chống bụi nước, nhìn đẹp thì Emberton III đáng cân nhắc; cần loa nhẹ, giá mềm thì nên xem loa mini.",
+  "buyer_personas": [
+    "Người hay cắm trại, tụ tập ngoài trời",
+    "Người muốn loa đặt bàn đẹp, pin lâu"
+  ]
+}

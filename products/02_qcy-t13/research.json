@@ -1,0 +1,234 @@
+{
+  "id": "02",
+  "slug": "02_qcy-t13",
+  "status": "mot_phan",
+  "chosen_model": "QCY T13 ANC2 (mã HT09)",
+  "alternatives_rejected": [
+    {
+      "model": "QCY T13 (bản gốc, Bluetooth 5.1, không ANC)",
+      "reason": "Đời cũ; bản đang bán ở CellphoneS là T13 ANC2 (HT09). Số pin 40 giờ chỉ thuộc bản gốc, không dùng."
+    }
+  ],
+  "official_page": "https://cellphones.com.vn/tai-nghe-khong-day-qcy-t13.html",
+  "price_vnd": {
+    "low": 290000,
+    "high": 490000,
+    "as_of": "2026-10-22",
+    "sources": [
+      "src1",
+      "src2"
+    ],
+    "confidence": "vua"
+  },
+  "specs": [
+    {
+      "id": "s1",
+      "key": "Chống ồn chủ động",
+      "value_vi": "Có ANC và chế độ xuyên âm",
+      "condition": "",
+      "source": "src1",
+      "confidence": "cao"
+    },
+    {
+      "id": "s2",
+      "key": "Mức giảm ồn",
+      "value_vi": "tới 28 dB",
+      "condition": "theo bài trên tay Sforum, số của hãng",
+      "source": "src2",
+      "confidence": "vua"
+    },
+    {
+      "id": "s3",
+      "key": "Pin tai nghe",
+      "value_vi": "7 giờ",
+      "condition": "tai nghe, theo trang CellphoneS",
+      "source": "src1",
+      "confidence": "cao"
+    },
+    {
+      "id": "s4",
+      "key": "Pin tổng cùng hộp",
+      "value_vi": "30 giờ",
+      "condition": "tắt ANC",
+      "source": "src1",
+      "confidence": "cao"
+    },
+    {
+      "id": "s5",
+      "key": "Pin khi bật ANC",
+      "value_vi": "khoảng 5 giờ",
+      "condition": "bật ANC; số hãng theo Sforum",
+      "source": "src2",
+      "confidence": "vua"
+    },
+    {
+      "id": "s6",
+      "key": "Sạc nhanh",
+      "value_vi": "sạc 5 phút nghe khoảng 1 giờ",
+      "condition": "",
+      "source": "src1",
+      "confidence": "cao"
+    },
+    {
+      "id": "s7",
+      "key": "Bluetooth",
+      "value_vi": "Bluetooth 5.3",
+      "condition": "",
+      "source": "src1",
+      "confidence": "cao"
+    },
+    {
+      "id": "s8",
+      "key": "Driver",
+      "value_vi": "10 mm",
+      "condition": "",
+      "source": "src1",
+      "confidence": "cao"
+    },
+    {
+      "id": "s9",
+      "key": "Micro gọi điện",
+      "value_vi": "4 micro (2 mỗi tai), ENC",
+      "condition": "",
+      "source": "src1",
+      "confidence": "cao"
+    },
+    {
+      "id": "s10",
+      "key": "Chống nước",
+      "value_vi": "IPX5",
+      "condition": "chỉ từ bài Sforum; trang bán không ghi cấp IP",
+      "source": "src2",
+      "confidence": "vua"
+    },
+    {
+      "id": "s11",
+      "key": "Khối lượng",
+      "value_vi": "khoảng 4,6 g mỗi tai",
+      "condition": "",
+      "source": "src2",
+      "confidence": "vua"
+    },
+    {
+      "id": "s12",
+      "key": "Giá niêm yết CellphoneS",
+      "value_vi": "290.000 đồng (giá gốc 550.000 đồng)",
+      "condition": "xem 2026-10-22",
+      "source": "src1",
+      "confidence": "cao"
+    },
+    {
+      "id": "s13",
+      "key": "Chất âm",
+      "value_vi": "bass có lực, giọng hát được đẩy lên rõ, treble không chói",
+      "condition": "cảm nhận một người dùng thử",
+      "source": "src2",
+      "confidence": "vua"
+    },
+    {
+      "id": "s14",
+      "key": "Thoải mái khi đeo",
+      "value_vi": "đeo 3-4 giờ không đau tai",
+      "condition": "một người dùng thử",
+      "source": "src2",
+      "confidence": "vua"
+    }
+  ],
+  "strengths": [
+    {
+      "text": "Có chống ồn chủ động và chế độ xuyên âm ở mức giá dưới nửa triệu đồng.",
+      "source": "src1"
+    },
+    {
+      "text": "Pin tai nghe 7 giờ, hộp sạc nâng tổng lên 30 giờ (tắt ANC); sạc nhanh 5 phút nghe khoảng 1 giờ.",
+      "source": "src1"
+    },
+    {
+      "text": "Bass có lực, giọng rõ; người thử thấy ANC hiệu quả ở quán cà phê và xe buýt.",
+      "source": "src2"
+    },
+    {
+      "text": "Nhẹ, đeo 3-4 giờ không đau tai; IPX5; có ứng dụng chỉnh EQ.",
+      "source": "src2"
+    }
+  ],
+  "caveats": [
+    {
+      "text": "Cảm ứng không phải lúc nào cũng nhạy.",
+      "source": "src2"
+    },
+    {
+      "text": "Bật ANC thì pin tai nghe giảm còn khoảng 5 giờ.",
+      "source": "src2"
+    },
+    {
+      "text": "Phần lớn số pin là số của hãng; bài thử không kiểm tra chất lượng gọi điện.",
+      "source": "src2"
+    }
+  ],
+  "sources": [
+    {
+      "id": "src1",
+      "url": "https://cellphones.com.vn/tai-nghe-khong-day-qcy-t13.html",
+      "title": "CellphoneS - Tai nghe Bluetooth True Wireless QCY T13 ANC2 (HT09)",
+      "type": "cua_hang"
+    },
+    {
+      "id": "src2",
+      "url": "https://cellphones.com.vn/sforum/tren-tay-qcy-t13-anc2",
+      "title": "Sforum - Trên tay QCY T13 ANC2",
+      "type": "danh_gia"
+    },
+    {
+      "id": "src3",
+      "url": "https://www.scarbir.com/tws/qcy-t13-review",
+      "title": "Scarbir - QCY T13 review (bản gốc, chỉ để loại trừ)",
+      "type": "danh_gia"
+    }
+  ],
+  "unverified": [
+    "Không tìm thấy trang chính hãng QCY hay trang Thế Giới Di Động/FPT Shop cho mẫu này; official_page tạm dùng trang CellphoneS.",
+    "Giá: CellphoneS niêm yết 290.000 đồng ngày 2026-10-22, nhưng bài Sforum (không rõ ngày) ghi khoảng 490.000 đồng, nên ghi khoảng 290.000 đến 490.000 đồng. Chỉ một nguồn bán, cần kiểm lại trước khi đăng.",
+    "Độ trễ: CellphoneS ghi 0,68 giây, con số này nghi sai đơn vị hoặc chưa kiểm chứng, không dùng.",
+    "IPX5 chỉ từ Sforum (cũng thấy ở tiêu đề kết quả tìm kiếm của người bán nước ngoài, chưa mở trang). Trang CellphoneS không ghi cấp IP.",
+    "Chưa rõ có multipoint hay không; chất lượng gọi điện chưa có nguồn đo; ref_image kind chưa kiểm bằng mắt."
+  ],
+  "product_visual_description": "QCY T13 ANC2 true wireless earbuds, small and lightweight with silicone ear tips, in a compact pocket-size charging case with a magnetic tray; available in blue, white and black.",
+  "ref_image_candidates": [
+    {
+      "url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/t/a/tai-nghe-khong-day-qcy-t13-spa_1_.png",
+      "page": "https://cellphones.com.vn/tai-nghe-khong-day-qcy-t13.html",
+      "kind": "product_main"
+    },
+    {
+      "url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/5/_/5_483_26.png",
+      "page": "https://cellphones.com.vn/tai-nghe-khong-day-qcy-t13.html",
+      "kind": "product_angle"
+    },
+    {
+      "url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/9/_/9_115_15.png",
+      "page": "https://cellphones.com.vn/tai-nghe-khong-day-qcy-t13.html",
+      "kind": "product_angle"
+    },
+    {
+      "url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/7/_/7_276_20.png",
+      "page": "https://cellphones.com.vn/tai-nghe-khong-day-qcy-t13.html",
+      "kind": "product_angle"
+    },
+    {
+      "url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/4/_/4_557_33.png",
+      "page": "https://cellphones.com.vn/tai-nghe-khong-day-qcy-t13.html",
+      "kind": "product_angle"
+    },
+    {
+      "url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/8/_/8_174_16.png",
+      "page": "https://cellphones.com.vn/tai-nghe-khong-day-qcy-t13.html",
+      "kind": "product_angle"
+    }
+  ],
+  "takeaway": "Cần tai nghe có chống ồn mà giá mềm thì QCY T13 ANC2 đáng xem; cần pin thật lâu khi bật chống ồn hoặc gọi điện nhiều thì nên cân nhắc kỹ.",
+  "buyer_personas": [
+    "Người đi xe buýt, ngồi quán cần giảm ồn với ngân sách hạn chế",
+    "Sinh viên cần tai nghe nhẹ, đeo lâu"
+  ]
+}

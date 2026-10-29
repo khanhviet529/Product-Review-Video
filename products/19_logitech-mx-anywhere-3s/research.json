@@ -1,0 +1,215 @@
+{
+  "id": "19",
+  "slug": "19_logitech-mx-anywhere-3s",
+  "status": "xac_minh",
+  "chosen_model": "Logitech MX Anywhere 3S (bản Graphite/Đen, mã 910-006262)",
+  "alternatives_rejected": [],
+  "official_page": "https://logitech.com/en-qa/shop/p/mx-anywhere-3s",
+  "price_vnd": {
+    "low": 1550000,
+    "high": 1680000,
+    "as_of": "2026-10-22",
+    "sources": [
+      "src1",
+      "src2"
+    ],
+    "confidence": "vua"
+  },
+  "specs": [
+    {
+      "id": "s1",
+      "key": "Pin",
+      "value_vi": "sạc USB-C, dùng tới 70 ngày mỗi lần sạc đầy",
+      "condition": "theo hãng, tùy cách dùng",
+      "source": "src3",
+      "confidence": "cao"
+    },
+    {
+      "id": "s2",
+      "key": "Sạc nhanh",
+      "value_vi": "sạc 1 phút dùng khoảng 3 giờ",
+      "condition": "theo hãng",
+      "source": "src3",
+      "confidence": "cao"
+    },
+    {
+      "id": "s3",
+      "key": "Kích thước, khối lượng",
+      "value_vi": "99 g; 100,5 x 65 x 34,4 mm",
+      "condition": "",
+      "source": "src2",
+      "confidence": "cao"
+    },
+    {
+      "id": "s4",
+      "key": "Cảm biến",
+      "value_vi": "quang học, tối đa 8.000 DPI (200 đến 8.000)",
+      "condition": "",
+      "source": "src2",
+      "confidence": "cao"
+    },
+    {
+      "id": "s5",
+      "key": "Kết nối",
+      "value_vi": "Bluetooth Low Energy, ghép tối đa 3 thiết bị, đổi bằng một nút",
+      "condition": "",
+      "source": "src3",
+      "confidence": "cao"
+    },
+    {
+      "id": "s6",
+      "key": "Click",
+      "value_vi": "Quiet Clicks, êm hơn đời MX Anywhere 3, nghe như tiếng chạm nhẹ",
+      "condition": "",
+      "source": "src4",
+      "confidence": "cao"
+    },
+    {
+      "id": "s7",
+      "key": "Con lăn",
+      "value_vi": "MagSpeed bằng thép, hai chế độ: nấc từng bước (ratchet) và cuộn tự do tốc độ cao",
+      "condition": "",
+      "source": "src3",
+      "confidence": "cao"
+    },
+    {
+      "id": "s8",
+      "key": "Bề mặt",
+      "value_vi": "chạy trên hầu hết bề mặt, kể cả kính",
+      "condition": "độ dày kính tối thiểu chưa xác minh",
+      "source": "src3",
+      "confidence": "cao"
+    },
+    {
+      "id": "s9",
+      "key": "Đầu thu",
+      "value_vi": "hỗ trợ Logi Bolt nhưng không kèm hộp, bán riêng",
+      "condition": "",
+      "source": "src3",
+      "confidence": "cao"
+    },
+    {
+      "id": "s10",
+      "key": "Giá",
+      "value_vi": "khoảng 1.550.000 đến 1.680.000 đồng",
+      "condition": "",
+      "source": "src1",
+      "confidence": "vua"
+    },
+    {
+      "id": "s11",
+      "key": "Thiết kế",
+      "value_vi": "hình dáng giống hệt MX Anywhere 3; nâng cấp chính là click êm",
+      "condition": "",
+      "source": "src4",
+      "confidence": "vua"
+    }
+  ],
+  "strengths": [
+    {
+      "text": "Nhỏ gọn, 99 g, dễ mang theo",
+      "source": "src2"
+    },
+    {
+      "text": "Click êm, chuyên cho môi trường yên tĩnh",
+      "source": "src4"
+    },
+    {
+      "text": "Pin tới 70 ngày, sạc USB-C",
+      "source": "src3"
+    },
+    {
+      "text": "Chạy được trên hầu hết bề mặt kể cả kính",
+      "source": "src4"
+    },
+    {
+      "text": "Con lăn MagSpeed hai chế độ, ghép 3 thiết bị",
+      "source": "src3"
+    }
+  ],
+  "caveats": [
+    {
+      "text": "Giá cao so với chuột văn phòng phổ thông",
+      "source": "src4"
+    },
+    {
+      "text": "Không kèm đầu thu Logi Bolt",
+      "source": "src4"
+    },
+    {
+      "text": "Ngoại hình giống hệt MX Anywhere 3; ít lý do nâng cấp nếu đã có đời cũ ngoài click êm",
+      "source": "src4"
+    }
+  ],
+  "sources": [
+    {
+      "id": "src1",
+      "url": "https://fptshop.com.vn/phu-kien/chuot-khong-day-bluetooth-logitech-mx-anywhere-3s",
+      "title": "Chuột không dây Bluetooth Logitech MX Anywhere 3s - FPT Shop",
+      "type": "cua_hang"
+    },
+    {
+      "id": "src2",
+      "url": "https://meta.vn/chuot-khong-day-logitech-mx-anywhere-3s-p124213",
+      "title": "Chuột không dây Logitech MX Anywhere 3S - META.vn",
+      "type": "cua_hang"
+    },
+    {
+      "id": "src3",
+      "url": "https://logitech.com/en-qa/shop/p/mx-anywhere-3s",
+      "title": "MX Anywhere 3S - Logitech (Qatar)",
+      "type": "chinh_hang"
+    },
+    {
+      "id": "src4",
+      "url": "https://www.pcworld.com/article/1934180/mx-anywhere-3s-review.html",
+      "title": "Logitech MX Anywhere 3S review - PCWorld",
+      "type": "danh_gia"
+    }
+  ],
+  "unverified": [
+    "Kích cỡ nhỏ có thể không vừa tay lớn: PC Magazine và Digital Camera World chỉ thấy qua kết quả tìm kiếm (trang Digital Camera World không tải được nội dung); không dùng trong lời đọc.",
+    "RTINGS, Trusted Reviews: không tải được nội dung đánh giá; chỉ thấy tóm tắt qua tìm kiếm, không dùng.",
+    "Tracking trên kính dày tối thiểu 4 mm: không có trên trang đã mở, không dùng.",
+    "Mã model riêng cho bản Graphite chưa đối chiếu với trang Logitech (mã 910-006262 theo META.vn).",
+    "Giá Thế Giới Di Động, CellphoneS, Hacom: không tìm được trang bán."
+  ],
+  "product_visual_description": "Compact wireless mouse in graphite (also sold in pink and white), made with recycled plastic, with a metal MagSpeed scroll wheel and quiet click buttons.",
+  "ref_image_candidates": [
+    {
+      "url": "https://resource.logitech.com/w_544,h_466,ar_7:6,c_pad,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/products/mice/mx-anywhere-3s/product-gallery/graphite/mx-anywhere-3s-mouse-top-view-graphite.png",
+      "page": "https://logitech.com/en-qa/shop/p/mx-anywhere-3s",
+      "kind": "product_main"
+    },
+    {
+      "url": "https://resource.logitech.com/w_544,h_466,ar_7:6,c_pad,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/products/mice/mx-anywhere-3s/product-gallery/graphite/mx-anywhere-3s-mouse-3qtr-front-graphite.png",
+      "page": "https://logitech.com/en-qa/shop/p/mx-anywhere-3s",
+      "kind": "product_angle"
+    },
+    {
+      "url": "https://resource.logitech.com/w_544,h_466,ar_7:6,c_pad,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/products/mice/mx-anywhere-3s/product-gallery/graphite/mx-anywhere-3s-mouse-front-view-graphite.png",
+      "page": "https://logitech.com/en-qa/shop/p/mx-anywhere-3s",
+      "kind": "product_angle"
+    },
+    {
+      "url": "https://resource.logitech.com/w_544,h_466,ar_7:6,c_pad,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/products/mice/mx-anywhere-3s/product-gallery/graphite/mx-anywhere-3s-mouse-side-left-graphite.png",
+      "page": "https://logitech.com/en-qa/shop/p/mx-anywhere-3s",
+      "kind": "product_angle"
+    },
+    {
+      "url": "https://media.meta.vn/Data/image/2026/08/26/chuot-khong-day-logitech-mx-anywhere-3s-h.jpg",
+      "page": "https://meta.vn/chuot-khong-day-logitech-mx-anywhere-3s-p124213",
+      "kind": "product_main"
+    },
+    {
+      "url": "https://cdn2.fptshop.com.vn/unsafe/1920x0/filters:format(webp):quality(75)/chuot_khong_day_bluetooth_logitech_mx_anywhere_3s_hong_01_33ba01b9cf.png",
+      "page": "https://fptshop.com.vn/phu-kien/chuot-khong-day-bluetooth-logitech-mx-anywhere-3s",
+      "kind": "product_angle"
+    }
+  ],
+  "takeaway": "Cần chuột gọn, click êm, pin lâu cho laptop thì chọn MX Anywhere 3S; cần chuột giá mềm hoặc đã có MX Anywhere 3 thì nên cân nhắc kỹ trước khi mua.",
+  "buyer_personas": [
+    "Dân văn phòng làm việc trên laptop",
+    "Người hay đi công tác, làm việc ở nhiều nơi"
+  ]
+}

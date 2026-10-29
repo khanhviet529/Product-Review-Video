@@ -1,0 +1,216 @@
+{
+  "product_id": "35",
+  "slug": "35_mercusys-mr80x",
+  "model": "Mercusys MR80X AX3000 Wi-Fi 6 băng tần kép",
+  "presenter": "M",
+  "takeaway": "Cần Wi-Fi 6 giá mềm cho nhà vừa thì MR80X đáng xem; nhà ống nhiều tầng thì nên tính thêm thiết bị mesh hoặc mở rộng vì hãng không nêu vùng phủ.",
+  "target_seconds": 80,
+  "clips": [
+    {
+      "n": 1,
+      "code": "P35C01",
+      "role": "hook",
+      "narration_vi": "Nhà ống cần Wi-Fi sáu giá mềm thì Mercusys MR80X đáng xem. Phủ nhiều tầng thì nên tính thêm thiết bị mesh.",
+      "facts_used": [
+        "s1",
+        "s9"
+      ],
+      "camera": "push in",
+      "camera_reason": "tiến vào người nói để mở đầu bằng câu trả lời ngắn",
+      "first_frame": "seated at the desk facing the camera, the Mercusys MR80X AX3000 Wi-Fi 6 băng tần kép resting on the desk beside him, relaxed upright posture",
+      "motion": "slow push in toward his face as he starts speaking, he glances at the product then back to the lens",
+      "last_frame": "tighter on his face and shoulders, product still visible at the lower edge of the frame",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P35C01. Vertical 9:16, 8 seconds, photorealistic, medium close-up. First frame: seated at the desk facing the camera, the Mercusys MR80X AX3000 Wi-Fi 6 băng tần kép resting on the desk beside him, relaxed upright posture. Motion: slow push in toward his face as he starts speaking, he glances at the product then back to the lens. Last frame: tighter on his face and shoulders, product still visible at the lower edge of the frame. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Nhà ống cần Wi-Fi sáu giá mềm thì Mercusys MR80X đáng xem. Phủ nhiều tầng thì nên tính thêm thiết bị mesh.\" He is the Mercusys MR80X AX3000 Wi-Fi 6 băng tần kép on the desk within reach; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P35C01. Vertical 9:16, 8 seconds, photorealistic, medium shot. First frame: Seated at the desk facing camera. Motion: Slow push in on the presenter, who speaks. Last frame: Closer, looking at camera. a Vietnamese woman in her late 20s with shoulder-length straight black hair and light side-swept bangs, warm light-brown skin, small gold stud earrings, natural makeup, wearing a plain white crew-neck t-shirt under a light beige overshirt, friendly confident expression, in a bright modern minimalist desk studio, light oak desk, soft natural window light from the left, plain warm-white wall, shallow depth of field. She says in Vietnamese, in a natural friendly tone: \"Nhà ống cần Wi-Fi sáu giá mềm thì Mercusys MR80X đáng xem. Phủ nhiều tầng thì nên tính thêm thiết bị mesh.\" Product: exact product in the reference image, a black Wi-Fi 6 router with four antennas. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+    },
+    {
+      "n": 2,
+      "code": "P35C02",
+      "role": "feature",
+      "narration_vi": "Băng năm gi-ga-hét tối đa hai nghìn bốn trăm lẻ hai mê-ga-bít, băng hai phẩy bốn là năm trăm bảy mươi bốn.",
+      "facts_used": [
+        "s1",
+        "s2",
+        "s3"
+      ],
+      "camera": "push in",
+      "camera_reason": "tiến vào đúng chi tiết sản phẩm đang nói đến",
+      "first_frame": "seated at the desk, one hand lifting the Mercusys MR80X AX3000 Wi-Fi 6 băng tần kép toward the camera at chest height",
+      "motion": "slow push in on the product in his open palm while he keeps eye contact with the lens",
+      "last_frame": "product held close to the lens in sharp focus, his face softly blurred behind it",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P35C02. Vertical 9:16, 8 seconds, photorealistic, medium close-up. First frame: seated at the desk, one hand lifting the Mercusys MR80X AX3000 Wi-Fi 6 băng tần kép toward the camera at chest height. Motion: slow push in on the product in his open palm while he keeps eye contact with the lens. Last frame: product held close to the lens in sharp focus, his face softly blurred behind it. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Băng năm gi-ga-hét tối đa hai nghìn bốn trăm lẻ hai mê-ga-bít, băng hai phẩy bốn là năm trăm bảy mươi bốn.\" He is holding the Mercusys MR80X AX3000 Wi-Fi 6 băng tần kép in his open palm; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P35C02. Vertical 9:16, 8 seconds, photorealistic, medium close-up. First frame: The router centred on the desk, antennas upright. Motion: Slow push in toward the router body. Last frame: Router body fills the frame. Soft natural window light from the left, plain warm-white wall, light oak desk. Voice-over by the presenter, off-screen, in Vietnamese, in a natural friendly tone: \"Băng năm gi-ga-hét tối đa hai nghìn bốn trăm lẻ hai mê-ga-bít, băng hai phẩy bốn là năm trăm bảy mươi bốn.\" Product: exact product shown in the reference image, a black Mercusys MR80X Wi-Fi 6 desktop router with four fixed external antennas and a row of Ethernet ports. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+    },
+    {
+      "n": 3,
+      "code": "P35C03",
+      "role": "feature",
+      "narration_vi": "Có bốn ăng-ten ngoài, và hỗ trợ kênh rộng tối đa một trăm sáu mươi mê-ga-hét.",
+      "facts_used": [
+        "s5",
+        "s4"
+      ],
+      "camera": "rack focus",
+      "camera_reason": "chuyển nét từ sản phẩm sang người nói để nối chi tiết với đánh giá",
+      "first_frame": "face and shoulders, one hand bringing the Mercusys MR80X AX3000 Wi-Fi 6 băng tần kép up next to his cheek",
+      "motion": "rack focus from the product beside his cheek to his eyes, he turns slightly toward the lens",
+      "last_frame": "sharp on his face, product soft beside his cheek",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P35C03. Vertical 9:16, 8 seconds, photorealistic, close-up. First frame: face and shoulders, one hand bringing the Mercusys MR80X AX3000 Wi-Fi 6 băng tần kép up next to his cheek. Motion: rack focus from the product beside his cheek to his eyes, he turns slightly toward the lens. Last frame: sharp on his face, product soft beside his cheek. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Có bốn ăng-ten ngoài, và hỗ trợ kênh rộng tối đa một trăm sáu mươi mê-ga-hét.\" He is showing the Mercusys MR80X AX3000 Wi-Fi 6 băng tần kép beside his face; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P35C03. Vertical 9:16, 8 seconds, photorealistic, close-up. First frame: Router seen from the front, antennas in frame. Motion: Tilt up slowly along one antenna. Last frame: Antenna tips at the top of the frame. Soft natural window light from the left, plain warm-white wall, light oak desk. Voice-over by the presenter, off-screen, in Vietnamese, in a natural friendly tone: \"Có bốn ăng-ten ngoài, và hỗ trợ kênh rộng tối đa một trăm sáu mươi mê-ga-hét.\" Product: exact product shown in the reference image, a black Mercusys MR80X Wi-Fi 6 desktop router with four fixed external antennas and a row of Ethernet ports. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+    },
+    {
+      "n": 4,
+      "code": "P35C04",
+      "role": "feature",
+      "narration_vi": "Cổng thì một WAN và ba LAN chuẩn gigabit, đủ cho vài thiết bị cắm dây như máy tính hay tivi.",
+      "facts_used": [
+        "s6"
+      ],
+      "camera": "dolly in",
+      "camera_reason": "lại gần dần để tạo cảm giác trò chuyện trực tiếp",
+      "first_frame": "seated at the desk, both hands holding the Mercusys MR80X AX3000 Wi-Fi 6 băng tần kép at table height, looking down at it",
+      "motion": "he looks up at the camera mid-sentence while the camera does a slow dolly in",
+      "last_frame": "closer on his face with both hands and the product still in frame",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P35C04. Vertical 9:16, 8 seconds, photorealistic, medium shot. First frame: seated at the desk, both hands holding the Mercusys MR80X AX3000 Wi-Fi 6 băng tần kép at table height, looking down at it. Motion: he looks up at the camera mid-sentence while the camera does a slow dolly in. Last frame: closer on his face with both hands and the product still in frame. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Cổng thì một WAN và ba LAN chuẩn gigabit, đủ cho vài thiết bị cắm dây như máy tính hay tivi.\" He is turning the Mercusys MR80X AX3000 Wi-Fi 6 băng tần kép in both hands; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P35C04. Vertical 9:16, 8 seconds, photorealistic, close-up. First frame: The back of the router, port row in focus. Motion: Slow pan right along the port row. Last frame: Right end of the port row in frame. Soft natural window light from the left, plain warm-white wall, light oak desk. Voice-over by the presenter, off-screen, in Vietnamese, in a natural friendly tone: \"Cổng thì một WAN và ba LAN chuẩn gigabit, đủ cho vài thiết bị cắm dây như máy tính hay tivi.\" Product: exact product shown in the reference image, a black Mercusys MR80X Wi-Fi 6 desktop router with four fixed external antennas and a row of Ethernet ports. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+    },
+    {
+      "n": 5,
+      "code": "P35C05",
+      "role": "feature",
+      "narration_vi": "Có thể ghép với thiết bị tương thích EasyMesh, và quản lý bằng ứng dụng Mercusys trên điện thoại.",
+      "facts_used": [
+        "s7",
+        "s8"
+      ],
+      "camera": "pan",
+      "camera_reason": "lia từ thiết bị sang người nói để cho thấy cách dùng thực tế",
+      "first_frame": "standing near the window, the Mercusys MR80X AX3000 Wi-Fi 6 băng tần kép in one hand and a smartphone in the other",
+      "motion": "slow pan from the phone in his hand across to his face as he speaks",
+      "last_frame": "centred on his face, phone and product low in the frame",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P35C05. Vertical 9:16, 8 seconds, photorealistic, medium shot. First frame: standing near the window, the Mercusys MR80X AX3000 Wi-Fi 6 băng tần kép in one hand and a smartphone in the other. Motion: slow pan from the phone in his hand across to his face as he speaks. Last frame: centred on his face, phone and product low in the frame. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Có thể ghép với thiết bị tương thích EasyMesh, và quản lý bằng ứng dụng Mercusys trên điện thoại.\" He is holding the Mercusys MR80X AX3000 Wi-Fi 6 băng tần kép and a phone; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P35C05. Vertical 9:16, 8 seconds, photorealistic, medium shot. First frame: Router on the desk, a phone held out of focus in front. Motion: Rack focus from the phone to the router. Last frame: Router sharp, phone blurred. Soft natural window light from the left, plain warm-white wall, light oak desk. Voice-over by the presenter, off-screen, in Vietnamese, in a natural friendly tone: \"Có thể ghép với thiết bị tương thích EasyMesh, và quản lý bằng ứng dụng Mercusys trên điện thoại.\" Product: exact product shown in the reference image, a black Mercusys MR80X Wi-Fi 6 desktop router with four fixed external antennas and a row of Ethernet ports. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+    },
+    {
+      "n": 6,
+      "code": "P35C06",
+      "role": "caveat",
+      "narration_vi": "Đổi lại, hãng không nêu diện tích phủ sóng, và một router đơn lẻ có thể không phủ hết nhà nhiều tầng.",
+      "facts_used": [
+        "s9"
+      ],
+      "camera": "dolly in",
+      "camera_reason": "tiến gần để nhấn vào điểm cần cân nhắc một cách thẳng thắn",
+      "first_frame": "seated at the desk, thoughtful expression, the Mercusys MR80X AX3000 Wi-Fi 6 băng tần kép held loosely in one hand",
+      "motion": "slow dolly in as he tilts his head slightly and raises his eyebrows while speaking",
+      "last_frame": "closer on his face, product lowered out of focus",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P35C06. Vertical 9:16, 8 seconds, photorealistic, medium close-up. First frame: seated at the desk, thoughtful expression, the Mercusys MR80X AX3000 Wi-Fi 6 băng tần kép held loosely in one hand. Motion: slow dolly in as he tilts his head slightly and raises his eyebrows while speaking. Last frame: closer on his face, product lowered out of focus. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Đổi lại, hãng không nêu diện tích phủ sóng, và một router đơn lẻ có thể không phủ hết nhà nhiều tầng.\" He is holding the Mercusys MR80X AX3000 Wi-Fi 6 băng tần kép loosely; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P35C06. Vertical 9:16, 8 seconds, photorealistic, wide medium shot. First frame: Router on a shelf at the bottom of a staircase in a narrow house. Motion: Slow pull back and tilt up to reveal the upper floors. Last frame: Staircase and upper landing visible, router small below. Soft natural window light from the left, plain warm-white wall, light oak desk. Voice-over by the presenter, off-screen, in Vietnamese, in a natural friendly tone: \"Đổi lại, hãng không nêu diện tích phủ sóng, và một router đơn lẻ có thể không phủ hết nhà nhiều tầng.\" Product: exact product shown in the reference image, a black Mercusys MR80X Wi-Fi 6 desktop router with four fixed external antennas and a row of Ethernet ports. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+    },
+    {
+      "n": 7,
+      "code": "P35C07",
+      "role": "caveat",
+      "narration_vi": "Máy không có cổng USB và không có chế độ repeater. Băng tần thấp cũng chậm hơn băng tần cao.",
+      "facts_used": [
+        "s10",
+        "s11"
+      ],
+      "camera": "pull back",
+      "camera_reason": "lùi ra để đặt điểm yếu trong bức tranh chung",
+      "first_frame": "seated at the desk, the Mercusys MR80X AX3000 Wi-Fi 6 băng tần kép set down in front of him, hands open",
+      "motion": "slow pull back as he gestures with one open hand",
+      "last_frame": "wide on him and the desk, product small at the centre of the table",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P35C07. Vertical 9:16, 8 seconds, photorealistic, medium shot. First frame: seated at the desk, the Mercusys MR80X AX3000 Wi-Fi 6 băng tần kép set down in front of him, hands open. Motion: slow pull back as he gestures with one open hand. Last frame: wide on him and the desk, product small at the centre of the table. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Máy không có cổng USB và không có chế độ repeater. Băng tần thấp cũng chậm hơn băng tần cao.\" He is with the Mercusys MR80X AX3000 Wi-Fi 6 băng tần kép on the desk in front of him; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P35C07. Vertical 9:16, 8 seconds, photorealistic, close-up. First frame: Side of the router, no USB port visible. Motion: Slow pan across the side panel. Last frame: Side panel in frame, still. Soft natural window light from the left, plain warm-white wall, light oak desk. Voice-over by the presenter, off-screen, in Vietnamese, in a natural friendly tone: \"Máy không có cổng USB và không có chế độ repeater. Băng tần thấp cũng chậm hơn băng tần cao.\" Product: exact product shown in the reference image, a black Mercusys MR80X Wi-Fi 6 desktop router with four fixed external antennas and a row of Ethernet ports. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+    },
+    {
+      "n": 8,
+      "code": "P35C08",
+      "role": "feature",
+      "narration_vi": "Giá khoảng chín trăm chín mươi nghìn đến một triệu hai trăm ba mươi nghìn đồng, bảo hành hai năm chính hãng.",
+      "facts_used": [
+        "s13",
+        "s14"
+      ],
+      "camera": "pull back",
+      "camera_reason": "mở rộng khung hình để thấy quy mô sản phẩm so với người",
+      "first_frame": "seated at the desk, the Mercusys MR80X AX3000 Wi-Fi 6 băng tần kép held out toward the camera at arm's length",
+      "motion": "he draws the product back toward himself as the camera pulls back to reveal the desk",
+      "last_frame": "wider shot of him at the desk, product held at chest height",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P35C08. Vertical 9:16, 8 seconds, photorealistic, medium close-up. First frame: seated at the desk, the Mercusys MR80X AX3000 Wi-Fi 6 băng tần kép held out toward the camera at arm's length. Motion: he draws the product back toward himself as the camera pulls back to reveal the desk. Last frame: wider shot of him at the desk, product held at chest height. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Giá khoảng chín trăm chín mươi nghìn đến một triệu hai trăm ba mươi nghìn đồng, bảo hành hai năm chính hãng.\" He is pulling the Mercusys MR80X AX3000 Wi-Fi 6 băng tần kép back from the lens; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P35C08. Vertical 9:16, 8 seconds, photorealistic, close-up. First frame: Router on the desk, even light. Motion: Slow dolly in toward the router. Last frame: Router large in frame, still. Soft natural window light from the left, plain warm-white wall, light oak desk. Voice-over by the presenter, off-screen, in Vietnamese, in a natural friendly tone: \"Giá khoảng chín trăm chín mươi nghìn đến một triệu hai trăm ba mươi nghìn đồng, bảo hành hai năm chính hãng.\" Product: exact product shown in the reference image, a black Mercusys MR80X Wi-Fi 6 desktop router with four fixed external antennas and a row of Ethernet ports. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+    },
+    {
+      "n": 9,
+      "code": "P35C09",
+      "role": "fit",
+      "narration_vi": "Hợp người cần Wi-Fi sáu giá mềm cho nhà vừa. Nhà nhiều tầng thì tính thêm bộ mesh.",
+      "facts_used": [
+        "s1"
+      ],
+      "camera": "dolly in",
+      "camera_reason": "lại gần như nói chuyện với đúng người cần sản phẩm này",
+      "first_frame": "leaning slightly forward at the desk, the Mercusys MR80X AX3000 Wi-Fi 6 băng tần kép beside him, open friendly posture",
+      "motion": "slow dolly in as he gestures with an open hand toward the camera",
+      "last_frame": "close on his smiling face, product visible at the edge",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P35C09. Vertical 9:16, 8 seconds, photorealistic, medium close-up. First frame: leaning slightly forward at the desk, the Mercusys MR80X AX3000 Wi-Fi 6 băng tần kép beside him, open friendly posture. Motion: slow dolly in as he gestures with an open hand toward the camera. Last frame: close on his smiling face, product visible at the edge. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Hợp người cần Wi-Fi sáu giá mềm cho nhà vừa. Nhà nhiều tầng thì tính thêm bộ mesh.\" He is with the Mercusys MR80X AX3000 Wi-Fi 6 băng tần kép beside him; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P35C09. Vertical 9:16, 8 seconds, photorealistic, medium shot. First frame: Seated at the desk, hand on the product. Motion: Slight pan right while nodding. Last frame: Facing camera, hand on the product. a Vietnamese woman in her late 20s with shoulder-length straight black hair and light side-swept bangs, warm light-brown skin, small gold stud earrings, natural makeup, wearing a plain white crew-neck t-shirt under a light beige overshirt, friendly confident expression, in a bright modern minimalist desk studio, light oak desk, soft natural window light from the left, plain warm-white wall, shallow depth of field. She says in Vietnamese, in a natural friendly tone: \"Hợp người cần Wi-Fi sáu giá mềm cho nhà vừa. Nhà nhiều tầng thì tính thêm bộ mesh.\" Product: exact product in the reference image, a black Wi-Fi 6 router with four antennas. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+    },
+    {
+      "n": 10,
+      "code": "P35C10",
+      "role": "outro",
+      "narration_vi": "Lưu lại trước khi mua. Nhà bạn đang phát Wi-Fi bằng router hãng nào?",
+      "facts_used": [],
+      "camera": "pull back",
+      "camera_reason": "lùi ra khép lại video một cách thân thiện",
+      "first_frame": "seated at the desk, the Mercusys MR80X AX3000 Wi-Fi 6 băng tần kép on the table, bright smile toward the camera",
+      "motion": "slow pull back while he gives a small friendly wave at the end",
+      "last_frame": "wide on him and the desk with the product, warm and relaxed",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P35C10. Vertical 9:16, 8 seconds, photorealistic, medium shot. First frame: seated at the desk, the Mercusys MR80X AX3000 Wi-Fi 6 băng tần kép on the table, bright smile toward the camera. Motion: slow pull back while he gives a small friendly wave at the end. Last frame: wide on him and the desk with the product, warm and relaxed. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Lưu lại trước khi mua. Nhà bạn đang phát Wi-Fi bằng router hãng nào?\" He is with the Mercusys MR80X AX3000 Wi-Fi 6 băng tần kép on the desk; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P35C10. Vertical 9:16, 8 seconds, photorealistic, medium shot. First frame: Seated at the desk, product in the foreground. Motion: Slow pull back, a small wave. Last frame: Wider desk shot, relaxed smile. a Vietnamese woman in her late 20s with shoulder-length straight black hair and light side-swept bangs, warm light-brown skin, small gold stud earrings, natural makeup, wearing a plain white crew-neck t-shirt under a light beige overshirt, friendly confident expression, in a bright modern minimalist desk studio, light oak desk, soft natural window light from the left, plain warm-white wall, shallow depth of field. She says in Vietnamese, in a natural friendly tone: \"Lưu lại trước khi mua. Nhà bạn đang phát Wi-Fi bằng router hãng nào?\" Product: exact product in the reference image, a black Wi-Fi 6 router with four antennas. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+    }
+  ],
+  "onscreen_presenter": true
+}

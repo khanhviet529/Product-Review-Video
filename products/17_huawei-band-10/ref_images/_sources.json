@@ -1,0 +1,82 @@
+[
+  {
+    "file": "product_main.jpg",
+    "url": "https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/7077/335762/huawei-band-10-den-1-638778196995614376.jpg",
+    "page": "https://www.thegioididong.com/dong-ho-thong-minh/huawei-band-10",
+    "kind": "product_main",
+    "width": 1020,
+    "height": 680
+  },
+  {
+    "file": "product_main_2.jpg",
+    "url": "https://cdn.tgdd.vn/Products/Images/7077/335762/huawei-band-10-den-tb.jpg",
+    "page": "https://www.thegioididong.com/dong-ho-thong-minh/huawei-band-10",
+    "kind": "product_main",
+    "width": 600,
+    "height": 600
+  },
+  {
+    "file": "product_main_3.jpg",
+    "url": "https://cdn2.fptshop.com.vn/unsafe/1920x0/filters:format(webp):quality(75)/huawei_band_10_vien_nhua_den_cf37f19cec.png",
+    "page": "https://fptshop.com.vn/smartwatch/huawei-band-10-vien-nhua",
+    "kind": "product_main",
+    "width": 1920,
+    "height": 1920
+  },
+  {
+    "file": "product_angle_1.jpg",
+    "url": "https://consumer.huawei.com/dam/content/dam/huawei-cbg-site/common/mkt/pdp/wearables/band10/images/hero/huawei-band-10-kv-xs.webp",
+    "page": "https://consumer.huawei.com/vn/wearables/band10/",
+    "kind": "product_angle",
+    "width": 1440,
+    "height": 2160
+  },
+  {
+    "file": "product_angle_2.jpg",
+    "url": "https://consumer.huawei.com/dam/content/dam/huawei-cbg-site/common/mkt/pdp/wearables/band10/images/point/huawei-band-10-ai-sports-xs.webp",
+    "page": "https://consumer.huawei.com/vn/wearables/band10/",
+    "kind": "product_angle",
+    "width": 1200,
+    "height": 1600
+  },
+  {
+    "file": "product_angle_3.jpg",
+    "url": "https://consumer.huawei.com/dam/content/dam/huawei-cbg-site/common/mkt/pdp/wearables/band10/images/point/huawei-band-10-ai-sports-2x.webp",
+    "page": "https://consumer.huawei.com/vn/wearables/band10/",
+    "kind": "product_angle",
+    "width": 2592,
+    "height": 1460
+  },
+  {
+    "file": "product_angle_4.jpg",
+    "url": "https://consumer.huawei.com/dam/content/dam/huawei-cbg-site/common/mkt/pdp/wearables/band10/images/point/huawei-band-10-ai-sports.webp",
+    "page": "https://consumer.huawei.com/vn/wearables/band10/",
+    "kind": "product_angle",
+    "width": 1296,
+    "height": 730
+  },
+  {
+    "file": "product_angle_5.jpg",
+    "url": "https://consumer.huawei.com/dam/content/dam/huawei-cbg-site/common/mkt/pdp/wearables/band10/images/point/huawei-band-10-ai-sports-xs.jpg",
+    "page": "https://consumer.huawei.com/vn/wearables/band10/",
+    "kind": "product_angle",
+    "width": 1200,
+    "height": 1600
+  },
+  {
+    "file": "product_angle_6.jpg",
+    "url": "https://consumer.huawei.com/dam/content/dam/huawei-cbg-site/common/mkt/pdp/wearables/band10/images/point/huawei-band-10-ai-sports-2x.jpg",
+    "page": "https://consumer.huawei.com/vn/wearables/band10/",
+    "kind": "product_angle",
+    "width": 2592,
+    "height": 1460
+  },
+  {
+    "file": "product_angle_7.jpg",
+    "url": "https://consumer.huawei.com/dam/content/dam/huawei-cbg-site/common/mkt/pdp/wearables/band10/images/point/huawei-band-10-fast-charging-xs.webp",
+    "page": "https://consumer.huawei.com/vn/wearables/band10/",
+    "kind": "product_angle",
+    "width": 1200,
+    "height": 1600
+  }
+]

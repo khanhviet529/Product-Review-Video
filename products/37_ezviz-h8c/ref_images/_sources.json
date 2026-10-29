@@ -1,0 +1,82 @@
+[
+  {
+    "file": "product_main.jpg",
+    "url": "https://cdn.tgdd.vn/Products/Images/4728/323205/camera-ip-ngoai-troi-360-do-4mp-ezviz-h8c-white-1-1.jpg",
+    "page": "https://www.thegioididong.com/camera-giam-sat/camera-ip-ngoai-troi-360-do-4mp-ezviz-h8c",
+    "kind": "product_main",
+    "width": 1020,
+    "height": 680
+  },
+  {
+    "file": "product_angle_1.jpg",
+    "url": "https://cdn.tgdd.vn/Products/Images/4728/323205/camera-ip-ngoai-troi-360-do-4mp-ezviz-h8c-white-2-1.jpg",
+    "page": "https://www.thegioididong.com/camera-giam-sat/camera-ip-ngoai-troi-360-do-4mp-ezviz-h8c",
+    "kind": "product_angle",
+    "width": 1020,
+    "height": 680
+  },
+  {
+    "file": "product_angle_2.jpg",
+    "url": "https://cdn.tgdd.vn/Products/Images/4728/323205/camera-ip-ngoai-troi-360-do-4mp-ezviz-h8c-white-3-1.jpg",
+    "page": "https://www.thegioididong.com/camera-giam-sat/camera-ip-ngoai-troi-360-do-4mp-ezviz-h8c",
+    "kind": "product_angle",
+    "width": 1020,
+    "height": 680
+  },
+  {
+    "file": "product_main_2.jpg",
+    "url": "https://mfs.ezvizlife.com/198c74d09cc8b089767366a34f5d8152.jpg",
+    "page": "https://www.ezviz.com/vn/product/H8c/43163",
+    "kind": "product_main",
+    "width": 1200,
+    "height": 600
+  },
+  {
+    "file": "product_angle_3.jpg",
+    "url": "https://mfs.ezvizlife.com/2d65b088272c40712452d112bc68f7c1.jpg",
+    "page": "https://www.ezviz.com/vn/product/H8c/43163",
+    "kind": "product_angle",
+    "width": 1920,
+    "height": 650
+  },
+  {
+    "file": "product_angle_4.jpg",
+    "url": "https://mfs.ezvizlife.com/ff19b8abce055765f9ecada3f712d2c7.jpg",
+    "page": "https://www.ezviz.com/vn/product/H8c/43163",
+    "kind": "product_angle",
+    "width": 1920,
+    "height": 858
+  },
+  {
+    "file": "product_angle_5.jpg",
+    "url": "https://mfs.ezvizlife.com/cf6db81adde891fff033d3404a2b9791.jpg",
+    "page": "https://www.ezviz.com/vn/product/H8c/43163",
+    "kind": "product_angle",
+    "width": 1920,
+    "height": 652
+  },
+  {
+    "file": "product_angle_6.jpg",
+    "url": "https://mfs.ezvizlife.com/c8af757f341d3453b431e74267d8ebf4.jpg",
+    "page": "https://www.ezviz.com/vn/product/H8c/43163",
+    "kind": "product_angle",
+    "width": 1920,
+    "height": 650
+  },
+  {
+    "file": "product_angle_7.jpg",
+    "url": "https://mfs.ezvizlife.com/e93d023c659c7ab1efb34bda6f30cecb.jpg",
+    "page": "https://www.ezviz.com/vn/product/H8c/43163",
+    "kind": "product_angle",
+    "width": 1920,
+    "height": 688
+  },
+  {
+    "file": "product_angle_8.jpg",
+    "url": "https://mfs.ezvizlife.com/73ff28665c599eac0f5afa8ed6cebd75.jpg",
+    "page": "https://www.ezviz.com/vn/product/H8c/43163",
+    "kind": "product_angle",
+    "width": 1920,
+    "height": 651
+  }
+]

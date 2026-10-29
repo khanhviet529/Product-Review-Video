@@ -1,0 +1,67 @@
+[
+  {
+    "file": "in_use_1.jpg",
+    "url": "https://resource.logitech.com/w_1440,h_660,ar_24:11,c_fill,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/products/webcams/c922/2025/c922-pro-intro.jpg",
+    "page": "https://www.logitech.com/en-us/shop/p/c922-pro-stream-webcam",
+    "kind": "in_use",
+    "width": 1440,
+    "height": 660
+  },
+  {
+    "file": "product_angle_1.jpg",
+    "url": "https://resource.logitech.com/c_fill,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/products/webcams/c922/gallery/c922-gallery-1.png",
+    "page": "https://www.logitech.com/en-us/shop/p/c922-pro-stream-webcam",
+    "kind": "product_angle",
+    "width": 1600,
+    "height": 1374
+  },
+  {
+    "file": "product_angle_2.jpg",
+    "url": "https://resource.logitech.com/c_fill,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/products/webcams/c922/gallery/c922-gallery-2.png",
+    "page": "https://www.logitech.com/en-us/shop/p/c922-pro-stream-webcam",
+    "kind": "product_angle",
+    "width": 1600,
+    "height": 1374
+  },
+  {
+    "file": "product_angle_3.jpg",
+    "url": "https://resource.logitech.com/c_fill,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/products/webcams/c922/gallery/c922-gallery-3.png",
+    "page": "https://www.logitech.com/en-us/shop/p/c922-pro-stream-webcam",
+    "kind": "product_angle",
+    "width": 1600,
+    "height": 1374
+  },
+  {
+    "file": "product_angle_4.jpg",
+    "url": "https://resource.logitech.com/c_fill,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/products/webcams/c922/gallery/c922-gallery-4.png",
+    "page": "https://www.logitech.com/en-us/shop/p/c922-pro-stream-webcam",
+    "kind": "product_angle",
+    "width": 1600,
+    "height": 1374
+  },
+  {
+    "file": "product_angle_5.jpg",
+    "url": "https://lh3.googleusercontent.com/vu0jsbP6ucS94r9WKDoiCbPjE_AOUOeyuHFny4BeijPsrepZcJsJIf3si_oWXLewIARypmGEjB0zMtQyp1hwTN4r1lGCUge0Hw",
+    "page": "https://phongvu.vn/webcam-logitech-full-hd-c922-pro-stream--s1603530",
+    "kind": "product_angle",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "file": "product_angle_6.jpg",
+    "url": "https://hanoicomputercdn.com/media/product/59474_webcam_logitech_hd_pro_webcam_c920e__5_.jpg",
+    "page": "https://hacom.vn/webcam-logitech-c920e",
+    "kind": "product_angle",
+    "width": 850,
+    "height": 850
+  },
+  {
+    "file": "product_main.jpg",
+    "url": "https://resource.logitech.com/c_fill,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/products/webcams/c922/gallery/c922-gallery-1.png",
+    "page": "https://www.logitech.com/en-us/shop/p/c922-pro-stream-webcam",
+    "kind": "product_main",
+    "width": 1600,
+    "height": 1374,
+    "note": "ảnh lớn nhất được chọn làm ảnh chính"
+  }
+]

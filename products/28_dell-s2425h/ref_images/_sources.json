@@ -1,0 +1,50 @@
+[
+  {
+    "file": "product_main.jpg",
+    "url": "https://hanoicomputercdn.com/media/product/81966_man_hinh_dell_s2425h_1.jpg",
+    "page": "https://hacom.vn/man-hinh-dell-s2425h",
+    "kind": "product_main",
+    "width": 850,
+    "height": 850
+  },
+  {
+    "file": "product_angle_1.jpg",
+    "url": "https://hanoicomputercdn.com/media/product/81966_man_hinh_dell_s2425h_2.jpg",
+    "page": "https://hacom.vn/man-hinh-dell-s2425h",
+    "kind": "product_angle",
+    "width": 850,
+    "height": 850
+  },
+  {
+    "file": "product_angle_2.jpg",
+    "url": "https://hanoicomputercdn.com/media/product/81966_man_hinh_dell_s2425h_3.jpg",
+    "page": "https://hacom.vn/man-hinh-dell-s2425h",
+    "kind": "product_angle",
+    "width": 850,
+    "height": 850
+  },
+  {
+    "file": "product_main_2.jpg",
+    "url": "https://phucanhcdn.com/media/product/54967_man_hinh_dell_s2425h_1.jpg",
+    "page": "https://www.phucanh.vn/man-hinh-dell-s2425h.html",
+    "kind": "product_main",
+    "width": 600,
+    "height": 600
+  },
+  {
+    "file": "product_angle_3.jpg",
+    "url": "https://phucanhcdn.com/media/product/54967_man_hinh_dell_s2425h_2.jpg",
+    "page": "https://www.phucanh.vn/man-hinh-dell-s2425h.html",
+    "kind": "product_angle",
+    "width": 600,
+    "height": 600
+  },
+  {
+    "file": "product_angle_4.jpg",
+    "url": "https://hoanghapc.vn/media/product/6146_s2425h_thanh_li.jpg",
+    "page": "https://hoanghapc.vn/man-hinh-dell-s2425h-hl",
+    "kind": "product_angle",
+    "width": 1200,
+    "height": 1200
+  }
+]

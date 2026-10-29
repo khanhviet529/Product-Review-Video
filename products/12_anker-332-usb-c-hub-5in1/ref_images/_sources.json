@@ -1,0 +1,82 @@
+[
+  {
+    "file": "product_main.jpg",
+    "url": "https://cdn.shopify.com/s/files/1/0493/9834/9974/files/A8355011_20241009_TD_926935c1-36c3-4f40-9793-09db763f1c1f.png?v=1728526881",
+    "page": "https://www.anker.com/products/a8355",
+    "kind": "product_main",
+    "width": 1600,
+    "height": 2000
+  },
+  {
+    "file": "product_angle_1.jpg",
+    "url": "https://cdn.shopify.com/s/files/1/0493/9834/9974/files/Black-02_b965d631-4e19-40bb-be81-ef8896480b12.jpg?v=1710386110",
+    "page": "https://www.anker.com/products/a8355",
+    "kind": "product_angle",
+    "width": 1600,
+    "height": 2000
+  },
+  {
+    "file": "product_angle_2.jpg",
+    "url": "https://cdn.shopify.com/s/files/1/0493/9834/9974/files/Black-03_1b222c00-064c-4f6c-8a39-ec720ed36934.jpg?v=1710386113",
+    "page": "https://www.anker.com/products/a8355",
+    "kind": "product_angle",
+    "width": 1600,
+    "height": 2000
+  },
+  {
+    "file": "product_main_2.jpg",
+    "url": "https://product.hstatic.net/1000153276/product/anker_332_usb-c_hub__5-in-1__2_3459baf8b1d34ea588db70facad1c5d6_master.png",
+    "page": "https://anker.vn/products/bo-chuyen-doi-anker-332-usb-c-hub-5-in-1",
+    "kind": "product_main",
+    "width": 2000,
+    "height": 2000
+  },
+  {
+    "file": "product_angle_3.jpg",
+    "url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/h/u/hub-chuyen-doi-anker-322-a8355-5-in-1.jpg",
+    "page": "https://cellphones.com.vn/hub-chuyen-doi-anker-322-a8355-5-in-1.html",
+    "kind": "product_angle",
+    "width": 1234,
+    "height": 652
+  },
+  {
+    "file": "product_angle_4.jpg",
+    "url": "http://product.hstatic.net/1000153276/product/anker_332_usb-c_hub__5-in-1__2_3459baf8b1d34ea588db70facad1c5d6_grande.png",
+    "page": "https://anker.vn/products/bo-chuyen-doi-anker-332-usb-c-hub-5-in-1",
+    "kind": "product_angle",
+    "width": 600,
+    "height": 600
+  },
+  {
+    "file": "product_angle_5.jpg",
+    "url": "https://product.hstatic.net/1000153276/product/anker_332_usb-c_hub__5-in-1__2_3459baf8b1d34ea588db70facad1c5d6_1024x1024.png",
+    "page": "https://anker.vn/products/bo-chuyen-doi-anker-332-usb-c-hub-5-in-1",
+    "kind": "product_angle",
+    "width": 1024,
+    "height": 1024
+  },
+  {
+    "file": "product_angle_6.jpg",
+    "url": "https://file.hstatic.net/1000153276/file/anker_332_usb-c_hub__5-in-1__8.png",
+    "page": "https://anker.vn/products/bo-chuyen-doi-anker-332-usb-c-hub-5-in-1",
+    "kind": "product_angle",
+    "width": 1464,
+    "height": 600
+  },
+  {
+    "file": "product_angle_7.jpg",
+    "url": "https://cdn.hstatic.net/files/1000153276/file/1_9eaa8bc1b7a44e088b90067cb7818135_grande.png",
+    "page": "https://anker.vn/products/bo-chuyen-doi-anker-332-usb-c-hub-5-in-1",
+    "kind": "product_angle",
+    "width": 600,
+    "height": 600
+  },
+  {
+    "file": "product_angle_8.jpg",
+    "url": "https://cdn.hstatic.net/files/1000153276/file/2_b7dfa5cd6b9948b4ae767efb9d0727c8_grande.png",
+    "page": "https://anker.vn/products/bo-chuyen-doi-anker-332-usb-c-hub-5-in-1",
+    "kind": "product_angle",
+    "width": 600,
+    "height": 600
+  }
+]

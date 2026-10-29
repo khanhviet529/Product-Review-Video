@@ -1,0 +1,191 @@
+{
+  "product_id": "09",
+  "slug": "09_anker-nano-45w",
+  "model": "Anker Nano Charger 45W (mã A2692), 1 cổng USB-C, GaN",
+  "presenter": "M",
+  "takeaway": "Cần một củ sạc nhỏ 45W cho điện thoại và laptop mỏng thì Anker Nano A2692 hợp; cần sạc nhiều thiết bị cùng lúc hoặc laptop 65W trở lên thì cân nhắc củ nhiều cổng, công suất cao hơn.",
+  "target_seconds": 72,
+  "clips": [
+    {
+      "n": 1,
+      "code": "P09C01",
+      "role": "hook",
+      "narration_vi": "Củ sạc nhỏ cho điện thoại và laptop mỏng? Anker Nano bốn mươi lăm oát đáng cân nhắc, chỉ có một cổng.",
+      "facts_used": [
+        "s1"
+      ],
+      "camera": "push in",
+      "camera_reason": "tiến vào người nói để mở đầu bằng câu trả lời ngắn",
+      "first_frame": "seated at the desk facing the camera, the Anker Nano Charger 45W resting on the desk beside him, relaxed upright posture",
+      "motion": "slow push in toward his face as he starts speaking, he glances at the product then back to the lens",
+      "last_frame": "tighter on his face and shoulders, product still visible at the lower edge of the frame",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P09C01. Vertical 9:16, 8 seconds, photorealistic, medium close-up. First frame: seated at the desk facing the camera, the Anker Nano Charger 45W resting on the desk beside him, relaxed upright posture. Motion: slow push in toward his face as he starts speaking, he glances at the product then back to the lens. Last frame: tighter on his face and shoulders, product still visible at the lower edge of the frame. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Củ sạc nhỏ cho điện thoại và laptop mỏng? Anker Nano bốn mươi lăm oát đáng cân nhắc, chỉ có một cổng.\" He is the Anker Nano Charger 45W on the desk within reach; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P09C01. Vertical 9:16, 8 seconds, photorealistic. First frame: a Vietnamese woman in her late 20s with shoulder-length straight black hair and light side-swept bangs, warm light-brown skin, small gold stud earrings, natural makeup, wearing a plain white crew-neck t-shirt under a light beige overshirt, friendly confident expression, in a bright modern minimalist desk studio, light oak desk, soft natural window light from the left, plain warm-white wall, shallow depth of field, charger raised beside her face. Motion: slow push in as she smiles and speaks. Last frame: close framing, charger still raised. She says in Vietnamese, in a natural friendly tone: \"Củ sạc nhỏ cho điện thoại và laptop mỏng? Anker Nano bốn mươi lăm oát đáng cân nhắc, chỉ có một cổng.\" Product: exact product shown in the reference image, compact glossy black GaN charger. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+    },
+    {
+      "n": 2,
+      "code": "P09C02",
+      "role": "feature",
+      "narration_vi": "Nó chỉ cỡ ba đến bốn xăng-ti-mét mỗi cạnh, bỏ túi áo hay ngăn laptop đều gọn.",
+      "facts_used": [
+        "s3"
+      ],
+      "camera": "push in",
+      "camera_reason": "tiến vào đúng chi tiết sản phẩm đang nói đến",
+      "first_frame": "seated at the desk, one hand lifting the Anker Nano Charger 45W toward the camera at chest height",
+      "motion": "slow push in on the product in his open palm while he keeps eye contact with the lens",
+      "last_frame": "product held close to the lens in sharp focus, his face softly blurred behind it",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P09C02. Vertical 9:16, 8 seconds, photorealistic, medium close-up. First frame: seated at the desk, one hand lifting the Anker Nano Charger 45W toward the camera at chest height. Motion: slow push in on the product in his open palm while he keeps eye contact with the lens. Last frame: product held close to the lens in sharp focus, his face softly blurred behind it. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Nó chỉ cỡ ba đến bốn xăng-ti-mét mỗi cạnh, bỏ túi áo hay ngăn laptop đều gọn.\" He is holding the Anker Nano Charger 45W in his open palm; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P09C02. Vertical 9:16, 8 seconds, photorealistic, macro close-up. First frame: the charger fills the frame on the desk, plug prongs folded. Motion: slow pull back as a hand enters and picks it up, showing it small in the palm. Last frame: charger resting in an open palm above the desk. Voice-over by the presenter, off-screen, a warm female voice, in Vietnamese in a natural friendly tone: \"Nó chỉ cỡ ba đến bốn xăng-ti-mét mỗi cạnh, bỏ túi áo hay ngăn laptop đều gọn.\" The exact product shown in the reference image: A compact glossy black GaN wall charger with a single USB-C port and foldable plug prongs; also sold in white. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+    },
+    {
+      "n": 3,
+      "code": "P09C03",
+      "role": "feature",
+      "narration_vi": "Nhờ công nghệ GaN, củ sạc nặng khoảng sáu mươi gam, mang cả ngày không thấy nặng túi.",
+      "facts_used": [
+        "s4",
+        "s5"
+      ],
+      "camera": "rack focus",
+      "camera_reason": "chuyển nét từ sản phẩm sang người nói để nối chi tiết với đánh giá",
+      "first_frame": "face and shoulders, one hand bringing the Anker Nano Charger 45W up next to his cheek",
+      "motion": "rack focus from the product beside his cheek to his eyes, he turns slightly toward the lens",
+      "last_frame": "sharp on his face, product soft beside his cheek",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P09C03. Vertical 9:16, 8 seconds, photorealistic, close-up. First frame: face and shoulders, one hand bringing the Anker Nano Charger 45W up next to his cheek. Motion: rack focus from the product beside his cheek to his eyes, he turns slightly toward the lens. Last frame: sharp on his face, product soft beside his cheek. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Nhờ công nghệ GaN, củ sạc nặng khoảng sáu mươi gam, mang cả ngày không thấy nặng túi.\" He is showing the Anker Nano Charger 45W beside his face; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P09C03. Vertical 9:16, 8 seconds, photorealistic. First frame: a Vietnamese woman in her late 20s with shoulder-length straight black hair and light side-swept bangs, warm light-brown skin, small gold stud earrings, natural makeup, wearing a plain white crew-neck t-shirt under a light beige overshirt, friendly confident expression, in a bright modern minimalist desk studio, light oak desk, soft natural window light from the left, plain warm-white wall, shallow depth of field, charger resting in her palm. Motion: slow dolly in on her hand as she tosses and catches it. Last frame: charger still in her palm. She says in Vietnamese, in a natural friendly tone: \"Nhờ công nghệ GaN, củ sạc nặng khoảng sáu mươi gam, mang cả ngày không thấy nặng túi.\" Product: exact product shown in the reference image, compact glossy black GaN charger. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+    },
+    {
+      "n": 4,
+      "code": "P09C04",
+      "role": "feature",
+      "narration_vi": "Các mức điện áp là năm, chín, mười lăm và hai mươi vôn, nên sạc được điện thoại lẫn laptop mỏng.",
+      "facts_used": [
+        "s2"
+      ],
+      "camera": "dolly in",
+      "camera_reason": "lại gần dần để tạo cảm giác trò chuyện trực tiếp",
+      "first_frame": "seated at the desk, both hands holding the Anker Nano Charger 45W at table height, looking down at it",
+      "motion": "he looks up at the camera mid-sentence while the camera does a slow dolly in",
+      "last_frame": "closer on his face with both hands and the product still in frame",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P09C04. Vertical 9:16, 8 seconds, photorealistic, medium shot. First frame: seated at the desk, both hands holding the Anker Nano Charger 45W at table height, looking down at it. Motion: he looks up at the camera mid-sentence while the camera does a slow dolly in. Last frame: closer on his face with both hands and the product still in frame. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Các mức điện áp là năm, chín, mười lăm và hai mươi vôn, nên sạc được điện thoại lẫn laptop mỏng.\" He is turning the Anker Nano Charger 45W in both hands; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P09C04. Vertical 9:16, 8 seconds, photorealistic, macro close-up. First frame: charger plugged into a wall socket, a phone cable beside it. Motion: slow tilt from the phone on the desk to a thin laptop, cable linking each to the charger. Last frame: thin laptop and phone both lit, charger centered. Voice-over by the presenter, off-screen, a warm female voice, in Vietnamese in a natural friendly tone: \"Các mức điện áp là năm, chín, mười lăm và hai mươi vôn, nên sạc được điện thoại lẫn laptop mỏng.\" The exact product shown in the reference image: A compact glossy black GaN wall charger with a single USB-C port and foldable plug prongs; also sold in white. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+    },
+    {
+      "n": 5,
+      "code": "P09C05",
+      "role": "feature",
+      "narration_vi": "Trang Anker ghi hỗ trợ PPS, hữu ích cho Android sạc nhanh. Mẫu bán ở Việt Nam, bạn nên hỏi lại.",
+      "facts_used": [
+        "s6"
+      ],
+      "camera": "pan",
+      "camera_reason": "lia từ thiết bị sang người nói để cho thấy cách dùng thực tế",
+      "first_frame": "standing near the window, the Anker Nano Charger 45W in one hand and a smartphone in the other",
+      "motion": "slow pan from the phone in his hand across to his face as he speaks",
+      "last_frame": "centred on his face, phone and product low in the frame",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P09C05. Vertical 9:16, 8 seconds, photorealistic, medium shot. First frame: standing near the window, the Anker Nano Charger 45W in one hand and a smartphone in the other. Motion: slow pan from the phone in his hand across to his face as he speaks. Last frame: centred on his face, phone and product low in the frame. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Trang Anker ghi hỗ trợ PPS, hữu ích cho Android sạc nhanh. Mẫu bán ở Việt Nam, bạn nên hỏi lại.\" He is holding the Anker Nano Charger 45W and a phone; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P09C05. Vertical 9:16, 8 seconds, photorealistic. First frame: a Vietnamese woman in her late 20s with shoulder-length straight black hair and light side-swept bangs, warm light-brown skin, small gold stud earrings, natural makeup, wearing a plain white crew-neck t-shirt under a light beige overshirt, friendly confident expression, in a bright modern minimalist desk studio, light oak desk, soft natural window light from the left, plain warm-white wall, shallow depth of field, she sits beside the charger and a phone. Motion: rack focus from her face to the charger. Last frame: charger sharp, her face blurred. She says in Vietnamese, in a natural friendly tone: \"Trang Anker ghi hỗ trợ PPS, hữu ích cho Android sạc nhanh. Mẫu bán ở Việt Nam, bạn nên hỏi lại.\" Product: exact product shown in the reference image, compact glossy black GaN charger. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+    },
+    {
+      "n": 6,
+      "code": "P09C06",
+      "role": "caveat",
+      "narration_vi": "Đổi lại, chỉ có một cổng USB-C. Sạc điện thoại và laptop cùng lúc thì phải cắm lần lượt.",
+      "facts_used": [
+        "c1"
+      ],
+      "camera": "dolly in",
+      "camera_reason": "tiến gần để nhấn vào điểm cần cân nhắc một cách thẳng thắn",
+      "first_frame": "seated at the desk, thoughtful expression, the Anker Nano Charger 45W held loosely in one hand",
+      "motion": "slow dolly in as he tilts his head slightly and raises his eyebrows while speaking",
+      "last_frame": "closer on his face, product lowered out of focus",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P09C06. Vertical 9:16, 8 seconds, photorealistic, medium close-up. First frame: seated at the desk, thoughtful expression, the Anker Nano Charger 45W held loosely in one hand. Motion: slow dolly in as he tilts his head slightly and raises his eyebrows while speaking. Last frame: closer on his face, product lowered out of focus. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Đổi lại, chỉ có một cổng USB-C. Sạc điện thoại và laptop cùng lúc thì phải cắm lần lượt.\" He is holding the Anker Nano Charger 45W loosely; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P09C06. Vertical 9:16, 8 seconds, photorealistic, close-up. First frame: front of the charger with its single port, a cable plugged in. Motion: slow orbit around the charger, a second cable waiting unplugged beside it. Last frame: side view of the charger, one cable connected. Voice-over by the presenter, off-screen, a warm female voice, in Vietnamese in a natural friendly tone: \"Đổi lại, chỉ có một cổng USB-C. Sạc điện thoại và laptop cùng lúc thì phải cắm lần lượt.\" The exact product shown in the reference image: A compact glossy black GaN wall charger with a single USB-C port and foldable plug prongs; also sold in white. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+    },
+    {
+      "n": 7,
+      "code": "P09C07",
+      "role": "caveat",
+      "narration_vi": "Laptop cần sáu mươi lăm oát trở lên thì củ này chậm, và có đánh giá nói nó ấm khi sạc nặng.",
+      "facts_used": [
+        "c2",
+        "c3"
+      ],
+      "camera": "pull back",
+      "camera_reason": "lùi ra để đặt điểm yếu trong bức tranh chung",
+      "first_frame": "seated at the desk, the Anker Nano Charger 45W set down in front of him, hands open",
+      "motion": "slow pull back as he gestures with one open hand",
+      "last_frame": "wide on him and the desk, product small at the centre of the table",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P09C07. Vertical 9:16, 8 seconds, photorealistic, medium shot. First frame: seated at the desk, the Anker Nano Charger 45W set down in front of him, hands open. Motion: slow pull back as he gestures with one open hand. Last frame: wide on him and the desk, product small at the centre of the table. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Laptop cần sáu mươi lăm oát trở lên thì củ này chậm, và có đánh giá nói nó ấm khi sạc nặng.\" He is with the Anker Nano Charger 45W on the desk in front of him; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P09C07. Vertical 9:16, 8 seconds, photorealistic. First frame: a Vietnamese woman in her late 20s with shoulder-length straight black hair and light side-swept bangs, warm light-brown skin, small gold stud earrings, natural makeup, wearing a plain white crew-neck t-shirt under a light beige overshirt, friendly confident expression, in a bright modern minimalist desk studio, light oak desk, soft natural window light from the left, plain warm-white wall, shallow depth of field, she holds the charger, thoughtful look. Motion: static, locked camera, she tilts her hand side to side. Last frame: she lowers the charger. She says in Vietnamese, in a natural friendly tone: \"Laptop cần sáu mươi lăm oát trở lên thì củ này chậm, và có đánh giá nói nó ấm khi sạc nặng.\" Product: exact product shown in the reference image, compact glossy black GaN charger. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+    },
+    {
+      "n": 8,
+      "code": "P09C08",
+      "role": "fit",
+      "narration_vi": "Hợp với người hay di chuyển, dùng điện thoại và laptop mỏng. Giá khoảng ba trăm chín mươi nghìn đồng.",
+      "facts_used": [
+        "price"
+      ],
+      "camera": "dolly in",
+      "camera_reason": "lại gần như nói chuyện với đúng người cần sản phẩm này",
+      "first_frame": "leaning slightly forward at the desk, the Anker Nano Charger 45W beside him, open friendly posture",
+      "motion": "slow dolly in as he gestures with an open hand toward the camera",
+      "last_frame": "close on his smiling face, product visible at the edge",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P09C08. Vertical 9:16, 8 seconds, photorealistic, medium close-up. First frame: leaning slightly forward at the desk, the Anker Nano Charger 45W beside him, open friendly posture. Motion: slow dolly in as he gestures with an open hand toward the camera. Last frame: close on his smiling face, product visible at the edge. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Hợp với người hay di chuyển, dùng điện thoại và laptop mỏng. Giá khoảng ba trăm chín mươi nghìn đồng.\" He is with the Anker Nano Charger 45W beside him; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P09C08. Vertical 9:16, 8 seconds, photorealistic. First frame: a Vietnamese woman in her late 20s with shoulder-length straight black hair and light side-swept bangs, warm light-brown skin, small gold stud earrings, natural makeup, wearing a plain white crew-neck t-shirt under a light beige overshirt, friendly confident expression, in a bright modern minimalist desk studio, light oak desk, soft natural window light from the left, plain warm-white wall, shallow depth of field, she sits upright, charger on the desk. Motion: gentle push in as she nods. Last frame: close framing, friendly smile. She says in Vietnamese, in a natural friendly tone: \"Hợp với người hay di chuyển, dùng điện thoại và laptop mỏng. Giá khoảng ba trăm chín mươi nghìn đồng.\" Product: exact product shown in the reference image, compact glossy black GaN charger. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+    },
+    {
+      "n": 9,
+      "code": "P09C09",
+      "role": "outro",
+      "narration_vi": "Lưu lại trước khi mua. Bạn đang dùng củ sạc nào cho điện thoại?",
+      "facts_used": [],
+      "camera": "pull back",
+      "camera_reason": "lùi ra khép lại video một cách thân thiện",
+      "first_frame": "seated at the desk, the Anker Nano Charger 45W on the table, bright smile toward the camera",
+      "motion": "slow pull back while he gives a small friendly wave at the end",
+      "last_frame": "wide on him and the desk with the product, warm and relaxed",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P09C09. Vertical 9:16, 8 seconds, photorealistic, medium shot. First frame: seated at the desk, the Anker Nano Charger 45W on the table, bright smile toward the camera. Motion: slow pull back while he gives a small friendly wave at the end. Last frame: wide on him and the desk with the product, warm and relaxed. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Lưu lại trước khi mua. Bạn đang dùng củ sạc nào cho điện thoại?\" He is with the Anker Nano Charger 45W on the desk; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P09C09. Vertical 9:16, 8 seconds, photorealistic. First frame: a Vietnamese woman in her late 20s with shoulder-length straight black hair and light side-swept bangs, warm light-brown skin, small gold stud earrings, natural makeup, wearing a plain white crew-neck t-shirt under a light beige overshirt, friendly confident expression, in a bright modern minimalist desk studio, light oak desk, soft natural window light from the left, plain warm-white wall, shallow depth of field, close framing on her face, charger beside her. Motion: slow pull back to a wider view. Last frame: wide view of her and the charger. She says in Vietnamese, in a natural friendly tone: \"Lưu lại trước khi mua. Bạn đang dùng củ sạc nào cho điện thoại?\" Product: exact product shown in the reference image, compact glossy black GaN charger. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+    }
+  ],
+  "onscreen_presenter": true
+}

@@ -1,0 +1,203 @@
+{
+  "id": "38",
+  "slug": "38_jisulife-fa43",
+  "status": "xac_minh",
+  "chosen_model": "Jisulife FA43 4000mAh (Life5 Plus), quạt cầm tay",
+  "alternatives_rejected": [
+    {
+      "model": "Quạt cầm tay Xiaomi",
+      "reason": "Không tìm được model cụ thể còn bán tại Việt Nam có nguồn đã mở."
+    },
+    {
+      "model": "Jisulife FA43 6000mAh",
+      "reason": "Chỉ thấy giá trong kết quả tìm kiếm, nặng hơn; chọn bản 4000mAh được đo độc lập."
+    },
+    {
+      "model": "Jisulife Pro1 FA53",
+      "reason": "Mẫu khác, chỉ thấy trong kết quả tìm kiếm, chưa mở trang nguồn."
+    }
+  ],
+  "official_page": "https://fptshop.com.vn/quat/quat-sac-cam-tay-jisulife-fa43-4000mah",
+  "price_vnd": {
+    "low": 329000,
+    "high": 420000,
+    "as_of": "2026-10-22",
+    "sources": [
+      "src1",
+      "src2"
+    ],
+    "confidence": "vua"
+  },
+  "specs": [
+    {
+      "id": "s1",
+      "key": "Giá bán",
+      "value_vi": "329.000 đồng",
+      "condition": "FPT Shop và CellphoneS, 2026-10-22",
+      "source": "src1",
+      "confidence": "vua"
+    },
+    {
+      "id": "s2",
+      "key": "Pin",
+      "value_vi": "4000 mAh lithium-ion, sạc Type-C",
+      "condition": "sạc đầy 2,5 đến 3,5 giờ theo FPT Shop",
+      "source": "src1",
+      "confidence": "cao"
+    },
+    {
+      "id": "s3",
+      "key": "Thời gian dùng theo nhà bán",
+      "value_vi": "tới 15,5 giờ tùy mức gió",
+      "condition": "FPT Shop ghi 5 đến 15,5 giờ; CellphoneS ghi 3 đến 15,5 giờ",
+      "source": "src1",
+      "confidence": "vua"
+    },
+    {
+      "id": "s4",
+      "key": "Thời gian dùng đo độc lập",
+      "value_vi": "khoảng 3 giờ 16 phút",
+      "condition": "mức gió 5 (mạnh nhất), đo đầy pin; mức 1 chỉ là số tính ra, không phải đo thật",
+      "source": "src3",
+      "confidence": "cao"
+    },
+    {
+      "id": "s5",
+      "key": "Cánh và mức gió",
+      "value_vi": "7 cánh, 5 mức gió, tối đa 6100 vòng/phút, một nút điều khiển",
+      "condition": "",
+      "source": "src1",
+      "confidence": "cao"
+    },
+    {
+      "id": "s6",
+      "key": "Khối lượng",
+      "value_vi": "khoảng 231 gam",
+      "condition": "cân thực tế bản 4000mAh",
+      "source": "src3",
+      "confidence": "cao"
+    },
+    {
+      "id": "s7",
+      "key": "Đế và dây đeo",
+      "value_vi": "đế cao su đặt đứng được trên bàn; dây đeo tay tháo rời",
+      "condition": "dây đeo khó luồn theo bài đo độc lập",
+      "source": "src3",
+      "confidence": "cao"
+    },
+    {
+      "id": "s8",
+      "key": "Độ ồn",
+      "value_vi": "khá ồn ở mức cao, tiếng rít kiểu máy hút bụi",
+      "condition": "mô tả bằng tai, không có số dB; FPT Shop có người mua khen motor êm",
+      "source": "src3",
+      "confidence": "vua"
+    },
+    {
+      "id": "s9",
+      "key": "Luồng gió",
+      "value_vi": "hẹp, dễ bị lệch ra ngoài; ống dẫn giúp gió đi xa hơn quạt hở",
+      "condition": "miệng thổi khoảng 70 mm",
+      "source": "src3",
+      "confidence": "cao"
+    },
+    {
+      "id": "s10",
+      "key": "Bảo hành",
+      "value_vi": "12 tháng chính hãng",
+      "condition": "",
+      "source": "src1",
+      "confidence": "cao"
+    }
+  ],
+  "strengths": [
+    {
+      "text": "Gọn, nặng khoảng 231 gam, đứng được trên bàn nhờ đế cao su",
+      "source": "src3"
+    },
+    {
+      "text": "Thân chắc, một nút bấm năm mức gió, cánh cân bằng ít rung",
+      "source": "src3"
+    },
+    {
+      "text": "Ống dẫn giúp gió đi xa hơn quạt hở giá rẻ",
+      "source": "src3"
+    },
+    {
+      "text": "Người mua ở FPT Shop khen gió mạnh so với kích thước, hợp khi trang điểm hoặc đi xe buýt (4,8/5)",
+      "source": "src1"
+    }
+  ],
+  "caveats": [
+    {
+      "text": "Ở mức gió 5 chỉ chạy khoảng 3 giờ 16 phút trong bài đo",
+      "source": "src3"
+    },
+    {
+      "text": "Khá ồn ở mức cao, luồng gió hẹp",
+      "source": "src3"
+    },
+    {
+      "text": "Cổng sạc phía sau, sạc khi đang chạy dễ làm máy đổ; dây đeo khó luồn",
+      "source": "src3"
+    }
+  ],
+  "sources": [
+    {
+      "id": "src1",
+      "url": "https://fptshop.com.vn/quat/quat-sac-cam-tay-jisulife-fa43-4000mah",
+      "title": "Quạt sạc cầm tay Jisulife FA43 6W 4000mAh, FPT Shop",
+      "type": "cua_hang"
+    },
+    {
+      "id": "src2",
+      "url": "https://cellphones.com.vn/quat-mini-cam-tay-jisulife-fa43.html",
+      "title": "Quạt mini cầm tay Jisulife FA43, CellphoneS",
+      "type": "cua_hang"
+    },
+    {
+      "id": "src3",
+      "url": "https://goughlui.com/2024/11/04/review-jisulife-handheld-fan-life5-plus-fa43/",
+      "title": "Review JisuLife Handheld Fan Life5 Plus (FA43), Gough Lui",
+      "type": "danh_gia"
+    }
+  ],
+  "unverified": [
+    "Tốc độ gió 4,8 m/s chỉ thấy trên CellphoneS, độ ồn dB và kích thước tổng thể không có nguồn: không dùng.",
+    "Chưa mở được trang chính hãng Jisulife; official_page là trang FPT Shop.",
+    "Bài đo của Gough Lui không phải ở Việt Nam, mỗi bản có thể khác nhẹ."
+  ],
+  "product_visual_description": "a compact handheld turbo fan with a round ducted front outlet ring, a straight handle, a single control button, a rubber base that lets it stand upright, and a detachable wrist strap",
+  "ref_image_candidates": [
+    {
+      "url": "https://cdn2.fptshop.com.vn/unsafe/1920x0/filters:format(webp):quality(75)/quat_sac_cam_tay_jisulife_fa43_4000mah_4506a279ac.png",
+      "page": "https://fptshop.com.vn/quat/quat-sac-cam-tay-jisulife-fa43-4000mah",
+      "kind": "product_main"
+    },
+    {
+      "url": "https://cdn2.fptshop.com.vn/unsafe/1920x0/filters:format(webp):quality(75)/quat_sac_cam_tay_jisulife_fa43_4000mah_4_56b6b8eeed.jpg",
+      "page": "https://fptshop.com.vn/quat/quat-sac-cam-tay-jisulife-fa43-4000mah",
+      "kind": "product_angle"
+    },
+    {
+      "url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/q/u/quat-mini-cam-tay-jisulife-fa43.png",
+      "page": "https://cellphones.com.vn/quat-mini-cam-tay-jisulife-fa43.html",
+      "kind": "product_main"
+    },
+    {
+      "url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/q/u/quat-mini-cam-tay-jisulife-fa43_1_.png",
+      "page": "https://cellphones.com.vn/quat-mini-cam-tay-jisulife-fa43.html",
+      "kind": "product_angle"
+    },
+    {
+      "url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/q/u/quat-mini-cam-tay-jisulife-fa43_2_.png",
+      "page": "https://cellphones.com.vn/quat-mini-cam-tay-jisulife-fa43.html",
+      "kind": "product_angle"
+    }
+  ],
+  "takeaway": "Cần quạt cầm tay gọn nhẹ, dùng cả buổi thì Jisulife FA43 hợp; cần quạt êm và gió phủ rộng thì nên cân nhắc thêm.",
+  "buyer_personas": [
+    "Người hay đi xe buýt, đi bộ ngoài nắng",
+    "Người ngồi bàn làm việc hoặc trang điểm cần gió gần"
+  ]
+}

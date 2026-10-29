@@ -1,0 +1,329 @@
+{
+  "product_id": "24",
+  "slug": "24_jbl-go-4",
+  "model": "JBL Go 4 (loa Bluetooth di động)",
+  "style": "product-only",
+  "thesis": "Đừng chọn loa bỏ túi chỉ vì nó nhỏ: hãy chọn theo nơi bạn mang nó đi và việc bạn muốn nó làm.",
+  "answer_short": "Hay ra biển, dã ngoại, cần loa nhỏ chống nước thì JBL Go 4 hợp; muốn bass sâu hay xem video khớp tiếng thì chọn loa lớn hơn.",
+  "takeaway": "Hay ra biển, dã ngoại, cần loa nhỏ chống nước thì JBL Go 4 hợp; muốn bass sâu hay xem video khớp tiếng thì chọn loa lớn hơn.",
+  "personas": [
+    "Người hay đi biển, dã ngoại, hồ bơi",
+    "Người cần loa nhỏ nghe podcast, nhạc nền",
+    "Người muốn loa dự phòng trong ba lô"
+  ],
+  "as_of": "2026-10-22",
+  "target_seconds": 96,
+  "clips": [
+    {
+      "n": 1,
+      "code": "P24C01",
+      "role": "hook",
+      "criterion": "",
+      "narration_vi": "Loa bỏ túi nào cũng nhỏ. Vậy chọn theo chống nước, pin hay âm thanh? Mình xem JBL Go 4.",
+      "facts_used": [],
+      "source_label": "nhan_dinh",
+      "title_vi": "Loa nhỏ: chọn theo gì?",
+      "labels_vi": [
+        "Chống nước",
+        "Pin",
+        "Âm thanh"
+      ],
+      "camera": "push in",
+      "camera_reason": "tiến từ cả sản phẩm vào để mở bằng câu hỏi chọn loa",
+      "focus_en": "the whole speaker",
+      "scene_en": "the speaker stands upright in the centre of the frame, a soft window shadow falls across the backdrop",
+      "first_frame": "the speaker stands upright in the centre of the frame, a soft window shadow falls across the backdrop",
+      "motion": "slow push in toward the whole speaker",
+      "last_frame": "tight on the whole speaker",
+      "ref_images": [
+        "product_main"
+      ],
+      "flow_prompt": "P24C01. Vertical 9:16, 8 seconds, photorealistic product video on a warm beige seamless backdrop, soft diffused window light, premium minimal editorial look. Product: A small rounded-rectangle portable Bluetooth speaker with a woven fabric front grille, a large JBL logo on the front, a short loop strap at the top corner; it matches the exact product in the reference image. First frame: the speaker stands upright in the centre of the frame, a soft window shadow falls across the backdrop. Motion: slow push in toward the whole speaker. Last frame: tight on the whole speaker. On-screen text in clean modern Vietnamese sans-serif, small rounded cards: title \"Loa nhỏ: chọn theo gì?\", labels \"Chống nước\", \"Pin\". A young male narrator speaks in Vietnamese, calm and friendly, voice-over: \"Loa bỏ túi nào cũng nhỏ. Vậy chọn theo chống nước, pin hay âm thanh? Mình xem JBL Go 4.\" Soft subtle sound design, no music. No watermarks, no logos except those printed on the product itself."
+    },
+    {
+      "n": 2,
+      "code": "P24C02",
+      "role": "identify",
+      "criterion": "",
+      "narration_vi": "Đây là JBL Go 4. Giá một triệu bảy mươi nghìn đồng, theo FPT Shop ngày hai mươi hai tháng mười.",
+      "facts_used": [
+        "price"
+      ],
+      "source_label": "cua_hang",
+      "title_vi": "JBL Go 4",
+      "labels_vi": [
+        "Giá tham khảo: 1.070.000đ"
+      ],
+      "camera": "dolly in",
+      "camera_reason": "lại gần mặt trước để nhận diện đúng mẫu",
+      "focus_en": "the woven front grille and the large logo",
+      "scene_en": "the speaker seen from the front at a slight angle, front grille facing the camera",
+      "first_frame": "the speaker seen from the front at a slight angle, front grille facing the camera",
+      "motion": "slow dolly in, the woven front grille and the large logo stays centred",
+      "last_frame": "close on the woven front grille and the large logo",
+      "ref_images": [
+        "product_main"
+      ],
+      "flow_prompt": "P24C02. Vertical 9:16, 8 seconds, photorealistic product video on a warm beige seamless backdrop, soft diffused window light. Product: A small rounded-rectangle portable Bluetooth speaker with a woven fabric front grille, a large JBL logo on the front, a short loop strap at the top corner; it matches the exact product in the reference image. First frame: the speaker seen from the front at a slight angle, front grille facing the camera. Motion: slow dolly in, the woven front grille and the large logo stays centred. Last frame: close on the woven front grille and the large logo. On-screen text in clean modern Vietnamese sans-serif, small rounded cards: title \"JBL Go 4\", labels \"Giá tham khảo: 1.070.000đ\". A young male narrator speaks in Vietnamese, calm and friendly, voice-over: \"Đây là JBL Go 4. Giá một triệu bảy mươi nghìn đồng, theo FPT Shop ngày hai mươi hai tháng mười.\" Soft subtle sound design, no music. No watermarks, no logos except those printed on the product itself."
+    },
+    {
+      "n": 3,
+      "code": "P24C03",
+      "role": "criterion",
+      "criterion": "Chống nước và bụi",
+      "narration_vi": "Theo mô tả của FPT Shop, loa đạt chuẩn IP sáu bảy. Ngâm tối đa một mét trong ba mươi phút.",
+      "facts_used": [
+        "s1"
+      ],
+      "source_label": "cua_hang",
+      "title_vi": "Chuẩn IP67",
+      "labels_vi": [
+        "Chống bụi",
+        "Chống nước"
+      ],
+      "camera": "rack focus",
+      "camera_reason": "chuyển nét từ giọt nước sang thân loa để nối chuẩn chống nước với sản phẩm",
+      "focus_en": "the fabric grille and the sealed side of the speaker",
+      "scene_en": "a few clean water droplets bead on the beige surface beside the speaker",
+      "first_frame": "a few clean water droplets bead on the beige surface beside the speaker",
+      "motion": "rack focus from the foreground to the fabric grille and the sealed side of the speaker",
+      "last_frame": "sharp on the fabric grille and the sealed side of the speaker",
+      "ref_images": [
+        "product_main"
+      ],
+      "flow_prompt": "P24C03. Vertical 9:16, 8 seconds, photorealistic product video on a warm beige seamless backdrop, soft diffused window light. Product: A small rounded-rectangle portable Bluetooth speaker with a woven fabric front grille, a large JBL logo on the front, a short loop strap at the top corner; it matches the exact product in the reference image. First frame: a few clean water droplets bead on the beige surface beside the speaker. Motion: rack focus from the foreground to the fabric grille and the sealed side of the speaker. Last frame: sharp on the fabric grille and the sealed side of the speaker. On-screen text in clean modern Vietnamese sans-serif, small rounded cards: title \"Chuẩn IP67\", labels \"Chống bụi\", \"Chống nước\". A young male narrator speaks in Vietnamese, calm and friendly, voice-over: \"Theo mô tả của FPT Shop, loa đạt chuẩn IP sáu bảy. Ngâm tối đa một mét trong ba mươi phút.\" No watermarks, no logos except those printed on the product itself."
+    },
+    {
+      "n": 4,
+      "code": "P24C04",
+      "role": "criterion",
+      "criterion": "Chống nước và bụi",
+      "narration_vi": "Mang ra hồ bơi hay bãi biển khá yên tâm. Đây là điểm đáng chú ý với người hay đi chơi.",
+      "facts_used": [
+        "s1"
+      ],
+      "source_label": "nhan_dinh",
+      "title_vi": "Hợp đi biển, hồ bơi",
+      "labels_vi": [],
+      "camera": "pan",
+      "camera_reason": "lia từ quai treo sang thân loa để gợi cảnh mang theo khi đi chơi",
+      "focus_en": "the small loop strap at the top corner",
+      "scene_en": "the speaker lies on a pale sand-coloured surface with a soft sunlit glow",
+      "first_frame": "the speaker lies on a pale sand-coloured surface with a soft sunlit glow",
+      "motion": "slow lateral pan across the small loop strap at the top corner",
+      "last_frame": "the small loop strap at the top corner centred",
+      "ref_images": [
+        "product_main"
+      ],
+      "flow_prompt": "P24C04. Vertical 9:16, 8 seconds, photorealistic product video on a warm beige seamless backdrop, soft diffused window light, premium minimal editorial look. Product: A small rounded-rectangle portable Bluetooth speaker with a woven fabric front grille, a large JBL logo on the front, a short loop strap at the top corner; it matches the exact product in the reference image. First frame: the speaker lies on a pale sand-coloured surface with a soft sunlit glow. Motion: slow lateral pan across the small loop strap at the top corner. Last frame: the small loop strap at the top corner centred. On-screen text in clean modern Vietnamese sans-serif, small rounded cards: title \"Hợp đi biển, hồ bơi\". A young male narrator speaks in Vietnamese, calm and friendly, voice-over: \"Mang ra hồ bơi hay bãi biển khá yên tâm. Đây là điểm đáng chú ý với người hay đi chơi.\" Soft subtle sound design, no music. No watermarks, no logos except those printed on the product itself."
+    },
+    {
+      "n": 5,
+      "code": "P24C05",
+      "role": "criterion",
+      "criterion": "Pin",
+      "narration_vi": "Pin tối đa bảy giờ theo thông số. Thử nghiệm của RTINGS và Tom's Guide cũng ghi gần bảy giờ.",
+      "facts_used": [
+        "s2",
+        "s3"
+      ],
+      "source_label": "danh_gia",
+      "title_vi": "Pin khoảng 7 giờ",
+      "labels_vi": [
+        "Theo thông số",
+        "Theo RTINGS"
+      ],
+      "camera": "push in",
+      "camera_reason": "tiến vào cụm nút trên đỉnh, nơi người dùng điều khiển",
+      "focus_en": "the buttons on top of the speaker",
+      "scene_en": "the speaker seen from above at an angle so the top buttons are clearly visible",
+      "first_frame": "the speaker seen from above at an angle so the top buttons are clearly visible",
+      "motion": "slow push in toward the buttons on top of the speaker",
+      "last_frame": "tight on the buttons on top of the speaker",
+      "ref_images": [
+        "product_main"
+      ],
+      "flow_prompt": "P24C05. Vertical 9:16, 8 seconds, photorealistic product video on a warm beige seamless backdrop, soft diffused window light. Product: A small rounded-rectangle portable Bluetooth speaker with a woven fabric front grille, a large JBL logo on the front, a short loop strap at the top corner; it matches the exact product in the reference image. First frame: the speaker seen from above at an angle so the top buttons are clearly visible. Motion: slow push in toward the buttons on top of the speaker. Last frame: tight on the buttons on top of the speaker. On-screen text in clean modern Vietnamese sans-serif, small rounded cards: title \"Pin khoảng 7 giờ\", labels \"Theo thông số\", \"Theo RTINGS\". A young male narrator speaks in Vietnamese, calm and friendly, voice-over: \"Pin tối đa bảy giờ theo thông số. Thử nghiệm của RTINGS và Tom's Guide cũng ghi gần bảy giờ.\" Soft subtle sound design, no music. No watermarks, no logos except those printed on the product itself."
+    },
+    {
+      "n": 6,
+      "code": "P24C06",
+      "role": "criterion",
+      "criterion": "Pin",
+      "narration_vi": "Playtime Boost kéo thêm khoảng hai giờ, theo mô tả của CellphoneS. Chưa có kiểm chứng độc lập.",
+      "facts_used": [
+        "s4"
+      ],
+      "source_label": "cua_hang",
+      "title_vi": "Playtime Boost",
+      "labels_vi": [
+        "+2 giờ",
+        "Chưa kiểm chứng độc lập"
+      ],
+      "camera": "dolly in",
+      "camera_reason": "lại gần cổng sạc để nối ý thời lượng pin với việc sạc",
+      "focus_en": "the USB-C port on the side",
+      "scene_en": "the speaker turned so its side with the USB-C port faces the camera",
+      "first_frame": "the speaker turned so its side with the USB-C port faces the camera",
+      "motion": "slow dolly in, the USB-C port on the side stays centred",
+      "last_frame": "close on the USB-C port on the side",
+      "ref_images": [
+        "product_main"
+      ],
+      "flow_prompt": "P24C06. Vertical 9:16, 8 seconds, photorealistic product video on a warm beige seamless backdrop, soft diffused window light, premium minimal editorial look. Product: A small rounded-rectangle portable Bluetooth speaker with a woven fabric front grille, a large JBL logo on the front, a short loop strap at the top corner; it matches the exact product in the reference image. First frame: the speaker turned so its side with the USB-C port faces the camera. Motion: slow dolly in, the USB-C port on the side stays centred. Last frame: close on the USB-C port on the side. On-screen text in clean modern Vietnamese sans-serif, small rounded cards: title \"Playtime Boost\", labels \"+2 giờ\", \"Chưa kiểm chứng độc lập\". A young male narrator speaks in Vietnamese, calm and friendly, voice-over: \"Playtime Boost kéo thêm khoảng hai giờ, theo mô tả của CellphoneS. Chưa có kiểm chứng độc lập.\" Soft subtle sound design, no music. No watermarks, no logos except those printed on the product itself."
+    },
+    {
+      "n": 7,
+      "code": "P24C07",
+      "role": "criterion",
+      "criterion": "Mang theo",
+      "narration_vi": "Loa nặng khoảng một trăm chín mươi gam, có quai treo. Nhỏ gọn, dễ bỏ vào ba lô.",
+      "facts_used": [
+        "s7"
+      ],
+      "source_label": "cua_hang",
+      "title_vi": "Nhỏ gọn, 190 g",
+      "labels_vi": [],
+      "camera": "pull back",
+      "camera_reason": "lùi ra để thấy kích thước thật so với một vật quen thuộc",
+      "focus_en": "the compact body next to a pen for scale",
+      "scene_en": "the speaker sits on the beige surface beside a plain black pen that shows its small size",
+      "first_frame": "the speaker sits on the beige surface beside a plain black pen that shows its small size",
+      "motion": "slow pull back from the compact body next to a pen for scale to reveal the whole product",
+      "last_frame": "the whole product centred with space around it",
+      "ref_images": [
+        "product_main"
+      ],
+      "flow_prompt": "P24C07. Vertical 9:16, 8 seconds, photorealistic product video on a warm beige seamless backdrop, soft diffused window light, premium minimal editorial look. Product: A small rounded-rectangle portable Bluetooth speaker with a woven fabric front grille, a large JBL logo on the front, a short loop strap at the top corner; it matches the exact product in the reference image. First frame: the speaker sits on the beige surface beside a plain black pen that shows its small size. Motion: slow pull back from the compact body next to a pen for scale to reveal the whole product. Last frame: the whole product centred with space around it. On-screen text in clean modern Vietnamese sans-serif, small rounded cards: title \"Nhỏ gọn, 190 g\". A young male narrator speaks in Vietnamese, calm and friendly, voice-over: \"Loa nặng khoảng một trăm chín mươi gam, có quai treo. Nhỏ gọn, dễ bỏ vào ba lô.\" Soft subtle sound design, no music. No watermarks, no logos except those printed on the product itself."
+    },
+    {
+      "n": 8,
+      "code": "P24C08",
+      "role": "criterion",
+      "criterion": "Kết nối",
+      "narration_vi": "Kết nối Bluetooth năm phẩy ba, sạc qua USB-C. Có Auracast để ghép thêm loa tương thích.",
+      "facts_used": [
+        "s5"
+      ],
+      "source_label": "cua_hang",
+      "title_vi": "Bluetooth 5.3 · USB-C",
+      "labels_vi": [
+        "Auracast"
+      ],
+      "camera": "orbit",
+      "camera_reason": "đi vòng quanh để cho thấy loa đứng cạnh điện thoại từ nhiều góc",
+      "focus_en": "the speaker with a smartphone lying beside it",
+      "scene_en": "a plain smartphone with a dark blank screen lies next to the speaker on the beige surface",
+      "first_frame": "a plain smartphone with a dark blank screen lies next to the speaker on the beige surface",
+      "motion": "slow orbit around the product, the speaker with a smartphone lying beside it in view",
+      "last_frame": "the speaker with a smartphone lying beside it seen from a new angle",
+      "ref_images": [
+        "product_main"
+      ],
+      "flow_prompt": "P24C08. Vertical 9:16, 8 seconds, photorealistic product video on a warm beige seamless backdrop, soft diffused window light. Product: A small rounded-rectangle portable Bluetooth speaker with a woven fabric front grille, a large JBL logo on the front, a short loop strap at the top corner; it matches the exact product in the reference image. First frame: a plain smartphone with a dark blank screen lies next to the speaker on the beige surface. Motion: slow orbit around the product, the speaker with a smartphone lying beside it in view. Last frame: the speaker with a smartphone lying beside it seen from a new angle. On-screen text in clean modern Vietnamese sans-serif, small rounded cards: title \"Bluetooth 5.3 · USB-C\", labels \"Auracast\". A young male narrator speaks in Vietnamese, calm and friendly, voice-over: \"Kết nối Bluetooth năm phẩy ba, sạc qua USB-C. Có Auracast để ghép thêm loa tương thích.\" No watermarks, no logos except those printed on the product itself."
+    },
+    {
+      "n": 9,
+      "code": "P24C09",
+      "role": "criterion",
+      "criterion": "Âm thanh",
+      "narration_vi": "Về âm thanh, RTINGS đánh giá dưới trung bình khi nghe nhạc. Loa nhỏ nên thiếu dải trầm.",
+      "facts_used": [
+        "s8"
+      ],
+      "source_label": "danh_gia",
+      "title_vi": "Âm thanh: thiếu trầm",
+      "labels_vi": [
+        "Theo RTINGS"
+      ],
+      "camera": "push in",
+      "camera_reason": "tiến sát lưới loa, nơi âm thanh phát ra, khi nói đến chất âm",
+      "focus_en": "the woven front grille up close",
+      "scene_en": "a tight view of the fabric speaker grille with soft side light",
+      "first_frame": "a tight view of the fabric speaker grille with soft side light",
+      "motion": "slow push in toward the woven front grille up close",
+      "last_frame": "tight on the woven front grille up close",
+      "ref_images": [
+        "product_main"
+      ],
+      "flow_prompt": "P24C09. Vertical 9:16, 8 seconds, photorealistic product video on a warm beige seamless backdrop, soft diffused window light, premium minimal editorial look. Product: A small rounded-rectangle portable Bluetooth speaker with a woven fabric front grille, a large JBL logo on the front, a short loop strap at the top corner; it matches the exact product in the reference image. First frame: a tight view of the fabric speaker grille with soft side light. Motion: slow push in toward the woven front grille up close. Last frame: tight on the woven front grille up close. On-screen text in clean modern Vietnamese sans-serif, small rounded cards: title \"Âm thanh: thiếu trầm\", labels \"Theo RTINGS\". A young male narrator speaks in Vietnamese, calm and friendly, voice-over: \"Về âm thanh, RTINGS đánh giá dưới trung bình khi nghe nhạc. Loa nhỏ nên thiếu dải trầm.\" Soft subtle sound design, no music. No watermarks, no logos except those printed on the product itself."
+    },
+    {
+      "n": 10,
+      "code": "P24C10",
+      "role": "limits",
+      "criterion": "",
+      "narration_vi": "Lưu ý: loa phát mono, độ trễ có thể lệch tiếng khi xem video. Đây là tổng hợp, mình chưa tự đo.",
+      "facts_used": [
+        "s10",
+        "s11"
+      ],
+      "source_label": "danh_gia",
+      "title_vi": "Lưu ý trước khi mua",
+      "labels_vi": [
+        "Mono",
+        "Có độ trễ"
+      ],
+      "camera": "pull back",
+      "camera_reason": "lùi ra để nhìn lại toàn bộ loa khi nêu những giới hạn",
+      "focus_en": "the whole speaker",
+      "scene_en": "the speaker alone on the beige backdrop under calm even light",
+      "first_frame": "the speaker alone on the beige backdrop under calm even light",
+      "motion": "slow pull back from the whole speaker to reveal the whole product",
+      "last_frame": "the whole product centred with space around it",
+      "ref_images": [
+        "product_main"
+      ],
+      "flow_prompt": "P24C10. Vertical 9:16, 8 seconds, photorealistic product video on a warm beige seamless backdrop, soft diffused window light, premium minimal editorial look. Product: A small rounded-rectangle portable Bluetooth speaker with a woven fabric front grille, a large JBL logo on the front, a short loop strap at the top corner; it matches the exact product in the reference image. First frame: the speaker alone on the beige backdrop under calm even light. Motion: slow pull back from the whole speaker to reveal the whole product. Last frame: the whole product centred with space around it. On-screen text in clean modern Vietnamese sans-serif, small rounded cards: title \"Lưu ý trước khi mua\", labels \"Mono\", \"Có độ trễ\". A young male narrator speaks in Vietnamese, calm and friendly, voice-over: \"Lưu ý: loa phát mono, độ trễ có thể lệch tiếng khi xem video. Đây là tổng hợp, mình chưa tự đo.\" Soft subtle sound design, no music. No watermarks, no logos except those printed on the product itself."
+    },
+    {
+      "n": 11,
+      "code": "P24C11",
+      "role": "fit",
+      "criterion": "",
+      "narration_vi": "Hay ra biển, dã ngoại, cần loa dự phòng trong ba lô thì hợp. Muốn bass sâu thì chọn loa lớn hơn.",
+      "facts_used": [],
+      "source_label": "nhan_dinh",
+      "title_vi": "Hợp với ai?",
+      "labels_vi": [
+        "Đi biển, dã ngoại",
+        "Loa dự phòng"
+      ],
+      "camera": "dolly in",
+      "camera_reason": "lại gần để chốt bằng hình ảnh người dùng cần loa này",
+      "focus_en": "the speaker next to a small canvas backpack",
+      "scene_en": "the speaker rests beside a small plain canvas backpack on the beige surface",
+      "first_frame": "the speaker rests beside a small plain canvas backpack on the beige surface",
+      "motion": "slow dolly in, the speaker next to a small canvas backpack stays centred",
+      "last_frame": "close on the speaker next to a small canvas backpack",
+      "ref_images": [
+        "product_main"
+      ],
+      "flow_prompt": "P24C11. Vertical 9:16, 8 seconds, photorealistic product video on a warm beige seamless backdrop, soft diffused window light. Product: A small rounded-rectangle portable Bluetooth speaker with a woven fabric front grille, a large JBL logo on the front, a short loop strap at the top corner; it matches the exact product in the reference image. First frame: the speaker rests beside a small plain canvas backpack on the beige surface. Motion: slow dolly in, the speaker next to a small canvas backpack stays centred. Last frame: close on the speaker next to a small canvas backpack. On-screen text in clean modern Vietnamese sans-serif, small rounded cards: title \"Hợp với ai?\", labels \"Đi biển, dã ngoại\", \"Loa dự phòng\". A young male narrator speaks in Vietnamese, calm and friendly, voice-over: \"Hay ra biển, dã ngoại, cần loa dự phòng trong ba lô thì hợp. Muốn bass sâu thì chọn loa lớn hơn.\" Soft subtle sound design, no music. No watermarks, no logos except those printed on the product itself."
+    },
+    {
+      "n": 12,
+      "code": "P24C12",
+      "role": "outro",
+      "criterion": "",
+      "narration_vi": "Bạn hay mang loa đi đâu? Lưu lại trước khi mua. Thông tin đối chiếu ngày hai mươi hai tháng mười.",
+      "facts_used": [],
+      "source_label": "nhan_dinh",
+      "title_vi": "Bạn mang loa đi đâu?",
+      "labels_vi": [
+        "Đối chiếu: 22/10/2026"
+      ],
+      "camera": "pull back",
+      "camera_reason": "lùi ra khép lại video một cách nhẹ nhàng",
+      "focus_en": "the whole speaker",
+      "scene_en": "the speaker centred on the beige backdrop with soft warm light",
+      "first_frame": "the speaker centred on the beige backdrop with soft warm light",
+      "motion": "slow pull back from the whole speaker to reveal the whole product",
+      "last_frame": "the whole product centred with space around it",
+      "ref_images": [
+        "product_main"
+      ],
+      "flow_prompt": "P24C12. Vertical 9:16, 8 seconds, photorealistic product video on a warm beige seamless backdrop, soft diffused window light. Product: A small rounded-rectangle portable Bluetooth speaker with a woven fabric front grille, a large JBL logo on the front, a short loop strap at the top corner; it matches the exact product in the reference image. First frame: the speaker centred on the beige backdrop with soft warm light. Motion: slow pull back from the whole speaker to reveal the whole product. Last frame: the whole product centred with space around it. On-screen text in clean modern Vietnamese sans-serif, small rounded cards: title \"Bạn mang loa đi đâu?\", labels \"Đối chiếu: 22/10/2026\". A young male narrator speaks in Vietnamese, calm and friendly, voice-over: \"Bạn hay mang loa đi đâu? Lưu lại trước khi mua. Thông tin đối chiếu ngày hai mươi hai tháng mười.\" Soft subtle sound design, no music. No watermarks, no logos except those printed on the product itself."
+    }
+  ]
+}

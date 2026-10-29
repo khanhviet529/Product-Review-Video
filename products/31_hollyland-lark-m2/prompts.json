@@ -1,0 +1,231 @@
+{
+  "product_id": "31",
+  "slug": "31_hollyland-lark-m2",
+  "model": "Hollyland Lark M2 Combo (hai bộ phát, ba đầu thu camera/USB-C/Lightning, hộp sạc)",
+  "presenter": "M",
+  "takeaway": "Cần mic cài áo gọn nhẹ, đủ đầu thu cho điện thoại và máy ảnh với giá khoảng hai triệu bảy thì chọn Hollyland Lark M2 Combo; cần ghi âm dự phòng trong bộ phát thì cân nhắc mẫu khác.",
+  "target_seconds": 88,
+  "clips": [
+    {
+      "n": 1,
+      "code": "P31C01",
+      "role": "hook",
+      "narration_vi": "Cần mic cài áo gọn nhẹ để quay video thì Lark M2 Combo đáng xem. Cần ghi dự phòng thì cân nhắc.",
+      "facts_used": [
+        "s1"
+      ],
+      "camera": "push in",
+      "camera_reason": "tiến vào người nói để mở đầu bằng câu trả lời ngắn",
+      "first_frame": "seated at the desk facing the camera, the Hollyland Lark M2 Combo resting on the desk beside him, relaxed upright posture",
+      "motion": "slow push in toward his face as he starts speaking, he glances at the product then back to the lens",
+      "last_frame": "tighter on his face and shoulders, product still visible at the lower edge of the frame",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P31C01. Vertical 9:16, 8 seconds, photorealistic, medium close-up. First frame: seated at the desk facing the camera, the Hollyland Lark M2 Combo resting on the desk beside him, relaxed upright posture. Motion: slow push in toward his face as he starts speaking, he glances at the product then back to the lens. Last frame: tighter on his face and shoulders, product still visible at the lower edge of the frame. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Cần mic cài áo gọn nhẹ để quay video thì Lark M2 Combo đáng xem. Cần ghi dự phòng thì cân nhắc.\" He is the Hollyland Lark M2 Combo on the desk within reach; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P31C01. Vertical 9:16, 8 seconds, photorealistic, medium shot. First frame: she sits at the desk, mic kit beside her. Motion: slow push in; she turns to camera and speaks. Last frame: medium close-up facing the camera. a Vietnamese woman in her late 20s with shoulder-length straight black hair and light side-swept bangs, warm light-brown skin, small gold stud earrings, natural makeup, wearing a plain white crew-neck t-shirt under a light beige overshirt, friendly confident expression, in a bright modern minimalist desk studio, light oak desk, soft natural window light from the left, plain warm-white wall, shallow depth of field. She says in Vietnamese, in a natural friendly tone: \"Cần mic cài áo gọn nhẹ để quay video thì Lark M2 Combo đáng xem. Cần ghi dự phòng thì cân nhắc.\". Exact product shown in the reference image: the tiny Hollyland wireless mic kit. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+    },
+    {
+      "n": 2,
+      "code": "P31C02",
+      "role": "feature",
+      "narration_vi": "Mỗi bộ phát chỉ nặng chín gam, to cỡ cái nút áo, kẹp hoặc gắn nam châm đều được.",
+      "facts_used": [
+        "s2"
+      ],
+      "camera": "push in",
+      "camera_reason": "tiến vào đúng chi tiết sản phẩm đang nói đến",
+      "first_frame": "seated at the desk, one hand lifting the Hollyland Lark M2 Combo toward the camera at chest height",
+      "motion": "slow push in on the product in his open palm while he keeps eye contact with the lens",
+      "last_frame": "product held close to the lens in sharp focus, his face softly blurred behind it",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P31C02. Vertical 9:16, 8 seconds, photorealistic, medium close-up. First frame: seated at the desk, one hand lifting the Hollyland Lark M2 Combo toward the camera at chest height. Motion: slow push in on the product in his open palm while he keeps eye contact with the lens. Last frame: product held close to the lens in sharp focus, his face softly blurred behind it. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Mỗi bộ phát chỉ nặng chín gam, to cỡ cái nút áo, kẹp hoặc gắn nam châm đều được.\" He is holding the Hollyland Lark M2 Combo in his open palm; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P31C02. Vertical 9:16, 8 seconds, photorealistic, macro product shot, 100mm lens. First frame: one tiny round transmitter on a fingertip, metallic mesh front, soft window light. Motion: pull back; the hand stays still while the frame widens. Last frame: the hand holding the transmitter beside a shirt collar. Voice-over by the presenter, off-screen, in Vietnamese, natural friendly tone: \"Mỗi bộ phát chỉ nặng chín gam, to cỡ cái nút áo, kẹp hoặc gắn nam châm đều được.\". Exact product shown in the reference image: the Hollyland Lark M2 Combo kit: two tiny round button-sized wireless transmitters with metallic mesh fronts, a compact camera receiver with a volume knob and three LEDs, and a dark grey charging case. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+    },
+    {
+      "n": 3,
+      "code": "P31C03",
+      "role": "feature",
+      "narration_vi": "Bộ Combo có hai bộ phát, ba đầu thu cho máy ảnh, USB-C và Lightning, kèm hộp sạc.",
+      "facts_used": [
+        "s1"
+      ],
+      "camera": "rack focus",
+      "camera_reason": "chuyển nét từ sản phẩm sang người nói để nối chi tiết với đánh giá",
+      "first_frame": "face and shoulders, one hand bringing the Hollyland Lark M2 Combo up next to his cheek",
+      "motion": "rack focus from the product beside his cheek to his eyes, he turns slightly toward the lens",
+      "last_frame": "sharp on his face, product soft beside his cheek",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P31C03. Vertical 9:16, 8 seconds, photorealistic, close-up. First frame: face and shoulders, one hand bringing the Hollyland Lark M2 Combo up next to his cheek. Motion: rack focus from the product beside his cheek to his eyes, he turns slightly toward the lens. Last frame: sharp on his face, product soft beside his cheek. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Bộ Combo có hai bộ phát, ba đầu thu cho máy ảnh, USB-C và Lightning, kèm hộp sạc.\" He is showing the Hollyland Lark M2 Combo beside his face; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P31C03. Vertical 9:16, 8 seconds, photorealistic, top-down product shot, 35mm lens. First frame: all kit parts laid out neatly on the oak desk, seen from above. Motion: slow dolly in; the frame slowly closes on the layout. Last frame: close on the transmitters, receivers and charging case together. Voice-over by the presenter, off-screen, in Vietnamese, natural friendly tone: \"Bộ Combo có hai bộ phát, ba đầu thu cho máy ảnh, USB-C và Lightning, kèm hộp sạc.\". Exact product shown in the reference image: the Hollyland Lark M2 Combo kit: two tiny round button-sized wireless transmitters with metallic mesh fronts, a compact camera receiver with a volume knob and three LEDs, and a dark grey charging case. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+    },
+    {
+      "n": 4,
+      "code": "P31C04",
+      "role": "feature",
+      "narration_vi": "Âm thanh bốn mươi tám ki-lô-héc, hai mươi bốn bit. Một đánh giá nhận xét giọng rõ, đầy và ít méo.",
+      "facts_used": [
+        "s3",
+        "s4"
+      ],
+      "camera": "dolly in",
+      "camera_reason": "lại gần dần để tạo cảm giác trò chuyện trực tiếp",
+      "first_frame": "seated at the desk, both hands holding the Hollyland Lark M2 Combo at table height, looking down at it",
+      "motion": "he looks up at the camera mid-sentence while the camera does a slow dolly in",
+      "last_frame": "closer on his face with both hands and the product still in frame",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P31C04. Vertical 9:16, 8 seconds, photorealistic, medium shot. First frame: seated at the desk, both hands holding the Hollyland Lark M2 Combo at table height, looking down at it. Motion: he looks up at the camera mid-sentence while the camera does a slow dolly in. Last frame: closer on his face with both hands and the product still in frame. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Âm thanh bốn mươi tám ki-lô-héc, hai mươi bốn bit. Một đánh giá nhận xét giọng rõ, đầy và ít méo.\" He is turning the Hollyland Lark M2 Combo in both hands; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P31C04. Vertical 9:16, 8 seconds, photorealistic, close-up product shot, 85mm lens. First frame: a transmitter clipped on a shirt collar of a person, seen from the front. Motion: slow push in; the person speaks softly, the clip stays steady. Last frame: tight on the transmitter on the collar. Voice-over by the presenter, off-screen, in Vietnamese, natural friendly tone: \"Âm thanh bốn mươi tám ki-lô-héc, hai mươi bốn bit. Một đánh giá nhận xét giọng rõ, đầy và ít méo.\". Exact product shown in the reference image: the Hollyland Lark M2 Combo kit: two tiny round button-sized wireless transmitters with metallic mesh fronts, a compact camera receiver with a volume knob and three LEDs, and a dark grey charging case. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+    },
+    {
+      "n": 5,
+      "code": "P31C05",
+      "role": "feature",
+      "narration_vi": "Theo hãng, mỗi bộ phát chạy khoảng mười tiếng. Cùng hộp sạc, cả bộ kéo dài khoảng bốn mươi giờ.",
+      "facts_used": [
+        "s5"
+      ],
+      "camera": "pan",
+      "camera_reason": "lia từ thiết bị sang người nói để cho thấy cách dùng thực tế",
+      "first_frame": "standing near the window, the Hollyland Lark M2 Combo in one hand and a smartphone in the other",
+      "motion": "slow pan from the phone in his hand across to his face as he speaks",
+      "last_frame": "centred on his face, phone and product low in the frame",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P31C05. Vertical 9:16, 8 seconds, photorealistic, medium shot. First frame: standing near the window, the Hollyland Lark M2 Combo in one hand and a smartphone in the other. Motion: slow pan from the phone in his hand across to his face as he speaks. Last frame: centred on his face, phone and product low in the frame. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Theo hãng, mỗi bộ phát chạy khoảng mười tiếng. Cùng hộp sạc, cả bộ kéo dài khoảng bốn mươi giờ.\" He is holding the Hollyland Lark M2 Combo and a phone; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P31C05. Vertical 9:16, 8 seconds, photorealistic, close-up product shot, 85mm lens. First frame: the charging case closed on the desk, transmitters inside, front view. Motion: slow push in; a hand opens the case lid revealing the transmitters. Last frame: close on the open case with transmitters seated inside. Voice-over by the presenter, off-screen, in Vietnamese, natural friendly tone: \"Theo hãng, mỗi bộ phát chạy khoảng mười tiếng. Cùng hộp sạc, cả bộ kéo dài khoảng bốn mươi giờ.\". Exact product shown in the reference image: the Hollyland Lark M2 Combo kit: two tiny round button-sized wireless transmitters with metallic mesh fronts, a compact camera receiver with a volume knob and three LEDs, and a dark grey charging case. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+    },
+    {
+      "n": 6,
+      "code": "P31C06",
+      "role": "feature",
+      "narration_vi": "Tầm truyền ba trăm mét khi nhìn thẳng. Có vật cản thì còn bốn mươi mét với bản dành cho máy ảnh.",
+      "facts_used": [
+        "s6"
+      ],
+      "camera": "pull back",
+      "camera_reason": "mở rộng khung hình để thấy quy mô sản phẩm so với người",
+      "first_frame": "seated at the desk, the Hollyland Lark M2 Combo held out toward the camera at arm's length",
+      "motion": "he draws the product back toward himself as the camera pulls back to reveal the desk",
+      "last_frame": "wider shot of him at the desk, product held at chest height",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P31C06. Vertical 9:16, 8 seconds, photorealistic, medium close-up. First frame: seated at the desk, the Hollyland Lark M2 Combo held out toward the camera at arm's length. Motion: he draws the product back toward himself as the camera pulls back to reveal the desk. Last frame: wider shot of him at the desk, product held at chest height. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Tầm truyền ba trăm mét khi nhìn thẳng. Có vật cản thì còn bốn mươi mét với bản dành cho máy ảnh.\" He is pulling the Hollyland Lark M2 Combo back from the lens; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P31C06. Vertical 9:16, 8 seconds, photorealistic, wide shot, 28mm lens. First frame: a camera receiver on a camera hot shoe at the left of an open outdoor path. Motion: slow pull back; the frame widens while a small figure walks away down the path. Last frame: wide view, the figure far away and the camera in the foreground. Voice-over by the presenter, off-screen, in Vietnamese, natural friendly tone: \"Tầm truyền ba trăm mét khi nhìn thẳng. Có vật cản thì còn bốn mươi mét với bản dành cho máy ảnh.\". Exact product shown in the reference image: the Hollyland Lark M2 Combo kit: two tiny round button-sized wireless transmitters with metallic mesh fronts, a compact camera receiver with a volume knob and three LEDs, and a dark grey charging case. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+    },
+    {
+      "n": 7,
+      "code": "P31C07",
+      "role": "caveat",
+      "narration_vi": "Đổi lại, không có ghi âm tích hợp. Nếu mất kết nối, bạn không có file dự phòng trong bộ phát.",
+      "facts_used": [
+        "s7"
+      ],
+      "camera": "dolly in",
+      "camera_reason": "tiến gần để nhấn vào điểm cần cân nhắc một cách thẳng thắn",
+      "first_frame": "seated at the desk, thoughtful expression, the Hollyland Lark M2 Combo held loosely in one hand",
+      "motion": "slow dolly in as he tilts his head slightly and raises his eyebrows while speaking",
+      "last_frame": "closer on his face, product lowered out of focus",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P31C07. Vertical 9:16, 8 seconds, photorealistic, medium close-up. First frame: seated at the desk, thoughtful expression, the Hollyland Lark M2 Combo held loosely in one hand. Motion: slow dolly in as he tilts his head slightly and raises his eyebrows while speaking. Last frame: closer on his face, product lowered out of focus. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Đổi lại, không có ghi âm tích hợp. Nếu mất kết nối, bạn không có file dự phòng trong bộ phát.\" He is holding the Hollyland Lark M2 Combo loosely; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P31C07. Vertical 9:16, 8 seconds, photorealistic, medium shot, 50mm lens. First frame: a transmitter on the desk next to a camera, front view. Motion: rack focus; focus shifts from the transmitter to the camera. Last frame: the camera in sharp focus, transmitter soft in front. Voice-over by the presenter, off-screen, in Vietnamese, natural friendly tone: \"Đổi lại, không có ghi âm tích hợp. Nếu mất kết nối, bạn không có file dự phòng trong bộ phát.\". Exact product shown in the reference image: the Hollyland Lark M2 Combo kit: two tiny round button-sized wireless transmitters with metallic mesh fronts, a compact camera receiver with a volume knob and three LEDs, and a dark grey charging case. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+    },
+    {
+      "n": 8,
+      "code": "P31C08",
+      "role": "caveat",
+      "narration_vi": "Chi tiết nhỏ: không có màn hình báo pin, núm âm lượng dễ xoay nhầm, hộp sạc không chứa đầu thu rời.",
+      "facts_used": [
+        "s8"
+      ],
+      "camera": "pull back",
+      "camera_reason": "lùi ra để đặt điểm yếu trong bức tranh chung",
+      "first_frame": "seated at the desk, the Hollyland Lark M2 Combo set down in front of him, hands open",
+      "motion": "slow pull back as he gestures with one open hand",
+      "last_frame": "wide on him and the desk, product small at the centre of the table",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P31C08. Vertical 9:16, 8 seconds, photorealistic, medium shot. First frame: seated at the desk, the Hollyland Lark M2 Combo set down in front of him, hands open. Motion: slow pull back as he gestures with one open hand. Last frame: wide on him and the desk, product small at the centre of the table. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Chi tiết nhỏ: không có màn hình báo pin, núm âm lượng dễ xoay nhầm, hộp sạc không chứa đầu thu rời.\" He is with the Hollyland Lark M2 Combo on the desk in front of him; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P31C08. Vertical 9:16, 8 seconds, photorealistic, macro product shot, 100mm lens. First frame: the camera receiver and its volume knob, close view, soft window light. Motion: macro slide right; a finger lightly touches the knob and turns it. Last frame: close-up of the knob and the receiver's plain face. Voice-over by the presenter, off-screen, in Vietnamese, natural friendly tone: \"Chi tiết nhỏ: không có màn hình báo pin, núm âm lượng dễ xoay nhầm, hộp sạc không chứa đầu thu rời.\". Exact product shown in the reference image: the Hollyland Lark M2 Combo kit: two tiny round button-sized wireless transmitters with metallic mesh fronts, a compact camera receiver with a volume knob and three LEDs, and a dark grey charging case. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+    },
+    {
+      "n": 9,
+      "code": "P31C09",
+      "role": "feature",
+      "narration_vi": "Bản Combo khoảng hai triệu bảy, bảo hành mười hai tháng.",
+      "facts_used": [
+        "s9",
+        "s10"
+      ],
+      "camera": "push in",
+      "camera_reason": "tiến vào đúng chi tiết sản phẩm đang nói đến",
+      "first_frame": "seated at the desk, one hand lifting the Hollyland Lark M2 Combo toward the camera at chest height",
+      "motion": "slow push in on the product in his open palm while he keeps eye contact with the lens",
+      "last_frame": "product held close to the lens in sharp focus, his face softly blurred behind it",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P31C09. Vertical 9:16, 8 seconds, photorealistic, medium close-up. First frame: seated at the desk, one hand lifting the Hollyland Lark M2 Combo toward the camera at chest height. Motion: slow push in on the product in his open palm while he keeps eye contact with the lens. Last frame: product held close to the lens in sharp focus, his face softly blurred behind it. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Bản Combo khoảng hai triệu bảy, bảo hành mười hai tháng.\" He is holding the Hollyland Lark M2 Combo in his open palm; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P31C09. Vertical 9:16, 8 seconds, photorealistic, wide product shot, 35mm lens. First frame: the whole kit on the oak desk beside a phone and a small camera. Motion: slow widen; the kit stays centered while the frame widens. Last frame: full desk view with the kit, phone and camera. Voice-over by the presenter, off-screen, in Vietnamese, natural friendly tone: \"Bản Combo khoảng hai triệu bảy, bảo hành mười hai tháng.\". Exact product shown in the reference image: the Hollyland Lark M2 Combo kit: two tiny round button-sized wireless transmitters with metallic mesh fronts, a compact camera receiver with a volume knob and three LEDs, and a dark grey charging case. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+    },
+    {
+      "n": 10,
+      "code": "P31C10",
+      "role": "fit",
+      "narration_vi": "Hợp làm vlog, phỏng vấn, quay bằng điện thoại. Cần ghi âm trong bộ phát thì xem mẫu khác.",
+      "facts_used": [
+        "s7"
+      ],
+      "camera": "dolly in",
+      "camera_reason": "lại gần như nói chuyện với đúng người cần sản phẩm này",
+      "first_frame": "leaning slightly forward at the desk, the Hollyland Lark M2 Combo beside him, open friendly posture",
+      "motion": "slow dolly in as he gestures with an open hand toward the camera",
+      "last_frame": "close on his smiling face, product visible at the edge",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P31C10. Vertical 9:16, 8 seconds, photorealistic, medium close-up. First frame: leaning slightly forward at the desk, the Hollyland Lark M2 Combo beside him, open friendly posture. Motion: slow dolly in as he gestures with an open hand toward the camera. Last frame: close on his smiling face, product visible at the edge. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Hợp làm vlog, phỏng vấn, quay bằng điện thoại. Cần ghi âm trong bộ phát thì xem mẫu khác.\" He is with the Hollyland Lark M2 Combo beside him; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P31C10. Vertical 9:16, 8 seconds, photorealistic, medium shot. First frame: she sits at the desk, mic kit beside her. Motion: slow push in; she nods and speaks. Last frame: medium close-up facing the camera. a Vietnamese woman in her late 20s with shoulder-length straight black hair and light side-swept bangs, warm light-brown skin, small gold stud earrings, natural makeup, wearing a plain white crew-neck t-shirt under a light beige overshirt, friendly confident expression, in a bright modern minimalist desk studio, light oak desk, soft natural window light from the left, plain warm-white wall, shallow depth of field. She says in Vietnamese, in a natural friendly tone: \"Hợp làm vlog, phỏng vấn, quay bằng điện thoại. Cần ghi âm trong bộ phát thì xem mẫu khác.\". Exact product shown in the reference image: the tiny Hollyland wireless mic kit. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+    },
+    {
+      "n": 11,
+      "code": "P31C11",
+      "role": "outro",
+      "narration_vi": "Lưu lại trước khi mua. Bạn thường quay bằng điện thoại hay máy ảnh?",
+      "facts_used": [],
+      "camera": "pull back",
+      "camera_reason": "lùi ra khép lại video một cách thân thiện",
+      "first_frame": "seated at the desk, the Hollyland Lark M2 Combo on the table, bright smile toward the camera",
+      "motion": "slow pull back while he gives a small friendly wave at the end",
+      "last_frame": "wide on him and the desk with the product, warm and relaxed",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P31C11. Vertical 9:16, 8 seconds, photorealistic, medium shot. First frame: seated at the desk, the Hollyland Lark M2 Combo on the table, bright smile toward the camera. Motion: slow pull back while he gives a small friendly wave at the end. Last frame: wide on him and the desk with the product, warm and relaxed. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Lưu lại trước khi mua. Bạn thường quay bằng điện thoại hay máy ảnh?\" He is with the Hollyland Lark M2 Combo on the desk; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P31C11. Vertical 9:16, 8 seconds, photorealistic, medium close-up. First frame: she sits facing the camera, mic kit behind her. Motion: slow pull back; she smiles and speaks. Last frame: wider shot, she smiles at the camera. a Vietnamese woman in her late 20s with shoulder-length straight black hair and light side-swept bangs, warm light-brown skin, small gold stud earrings, natural makeup, wearing a plain white crew-neck t-shirt under a light beige overshirt, friendly confident expression, in a bright modern minimalist desk studio, light oak desk, soft natural window light from the left, plain warm-white wall, shallow depth of field. She says in Vietnamese, in a natural friendly tone: \"Lưu lại trước khi mua. Bạn thường quay bằng điện thoại hay máy ảnh?\". Exact product shown in the reference image: the tiny Hollyland wireless mic kit. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+    }
+  ],
+  "onscreen_presenter": true
+}

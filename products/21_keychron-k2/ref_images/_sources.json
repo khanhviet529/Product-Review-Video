@@ -1,0 +1,82 @@
+[
+  {
+    "file": "product_main.jpg",
+    "url": "https://d28jzcg6y4v9j1.cloudfront.net/media/core/products/2022/12/11/ban-phim-co-keychron-k2-pro-qmkvia-product-thinkpro.vn.png",
+    "page": "https://thinkpro.vn/ban-phim/ban-phim-co-keychron-k2-pro-qmkvia",
+    "kind": "product_main",
+    "width": 1096,
+    "height": 1096
+  },
+  {
+    "file": "product_angle_1.jpg",
+    "url": "https://d28jzcg6y4v9j1.cloudfront.net/media/core/products/2022/12/11/ban-phim-co-keychron-k2-pro-qmkvia-case-nhua-led-rgb-keychron-k-pro-red-thinkpro.vn.png",
+    "page": "https://thinkpro.vn/ban-phim/ban-phim-co-keychron-k2-pro-qmkvia",
+    "kind": "product_angle",
+    "width": 1096,
+    "height": 1096
+  },
+  {
+    "file": "in_use_1.jpg",
+    "url": "https://d28jzcg6y4v9j1.cloudfront.net/keychron_k2_pro_co_kha_nang_tuy_bien_manh_me_voi_qmk_via_1720165036505.webp",
+    "page": "https://thinkpro.vn/ban-phim/ban-phim-co-keychron-k2-pro-qmkvia",
+    "kind": "in_use",
+    "width": 1600,
+    "height": 800
+  },
+  {
+    "file": "product_angle_2.jpg",
+    "url": "http://www.keychron.com/cdn/shop/products/Keychron-K2-Pro-QMK-VIA-Wireless-Mechanical-Keyboard-for-Mac-Windows-PBT-keycaps-PCB-screw-in-stabilizer-hot-swappable-red-switch_7f3edd88-59f3-4516-b953-05cdc3d3bece.jpg?crop=center&height=1200&v=1671268326&width=1200",
+    "page": "https://www.keychron.com/products/keychron-k2-pro-qmk-via-wireless-mechanical-keyboard",
+    "kind": "product_angle",
+    "width": 1200,
+    "height": 1200
+  },
+  {
+    "file": "product_angle_3.jpg",
+    "url": "https://www.keychron.com/cdn/shop/files/Keychron-K2-Pro-QMK-VIA-custom-mechanical-keyboard-75-percent-layout-aluminum-frame-Mac-Windows-Linux-Keychron-K-Pro-switch-banana.jpg?v=1697165749&width=1920",
+    "page": "https://www.keychron.com/products/keychron-k2-pro-qmk-via-wireless-mechanical-keyboard",
+    "kind": "product_angle",
+    "width": 1920,
+    "height": 1920
+  },
+  {
+    "file": "product_angle_4.jpg",
+    "url": "https://www.keychron.com/cdn/shop/files/Keychron-K2-Pro-QMK-VIA-custom-mechanical-keyboard-75-percent-layout-aluminum-frame-Mac-Windows-Linux-Keychron-K-Pro-switch-brown.jpg?v=1697165721&width=1920",
+    "page": "https://www.keychron.com/products/keychron-k2-pro-qmk-via-wireless-mechanical-keyboard",
+    "kind": "product_angle",
+    "width": 1920,
+    "height": 1920
+  },
+  {
+    "file": "product_angle_5.jpg",
+    "url": "https://www.keychron.com/cdn/shop/files/Keychron-K2-Pro-QMK-VIA-custom-mechanical-keyboard-75-percent-layout-aluminum-frame-Mac-Windows-Linux-Keychron-K-Pro-switch-red.jpg?v=1697165702&width=1920",
+    "page": "https://www.keychron.com/products/keychron-k2-pro-qmk-via-wireless-mechanical-keyboard",
+    "kind": "product_angle",
+    "width": 1920,
+    "height": 1920
+  },
+  {
+    "file": "product_angle_6.jpg",
+    "url": "https://www.keychron.com/cdn/shop/files/Keychron-K2-Pro-QMK-VIA-custom-mechanical-keyboard-75-percent-layout-Mac-Windows-Linux-Keychron-K-Pro-switch-banana.jpg?v=1697165669&width=1920",
+    "page": "https://www.keychron.com/products/keychron-k2-pro-qmk-via-wireless-mechanical-keyboard",
+    "kind": "product_angle",
+    "width": 1920,
+    "height": 1920
+  },
+  {
+    "file": "product_angle_7.jpg",
+    "url": "https://www.keychron.com/cdn/shop/files/Keychron-K2-Pro-QMK-VIA-custom-mechanical-keyboard-75-percent-layout-Mac-Windows-Linux-Keychron-K-Pro-switch-brown.jpg?v=1697165530&width=1920",
+    "page": "https://www.keychron.com/products/keychron-k2-pro-qmk-via-wireless-mechanical-keyboard",
+    "kind": "product_angle",
+    "width": 1920,
+    "height": 1920
+  },
+  {
+    "file": "product_angle_8.jpg",
+    "url": "https://www.keychron.com/cdn/shop/files/Keychron-K2-Pro-QMK-VIA-custom-mechanical-keyboard-75-percent-layout-Mac-Windows-Linux-Keychron-K-Pro-switch-red.jpg?v=1697165511&width=1920",
+    "page": "https://www.keychron.com/products/keychron-k2-pro-qmk-via-wireless-mechanical-keyboard",
+    "kind": "product_angle",
+    "width": 1920,
+    "height": 1920
+  }
+]

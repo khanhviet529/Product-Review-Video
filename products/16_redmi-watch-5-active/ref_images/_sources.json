@@ -1,0 +1,50 @@
+[
+  {
+    "file": "product_main.jpg",
+    "url": "https://cdn2.fptshop.com.vn/unsafe/1920x0/filters:format(webp):quality(75)/redmi_watch_5_black_1_478444211c.png",
+    "page": "https://fptshop.com.vn/smartwatch/redmi-watch-5-active",
+    "kind": "product_main",
+    "width": 1920,
+    "height": 1920
+  },
+  {
+    "file": "product_angle_1.jpg",
+    "url": "https://cdn2.fptshop.com.vn/unsafe/750x0/filters:format(webp):quality(75)/redmi_watch_5_black_2_e50c0eeceb.png",
+    "page": "https://fptshop.com.vn/smartwatch/redmi-watch-5-active",
+    "kind": "product_angle",
+    "width": 750,
+    "height": 750
+  },
+  {
+    "file": "product_angle_2.jpg",
+    "url": "https://cdn2.fptshop.com.vn/unsafe/750x0/filters:format(webp):quality(75)/redmi_watch_5_black_3_ad8873acca.png",
+    "page": "https://fptshop.com.vn/smartwatch/redmi-watch-5-active",
+    "kind": "product_angle",
+    "width": 750,
+    "height": 750
+  },
+  {
+    "file": "in_use_1.jpg",
+    "url": "https://cdn2.fptshop.com.vn/unsafe/750x0/filters:format(webp):quality(75)/redmi_watch_5_black_4_01db05b7b8.png",
+    "page": "https://fptshop.com.vn/smartwatch/redmi-watch-5-active",
+    "kind": "in_use",
+    "width": 750,
+    "height": 750
+  },
+  {
+    "file": "product_main_2.jpg",
+    "url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/_/n/_ng_h__3.png",
+    "page": "https://cellphones.com.vn/dong-ho-thong-minh-xiaomi-redmi-watch-5-active.html",
+    "kind": "product_main",
+    "width": 2200,
+    "height": 1200
+  },
+  {
+    "file": "product_angle_3.jpg",
+    "url": "https://cdn2.fptshop.com.vn/unsafe/redmi_watch_5_black_1_478444211c.png",
+    "page": "https://fptshop.com.vn/smartwatch/redmi-watch-5-active",
+    "kind": "product_angle",
+    "width": 800,
+    "height": 800
+  }
+]

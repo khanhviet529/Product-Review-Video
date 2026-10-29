@@ -1,0 +1,82 @@
+[
+  {
+    "file": "product_main.jpg",
+    "url": "https://cdn.shopify.com/s/files/1/0493/9834/9974/files/Black-01_95991b41-dcac-41af-8f84-0036bf8bb161.png?v=1760083094",
+    "page": "https://www.anker.com/products/a2692-45w-usb-c-fast-charger",
+    "kind": "product_main",
+    "width": 2000,
+    "height": 2000
+  },
+  {
+    "file": "product_angle_1.jpg",
+    "url": "https://cdn.shopify.com/s/files/1/0493/9834/9974/files/Black-02_8cdcf259-5246-4714-8c3e-d3ca8ef07250.jpg?v=1760083094",
+    "page": "https://www.anker.com/products/a2692-45w-usb-c-fast-charger",
+    "kind": "product_angle",
+    "width": 1600,
+    "height": 2000
+  },
+  {
+    "file": "product_angle_2.jpg",
+    "url": "https://cdn.shopify.com/s/files/1/0493/9834/9974/files/Black-03_35efa33d-1374-4c6f-b40b-bfcf90b31b24.jpg?v=1760083094",
+    "page": "https://www.anker.com/products/a2692-45w-usb-c-fast-charger",
+    "kind": "product_angle",
+    "width": 1600,
+    "height": 2000
+  },
+  {
+    "file": "product_main_2.jpg",
+    "url": "https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/9499/339112/adapter-sac-type-c-iq3-gan-45w-anker-nano-a2692-den-1-638851506831457736.jpg",
+    "page": "https://www.thegioididong.com/adapter-sac/adapter-sac-type-c-iq3-gan-45w-anker-nano-a2692",
+    "kind": "product_main",
+    "width": 1020,
+    "height": 680
+  },
+  {
+    "file": "product_angle_3.jpg",
+    "url": "https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/9499/339112/adapter-sac-type-c-iq3-gan-45w-anker-nano-a2692-den-2-638851506836555570.jpg",
+    "page": "https://www.thegioididong.com/adapter-sac/adapter-sac-type-c-iq3-gan-45w-anker-nano-a2692",
+    "kind": "product_angle",
+    "width": 1020,
+    "height": 680
+  },
+  {
+    "file": "product_angle_4.jpg",
+    "url": "https://cdn.shopify.com/s/files/1/0493/9834/9974/files/Black-04_9ae18aa8-5e5f-48b6-841a-cd58598ff93e.jpg?v=1760083094",
+    "page": "https://www.anker.com/products/a2692-45w-usb-c-fast-charger",
+    "kind": "product_angle",
+    "width": 1600,
+    "height": 2000
+  },
+  {
+    "file": "product_angle_5.jpg",
+    "url": "https://cdn.shopify.com/s/files/1/0493/9834/9974/files/Black-05_0330f943-51b5-42e6-82de-3f46bae5a382.jpg?v=1760083094",
+    "page": "https://www.anker.com/products/a2692-45w-usb-c-fast-charger",
+    "kind": "product_angle",
+    "width": 1600,
+    "height": 2000
+  },
+  {
+    "file": "product_angle_6.jpg",
+    "url": "https://cdn.shopify.com/s/files/1/0493/9834/9974/files/White-01_cd8f173b-b184-482b-96af-312e84266640.png?v=1767855410",
+    "page": "https://www.anker.com/products/a2692-45w-usb-c-fast-charger",
+    "kind": "product_angle",
+    "width": 2000,
+    "height": 2000
+  },
+  {
+    "file": "product_angle_7.jpg",
+    "url": "https://cdn.shopify.com/s/files/1/0493/9834/9974/files/White-02_38f30b7a-b251-4faf-9d4a-b9c02e1bb171.jpg?v=1767855410",
+    "page": "https://www.anker.com/products/a2692-45w-usb-c-fast-charger",
+    "kind": "product_angle",
+    "width": 1600,
+    "height": 2000
+  },
+  {
+    "file": "product_angle_8.jpg",
+    "url": "https://cdn.shopify.com/s/files/1/0493/9834/9974/files/White-03_7fa2a338-17b5-41e7-8257-2a57bebb5a3a.jpg?v=1767672064",
+    "page": "https://www.anker.com/products/a2692-45w-usb-c-fast-charger",
+    "kind": "product_angle",
+    "width": 1600,
+    "height": 2000
+  }
+]

@@ -1,0 +1,187 @@
+{
+  "id": "11",
+  "slug": "11_baseus-gan-65w",
+  "status": "mot_phan",
+  "chosen_model": "Baseus GaN5 Pro 65W 2C+U (2 USB-C + 1 USB-A); SKU baseus.com CCGP120101, SKU đại lý VN LVJ032-AK-CK",
+  "alternatives_rejected": [
+    {
+      "model": "Baseus GaN5 Pro Flat Wall Charger 65W (CCGP150513)",
+      "reason": "Trang baseus.com bán cho Mỹ, đang hết hàng, thông số tự mâu thuẫn (1C+1A hay 2C+1A; chia công suất 25W+20W hay 45W+20W) và không thấy trang bán ở Việt Nam."
+    }
+  ],
+  "official_page": "https://www.baseus.com/products/gan5-pro-3-ports-fast-charger-65w",
+  "price_vnd": {
+    "low": 629000,
+    "high": 780000,
+    "as_of": "2026-10-22",
+    "sources": [
+      "s_price1",
+      "s_price2"
+    ],
+    "confidence": "vua",
+    "note": "DGA Store 629.000 đồng (còn hàng, giá gốc 769.000); Promax.vn combo kèm cáp C to C 700.000-780.000 đồng nhưng hết hàng (xem ngày 2026-10-22). Giá tại các sàn có thể khác."
+  },
+  "specs": [
+    {
+      "id": "s1",
+      "key": "Công suất và cổng",
+      "value_vi": "Tối đa 65W; 3 cổng: 2 Type-C và 1 USB",
+      "condition": "",
+      "source": "src2",
+      "confidence": "cao"
+    },
+    {
+      "id": "s2",
+      "key": "Giao thức",
+      "value_vi": "PD3.0, PPS, QC4.0, SCP, FCP",
+      "condition": "",
+      "source": "src2",
+      "confidence": "cao"
+    },
+    {
+      "id": "s3",
+      "key": "Chia công suất",
+      "value_vi": "Công nghệ BPS 2 chia công suất khi sạc nhiều cổng; có tản nhiệt BCT",
+      "condition": "Theo mô tả của DGA Store",
+      "source": "src2",
+      "confidence": "cao"
+    },
+    {
+      "id": "s4",
+      "key": "Khi cắm cả 3 cổng",
+      "value_vi": "45W + 15W",
+      "condition": "Theo bảng thông số của Promax",
+      "source": "src3",
+      "confidence": "vua"
+    },
+    {
+      "id": "s5",
+      "key": "Màu",
+      "value_vi": "Đen, Trắng",
+      "condition": "",
+      "source": "src2",
+      "confidence": "cao"
+    },
+    {
+      "id": "s6",
+      "key": "Bảo hành",
+      "value_vi": "Chính hãng, đổi 1 đổi 1 (DGA Store); Promax không ghi thời hạn",
+      "condition": "",
+      "source": "src2",
+      "confidence": "vua"
+    }
+  ],
+  "strengths": [
+    {
+      "id": "st1",
+      "text": "65W và 3 cổng (2 USB-C, 1 USB) trong một củ",
+      "source": "src2"
+    },
+    {
+      "id": "st2",
+      "text": "Hỗ trợ nhiều giao thức: PD3.0, PPS, QC4.0, SCP, FCP",
+      "source": "src2"
+    },
+    {
+      "id": "st3",
+      "text": "Có công nghệ chia công suất BPS 2 và tản nhiệt BCT theo mô tả",
+      "source": "src2"
+    },
+    {
+      "id": "st4",
+      "text": "Có hai màu đen và trắng",
+      "source": "src2"
+    }
+  ],
+  "caveats": [
+    {
+      "id": "c1",
+      "text": "Cắm cả ba cổng thì bảng thông số Promax chỉ còn 45W + 15W, công suất mỗi cổng giảm",
+      "source": "src3"
+    },
+    {
+      "id": "c2",
+      "text": "Thông số các nơi bán và cả trang hãng chưa khớp nhau (kích thước 61 mm hay 98 mm, tổ hợp công suất khi cắm hai cổng), cần hỏi kỹ mã hàng",
+      "source": "src1"
+    },
+    {
+      "id": "c3",
+      "text": "Promax ghi hết hàng; nhiều biến thể có/không kèm cáp, chân xếp/chân tròn",
+      "source": "src3"
+    }
+  ],
+  "sources": [
+    {
+      "id": "src1",
+      "url": "https://www.baseus.com/products/gan5-pro-3-ports-fast-charger-65w",
+      "title": "Baseus Gan5 Pro 3 Ports Fast Charger 65W - baseus.com",
+      "type": "chinh_hang"
+    },
+    {
+      "id": "src2",
+      "url": "https://dgastore.vn/sac-nhanh-baseus-65w-gan5-pro-quick-charger",
+      "title": "Cóc sạc nhanh Baseus GaN5 Pro Quick Charger 65W - DGA Store",
+      "type": "cua_hang"
+    },
+    {
+      "id": "src3",
+      "url": "https://promax.vn/products/bo-combo-sac-nhanh-baseus-gan5-pro-quick-charger-65w",
+      "title": "Combo sạc nhanh Baseus GaN5 Pro 65W kèm cáp C to C - Promax",
+      "type": "cua_hang"
+    },
+    {
+      "id": "src4",
+      "url": "https://www.baseus.com/products/gan5-pro-flat-wall-charger-65w",
+      "title": "Baseus GaN5 Pro Flat USB-C Wall Charger 65W - baseus.com (mẫu bị loại)",
+      "type": "chinh_hang"
+    },
+    {
+      "id": "s_price1",
+      "url": "https://dgastore.vn/sac-nhanh-baseus-65w-gan5-pro-quick-charger",
+      "title": "Giá tại DGA Store, ngày 2026-10-22",
+      "type": "cua_hang"
+    },
+    {
+      "id": "s_price2",
+      "url": "https://promax.vn/products/bo-combo-sac-nhanh-baseus-gan5-pro-quick-charger-65w",
+      "title": "Giá tại Promax, ngày 2026-10-22",
+      "type": "cua_hang"
+    }
+  ],
+  "unverified": [
+    "Kích thước/trọng lượng: một trang ghi chiều dài 61 mm, kết quả tìm kiếm ghi 98 x 36,3 x 32 mm và 120,8 g; chưa mở được nguồn thống nhất, không dùng trong lời đọc. Ý 'gọn hơn củ gốc' chưa xác minh.",
+    "Tổ hợp công suất khi cắm hai cổng USB-C: một nơi ghi 45W + 20W, nơi khác 45W + 30W, không dùng.",
+    "Công suất cổng USB-A (Promax ghi 60W) nghi sai, không dùng.",
+    "Đánh giá độc lập/đo kiểm: không tìm được bài đáng tin cậy; kết quả tìm kiếm về điểm 5/5 trên PB Tech và Onliner chưa mở được trang.",
+    "baseus.vn: trang sản phẩm trả lỗi 404 khi mở, giá 575.200 đồng chỉ thấy trong kết quả tìm kiếm.",
+    "Màu sắc/hình dáng chi tiết của củ: không có mô tả bằng chữ trong nguồn; dựa vào ảnh tham chiếu."
+  ],
+  "product_visual_description": "A Baseus GaN5 Pro 65W wall charger with two USB-C ports and one USB-A port, sold in black and in white; follow the reference image for exact shape.",
+  "ref_image_candidates": [
+    {
+      "url": "https://www.baseus.com/cdn/shop/files/Baseus_Gan5_Pro_3_Ports_Fast_Charger_65W_1_1200x.jpg?v=1743588717",
+      "page": "https://www.baseus.com/products/gan5-pro-3-ports-fast-charger-65w",
+      "kind": "product_main"
+    },
+    {
+      "url": "https://www.baseus.com/cdn/shop/files/Baseus_Gan5_Pro_3_Ports_Fast_Charger_65W_2_e7fd92fe-0f0b-4ce7-ae10-968cbf6ec2ef_1200x.jpg?v=1743588755",
+      "page": "https://www.baseus.com/products/gan5-pro-3-ports-fast-charger-65w",
+      "kind": "product_angle"
+    },
+    {
+      "url": "https://bizweb.dktcdn.net/100/461/377/products/coc-sac-nhanh-baseus-gan5-pro-quick-charger-65w.jpg?v=1686302740550",
+      "page": "https://dgastore.vn/sac-nhanh-baseus-65w-gan5-pro-quick-charger",
+      "kind": "product_main"
+    },
+    {
+      "url": "https://product.hstatic.net/200000567141/product/1_4_c03c85469d7340d4a2f5e7f6d6069cd8_01ab40af4ae249528f12de4aea4603b1_master.jpg",
+      "page": "https://promax.vn/products/bo-combo-sac-nhanh-baseus-gan5-pro-quick-charger-65w",
+      "kind": "product_angle"
+    }
+  ],
+  "takeaway": "Cần một củ 65W có ba cổng với giao thức đầy đủ thì Baseus GaN5 Pro đáng xem; nhưng thông số các nơi bán chưa khớp, nên kiểm tra kỹ mã hàng, và cần sạc nhiều thiết bị ở công suất cao thì cân nhắc củ khác.",
+  "buyer_personas": [
+    "Người cần một củ 65W nhiều cổng, chấp nhận kiểm tra kỹ mã hàng",
+    "Người dùng điện thoại Android, iPhone và laptop mỏng"
+  ]
+}

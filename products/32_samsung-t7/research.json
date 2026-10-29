@@ -1,0 +1,227 @@
+{
+  "id": "32",
+  "slug": "32_samsung-t7",
+  "status": "mot_phan",
+  "chosen_model": "Samsung Portable SSD T7 Shield 1TB (MU-PE1T0S)",
+  "alternatives_rejected": [
+    {
+      "model": "Samsung T7 (không Shield)",
+      "reason": "Cùng tốc độ theo Tech Advisor nhưng không có IP65 và rơi 3 m; không mở được trang giá VN riêng cho bản này, dùng làm lựa chọn rẻ hơn trong lời đọc."
+    },
+    {
+      "model": "Samsung T7 Shield 2TB/4TB",
+      "reason": "Chọn 1TB vì có đủ giá VN và thông số đo; 2TB giá 5.589.000 theo giá ra mắt (VnReview)."
+    }
+  ],
+  "official_page": "https://www.samsung.com/ca/memory-storage/portable-ssd/t7-shield-1tb-black-external-storage-nvme-1050-mbs-mu-pe1t0s-am/",
+  "price_vnd": {
+    "low": 2750000,
+    "high": 3499000,
+    "as_of": "2026-10-22",
+    "sources": [
+      "src2",
+      "src3",
+      "src4"
+    ],
+    "confidence": "vua"
+  },
+  "specs": [
+    {
+      "id": "s1",
+      "key": "Tốc độ và giao tiếp",
+      "value_vi": "Đọc tới 1.050 MB/s, ghi tới 1.000 MB/s; USB 3.2 Gen 2 (10 Gbps)",
+      "condition": "tối đa theo hãng, cần máy hỗ trợ UASP",
+      "source": "src1",
+      "confidence": "cao"
+    },
+    {
+      "id": "s2",
+      "key": "Tốc độ đo thực tế",
+      "value_vi": "CrystalDiskMark mặc định: đọc 1.085 MB/s, ghi 1.029 MB/s; RealWorld: đọc 799, ghi 911 MB/s",
+      "condition": "bản 1TB của Tech Advisor, một máy thử",
+      "source": "src5",
+      "confidence": "vua"
+    },
+    {
+      "id": "s3",
+      "key": "Ghi liên tục",
+      "value_vi": "Ghi tăng vọt rồi tụt về khoảng 600 MB/s khi bộ đệm nhỏ đầy",
+      "condition": "Tech Advisor, bản 1TB",
+      "source": "src5",
+      "confidence": "vua"
+    },
+    {
+      "id": "s4",
+      "key": "Độ bền",
+      "value_vi": "IP65 (chống bụi, chống tia nước); thả rơi 3 m trên tấm kim loại",
+      "condition": "thử nghiệm nội bộ của Samsung",
+      "source": "src1",
+      "confidence": "cao"
+    },
+    {
+      "id": "s5",
+      "key": "Kích thước và khối lượng",
+      "value_vi": "59 x 88 x 13 mm; 98 g",
+      "condition": "Hacom ghi 94 g; dùng 98 g theo Samsung và Memoryzone",
+      "source": "src1",
+      "confidence": "cao"
+    },
+    {
+      "id": "s6",
+      "key": "Mã hóa",
+      "value_vi": "AES 256-bit phần cứng",
+      "condition": "",
+      "source": "src1",
+      "confidence": "cao"
+    },
+    {
+      "id": "s7",
+      "key": "Cáp đi kèm",
+      "value_vi": "USB-C sang USB-C và USB-C sang USB-A",
+      "condition": "",
+      "source": "src4",
+      "confidence": "cao"
+    },
+    {
+      "id": "s8",
+      "key": "Giá bán tại VN (1TB)",
+      "value_vi": "Memoryzone 2.750.000 (hết hàng); Hacom 3.499.000 (đặt trước)",
+      "condition": "ngày 2026-10-22; giá ra mắt 3.329.000 (2024)",
+      "source": "src3",
+      "confidence": "vua"
+    },
+    {
+      "id": "s9",
+      "key": "Bảo hành",
+      "value_vi": "36 tháng",
+      "condition": "chính hãng theo Hacom, Memoryzone",
+      "source": "src2",
+      "confidence": "cao"
+    },
+    {
+      "id": "s10",
+      "key": "So với T7 thường",
+      "value_vi": "Không nhanh hơn T7 gốc; giá cao hơn tới 17% tùy dung lượng",
+      "condition": "Tech Advisor",
+      "source": "src5",
+      "confidence": "vua"
+    },
+    {
+      "id": "s11",
+      "key": "Tương thích",
+      "value_vi": "Máy tính, Mac, điện thoại Android, máy chơi game",
+      "condition": "có thể cần định dạng lại ổ",
+      "source": "src1",
+      "confidence": "cao"
+    }
+  ],
+  "strengths": [
+    {
+      "text": "Chống bụi, chống tia nước IP65 và chịu rơi 3 m, bền hơn T7 gốc.",
+      "source": "src1"
+    },
+    {
+      "text": "Tốc độ đo được khoảng 1.000 MB/s đọc/ghi trên bản 1TB.",
+      "source": "src5"
+    },
+    {
+      "text": "Mã hóa AES 256-bit, kèm cả hai loại cáp USB-C.",
+      "source": "src4"
+    },
+    {
+      "text": "Nhỏ gọn khoảng 98 g, bảo hành 36 tháng.",
+      "source": "src1"
+    }
+  ],
+  "caveats": [
+    {
+      "text": "Tốc độ ghi liên tục tụt về khoảng 600 MB/s khi bộ đệm đầy.",
+      "source": "src5"
+    },
+    {
+      "text": "Hiệu năng gần như không hơn T7 gốc trong khi giá cao hơn.",
+      "source": "src5"
+    },
+    {
+      "text": "Cáp USB-C có thể lỏng, gây mất kết nối.",
+      "source": "src5"
+    }
+  ],
+  "sources": [
+    {
+      "id": "src1",
+      "url": "https://www.samsung.com/ca/memory-storage/portable-ssd/t7-shield-1tb-black-external-storage-nvme-1050-mbs-mu-pe1t0s-am/",
+      "title": "Samsung Canada - T7 Shield 1TB MU-PE1T0S/AM (trang chính hãng)",
+      "type": "chinh_hang"
+    },
+    {
+      "id": "src2",
+      "url": "https://hacom.vn/o-cung-gan-ngoai-ssd-samsung-t7-portable-shield-1tb-2.5-inch-usb-3.2-den-doc-1050mb-s-ghi-1000mb-s-mu-pe1t0s-ww",
+      "title": "Hacom - Samsung T7 Shield 1TB MU-PE1T0S/WW",
+      "type": "cua_hang"
+    },
+    {
+      "id": "src3",
+      "url": "https://memoryzone.com.vn/o-cung-di-dong-1tb-external-ssd-samsung-t7-shield-usb-3-2-gen-2-mu-pe1t0",
+      "title": "Memoryzone - Samsung T7 Shield 1TB",
+      "type": "cua_hang"
+    },
+    {
+      "id": "src4",
+      "url": "https://vnreview.vn/threads/samsung-t7-shield-chinh-thuc-ra-mat-viet-nam-o-ssd-di-dong-chong-vap-chong-nuoc-chong-bui-gia-tu-hon-3-trieu.21936/post-23107",
+      "title": "VnReview - Samsung T7 Shield ra mắt Việt Nam (07/02/2024)",
+      "type": "danh_gia"
+    },
+    {
+      "id": "src5",
+      "url": "https://www.techadvisor.com/article/723249/samsung-t7-shield-review.html",
+      "title": "Tech Advisor - Samsung T7 Shield review",
+      "type": "danh_gia"
+    }
+  ],
+  "unverified": [
+    "Trang Samsung Việt Nam không mở được (lỗi kết nối); dùng trang Samsung Canada cho thông số chính hãng.",
+    "Tình trạng tồn kho: Memoryzone ghi hết hàng, Hacom ghi đặt trước; chưa xác nhận cửa hàng nào còn hàng ngay.",
+    "Tom's Hardware, Windows Central, Digital Camera World không mở được nội dung bài; chỉ dùng Tech Advisor.",
+    "Khối lượng lệch giữa nguồn (94 g Hacom, 98 g Samsung); dùng 98 g.",
+    "Chưa xác nhận Samsung có bản T7 Shield mới hơn tại VN sau 2024."
+  ],
+  "product_visual_description": "Black Samsung T7 Shield portable SSD: compact, pocket-sized slim rectangular drive with a rubberized textured exterior (Samsung page); also sold in beige and blue.",
+  "ref_image_candidates": [
+    {
+      "url": "https://images.samsung.com/is/image/samsung/p6pim/ca/mu-pe1t0s-am/gallery/ca-portable-ssd-t7-shield-423167-mu-pe1t0s-am-532385801?$1164_776_PNG$",
+      "page": "https://www.samsung.com/ca/memory-storage/portable-ssd/t7-shield-1tb-black-external-storage-nvme-1050-mbs-mu-pe1t0s-am/",
+      "kind": "product_main"
+    },
+    {
+      "url": "https://hanoicomputercdn.com/media/product/67389_o_cung_gan_ngoai_ssd_samsung_t7_portable_shield_1tb_2_5_inch_usb_3__1_.jpg",
+      "page": "https://hacom.vn/o-cung-gan-ngoai-ssd-samsung-t7-portable-shield-1tb-2.5-inch-usb-3.2-den-doc-1050mb-s-ghi-1000mb-s-mu-pe1t0s-ww",
+      "kind": "product_main"
+    },
+    {
+      "url": "https://hanoicomputercdn.com/media/product/67389_o_cung_gan_ngoai_ssd_samsung_t7_portable_shield_1tb_2_5_inch_usb_3__2_.jpg",
+      "page": "https://hacom.vn/o-cung-gan-ngoai-ssd-samsung-t7-portable-shield-1tb-2.5-inch-usb-3.2-den-doc-1050mb-s-ghi-1000mb-s-mu-pe1t0s-ww",
+      "kind": "product_angle"
+    },
+    {
+      "url": "https://hanoicomputercdn.com/media/product/67389_o_cung_gan_ngoai_ssd_samsung_t7_portable_shield_1tb_2_5_inch_usb_3__3_.jpg",
+      "page": "https://hacom.vn/o-cung-gan-ngoai-ssd-samsung-t7-portable-shield-1tb-2.5-inch-usb-3.2-den-doc-1050mb-s-ghi-1000mb-s-mu-pe1t0s-ww",
+      "kind": "product_angle"
+    },
+    {
+      "url": "https://bizweb.dktcdn.net/thumb/1024x1024/100/329/122/products/samsung-t7-shield-01.jpg?v=1729659474260",
+      "page": "https://memoryzone.com.vn/o-cung-di-dong-1tb-external-ssd-samsung-t7-shield-usb-3-2-gen-2-mu-pe1t0",
+      "kind": "product_angle"
+    },
+    {
+      "url": "https://bizweb.dktcdn.net/thumb/1024x1024/100/329/122/products/samsung-t7-shield-02.jpg?v=1729659474260",
+      "page": "https://memoryzone.com.vn/o-cung-di-dong-1tb-external-ssd-samsung-t7-shield-usb-3-2-gen-2-mu-pe1t0",
+      "kind": "in_use"
+    }
+  ],
+  "takeaway": "Cần SSD di động bền, chống nước và bụi, mang đi quay chụp thì chọn Samsung T7 Shield; chỉ cần tốc độ và giá thấp, hoặc ghi liên tục rất lâu thì cân nhắc T7 thường hoặc ổ khác.",
+  "buyer_personas": [
+    "Người quay chụp ngoài trời, hay mang ổ đi",
+    "Người cần sao lưu dữ liệu có mã hóa, chịu rơi"
+  ]
+}

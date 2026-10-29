@@ -1,0 +1,191 @@
+{
+  "id": "17",
+  "slug": "17_huawei-band-10",
+  "status": "xac_minh",
+  "chosen_model": "Huawei Band 10 (viền nhựa, bản Đen)",
+  "alternatives_rejected": [
+    {
+      "model": "Huawei Band 10 viền nhôm",
+      "reason": "cùng dòng, nặng 15 g; giữ bản viền nhựa để mô tả hình ảnh nhất quán"
+    }
+  ],
+  "official_page": "https://consumer.huawei.com/vn/wearables/band10/",
+  "price_vnd": {
+    "low": 590000,
+    "high": 740000,
+    "as_of": "2026-10-22",
+    "sources": [
+      "src1",
+      "src3"
+    ],
+    "confidence": "vua"
+  },
+  "specs": [
+    {
+      "id": "s1",
+      "key": "Màn hình",
+      "value_vi": "AMOLED 1,47 inch, 194 x 368 px",
+      "condition": "",
+      "source": "src1",
+      "confidence": "cao"
+    },
+    {
+      "id": "s2",
+      "key": "Pin",
+      "value_vi": "khoảng 8 ngày; bật màn hình luôn sáng (AOD) khoảng 3 ngày",
+      "condition": "8 ngày = dùng thông thường (src2, src3); 3 ngày = AOD (src1, src2). Mức 14 ngày được các nguồn gắn điều kiện khác nhau (dùng điển hình / tiết kiệm pin) nên không dùng",
+      "source": "src2",
+      "confidence": "cao"
+    },
+    {
+      "id": "s3",
+      "key": "Sạc",
+      "value_vi": "đầy khoảng 45 phút; sạc 5 phút dùng khoảng 2 ngày",
+      "condition": "cáp sạc từ tính",
+      "source": "src2",
+      "confidence": "cao"
+    },
+    {
+      "id": "s4",
+      "key": "Kích thước, khối lượng",
+      "value_vi": "14 g (viền nhựa), dày 8,99 mm",
+      "condition": "không tính dây; viền nhôm 15 g",
+      "source": "src2",
+      "confidence": "cao"
+    },
+    {
+      "id": "s5",
+      "key": "Chống nước",
+      "value_vi": "5 ATM (ISO 22810:2010), bơi nông, tắm; tránh nước nóng, phòng xông hơi",
+      "condition": "",
+      "source": "src1",
+      "confidence": "cao"
+    },
+    {
+      "id": "s6",
+      "key": "GPS",
+      "value_vi": "không có GPS tích hợp (trang không liệt kê cảm biến GPS); đạp xe ngoài trời cần GPS điện thoại",
+      "condition": "",
+      "source": "src2",
+      "confidence": "vua"
+    },
+    {
+      "id": "s7",
+      "key": "Theo dõi sức khỏe",
+      "value_vi": "nhịp tim, SpO2, giấc ngủ, căng thẳng, chu kỳ; chỉ để tham khảo, không phải thiết bị y tế",
+      "condition": "",
+      "source": "src2",
+      "confidence": "cao"
+    },
+    {
+      "id": "s8",
+      "key": "Tương thích",
+      "value_vi": "Android 9.0 trở lên, iOS 13 trở lên, qua ứng dụng Huawei Health",
+      "condition": "",
+      "source": "src1",
+      "confidence": "cao"
+    },
+    {
+      "id": "s9",
+      "key": "Giá",
+      "value_vi": "khoảng 590.000 đến 740.000 đồng",
+      "condition": "giá khuyến mãi, thay đổi theo ngày",
+      "source": "src1",
+      "confidence": "vua"
+    }
+  ],
+  "strengths": [
+    {
+      "text": "Mỏng nhẹ: 14 g, dày 8,99 mm",
+      "source": "src2"
+    },
+    {
+      "text": "Pin khoảng 8 ngày dùng thông thường",
+      "source": "src2"
+    },
+    {
+      "text": "Màn hình AMOLED 1,47 inch",
+      "source": "src1"
+    },
+    {
+      "text": "Chống nước 5 ATM, theo dõi nhịp tim, SpO2, giấc ngủ",
+      "source": "src1"
+    },
+    {
+      "text": "Giá dưới 1 triệu đồng",
+      "source": "src1"
+    }
+  ],
+  "caveats": [
+    {
+      "text": "Không có GPS tích hợp; muốn lộ trình ngoài trời cần mang điện thoại",
+      "source": "src2"
+    },
+    {
+      "text": "Số liệu sức khỏe chỉ để tham khảo, không dùng chẩn đoán (hãng nêu rõ)",
+      "source": "src2"
+    },
+    {
+      "text": "Thời lượng pin giữa các nguồn gắn điều kiện khác nhau; bật AOD chỉ còn khoảng 3 ngày",
+      "source": "src1"
+    }
+  ],
+  "sources": [
+    {
+      "id": "src1",
+      "url": "https://www.thegioididong.com/dong-ho-thong-minh/huawei-band-10",
+      "title": "Huawei Band 10 (viền nhựa) - Thế Giới Di Động",
+      "type": "cua_hang"
+    },
+    {
+      "id": "src2",
+      "url": "https://consumer.huawei.com/vn/wearables/band10/",
+      "title": "HUAWEI Band 10 - Huawei Consumer",
+      "type": "chinh_hang"
+    },
+    {
+      "id": "src3",
+      "url": "https://fptshop.com.vn/smartwatch/huawei-band-10-vien-nhua",
+      "title": "Huawei Band 10 viền nhựa - FPT Shop",
+      "type": "cua_hang"
+    }
+  ],
+  "unverified": [
+    "Độ chính xác cảm biến nhịp tim/SpO2: chưa có số đo độc lập đã mở; không dùng trong lời đọc.",
+    "Đánh giá ABS-CBN, 91mobiles (nhắc không có GPS, ứng dụng không có trên Google Play, sạc dễ bung) chỉ thấy qua kết quả tìm kiếm, trang ABS-CBN trả 403; không dùng làm nguồn.",
+    "Số ngày pin 14 ngày: điều kiện không thống nhất, không dùng."
+  ],
+  "product_visual_description": "Slim rectangular smart band with a rounded-corner 1.47-inch AMOLED screen, black plastic frame and black replaceable rubber strap (also sold in pink and other colours).",
+  "ref_image_candidates": [
+    {
+      "url": "https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/7077/335762/huawei-band-10-den-1-638778196995614376.jpg",
+      "page": "https://www.thegioididong.com/dong-ho-thong-minh/huawei-band-10",
+      "kind": "product_main"
+    },
+    {
+      "url": "https://cdn.tgdd.vn/Products/Images/7077/335762/huawei-band-10-den-tb.jpg",
+      "page": "https://www.thegioididong.com/dong-ho-thong-minh/huawei-band-10",
+      "kind": "product_main"
+    },
+    {
+      "url": "https://consumer.huawei.com/dam/content/dam/huawei-cbg-site/common/mkt/pdp/wearables/band10/images/hero/huawei-band-10-kv-xs-thumb.jpg",
+      "page": "https://consumer.huawei.com/vn/wearables/band10/",
+      "kind": "product_main"
+    },
+    {
+      "url": "https://consumer.huawei.com/dam/content/dam/huawei-cbg-site/common/mkt/pdp/wearables/band10/images/material/huawei-band-10-appearance-thumb.jpg",
+      "page": "https://consumer.huawei.com/vn/wearables/band10/",
+      "kind": "product_angle"
+    },
+    {
+      "url": "https://cdn2.fptshop.com.vn/unsafe/1920x0/filters:format(webp):quality(75)/huawei_band_10_vien_nhua_den_cf37f19cec.png",
+      "page": "https://fptshop.com.vn/smartwatch/huawei-band-10-vien-nhua",
+      "kind": "product_main"
+    }
+  ],
+  "takeaway": "Cần vòng đeo mỏng nhẹ, pin cả tuần, giá dưới một triệu thì chọn Huawei Band 10; cần GPS riêng hoặc đo sức khỏe để chẩn đoán thì nên cân nhắc thiết bị khác.",
+  "buyer_personas": [
+    "Người mới theo dõi sức khỏe và giấc ngủ",
+    "Người dùng Android hoặc iPhone cần vòng giá mềm"
+  ]
+}

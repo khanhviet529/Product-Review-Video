@@ -1,0 +1,227 @@
+{
+  "id": "12",
+  "slug": "12_anker-332-usb-c-hub-5in1",
+  "status": "xac_minh",
+  "chosen_model": "Anker 332 USB-C Hub (5-in-1), mã A8355",
+  "alternatives_rejected": [
+    {
+      "model": "Anker 332 USB-C Hub (5-in-1, 4K HDMI) mã A8356",
+      "reason": "Thấy trên anker.com là phiên bản khác; ứng viên và các trang bán Việt Nam đều là A8355."
+    }
+  ],
+  "official_page": "https://anker.vn/products/bo-chuyen-doi-anker-332-usb-c-hub-5-in-1",
+  "price_vnd": {
+    "low": 550000,
+    "high": 650000,
+    "as_of": "2026-10-22",
+    "sources": [
+      "s_price1",
+      "s_price2",
+      "s_price3"
+    ],
+    "confidence": "vua",
+    "note": "anker.vn niêm yết 650.000 đồng (tạm hết hàng); CellphoneS 590.000 đồng (giá gốc 720.000, tạm hết hàng); Ankershop.vn 550.000 đồng (giá gốc 880.000, còn nút đặt hàng); DGA Store 499.000 đồng nhưng hết hàng (xem ngày 2026-10-22)."
+  },
+  "specs": [
+    {
+      "id": "s1",
+      "key": "Cổng",
+      "value_vi": "1 HDMI, 2 USB-A, 1 USB-C dữ liệu, 1 USB-C nhận sạc (PD)",
+      "condition": "",
+      "source": "src2",
+      "confidence": "cao"
+    },
+    {
+      "id": "s2",
+      "key": "HDMI",
+      "value_vi": "HDMI 1.4, tối đa 4K (3840 x 2160) ở 30Hz",
+      "condition": "Cổng USB-C dữ liệu không xuất hình",
+      "source": "src3",
+      "confidence": "cao"
+    },
+    {
+      "id": "s3",
+      "key": "Tốc độ dữ liệu",
+      "value_vi": "USB 3.2 Gen 1, 5 Gbps mỗi cổng dữ liệu",
+      "condition": "",
+      "source": "src3",
+      "confidence": "cao"
+    },
+    {
+      "id": "s4",
+      "key": "Sạc truyền qua",
+      "value_vi": "Nhận tới 100W, đưa laptop tối đa 85W",
+      "condition": "Phải tự có củ sạc, hub không kèm",
+      "source": "src3",
+      "confidence": "cao"
+    },
+    {
+      "id": "s5",
+      "key": "Kích thước",
+      "value_vi": "Khoảng 122 x 41 x 12 mm",
+      "condition": "",
+      "source": "src2",
+      "confidence": "cao"
+    },
+    {
+      "id": "s6",
+      "key": "Dây liền",
+      "value_vi": "Dài 19 cm",
+      "condition": "",
+      "source": "src2",
+      "confidence": "cao"
+    },
+    {
+      "id": "s7",
+      "key": "Bảo hành",
+      "value_vi": "18 tháng chính hãng",
+      "condition": "",
+      "source": "src2",
+      "confidence": "cao"
+    }
+  ],
+  "strengths": [
+    {
+      "id": "st1",
+      "text": "Gom HDMI, hai USB-A, USB-C dữ liệu và sạc truyền qua vào một hub nhỏ",
+      "source": "src2"
+    },
+    {
+      "id": "st2",
+      "text": "Có hai cổng USB-A, nay ít laptop mỏng còn",
+      "source": "src6"
+    },
+    {
+      "id": "st3",
+      "text": "Sạc truyền qua tới 85W cho laptop",
+      "source": "src3"
+    },
+    {
+      "id": "st4",
+      "text": "Hoàn thiện tốt, gọn khi đi công tác theo tổng hợp đánh giá; bảo hành 18 tháng",
+      "source": "src6"
+    }
+  ],
+  "caveats": [
+    {
+      "id": "c1",
+      "text": "HDMI chỉ tới 4K 30Hz, không phải 60Hz",
+      "source": "src3"
+    },
+    {
+      "id": "c2",
+      "text": "Cổng USB-C dữ liệu không xuất hình; chỉ một HDMI nên khó dùng hai màn hình",
+      "source": "src2"
+    },
+    {
+      "id": "c3",
+      "text": "Một số người dùng báo cổng USB-A trục trặc với ổ cứng ngoài, có hub hỏng sau thời gian ngắn",
+      "source": "src6"
+    },
+    {
+      "id": "c4",
+      "text": "Sạc truyền qua cần củ sạc riêng; nhiều nơi bán Việt Nam đang tạm hết hàng",
+      "source": "src3"
+    }
+  ],
+  "sources": [
+    {
+      "id": "src1",
+      "url": "https://www.anker.com/products/a8355",
+      "title": "Anker 332 USB-C Hub (5-in-1) - anker.com",
+      "type": "chinh_hang"
+    },
+    {
+      "id": "src2",
+      "url": "https://anker.vn/products/bo-chuyen-doi-anker-332-usb-c-hub-5-in-1",
+      "title": "Bộ chuyển đổi Anker 332 USB-C Hub 5-in-1 - Anker Việt Nam",
+      "type": "chinh_hang"
+    },
+    {
+      "id": "src3",
+      "url": "https://service.anker.com/product-description/a085g0000050NPVAA2",
+      "title": "Anker 332 USB-C Hub (5-in-1) - Anker Service",
+      "type": "chinh_hang"
+    },
+    {
+      "id": "src4",
+      "url": "https://cellphones.com.vn/hub-chuyen-doi-anker-322-a8355-5-in-1.html",
+      "title": "HUB Anker 332 5 trong 1 USB-C A8355 - CellphoneS",
+      "type": "cua_hang"
+    },
+    {
+      "id": "src5",
+      "url": "https://ankershop.vn/san-pham/bo-chuyen-doi-anker-332-usb-c-hub-5-in-1-a8355/",
+      "title": "Bộ chuyển đổi Anker 332 USB-C Hub 5-in-1 A8355 - Ankershop",
+      "type": "cua_hang"
+    },
+    {
+      "id": "src6",
+      "url": "https://shopsavvy.com/reviews-tldr/anker-332-usb-c-hub.md",
+      "title": "TLDR Review: Anker 332 USB-C Hub (tổng hợp đánh giá)",
+      "type": "danh_gia"
+    },
+    {
+      "id": "s_price1",
+      "url": "https://anker.vn/products/bo-chuyen-doi-anker-332-usb-c-hub-5-in-1",
+      "title": "Giá tại anker.vn, ngày 2026-10-22",
+      "type": "cua_hang"
+    },
+    {
+      "id": "s_price2",
+      "url": "https://cellphones.com.vn/hub-chuyen-doi-anker-322-a8355-5-in-1.html",
+      "title": "Giá tại CellphoneS, ngày 2026-10-22",
+      "type": "cua_hang"
+    },
+    {
+      "id": "s_price3",
+      "url": "https://ankershop.vn/san-pham/bo-chuyen-doi-anker-332-usb-c-hub-5-in-1-a8355/",
+      "title": "Giá tại Ankershop, ngày 2026-10-22",
+      "type": "cua_hang"
+    }
+  ],
+  "unverified": [
+    "Trọng lượng: anker.vn ghi 50 g, kết quả tìm kiếm ghi 78 g; không thống nhất, không dùng trong lời đọc.",
+    "Không có cổng mạng, khe thẻ nhớ: suy từ danh sách cổng, chưa thấy trang nào nói thẳng.",
+    "Đánh giá độc lập chuyên sâu (Kimola trả lỗi 410): chỉ có tổng hợp ShopSavvy, nên mức tin cậy vừa.",
+    "Trang CellphoneS ghi tên '322' trong mô tả (lỗi gõ); giá 499.000 đồng của DGA Store hết hàng, không dùng."
+  ],
+  "product_visual_description": "A slim, flat black USB-C hub with a short attached cable, offering HDMI, two USB-A, one USB-C data and one USB-C power-input port.",
+  "ref_image_candidates": [
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0493/9834/9974/files/A8355011_20241009_TD_926935c1-36c3-4f40-9793-09db763f1c1f.png?v=1728526881",
+      "page": "https://www.anker.com/products/a8355",
+      "kind": "product_main"
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0493/9834/9974/files/Black-02_b965d631-4e19-40bb-be81-ef8896480b12.jpg?v=1710386110",
+      "page": "https://www.anker.com/products/a8355",
+      "kind": "product_angle"
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0493/9834/9974/files/Black-03_1b222c00-064c-4f6c-8a39-ec720ed36934.jpg?v=1710386113",
+      "page": "https://www.anker.com/products/a8355",
+      "kind": "product_angle"
+    },
+    {
+      "url": "https://product.hstatic.net/1000153276/product/anker_332_usb-c_hub__5-in-1__2_3459baf8b1d34ea588db70facad1c5d6_master.png",
+      "page": "https://anker.vn/products/bo-chuyen-doi-anker-332-usb-c-hub-5-in-1",
+      "kind": "product_main"
+    },
+    {
+      "url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/h/u/hub-chuyen-doi-anker-322-a8355-5-in-1.jpg",
+      "page": "https://cellphones.com.vn/hub-chuyen-doi-anker-322-a8355-5-in-1.html",
+      "kind": "product_angle"
+    },
+    {
+      "url": "https://ankershop.vn/wp-content/uploads/2025/01/anker_332_usb-c_hub__5-in-1__3.webp",
+      "page": "https://ankershop.vn/san-pham/bo-chuyen-doi-anker-332-usb-c-hub-5-in-1-a8355/",
+      "kind": "product_angle"
+    }
+  ],
+  "takeaway": "Cần mở rộng cổng cho laptop mỏng với một màn hình thì Anker 332 5-in-1 hợp; cần màn hình 4K 60Hz, hai màn hình hoặc cổng mạng, thẻ nhớ thì cân nhắc hub khác.",
+  "buyer_personas": [
+    "Người dùng laptop mỏng cần HDMI và USB-A",
+    "Dân văn phòng chiếu slide, nối một màn hình ngoài"
+  ]
+}

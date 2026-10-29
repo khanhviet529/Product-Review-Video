@@ -1,0 +1,82 @@
+[
+  {
+    "file": "product_main.jpg",
+    "url": "https://media.meta.vn/Data/image/2026/08/26/chuot-khong-day-logitech-mx-anywhere-3s-h.jpg",
+    "page": "https://meta.vn/chuot-khong-day-logitech-mx-anywhere-3s-p124213",
+    "kind": "product_main",
+    "width": 3064,
+    "height": 2298
+  },
+  {
+    "file": "product_angle_1.jpg",
+    "url": "https://cdn2.fptshop.com.vn/unsafe/1920x0/filters:format(webp):quality(75)/chuot_khong_day_bluetooth_logitech_mx_anywhere_3s_hong_01_33ba01b9cf.png",
+    "page": "https://fptshop.com.vn/phu-kien/chuot-khong-day-bluetooth-logitech-mx-anywhere-3s",
+    "kind": "product_angle",
+    "width": 1920,
+    "height": 1920
+  },
+  {
+    "file": "product_angle_2.jpg",
+    "url": "https://resource.logitech.com/c_fill,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/products/mice/mx-anywhere-3s/product-gallery/graphite/mx-anywhere-3s-mouse-top-view-graphite.png",
+    "page": "https://logitech.com/en-qa/shop/p/mx-anywhere-3s",
+    "kind": "product_angle",
+    "width": 1600,
+    "height": 1374
+  },
+  {
+    "file": "product_angle_3.jpg",
+    "url": "https://resource.logitech.com/c_fill,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/products/mice/mx-anywhere-3s/product-gallery/rose/mx-anywhere-3s-mouse-top-view-rose.png",
+    "page": "https://logitech.com/en-qa/shop/p/mx-anywhere-3s",
+    "kind": "product_angle",
+    "width": 1600,
+    "height": 1374
+  },
+  {
+    "file": "product_angle_4.jpg",
+    "url": "https://resource.logitech.com/c_fill,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/products/mice/mx-anywhere-3s/product-gallery/pale-grey/mx-anywhere-3s-mouse-top-view-pale-grey.png",
+    "page": "https://logitech.com/en-qa/shop/p/mx-anywhere-3s",
+    "kind": "product_angle",
+    "width": 1600,
+    "height": 1374
+  },
+  {
+    "file": "product_angle_5.jpg",
+    "url": "https://resource.logitech.com/c_fill,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/products/mice/mx-anywhere-3s/product-gallery/black/mx-anywhere-3s-mouse-top-view-black.png",
+    "page": "https://logitech.com/en-qa/shop/p/mx-anywhere-3s",
+    "kind": "product_angle",
+    "width": 1600,
+    "height": 1374
+  },
+  {
+    "file": "product_angle_6.jpg",
+    "url": "https://resource.logitech.com/c_fill,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/products/mice/mx-anywhere-3s/product-gallery/black/mx-anywhere-3s-mouse-3qtr-front-black.png",
+    "page": "https://logitech.com/en-qa/shop/p/mx-anywhere-3s",
+    "kind": "product_angle",
+    "width": 1600,
+    "height": 1374
+  },
+  {
+    "file": "product_angle_7.jpg",
+    "url": "https://resource.logitech.com/c_fill,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/products/mice/mx-anywhere-3s/product-gallery/black/mx-anywhere-3s-mouse-fob-black.png",
+    "page": "https://logitech.com/en-qa/shop/p/mx-anywhere-3s",
+    "kind": "product_angle",
+    "width": 1600,
+    "height": 1374
+  },
+  {
+    "file": "product_angle_8.jpg",
+    "url": "https://resource.logitech.com/c_fill,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/products/mice/mx-anywhere-3s/product-gallery/black/mx-anywhere-3s-mouse-front-view-black.png",
+    "page": "https://logitech.com/en-qa/shop/p/mx-anywhere-3s",
+    "kind": "product_angle",
+    "width": 1600,
+    "height": 1374
+  },
+  {
+    "file": "product_angle_9.jpg",
+    "url": "https://resource.logitech.com/c_fill,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/products/mice/mx-anywhere-3s/product-gallery/black/mx-anywhere-3s-mouse-side-left-black.png",
+    "page": "https://logitech.com/en-qa/shop/p/mx-anywhere-3s",
+    "kind": "product_angle",
+    "width": 1600,
+    "height": 1374
+  }
+]

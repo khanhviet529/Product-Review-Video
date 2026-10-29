@@ -1,0 +1,82 @@
+[
+  {
+    "file": "product_main.jpg",
+    "url": "https://cdn.shopify.com/s/files/1/0516/3761/6830/files/20260304-121406_3840x.png?v=1772597724",
+    "page": "https://www.soundcore.com/products/p20i",
+    "kind": "product_main",
+    "width": 1996,
+    "height": 2000
+  },
+  {
+    "file": "product_main_2.jpg",
+    "url": "https://cdn.shopify.com/s/files/1/0716/2223/0306/files/1productphoto_3840x.jpg?v=1724655730",
+    "page": "https://www.soundcore.com/nz/products/p20i",
+    "kind": "product_main",
+    "width": 1500,
+    "height": 1500
+  },
+  {
+    "file": "product_angle_1.jpg",
+    "url": "https://cdn.shopify.com/s/files/1/0516/3761/6830/files/61aEVxrvxHL._AC_SX679.jpg?v=1772597724",
+    "page": "https://www.soundcore.com/products/p20i",
+    "kind": "product_angle",
+    "width": 679,
+    "height": 947
+  },
+  {
+    "file": "product_angle_2.jpg",
+    "url": "https://cdn.shopify.com/s/files/1/0516/3761/6830/files/510kahBJJGL._AC_SX679.jpg?v=1772597724",
+    "page": "https://www.soundcore.com/products/p20i",
+    "kind": "product_angle",
+    "width": 679,
+    "height": 947
+  },
+  {
+    "file": "product_angle_3.jpg",
+    "url": "https://cdn.shopify.com/s/files/1/0516/3761/6830/files/517CT3YCkqL._AC_SX679__1.jpg?v=1772597724",
+    "page": "https://www.soundcore.com/products/p20i",
+    "kind": "product_angle",
+    "width": 679,
+    "height": 836
+  },
+  {
+    "file": "product_angle_4.jpg",
+    "url": "https://cdn.shopify.com/s/files/1/0516/3761/6830/files/41v-TeJ5WTL._AC_SX679.jpg?v=1772597724",
+    "page": "https://www.soundcore.com/products/p20i",
+    "kind": "product_angle",
+    "width": 679,
+    "height": 951
+  },
+  {
+    "file": "product_angle_5.jpg",
+    "url": "https://cdn.shopify.com/s/files/1/0516/3761/6830/files/20260304-121406_780x.png?v=1772597724",
+    "page": "https://www.soundcore.com/products/p20i",
+    "kind": "product_angle",
+    "width": 780,
+    "height": 782
+  },
+  {
+    "file": "product_angle_6.jpg",
+    "url": "https://cdn.shopify.com/s/files/1/0516/3761/6830/files/20260304-121406_1534x.png?v=1772597724",
+    "page": "https://www.soundcore.com/products/p20i",
+    "kind": "product_angle",
+    "width": 1534,
+    "height": 1537
+  },
+  {
+    "file": "product_angle_7.jpg",
+    "url": "https://cdn.shopify.com/s/files/1/0716/2223/0306/files/6168.jpg?v=1739228254",
+    "page": "https://www.soundcore.com/nz/products/p20i",
+    "kind": "product_angle",
+    "width": 1500,
+    "height": 1500
+  },
+  {
+    "file": "product_angle_8.jpg",
+    "url": "https://cdn.shopify.com/s/files/1/0716/2223/0306/files/1productphoto_f025e975-b61e-4e03-9a0e-b8c86f3ea822.jpg?v=1724655730",
+    "page": "https://www.soundcore.com/nz/products/p20i",
+    "kind": "product_angle",
+    "width": 1500,
+    "height": 1500
+  }
+]

@@ -1,0 +1,227 @@
+{
+  "id": "03",
+  "slug": "03_xiaomi-redmi-buds-6-active",
+  "status": "mot_phan",
+  "chosen_model": "Xiaomi Redmi Buds 6 Active (mã model hãng: chưa xác minh)",
+  "alternatives_rejected": [
+    {
+      "model": "Xiaomi Redmi Buds 6 (không Active)",
+      "reason": "Mẫu khác, có ANC và giá cao hơn; ứng viên của dự án là bản Active giá mềm."
+    }
+  ],
+  "official_page": "https://www.mi.com/vn/product/redmi-buds-6-active/",
+  "price_vnd": {
+    "low": 361000,
+    "high": 590000,
+    "as_of": "2026-10-22",
+    "sources": [
+      "src1"
+    ],
+    "confidence": "vua"
+  },
+  "specs": [
+    {
+      "id": "s1",
+      "key": "Pin tai nghe",
+      "value_vi": "tới 6 giờ mỗi tai (37 mAh)",
+      "condition": "theo hãng/trang CellphoneS, không nêu điều kiện đo trên trang",
+      "source": "src1",
+      "confidence": "cao"
+    },
+    {
+      "id": "s2",
+      "key": "Pin tổng cùng hộp",
+      "value_vi": "tới 30 giờ (hộp 475 mAh)",
+      "condition": "tính cả hộp sạc",
+      "source": "src1",
+      "confidence": "cao"
+    },
+    {
+      "id": "s3",
+      "key": "Sạc nhanh",
+      "value_vi": "sạc 10 phút nghe khoảng 1 giờ",
+      "condition": "",
+      "source": "src1",
+      "confidence": "cao"
+    },
+    {
+      "id": "s4",
+      "key": "Bluetooth",
+      "value_vi": "Bluetooth 5.4",
+      "condition": "",
+      "source": "src1",
+      "confidence": "cao"
+    },
+    {
+      "id": "s5",
+      "key": "Độ trễ",
+      "value_vi": "khoảng 90 ms",
+      "condition": "số công bố của hãng, chưa có đo độc lập",
+      "source": "src1",
+      "confidence": "vua"
+    },
+    {
+      "id": "s6",
+      "key": "Driver và chế độ âm",
+      "value_vi": "driver 14,2 mm, 5 chế độ âm (Bass Boost, Vocal Boost, Volume Boost, High Treble Boost, mặc định)",
+      "condition": "",
+      "source": "src1",
+      "confidence": "cao"
+    },
+    {
+      "id": "s7",
+      "key": "Chống nước",
+      "value_vi": "IPX4",
+      "condition": "trang CellphoneS",
+      "source": "src1",
+      "confidence": "cao"
+    },
+    {
+      "id": "s8",
+      "key": "Micro gọi điện",
+      "value_vi": "2 micro, ENC khử ồn khi gọi, giảm tiếng gió tới 4 m/s",
+      "condition": "",
+      "source": "src1",
+      "confidence": "cao"
+    },
+    {
+      "id": "s9",
+      "key": "Khối lượng",
+      "value_vi": "4 g mỗi tai",
+      "condition": "hộp 35-36 g, trang ghi lệch nhau",
+      "source": "src1",
+      "confidence": "cao"
+    },
+    {
+      "id": "s10",
+      "key": "Chống ồn",
+      "value_vi": "Không có ANC, không có chế độ xuyên âm",
+      "condition": "",
+      "source": "src2",
+      "confidence": "cao"
+    },
+    {
+      "id": "s11",
+      "key": "Kiểu đeo",
+      "value_vi": "bán in-ear, đặt ở vành tai, không có đệm tai thay được",
+      "condition": "một người đánh giá",
+      "source": "src2",
+      "confidence": "vua"
+    },
+    {
+      "id": "s12",
+      "key": "Chất âm và gọi điện",
+      "value_vi": "âm thanh cân bằng tạm ổn ở tầm giá; gọi điện ngoài công viên bên kia nghe rõ",
+      "condition": "một người đánh giá",
+      "source": "src2",
+      "confidence": "vua"
+    },
+    {
+      "id": "s13",
+      "key": "Giá CellphoneS",
+      "value_vi": "361.000 đồng (giá niêm yết 590.000 đồng)",
+      "condition": "trạng thái \"sắp về hàng\" ngày xem",
+      "source": "src1",
+      "confidence": "vua"
+    },
+    {
+      "id": "s14",
+      "key": "Đánh giá người mua CellphoneS",
+      "value_vi": "4,8 trên 5 từ 47 đánh giá",
+      "condition": "không có nội dung chi tiết",
+      "source": "src1",
+      "confidence": "cao"
+    }
+  ],
+  "strengths": [
+    {
+      "text": "Giá thấp: 361.000 đồng trên CellphoneS (niêm yết 590.000 đồng).",
+      "source": "src1"
+    },
+    {
+      "text": "Pin tới 6 giờ mỗi tai, 30 giờ cùng hộp, sạc nhanh 10 phút nghe khoảng 1 giờ.",
+      "source": "src1"
+    },
+    {
+      "text": "Bluetooth 5.4, độ trễ hãng công bố khoảng 90 ms, driver 14,2 mm với 5 chế độ âm.",
+      "source": "src1"
+    },
+    {
+      "text": "Nhẹ 4 g mỗi tai; hai micro, người thử gọi ngoài công viên bên kia nghe rõ; cân bằng âm tạm ổn ở tầm giá.",
+      "source": "src2"
+    }
+  ],
+  "caveats": [
+    {
+      "text": "Không có chống ồn chủ động lẫn chế độ xuyên âm.",
+      "source": "src2"
+    },
+    {
+      "text": "Thiết kế bán in-ear, không đệm tai thay được, có thể không vừa với mọi người.",
+      "source": "src2"
+    },
+    {
+      "text": "Độ trễ 90 ms là số của hãng, chưa có đo độc lập.",
+      "source": "src1"
+    }
+  ],
+  "sources": [
+    {
+      "id": "src1",
+      "url": "https://cellphones.com.vn/tai-nghe-bluetooth-xiaomi-redmi-buds-6-active.html",
+      "title": "CellphoneS - Tai nghe Bluetooth True Wireless Xiaomi Redmi Buds 6 Active",
+      "type": "cua_hang"
+    },
+    {
+      "id": "src2",
+      "url": "https://earbudsarena.com/xiaomi-redmi-buds-6-active-review/",
+      "title": "EarbudsArena - Xiaomi Redmi Buds 6 Active review",
+      "type": "danh_gia"
+    }
+  ],
+  "unverified": [
+    "Trang chính hãng mi.com/vn trả về 403 / không đọc được, nên thông số lấy từ trang CellphoneS và review; official_page là URL xuất hiện trong kết quả tìm kiếm, chưa mở.",
+    "Mã model hãng (kiểu M....) chưa xác minh.",
+    "Điều kiện đo pin của hãng (âm lượng, codec) chỉ thấy qua tóm tắt tìm kiếm, chưa mở trang nguồn; không dùng.",
+    "Giá: CellphoneS 361.000 đồng nhưng ghi \"sắp về hàng\"; một tóm tắt tìm kiếm nêu Điện Máy Chợ Lớn 490.000 đồng (chưa mở trang). Cần kiểm lại tình trạng hàng trước khi đăng.",
+    "Độ trễ 90 ms chưa có đo độc lập. Kind của ảnh ref chưa kiểm bằng mắt."
+  ],
+  "product_visual_description": "Xiaomi Redmi Buds 6 Active semi-in-ear true wireless earbuds without interchangeable ear tips, with a compact rounded charging case; sold in blue, pink, black and white.",
+  "ref_image_candidates": [
+    {
+      "url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/t/a/tai-nghe-bluetooth-xiaomi-redmi-buds-6-active_5_.png",
+      "page": "https://cellphones.com.vn/tai-nghe-bluetooth-xiaomi-redmi-buds-6-active.html",
+      "kind": "product_main"
+    },
+    {
+      "url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/t/a/tai-nghe-bluetooth-xiaomi-redmi-buds-6-active_1_.png",
+      "page": "https://cellphones.com.vn/tai-nghe-bluetooth-xiaomi-redmi-buds-6-active.html",
+      "kind": "product_main"
+    },
+    {
+      "url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/1/6/166_1_2.png",
+      "page": "https://cellphones.com.vn/tai-nghe-bluetooth-xiaomi-redmi-buds-6-active.html",
+      "kind": "product_angle"
+    },
+    {
+      "url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/1/6/165_1_1.png",
+      "page": "https://cellphones.com.vn/tai-nghe-bluetooth-xiaomi-redmi-buds-6-active.html",
+      "kind": "product_angle"
+    },
+    {
+      "url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/t/a/tai-nghe-bluetooth-xiaomi-redmi-buds-6-active_2_.png",
+      "page": "https://cellphones.com.vn/tai-nghe-bluetooth-xiaomi-redmi-buds-6-active.html",
+      "kind": "product_angle"
+    },
+    {
+      "url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/1/7/170_1_2.png",
+      "page": "https://cellphones.com.vn/tai-nghe-bluetooth-xiaomi-redmi-buds-6-active.html",
+      "kind": "product_angle"
+    }
+  ],
+  "takeaway": "Cần tai nghe giá mềm, pin lâu, độ trễ thấp theo hãng thì Redmi Buds 6 Active đáng xem; cần chống ồn hoặc kiểu đeo có đệm tai thì nên cân nhắc loại khác.",
+  "buyer_personas": [
+    "Sinh viên, người đi làm cần tai nghe rẻ để nghe nhạc và gọi điện",
+    "Người dùng điện thoại Xiaomi/Android cần pin lâu"
+  ]
+}

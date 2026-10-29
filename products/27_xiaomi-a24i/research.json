@@ -1,0 +1,220 @@
+{
+  "id": "27",
+  "slug": "27_xiaomi-a24i",
+  "status": "mot_phan",
+  "chosen_model": "Xiaomi Monitor A24i 2026 23.8 inch (mã ELA6416EU)",
+  "alternatives_rejected": [
+    {
+      "model": "Xiaomi Monitor A24i đời 100Hz (ELA5444EU)",
+      "reason": "Bản cũ; một cửa hàng ghi tạm hết hàng; đã có bản 2026 giá tương đương."
+    },
+    {
+      "model": "Xiaomi A27i",
+      "reason": "Không được nghiên cứu trong lượt này; chưa xác minh."
+    }
+  ],
+  "official_page": "https://www.mi.com/vn/product/xiaomi-monitor-a24i/",
+  "official_page_note": "trang này trả 403 và nói về bản 100Hz cũ; chưa có trang chính hãng bản 2026 đã xác minh",
+  "price_vnd": {
+    "low": 2290000,
+    "high": 2290000,
+    "as_of": "2026-10-22",
+    "sources": [
+      "src1",
+      "src2"
+    ],
+    "confidence": "vua"
+  },
+  "specs": [
+    {
+      "id": "s1",
+      "key": "Màn hình",
+      "value_vi": "23,8 inch, Full HD 1920 x 1080, tấm nền IPS, góc nhìn 178 độ",
+      "condition": "",
+      "source": "src1",
+      "confidence": "cao"
+    },
+    {
+      "id": "s2",
+      "key": "Tần số quét",
+      "value_vi": "144 Hz",
+      "condition": "bảng thông số FPT Shop, bài đánh giá FPT Shop và bảng của Thế Giới Di Động; phần mô tả của Thế Giới Di Động ghi 100 Hz nên cần kiểm tra mã model",
+      "source": "src3",
+      "confidence": "vua"
+    },
+    {
+      "id": "s3",
+      "key": "Màu sắc",
+      "value_vi": "99% sRGB, 16,7 triệu màu",
+      "condition": "",
+      "source": "src1",
+      "confidence": "cao"
+    },
+    {
+      "id": "s4",
+      "key": "Độ sáng",
+      "value_vi": "300 nit",
+      "condition": "",
+      "source": "src1",
+      "confidence": "cao"
+    },
+    {
+      "id": "s5",
+      "key": "Bảo vệ mắt",
+      "value_vi": "Giảm ánh sáng xanh chứng nhận TÜV Rheinland, điều chỉnh độ sáng kiểu DC chống nhấp nháy",
+      "condition": "",
+      "source": "src1",
+      "confidence": "cao"
+    },
+    {
+      "id": "s6",
+      "key": "Cổng",
+      "value_vi": "1 DisplayPort 1.4, 1 HDMI 2.0",
+      "condition": "",
+      "source": "src2",
+      "confidence": "vua"
+    },
+    {
+      "id": "s7",
+      "key": "Chân đế / treo tường",
+      "value_vi": "Chỉ nghiêng từ 5 độ về trước đến 15 độ về sau; VESA 75 x 75 mm",
+      "condition": "",
+      "source": "src1",
+      "confidence": "cao"
+    },
+    {
+      "id": "s8",
+      "key": "Loa",
+      "value_vi": "Không có loa tích hợp",
+      "condition": "",
+      "source": "src2",
+      "confidence": "vua"
+    },
+    {
+      "id": "s9",
+      "key": "Giá",
+      "value_vi": "2.290.000 đ, giá niêm yết 2.690.000 đ",
+      "condition": "22/10/2026; cả FPT Shop và Thế Giới Di Động",
+      "source": "src1",
+      "confidence": "vua"
+    },
+    {
+      "id": "s10",
+      "key": "Bảo hành",
+      "value_vi": "3 năm chính hãng",
+      "condition": "",
+      "source": "src2",
+      "confidence": "cao"
+    },
+    {
+      "id": "s11",
+      "key": "Hạn chế theo bài đánh giá",
+      "value_vi": "Full HD và sRGB chưa đủ cho đồ họa chuyên nghiệp; chưa đủ cho game thủ cần khung hình rất cao; không chỉnh được độ cao hoặc xoay dọc",
+      "condition": "",
+      "source": "src3",
+      "confidence": "cao"
+    }
+  ],
+  "strengths": [
+    {
+      "text": "IPS, Full HD, 99% sRGB, 300 nit, giá khoảng hai triệu rưỡi",
+      "source": "src1"
+    },
+    {
+      "text": "Tần số quét 144 Hz",
+      "source": "src3"
+    },
+    {
+      "text": "Giảm ánh sáng xanh chứng nhận TÜV Rheinland",
+      "source": "src1"
+    },
+    {
+      "text": "Treo tường VESA 75 x 75, bảo hành 3 năm",
+      "source": "src2"
+    }
+  ],
+  "caveats": [
+    {
+      "text": "Không có loa",
+      "source": "src2"
+    },
+    {
+      "text": "Chân đế chỉ nghiêng, không chỉnh độ cao hay xoay dọc",
+      "source": "src3"
+    },
+    {
+      "text": "Full HD và sRGB chưa đủ cho đồ họa chuyên nghiệp hay game khung hình cao",
+      "source": "src3"
+    },
+    {
+      "text": "Có nhiều bản A24i (100Hz đời cũ, 144Hz đời 2026), cần xem kỹ mã model",
+      "source": "src2"
+    }
+  ],
+  "sources": [
+    {
+      "id": "src1",
+      "url": "https://fptshop.com.vn/man-hinh/xiaomi-a24i-eu-238-inch-fhd-ips-144hz-ela6416eu",
+      "title": "Màn hình Xiaomi A24i EU 23.8 inch FHD IPS 144Hz ELA6416EU - FPT Shop",
+      "type": "cua_hang"
+    },
+    {
+      "id": "src2",
+      "url": "https://www.thegioididong.com/man-hinh-may-tinh/xiaomi-23-8-inch-full-hd-a24i-2026",
+      "title": "Màn hình Xiaomi 23.8 inch Full HD A24i 2026 - Thế Giới Di Động",
+      "type": "cua_hang"
+    },
+    {
+      "id": "src3",
+      "url": "https://fptshop.com.vn/tin-tuc/danh-gia/danh-gia-man-hinh-xiaomi-a24i-eu-238-inch-207264",
+      "title": "Đánh giá màn hình Xiaomi A24i EU 23.8 inch - FPT Shop",
+      "type": "danh_gia"
+    }
+  ],
+  "unverified": [
+    "Tần số quét: trang Thế Giới Di Động ghi 144 Hz ở bảng nhưng 100 Hz ở phần mô tả; FPT Shop (trang sản phẩm và bài đánh giá) ghi 144 Hz; chưa xác minh với Xiaomi chính hãng (mi.com trả 403).",
+    "Độ chính xác màu: FPT Shop ghi ΔE dưới 1, không dùng trong lời đọc.",
+    "Đánh giá người dùng: các trang chỉ có điểm sao, hầu như không có bình luận; điểm cần cân nhắc lấy từ bài đánh giá của FPT Shop và thông số.",
+    "Trọng lượng khoảng 3 kg (Thế Giới Di Động), không dùng trong lời đọc.",
+    "Loại ảnh (kind) suy ra từ tên file.",
+    "A27i chưa nghiên cứu."
+  ],
+  "product_visual_description": "23.8-inch flat black Xiaomi monitor with ultra-thin bezels on three sides and a simple tilt-only stand",
+  "ref_image_candidates": [
+    {
+      "url": "https://cdn2.fptshop.com.vn/unsafe/1920x0/filters:format(webp):quality(75)/man_hinh_xiaomi_a24i_eu_black_01_d5e576eded.png",
+      "page": "https://fptshop.com.vn/man-hinh/xiaomi-a24i-eu-238-inch-fhd-ips-144hz-ela6416eu",
+      "kind": "product_main"
+    },
+    {
+      "url": "https://cdn2.fptshop.com.vn/unsafe/1920x0/filters:format(webp):quality(75)/xiaomi_a24i_eu_238_inch_fhd_ips_144hz_ela6416eu_1_dc55acf7ce.jpg",
+      "page": "https://fptshop.com.vn/man-hinh/xiaomi-a24i-eu-238-inch-fhd-ips-144hz-ela6416eu",
+      "kind": "product_angle"
+    },
+    {
+      "url": "https://cdn2.fptshop.com.vn/unsafe/800x0/xiaomi_a24i_eu_ela_6416eu_1_111e98bd4d.jpg",
+      "page": "https://fptshop.com.vn/man-hinh/xiaomi-a24i-eu-238-inch-fhd-ips-144hz-ela6416eu",
+      "kind": "product_angle"
+    },
+    {
+      "url": "https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/5697/362654/xiaomi-23-8-inch-full-hd-a24i-2026-1-639076253861444213.jpg",
+      "page": "https://www.thegioididong.com/man-hinh-may-tinh/xiaomi-23-8-inch-full-hd-a24i-2026",
+      "kind": "product_main"
+    },
+    {
+      "url": "https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/5697/362654/xiaomi-23-8-inch-full-hd-a24i-2026-2-639076351845910853.jpg",
+      "page": "https://www.thegioididong.com/man-hinh-may-tinh/xiaomi-23-8-inch-full-hd-a24i-2026",
+      "kind": "product_angle"
+    },
+    {
+      "url": "https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/5697/362654/xiaomi-23-8-inch-full-hd-a24i-2026-3-639076351856070063.jpg",
+      "page": "https://www.thegioididong.com/man-hinh-may-tinh/xiaomi-23-8-inch-full-hd-a24i-2026",
+      "kind": "in_use"
+    }
+  ],
+  "takeaway": "Cần màn hình văn phòng, học tập IPS, quét cao, giá khoảng hai triệu rưỡi thì chọn Xiaomi A24i; cần loa, chân đế chỉnh độ cao hoặc màu chuyên nghiệp thì cân nhắc màn khác.",
+  "buyer_personas": [
+    "Sinh viên, nhân viên văn phòng cần màn thứ hai giá mềm",
+    "Người làm việc, xem phim, chỉnh ảnh cơ bản"
+  ]
+}

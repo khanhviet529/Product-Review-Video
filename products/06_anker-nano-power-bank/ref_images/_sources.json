@@ -1,0 +1,82 @@
+[
+  {
+    "file": "product_main.jpg",
+    "url": "https://product.hstatic.net/1000016460/product/a1259011_td01_v1_-1280x1280_d08d2d45d7d545a3ae4ed3e563e4c40a.jpg",
+    "page": "https://icenter.vn/products/pin-du-phong-anker-nano-power-bank-10-000mah-30w-built-in-usb-c-cable-a1259-hang-chinh-hang-nhap-khau-usa",
+    "kind": "product_main",
+    "width": 1024,
+    "height": 1280
+  },
+  {
+    "file": "product_angle_1.jpg",
+    "url": "https://product.hstatic.net/1000153276/product/hong_anker_nano_10000_30w__built-in_usb-c_connector__-_a1259_-_mau_den_e6a33bc3352847959565048831e3fff6_1024x1024.png",
+    "page": "https://anker.vn/products/pin-du-phong-anker-nano-10000-30w-built-in-usb-c-connector-a1259",
+    "kind": "product_angle",
+    "width": 1000,
+    "height": 1000
+  },
+  {
+    "file": "product_angle_2.jpg",
+    "url": "https://cdn.shopify.com/s/files/1/0493/9834/9974/files/A1259011_TD03_V1-1280x1280.jpg?v=1764230004",
+    "page": "https://www.anker.com/products/a1259-built-in-cable-power-bank-10000mah",
+    "kind": "product_angle",
+    "width": 1024,
+    "height": 1280
+  },
+  {
+    "file": "in_use_1.jpg",
+    "url": "https://cdn.shopify.com/s/files/1/0493/9834/9974/files/A1259011_TD04_V1-1280x1280.jpg?v=1764230004",
+    "page": "https://www.anker.com/products/a1259-built-in-cable-power-bank-10000mah",
+    "kind": "in_use",
+    "width": 1024,
+    "height": 1280
+  },
+  {
+    "file": "product_angle_3.jpg",
+    "url": "https://cdn.shopify.com/s/files/1/0493/9834/9974/files/5_a7a61bbb-8693-46f2-8d44-de814496fc62.png?v=1764230004",
+    "page": "https://www.anker.com/products/a1259-built-in-cable-power-bank-10000mah",
+    "kind": "product_angle",
+    "width": 2000,
+    "height": 2000
+  },
+  {
+    "file": "product_angle_4.jpg",
+    "url": "https://cdn.shopify.com/s/files/1/0493/9834/9974/files/A1259011_TD02_V1-1280x1280.jpg?v=1764230004",
+    "page": "https://www.anker.com/products/a1259-built-in-cable-power-bank-10000mah",
+    "kind": "product_angle",
+    "width": 1024,
+    "height": 1280
+  },
+  {
+    "file": "product_angle_5.jpg",
+    "url": "https://cdn.shopify.com/s/files/1/0493/9834/9974/files/A1259011_TD05_V1-1280x1280.jpg?v=1764230004",
+    "page": "https://www.anker.com/products/a1259-built-in-cable-power-bank-10000mah",
+    "kind": "product_angle",
+    "width": 1024,
+    "height": 1280
+  },
+  {
+    "file": "product_angle_6.jpg",
+    "url": "https://cdn.shopify.com/s/files/1/0493/9834/9974/files/A1259011_TD06_V1-1280x1280.jpg?v=1764230004",
+    "page": "https://www.anker.com/products/a1259-built-in-cable-power-bank-10000mah",
+    "kind": "product_angle",
+    "width": 1024,
+    "height": 1280
+  },
+  {
+    "file": "product_angle_7.jpg",
+    "url": "https://cdn.shopify.com/s/files/1/0493/9834/9974/files/4_3c9a2faa-de46-4bd3-a44e-61cfd6aa22b8.png?v=1754753344",
+    "page": "https://www.anker.com/products/a1259-built-in-cable-power-bank-10000mah",
+    "kind": "product_angle",
+    "width": 2000,
+    "height": 2000
+  },
+  {
+    "file": "product_angle_8.jpg",
+    "url": "https://cdn.shopify.com/s/files/1/0493/9834/9974/files/A1259021_TD02_V1.jpg-1280x1280.jpg?v=1754753344",
+    "page": "https://www.anker.com/products/a1259-built-in-cable-power-bank-10000mah",
+    "kind": "product_angle",
+    "width": 1024,
+    "height": 1280
+  }
+]

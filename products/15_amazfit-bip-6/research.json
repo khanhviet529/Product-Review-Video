@@ -1,0 +1,210 @@
+{
+  "id": "15",
+  "slug": "15_amazfit-bip-6",
+  "status": "mot_phan",
+  "chosen_model": "Amazfit Bip 6 46.3mm dây silicone (Zepp OS)",
+  "alternatives_rejected": [
+    {
+      "model": "Amazfit Active (dòng khác)",
+      "reason": "Là sản phẩm khác dòng, không đọc được trang bán/thông số hiện hành trong phiên làm việc này."
+    }
+  ],
+  "official_page": null,
+  "price_vnd": {
+    "low": 2150000,
+    "high": 2490000,
+    "as_of": "2026-10-22",
+    "sources": [
+      "src1",
+      "src2"
+    ],
+    "confidence": "vua"
+  },
+  "specs": [
+    {
+      "id": "s1",
+      "key": "Màn hình",
+      "value_vi": "AMOLED 1,97 inch, 390x450 px, độ sáng tối đa tới 2.000 nit",
+      "condition": "Độ sáng theo phần mô tả của Thế Giới Di Động; bảng thông số ghi 390x450, mô tả ghi 450x390",
+      "source": "src1",
+      "confidence": "cao"
+    },
+    {
+      "id": "s2",
+      "key": "GPS",
+      "value_vi": "GPS, GLONASS, Galileo, BeiDou, QZSS (năm hệ thống); hỗ trợ bản đồ offline",
+      "condition": "",
+      "source": "src1",
+      "confidence": "cao"
+    },
+    {
+      "id": "s3",
+      "key": "Nghe gọi",
+      "value_vi": "Nghe và từ chối cuộc gọi Bluetooth trên đồng hồ, có mic và loa tích hợp",
+      "condition": "Bluetooth 5.2",
+      "source": "src1",
+      "confidence": "cao"
+    },
+    {
+      "id": "s4",
+      "key": "Theo dõi sức khỏe",
+      "value_vi": "Cảm biến BioTracker 6.0; nhịp tim, SpO2, căng thẳng 24 giờ; HRV; theo dõi chu kỳ; hơn 140 chế độ thể thao",
+      "condition": "",
+      "source": "src1",
+      "confidence": "cao"
+    },
+    {
+      "id": "s5",
+      "key": "Thân và chống nước",
+      "value_vi": "Khung nhôm, nặng 27,9 g, chống nước 5 ATM (ISO 22810:2010, tắm và bơi nông)",
+      "condition": "Không khuyên dùng khi tắm nước nóng, xông hơi",
+      "source": "src1",
+      "confidence": "cao"
+    },
+    {
+      "id": "s6",
+      "key": "Pin",
+      "value_vi": "340 mAh; khoảng 14 ngày ở chế độ cơ bản, khoảng 26 ngày ở chế độ tiết kiệm; sạc khoảng 2 giờ",
+      "condition": "Số liệu do hãng công bố, chưa có đo độc lập",
+      "source": "src1",
+      "confidence": "vua"
+    },
+    {
+      "id": "s7",
+      "key": "Tương thích",
+      "value_vi": "iOS 14.0 trở lên, Android 7.0 trở lên qua ứng dụng Zepp; thông báo Zalo, Messenger",
+      "condition": "",
+      "source": "src1",
+      "confidence": "cao"
+    },
+    {
+      "id": "s8",
+      "key": "Giá",
+      "value_vi": "Khoảng 2.150.000 đến 2.490.000 đồng",
+      "condition": "FPT Shop 2.150.000 (giá gốc 2.340.000); Thế Giới Di Động 2.490.000 (TP.HCM); ngày 2026-10-22",
+      "source": "src2",
+      "confidence": "vua"
+    },
+    {
+      "id": "s9",
+      "key": "Trợ lý Zepp Flow",
+      "value_vi": "Chưa hỗ trợ tiếng Việt lúc ra mắt (05/2025)",
+      "condition": "Theo Thế Giới Di Động; chưa kiểm tra bản cập nhật sau đó",
+      "source": "src1",
+      "confidence": "vua"
+    },
+    {
+      "id": "s10",
+      "key": "Phụ kiện",
+      "value_vi": "Hộp gồm đồng hồ, đế sạc từ, hướng dẫn; không kèm dây cáp",
+      "condition": "",
+      "source": "src1",
+      "confidence": "cao"
+    },
+    {
+      "id": "s11",
+      "key": "Mặt kính",
+      "value_vi": "Kính cường lực, không dùng kính sapphire",
+      "condition": "Theo bài trên tay của Sforum",
+      "source": "src3",
+      "confidence": "vua"
+    }
+  ],
+  "strengths": [
+    {
+      "text": "Màn hình AMOLED 1,97 inch, hãng ghi sáng tối đa 2.000 nit; reviewer thấy đọc được ngoài nắng.",
+      "source": "src3"
+    },
+    {
+      "text": "Có GPS năm hệ thống và bản đồ offline ở tầm giá này.",
+      "source": "src1"
+    },
+    {
+      "text": "Nghe/từ chối cuộc gọi Bluetooth ngay trên đồng hồ.",
+      "source": "src1"
+    },
+    {
+      "text": "Khung nhôm, nặng 27,9 g, chống nước 5 ATM; reviewer đeo cả ngày, chạy bộ và ngủ không khó chịu.",
+      "source": "src3"
+    }
+  ],
+  "caveats": [
+    {
+      "text": "Trợ lý Zepp Flow chưa hỗ trợ tiếng Việt lúc ra mắt; hộp không kèm dây cáp sạc.",
+      "source": "src1"
+    },
+    {
+      "text": "Mặt kính không phải sapphire.",
+      "source": "src3"
+    },
+    {
+      "text": "Số liệu pin, GPS, gọi điện mới là thông số hãng, bài trên tay chưa đo độc lập.",
+      "source": "src3"
+    }
+  ],
+  "sources": [
+    {
+      "id": "src1",
+      "url": "https://www.thegioididong.com/dong-ho-thong-minh/amazfit-bip-6",
+      "title": "Thế Giới Di Động: Amazfit Bip 6 46.3mm dây silicone",
+      "type": "cua_hang"
+    },
+    {
+      "id": "src2",
+      "url": "https://fptshop.com.vn/smartwatch/amazfit-bip-6",
+      "title": "FPT Shop: Amazfit Bip 6",
+      "type": "cua_hang"
+    },
+    {
+      "id": "src3",
+      "url": "https://cellphones.com.vn/sforum/tren-tay-amazfit-bip-6",
+      "title": "Sforum (CellphoneS): Trên tay Amazfit Bip 6",
+      "type": "danh_gia"
+    }
+  ],
+  "unverified": [
+    "Trang chính hãng Amazfit/Zepp chưa mở được; official_page để trống.",
+    "Độ chính xác GPS, thời lượng pin đo thực tế, chất lượng cuộc gọi: chưa có kiểm chứng độc lập đọc được (Wareable trả 403, TechRadar chỉ hiện tiêu đề). Không dùng ngoài số liệu hãng.",
+    "Kích thước màn hình: CellphoneS ghi 1,91 inch, Thế Giới Di Động và FPT ghi 1,97 inch; dùng 1,97.",
+    "Có màn hình luôn sáng (AOD) hay không: trang Thế Giới Di Động liệt kê always-on display nhưng không đủ điều kiện; không dùng.",
+    "Giá trên Sforum (2,29 hay 2,39 triệu) tự mâu thuẫn; không dùng."
+  ],
+  "product_visual_description": "Amazfit Bip 6 46.3 mm: rectangular 1.97-inch AMOLED touchscreen in an aluminium alloy frame with tempered glass front and a 2.2 cm wide silicone strap; colours red, black, grey-blue and grey.",
+  "ref_image_candidates": [
+    {
+      "url": "https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/7077/337643/amazfit-bip-6-do-1-638839426935518028.jpg",
+      "page": "https://www.thegioididong.com/dong-ho-thong-minh/amazfit-bip-6",
+      "kind": "product_main"
+    },
+    {
+      "url": "https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/7077/337643/amazfit-bip-6-do-2-638839426941573907.jpg",
+      "page": "https://www.thegioididong.com/dong-ho-thong-minh/amazfit-bip-6",
+      "kind": "product_angle"
+    },
+    {
+      "url": "https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/7077/337643/amazfit-bip-6-do-3-638839426949037351.jpg",
+      "page": "https://www.thegioididong.com/dong-ho-thong-minh/amazfit-bip-6",
+      "kind": "product_angle"
+    },
+    {
+      "url": "https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/7077/337643/amazfit-bip-6-do-4-638839426956675910.jpg",
+      "page": "https://www.thegioididong.com/dong-ho-thong-minh/amazfit-bip-6",
+      "kind": "in_use"
+    },
+    {
+      "url": "https://cdn.tgdd.vn/Products/Images/7077/337643/Slider/vi-vn-amazfit-bip-6-sld-1.jpg",
+      "page": "https://www.thegioididong.com/dong-ho-thong-minh/amazfit-bip-6",
+      "kind": "in_use"
+    },
+    {
+      "url": "https://cdn2.fptshop.com.vn/unsafe/1920x0/filters:format(webp):quality(75)/amazfit_bip_6_1_c77769ea5e.jpg",
+      "page": "https://fptshop.com.vn/smartwatch/amazfit-bip-6",
+      "kind": "product_main"
+    }
+  ],
+  "takeaway": "Cần đồng hồ tầm giá vừa có GPS, nghe gọi và pin cỡ hai tuần thì Bip 6 đáng xem; cần giá rất thấp hoặc kính cao cấp thì nên cân nhắc loại khác.",
+  "buyer_personas": [
+    "Người chạy bộ, đi bộ muốn có GPS và bản đồ offline",
+    "Người muốn nghe gọi trên cổ tay ở tầm giá vừa"
+  ]
+}

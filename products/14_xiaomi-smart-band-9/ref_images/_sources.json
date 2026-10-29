@@ -1,0 +1,58 @@
+[
+  {
+    "file": "product_main.jpg",
+    "url": "https://cdn2.fptshop.com.vn/unsafe/1920x0/filters:format(webp):quality(75)/xiaomi_smart_band_9_1_7b0fe25755.jpg",
+    "page": "https://fptshop.com.vn/smartwatch/xiaomi-smart-band-9",
+    "kind": "product_main",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "file": "product_angle_1.jpg",
+    "url": "https://cdn2.fptshop.com.vn/unsafe/1920x0/filters:format(webp):quality(75)/xiaomi_smart_band_9_2_708ffa3702.jpg",
+    "page": "https://fptshop.com.vn/smartwatch/xiaomi-smart-band-9",
+    "kind": "product_angle",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "file": "product_angle_2.jpg",
+    "url": "https://cdn2.fptshop.com.vn/unsafe/1920x0/filters:format(webp):quality(75)/xiaomi_smart_band_9_3_74bf74a071.jpg",
+    "page": "https://fptshop.com.vn/smartwatch/xiaomi-smart-band-9",
+    "kind": "product_angle",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "file": "in_use_1.jpg",
+    "url": "https://cdn2.fptshop.com.vn/unsafe/1920x0/filters:format(webp):quality(75)/xiaomi_smart_band_9_4_cbc1c03fef.jpg",
+    "page": "https://fptshop.com.vn/smartwatch/xiaomi-smart-band-9",
+    "kind": "in_use",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "file": "in_use_2.jpg",
+    "url": "https://cdn2.fptshop.com.vn/unsafe/1920x0/filters:format(webp):quality(75)/xiaomi_smart_band_9_5_53271256a2.jpg",
+    "page": "https://fptshop.com.vn/smartwatch/xiaomi-smart-band-9",
+    "kind": "in_use",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "file": "product_angle_3.jpg",
+    "url": "https://cdn2.fptshop.com.vn/unsafe/1920x0/filters:format(webp):quality(75)/xiaomi_band_9_xanh_3_5612622710.jpg",
+    "page": "https://fptshop.com.vn/smartwatch/xiaomi-smart-band-9",
+    "kind": "product_angle",
+    "width": 1920,
+    "height": 1920
+  },
+  {
+    "file": "product_angle_4.jpg",
+    "url": "https://cdn2.fptshop.com.vn/unsafe/xiaomi_band_9_16938ab33e.jpg",
+    "page": "https://fptshop.com.vn/smartwatch/xiaomi-smart-band-9",
+    "kind": "product_angle",
+    "width": 800,
+    "height": 800
+  }
+]

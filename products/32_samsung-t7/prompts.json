@@ -1,0 +1,231 @@
+{
+  "product_id": "32",
+  "slug": "32_samsung-t7",
+  "model": "Samsung Portable SSD T7 Shield 1TB (MU-PE1T0S)",
+  "presenter": "M",
+  "takeaway": "Cần SSD di động bền, chống nước và bụi, mang đi quay chụp thì chọn Samsung T7 Shield; chỉ cần tốc độ và giá thấp, hoặc ghi liên tục rất lâu thì cân nhắc T7 thường hoặc ổ khác.",
+  "target_seconds": 88,
+  "clips": [
+    {
+      "n": 1,
+      "code": "P32C01",
+      "role": "hook",
+      "narration_vi": "Cần SSD di động bền mang đi quay chụp thì chọn T7 Shield. Chỉ cần tốc độ thì có bản rẻ hơn.",
+      "facts_used": [
+        "s10"
+      ],
+      "camera": "push in",
+      "camera_reason": "tiến vào người nói để mở đầu bằng câu trả lời ngắn",
+      "first_frame": "seated at the desk facing the camera, the Samsung Portable SSD T7 Shield 1TB resting on the desk beside him, relaxed upright posture",
+      "motion": "slow push in toward his face as he starts speaking, he glances at the product then back to the lens",
+      "last_frame": "tighter on his face and shoulders, product still visible at the lower edge of the frame",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P32C01. Vertical 9:16, 8 seconds, photorealistic, medium close-up. First frame: seated at the desk facing the camera, the Samsung Portable SSD T7 Shield 1TB resting on the desk beside him, relaxed upright posture. Motion: slow push in toward his face as he starts speaking, he glances at the product then back to the lens. Last frame: tighter on his face and shoulders, product still visible at the lower edge of the frame. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Cần SSD di động bền mang đi quay chụp thì chọn T7 Shield. Chỉ cần tốc độ thì có bản rẻ hơn.\" He is the Samsung Portable SSD T7 Shield 1TB on the desk within reach; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P32C01. Vertical 9:16, 8 seconds, photorealistic, medium shot. First frame: he sits at the desk, SSD beside him. Motion: slow push in; he turns to camera and speaks. Last frame: medium close-up facing the camera. a handsome young Vietnamese man in his mid-20s, textured black quiff hairstyle, clear skin, sharp jawline, bright confident smile, athletic build, olive bomber jacket over a white t-shirt, upbeat energetic expression, in a bright modern minimalist desk studio, light oak desk, soft natural window light from the left, plain warm-white wall, shallow depth of field. He says in Vietnamese, in a natural friendly tone: \"Cần SSD di động bền mang đi quay chụp thì chọn T7 Shield. Chỉ cần tốc độ thì có bản rẻ hơn.\". Exact product shown in the reference image: the black Samsung portable SSD. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+    },
+    {
+      "n": 2,
+      "code": "P32C02",
+      "role": "feature",
+      "narration_vi": "Đọc tới một nghìn không trăm năm mươi mê-ga-bai mỗi giây, ghi tới một nghìn, qua USB mười gi-ga-bít mỗi giây.",
+      "facts_used": [
+        "s1"
+      ],
+      "camera": "push in",
+      "camera_reason": "tiến vào đúng chi tiết sản phẩm đang nói đến",
+      "first_frame": "seated at the desk, one hand lifting the Samsung Portable SSD T7 Shield 1TB toward the camera at chest height",
+      "motion": "slow push in on the product in his open palm while he keeps eye contact with the lens",
+      "last_frame": "product held close to the lens in sharp focus, his face softly blurred behind it",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P32C02. Vertical 9:16, 8 seconds, photorealistic, medium close-up. First frame: seated at the desk, one hand lifting the Samsung Portable SSD T7 Shield 1TB toward the camera at chest height. Motion: slow push in on the product in his open palm while he keeps eye contact with the lens. Last frame: product held close to the lens in sharp focus, his face softly blurred behind it. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Đọc tới một nghìn không trăm năm mươi mê-ga-bai mỗi giây, ghi tới một nghìn, qua USB mười gi-ga-bít mỗi giây.\" He is holding the Samsung Portable SSD T7 Shield 1TB in his open palm; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P32C02. Vertical 9:16, 8 seconds, photorealistic, close-up product shot, 85mm lens. First frame: the black SSD lying on the oak desk, soft window light, one corner toward the camera. Motion: slow push in; light glides softly along the rubberized edge. Last frame: tight on the USB-C port end of the drive. Voice-over by the presenter, off-screen, in Vietnamese, natural friendly tone: \"Đọc tới một nghìn không trăm năm mươi mê-ga-bai mỗi giây, ghi tới một nghìn, qua USB mười gi-ga-bít mỗi giây.\". Exact product shown in the reference image: a black Samsung T7 Shield 1TB portable SSD, a slim pocket-sized rectangular drive with a rubberized textured exterior. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+    },
+    {
+      "n": 3,
+      "code": "P32C03",
+      "role": "feature",
+      "narration_vi": "Một đánh giá đo được khoảng một nghìn tám mươi lăm đọc, một nghìn hai mươi chín ghi, mê-ga-bai mỗi giây.",
+      "facts_used": [
+        "s2"
+      ],
+      "camera": "rack focus",
+      "camera_reason": "chuyển nét từ sản phẩm sang người nói để nối chi tiết với đánh giá",
+      "first_frame": "face and shoulders, one hand bringing the Samsung Portable SSD T7 Shield 1TB up next to his cheek",
+      "motion": "rack focus from the product beside his cheek to his eyes, he turns slightly toward the lens",
+      "last_frame": "sharp on his face, product soft beside his cheek",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P32C03. Vertical 9:16, 8 seconds, photorealistic, close-up. First frame: face and shoulders, one hand bringing the Samsung Portable SSD T7 Shield 1TB up next to his cheek. Motion: rack focus from the product beside his cheek to his eyes, he turns slightly toward the lens. Last frame: sharp on his face, product soft beside his cheek. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Một đánh giá đo được khoảng một nghìn tám mươi lăm đọc, một nghìn hai mươi chín ghi, mê-ga-bai mỗi giây.\" He is showing the Samsung Portable SSD T7 Shield 1TB beside his face; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P32C03. Vertical 9:16, 8 seconds, photorealistic, medium shot, 50mm lens. First frame: a slim laptop on the desk with the SSD plugged into its side port by a short cable. Motion: slow dolly in; an abstract colorful animation plays on the laptop screen. Last frame: close on the SSD connected to the laptop. Voice-over by the presenter, off-screen, in Vietnamese, natural friendly tone: \"Một đánh giá đo được khoảng một nghìn tám mươi lăm đọc, một nghìn hai mươi chín ghi, mê-ga-bai mỗi giây.\". Exact product shown in the reference image: a black Samsung T7 Shield 1TB portable SSD, a slim pocket-sized rectangular drive with a rubberized textured exterior. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+    },
+    {
+      "n": 4,
+      "code": "P32C04",
+      "role": "feature",
+      "narration_vi": "Chuẩn IP sáu lăm chống tia nước, chống bụi, và chịu rơi từ ba mét theo thử nghiệm của hãng.",
+      "facts_used": [
+        "s4"
+      ],
+      "camera": "dolly in",
+      "camera_reason": "lại gần dần để tạo cảm giác trò chuyện trực tiếp",
+      "first_frame": "seated at the desk, both hands holding the Samsung Portable SSD T7 Shield 1TB at table height, looking down at it",
+      "motion": "he looks up at the camera mid-sentence while the camera does a slow dolly in",
+      "last_frame": "closer on his face with both hands and the product still in frame",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P32C04. Vertical 9:16, 8 seconds, photorealistic, medium shot. First frame: seated at the desk, both hands holding the Samsung Portable SSD T7 Shield 1TB at table height, looking down at it. Motion: he looks up at the camera mid-sentence while the camera does a slow dolly in. Last frame: closer on his face with both hands and the product still in frame. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Chuẩn IP sáu lăm chống tia nước, chống bụi, và chịu rơi từ ba mét theo thử nghiệm của hãng.\" He is turning the Samsung Portable SSD T7 Shield 1TB in both hands; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P32C04. Vertical 9:16, 8 seconds, photorealistic, close-up product shot, 85mm lens. First frame: the SSD resting on a rough outdoor stone surface, a few water droplets on it. Motion: slow orbit left; droplets slide slowly off the rubberized surface. Last frame: the drive from the opposite side, droplets still beading. Voice-over by the presenter, off-screen, in Vietnamese, natural friendly tone: \"Chuẩn IP sáu lăm chống tia nước, chống bụi, và chịu rơi từ ba mét theo thử nghiệm của hãng.\". Exact product shown in the reference image: a black Samsung T7 Shield 1TB portable SSD, a slim pocket-sized rectangular drive with a rubberized textured exterior. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+    },
+    {
+      "n": 5,
+      "code": "P32C05",
+      "role": "feature",
+      "narration_vi": "Nặng chín mươi tám gam, bỏ vừa túi, kèm cả cáp USB-C sang USB-C lẫn USB-C sang USB-A.",
+      "facts_used": [
+        "s5",
+        "s7"
+      ],
+      "camera": "pan",
+      "camera_reason": "lia từ thiết bị sang người nói để cho thấy cách dùng thực tế",
+      "first_frame": "standing near the window, the Samsung Portable SSD T7 Shield 1TB in one hand and a smartphone in the other",
+      "motion": "slow pan from the phone in his hand across to his face as he speaks",
+      "last_frame": "centred on his face, phone and product low in the frame",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P32C05. Vertical 9:16, 8 seconds, photorealistic, medium shot. First frame: standing near the window, the Samsung Portable SSD T7 Shield 1TB in one hand and a smartphone in the other. Motion: slow pan from the phone in his hand across to his face as he speaks. Last frame: centred on his face, phone and product low in the frame. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Nặng chín mươi tám gam, bỏ vừa túi, kèm cả cáp USB-C sang USB-C lẫn USB-C sang USB-A.\" He is holding the Samsung Portable SSD T7 Shield 1TB and a phone; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P32C05. Vertical 9:16, 8 seconds, photorealistic, medium product shot, 50mm lens. First frame: the SSD in a person's palm beside two USB cables, top view. Motion: pull back; the hand stays steady while the frame widens. Last frame: the palm holding the drive with both cables laid beside it. Voice-over by the presenter, off-screen, in Vietnamese, natural friendly tone: \"Nặng chín mươi tám gam, bỏ vừa túi, kèm cả cáp USB-C sang USB-C lẫn USB-C sang USB-A.\". Exact product shown in the reference image: a black Samsung T7 Shield 1TB portable SSD, a slim pocket-sized rectangular drive with a rubberized textured exterior. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+    },
+    {
+      "n": 6,
+      "code": "P32C06",
+      "role": "feature",
+      "narration_vi": "Có mã hóa phần cứng AES hai trăm năm mươi sáu bit, nên dữ liệu có thêm lớp bảo vệ.",
+      "facts_used": [
+        "s6"
+      ],
+      "camera": "pull back",
+      "camera_reason": "mở rộng khung hình để thấy quy mô sản phẩm so với người",
+      "first_frame": "seated at the desk, the Samsung Portable SSD T7 Shield 1TB held out toward the camera at arm's length",
+      "motion": "he draws the product back toward himself as the camera pulls back to reveal the desk",
+      "last_frame": "wider shot of him at the desk, product held at chest height",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P32C06. Vertical 9:16, 8 seconds, photorealistic, medium close-up. First frame: seated at the desk, the Samsung Portable SSD T7 Shield 1TB held out toward the camera at arm's length. Motion: he draws the product back toward himself as the camera pulls back to reveal the desk. Last frame: wider shot of him at the desk, product held at chest height. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Có mã hóa phần cứng AES hai trăm năm mươi sáu bit, nên dữ liệu có thêm lớp bảo vệ.\" He is pulling the Samsung Portable SSD T7 Shield 1TB back from the lens; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P32C06. Vertical 9:16, 8 seconds, photorealistic, close-up product shot, 85mm lens. First frame: the SSD in front of a laptop, front view, soft window light. Motion: slow push in; a soft light passes over the drive surface. Last frame: tight on the front face of the drive. Voice-over by the presenter, off-screen, in Vietnamese, natural friendly tone: \"Có mã hóa phần cứng AES hai trăm năm mươi sáu bit, nên dữ liệu có thêm lớp bảo vệ.\". Exact product shown in the reference image: a black Samsung T7 Shield 1TB portable SSD, a slim pocket-sized rectangular drive with a rubberized textured exterior. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+    },
+    {
+      "n": 7,
+      "code": "P32C07",
+      "role": "caveat",
+      "narration_vi": "Đổi lại, tốc độ ghi liên tục có thể tụt về khoảng sáu trăm mê-ga-bai mỗi giây khi bộ đệm đầy.",
+      "facts_used": [
+        "s3"
+      ],
+      "camera": "dolly in",
+      "camera_reason": "tiến gần để nhấn vào điểm cần cân nhắc một cách thẳng thắn",
+      "first_frame": "seated at the desk, thoughtful expression, the Samsung Portable SSD T7 Shield 1TB held loosely in one hand",
+      "motion": "slow dolly in as he tilts his head slightly and raises his eyebrows while speaking",
+      "last_frame": "closer on his face, product lowered out of focus",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P32C07. Vertical 9:16, 8 seconds, photorealistic, medium close-up. First frame: seated at the desk, thoughtful expression, the Samsung Portable SSD T7 Shield 1TB held loosely in one hand. Motion: slow dolly in as he tilts his head slightly and raises his eyebrows while speaking. Last frame: closer on his face, product lowered out of focus. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Đổi lại, tốc độ ghi liên tục có thể tụt về khoảng sáu trăm mê-ga-bai mỗi giây khi bộ đệm đầy.\" He is holding the Samsung Portable SSD T7 Shield 1TB loosely; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P32C07. Vertical 9:16, 8 seconds, photorealistic, medium shot, 50mm lens. First frame: the SSD plugged into a laptop, an abstract colorful animation on the screen. Motion: slow pan right; the abstract animation slows down gradually. Last frame: the laptop screen centered, SSD at the left edge. Voice-over by the presenter, off-screen, in Vietnamese, natural friendly tone: \"Đổi lại, tốc độ ghi liên tục có thể tụt về khoảng sáu trăm mê-ga-bai mỗi giây khi bộ đệm đầy.\". Exact product shown in the reference image: a black Samsung T7 Shield 1TB portable SSD, a slim pocket-sized rectangular drive with a rubberized textured exterior. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+    },
+    {
+      "n": 8,
+      "code": "P32C08",
+      "role": "caveat",
+      "narration_vi": "Một đánh giá nhận xét tốc độ gần như không hơn T7 thường, trong khi giá cao hơn.",
+      "facts_used": [
+        "s10"
+      ],
+      "camera": "pull back",
+      "camera_reason": "lùi ra để đặt điểm yếu trong bức tranh chung",
+      "first_frame": "seated at the desk, the Samsung Portable SSD T7 Shield 1TB set down in front of him, hands open",
+      "motion": "slow pull back as he gestures with one open hand",
+      "last_frame": "wide on him and the desk, product small at the centre of the table",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P32C08. Vertical 9:16, 8 seconds, photorealistic, medium shot. First frame: seated at the desk, the Samsung Portable SSD T7 Shield 1TB set down in front of him, hands open. Motion: slow pull back as he gestures with one open hand. Last frame: wide on him and the desk, product small at the centre of the table. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Một đánh giá nhận xét tốc độ gần như không hơn T7 thường, trong khi giá cao hơn.\" He is with the Samsung Portable SSD T7 Shield 1TB on the desk in front of him; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P32C08. Vertical 9:16, 8 seconds, photorealistic, medium shot. First frame: he sits at the desk, SSD beside him. Motion: slow dolly in; he raises one eyebrow slightly and speaks. Last frame: medium close-up facing the camera. a handsome young Vietnamese man in his mid-20s, textured black quiff hairstyle, clear skin, sharp jawline, bright confident smile, athletic build, olive bomber jacket over a white t-shirt, upbeat energetic expression, in a bright modern minimalist desk studio, light oak desk, soft natural window light from the left, plain warm-white wall, shallow depth of field. He says in Vietnamese, in a natural friendly tone: \"Một đánh giá nhận xét tốc độ gần như không hơn T7 thường, trong khi giá cao hơn.\". Exact product shown in the reference image: the black Samsung portable SSD. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+    },
+    {
+      "n": 9,
+      "code": "P32C09",
+      "role": "feature",
+      "narration_vi": "Giá một tê-ra-bai khoảng hai triệu bảy đến ba triệu năm, bảo hành ba mươi sáu tháng. Nhớ hỏi còn hàng không.",
+      "facts_used": [
+        "s8",
+        "s9"
+      ],
+      "camera": "push in",
+      "camera_reason": "tiến vào đúng chi tiết sản phẩm đang nói đến",
+      "first_frame": "seated at the desk, one hand lifting the Samsung Portable SSD T7 Shield 1TB toward the camera at chest height",
+      "motion": "slow push in on the product in his open palm while he keeps eye contact with the lens",
+      "last_frame": "product held close to the lens in sharp focus, his face softly blurred behind it",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P32C09. Vertical 9:16, 8 seconds, photorealistic, medium close-up. First frame: seated at the desk, one hand lifting the Samsung Portable SSD T7 Shield 1TB toward the camera at chest height. Motion: slow push in on the product in his open palm while he keeps eye contact with the lens. Last frame: product held close to the lens in sharp focus, his face softly blurred behind it. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Giá một tê-ra-bai khoảng hai triệu bảy đến ba triệu năm, bảo hành ba mươi sáu tháng. Nhớ hỏi còn hàng không.\" He is holding the Samsung Portable SSD T7 Shield 1TB in his open palm; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P32C09. Vertical 9:16, 8 seconds, photorealistic, wide product shot, 35mm lens. First frame: the SSD on a tidy desk beside a laptop and a camera, front view. Motion: slow widen; the drive stays centered while the frame widens. Last frame: full desk view, the SSD between the laptop and camera. Voice-over by the presenter, off-screen, in Vietnamese, natural friendly tone: \"Giá một tê-ra-bai khoảng hai triệu bảy đến ba triệu năm, bảo hành ba mươi sáu tháng. Nhớ hỏi còn hàng không.\". Exact product shown in the reference image: a black Samsung T7 Shield 1TB portable SSD, a slim pocket-sized rectangular drive with a rubberized textured exterior. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+    },
+    {
+      "n": 10,
+      "code": "P32C10",
+      "role": "fit",
+      "narration_vi": "Hợp người hay mang ổ đi quay chụp. Cần ổ rẻ để lưu ở nhà thì T7 thường là đủ.",
+      "facts_used": [
+        "s10"
+      ],
+      "camera": "dolly in",
+      "camera_reason": "lại gần như nói chuyện với đúng người cần sản phẩm này",
+      "first_frame": "leaning slightly forward at the desk, the Samsung Portable SSD T7 Shield 1TB beside him, open friendly posture",
+      "motion": "slow dolly in as he gestures with an open hand toward the camera",
+      "last_frame": "close on his smiling face, product visible at the edge",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P32C10. Vertical 9:16, 8 seconds, photorealistic, medium close-up. First frame: leaning slightly forward at the desk, the Samsung Portable SSD T7 Shield 1TB beside him, open friendly posture. Motion: slow dolly in as he gestures with an open hand toward the camera. Last frame: close on his smiling face, product visible at the edge. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Hợp người hay mang ổ đi quay chụp. Cần ổ rẻ để lưu ở nhà thì T7 thường là đủ.\" He is with the Samsung Portable SSD T7 Shield 1TB beside him; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P32C10. Vertical 9:16, 8 seconds, photorealistic, medium shot. First frame: he sits at the desk, SSD beside him. Motion: slow push in; he nods and speaks. Last frame: medium close-up facing the camera. a handsome young Vietnamese man in his mid-20s, textured black quiff hairstyle, clear skin, sharp jawline, bright confident smile, athletic build, olive bomber jacket over a white t-shirt, upbeat energetic expression, in a bright modern minimalist desk studio, light oak desk, soft natural window light from the left, plain warm-white wall, shallow depth of field. He says in Vietnamese, in a natural friendly tone: \"Hợp người hay mang ổ đi quay chụp. Cần ổ rẻ để lưu ở nhà thì T7 thường là đủ.\". Exact product shown in the reference image: the black Samsung portable SSD. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+    },
+    {
+      "n": 11,
+      "code": "P32C11",
+      "role": "outro",
+      "narration_vi": "Lưu lại trước khi mua. Bạn đang lưu dữ liệu bằng thẻ nhớ hay ổ cứng di động?",
+      "facts_used": [],
+      "camera": "pull back",
+      "camera_reason": "lùi ra khép lại video một cách thân thiện",
+      "first_frame": "seated at the desk, the Samsung Portable SSD T7 Shield 1TB on the table, bright smile toward the camera",
+      "motion": "slow pull back while he gives a small friendly wave at the end",
+      "last_frame": "wide on him and the desk with the product, warm and relaxed",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P32C11. Vertical 9:16, 8 seconds, photorealistic, medium shot. First frame: seated at the desk, the Samsung Portable SSD T7 Shield 1TB on the table, bright smile toward the camera. Motion: slow pull back while he gives a small friendly wave at the end. Last frame: wide on him and the desk with the product, warm and relaxed. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Lưu lại trước khi mua. Bạn đang lưu dữ liệu bằng thẻ nhớ hay ổ cứng di động?\" He is with the Samsung Portable SSD T7 Shield 1TB on the desk; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P32C11. Vertical 9:16, 8 seconds, photorealistic, medium close-up. First frame: he sits facing the camera, SSD behind him. Motion: slow pull back; he smiles and speaks. Last frame: wider shot, he smiles at the camera. a handsome young Vietnamese man in his mid-20s, textured black quiff hairstyle, clear skin, sharp jawline, bright confident smile, athletic build, olive bomber jacket over a white t-shirt, upbeat energetic expression, in a bright modern minimalist desk studio, light oak desk, soft natural window light from the left, plain warm-white wall, shallow depth of field. He says in Vietnamese, in a natural friendly tone: \"Lưu lại trước khi mua. Bạn đang lưu dữ liệu bằng thẻ nhớ hay ổ cứng di động?\". Exact product shown in the reference image: the black Samsung portable SSD. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+    }
+  ],
+  "onscreen_presenter": true
+}

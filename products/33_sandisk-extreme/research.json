@@ -1,0 +1,172 @@
+{
+  "id": "33",
+  "slug": "33_sandisk-extreme",
+  "status": "mot_phan",
+  "chosen_model": "SanDisk Extreme microSDXC UHS-I 128GB (SDSQXAA-128G-GN6MN)",
+  "alternatives_rejected": [
+    {
+      "model": "SanDisk Extreme các dung lượng khác (64GB, 256GB...)",
+      "reason": "Thông số đọc/ghi khác nhau theo dung lượng; chỉ xác minh được bản 128GB trên trang bán Việt Nam."
+    }
+  ],
+  "official_page": "https://www.sandisk.com/products/memory-cards/microsd-cards/sandisk-extreme-uhs-i-microsd",
+  "price_vnd": {
+    "low": 950000,
+    "high": 1190000,
+    "as_of": "2026-10-22",
+    "sources": [
+      "src1",
+      "src2"
+    ],
+    "confidence": "vua"
+  },
+  "specs": [
+    {
+      "id": "s1",
+      "key": "Dung lượng",
+      "value_vi": "128GB",
+      "condition": "bản SDSQXAA-128G",
+      "source": "src1",
+      "confidence": "cao"
+    },
+    {
+      "id": "s2",
+      "key": "Tốc độ đọc",
+      "value_vi": "tối đa 190 MB/s",
+      "condition": "con số tối đa theo trang bán; thực tế tùy thiết bị",
+      "source": "src1",
+      "confidence": "cao"
+    },
+    {
+      "id": "s3",
+      "key": "Tốc độ ghi",
+      "value_vi": "tối đa 90 MB/s",
+      "condition": "con số tối đa theo trang bán; thực tế tùy thiết bị",
+      "source": "src1",
+      "confidence": "cao"
+    },
+    {
+      "id": "s4",
+      "key": "Cấp tốc độ",
+      "value_vi": "V30, A2",
+      "condition": "ghi trong tên sản phẩm của hai trang bán; U3 chưa xác minh từ trang đã mở",
+      "source": "src1",
+      "confidence": "vua"
+    },
+    {
+      "id": "s5",
+      "key": "Loại thẻ",
+      "value_vi": "microSDXC",
+      "condition": "",
+      "source": "src1",
+      "confidence": "cao"
+    },
+    {
+      "id": "s6",
+      "key": "Tương thích",
+      "value_vi": "Thiết bị Android và thiết bị có khe thẻ nhớ; quay Full HD và 4K",
+      "condition": "theo mô tả trang bán",
+      "source": "src1",
+      "confidence": "vua"
+    },
+    {
+      "id": "s7",
+      "key": "Giá/tồn kho",
+      "value_vi": "950.000 - 1.190.000 đ; CellphoneS ghi tạm hết hàng",
+      "condition": "không ghi ngày trên trang",
+      "source": "src2",
+      "confidence": "vua"
+    },
+    {
+      "id": "s8",
+      "key": "Mã model",
+      "value_vi": "SDSQXAA-128G-GN6MN",
+      "condition": "",
+      "source": "src2",
+      "confidence": "cao"
+    }
+  ],
+  "strengths": [
+    {
+      "text": "Tốc độ đọc công bố tối đa 190 MB/s.",
+      "source": "src1"
+    },
+    {
+      "text": "Ghi V30 và A2, trang bán nêu hợp quay Full HD/4K và dùng cho Android.",
+      "source": "src1"
+    },
+    {
+      "text": "Giá khoảng 950.000 - 1.190.000 đ cho 128GB tại hai cửa hàng Việt Nam.",
+      "source": "src2"
+    }
+  ],
+  "caveats": [
+    {
+      "text": "Tốc độ ghi tối đa 90 MB/s, thấp hơn tốc độ đọc.",
+      "source": "src1"
+    },
+    {
+      "text": "Giá chênh giữa nơi bán và CellphoneS ghi tạm hết hàng.",
+      "source": "src1"
+    },
+    {
+      "text": "Một số đánh giá/người dùng nói tốc độ ghi thực tế thấp hơn công bố tùy đầu đọc (chỉ thấy tóm tắt kết quả tìm kiếm, chưa mở toàn văn; không dùng trong lời đọc).",
+      "source": "src4"
+    }
+  ],
+  "sources": [
+    {
+      "id": "src1",
+      "url": "https://cellphones.com.vn/the-nho-micro-sdxc-sandisk-extreme-v30-a2-128gb-190mbs.html",
+      "title": "CellphoneS - Thẻ nhớ microSDXC SanDisk Extreme V30 A2 128GB 190MB/s",
+      "type": "cua_hang"
+    },
+    {
+      "id": "src2",
+      "url": "https://memoryzone.com.vn/the-nho-microsd-sandisk",
+      "title": "Memoryzone - Thẻ nhớ MicroSDXC SanDisk Extreme V30 A2 128GB SDSQXAA-128G-GN6MN",
+      "type": "cua_hang"
+    },
+    {
+      "id": "src3",
+      "url": "https://www.sandisk.com/products/memory-cards/microsd-cards/sandisk-extreme-uhs-i-microsd",
+      "title": "SanDisk - trang sản phẩm (nội dung tải về không có thông số)",
+      "type": "chinh_hang"
+    },
+    {
+      "id": "src4",
+      "url": "https://www.digitalcameraworld.com/cameras/memory-cards/sandisk-extreme-a2-uhs-i-microsdxc-card-review",
+      "title": "Digital Camera World - SanDisk Extreme A2 UHS-I microSDXC review (chỉ xác nhận tiêu đề)",
+      "type": "danh_gia"
+    }
+  ],
+  "unverified": [
+    "U3, chống nước/sốc/X-ray/nhiệt độ, bảo hành trọn đời: chưa đọc được trang chính hãng; không dùng trong lời đọc.",
+    "Tốc độ ghi 130 MB/s ở vài trang nước ngoài mâu thuẫn với 90 MB/s; dùng 90 MB/s theo trang Việt Nam.",
+    "Ngoại hình thẻ (màu, nhãn) chưa xác minh từ trang nguồn; dựa vào ảnh tham chiếu tải lên Flow.",
+    "Bảo hành, tồn kho tại thời điểm 2026-10-22 chưa xác nhận."
+  ],
+  "product_visual_description": "A small SanDisk Extreme microSDXC memory card, 128GB; exact colours and label layout not described in the sources, follow the reference image.",
+  "ref_image_candidates": [
+    {
+      "url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/_/1/_1__1_1.jpg",
+      "page": "https://cellphones.com.vn/the-nho-micro-sdxc-sandisk-extreme-v30-a2-128gb-190mbs.html",
+      "kind": "product_main"
+    },
+    {
+      "url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/_/2/_2__2.jpg",
+      "page": "https://cellphones.com.vn/the-nho-micro-sdxc-sandisk-extreme-v30-a2-128gb-190mbs.html",
+      "kind": "product_angle"
+    },
+    {
+      "url": "https://bizweb.dktcdn.net/thumb/medium/100/329/122/products/extreme-a2-128-02-0eae81fc-3865-483b-b06b-a1fc1fd27d3d-5bd97a1a-5eda-456f-be2f-ec7fd7d794e3.jpg?v=1777862916657",
+      "page": "https://memoryzone.com.vn/the-nho-microsd-sandisk",
+      "kind": "product_main"
+    }
+  ],
+  "takeaway": "Cần thẻ nhớ 128GB cho điện thoại hoặc camera với tốc độ đọc cao thì Extreme là lựa chọn cân bằng; cần tốc độ ghi cao hơn 90 MB/s thì cân nhắc dòng khác.",
+  "buyer_personas": [
+    "Người dùng điện thoại Android cần mở rộng bộ nhớ",
+    "Người dùng camera/thiết bị có khe microSD quay Full HD hoặc 4K"
+  ]
+}

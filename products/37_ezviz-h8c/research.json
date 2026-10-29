@@ -1,0 +1,193 @@
+{
+  "id": "37",
+  "slug": "37_ezviz-h8c",
+  "status": "xac_minh",
+  "chosen_model": "EZVIZ H8c 4MP, camera Wi-Fi xoay ngoài trời (CS-H8c)",
+  "alternatives_rejected": [
+    {
+      "model": "Imou Cruiser 2 IPC-GS7EP-3M0WE",
+      "reason": "Trang Hà Nội Computer ghi hàng đặt trước (giao sau), giá 1.286.000 đồng; chưa thấy trang bán sẵn có đánh giá người mua."
+    },
+    {
+      "model": "EZVIZ C8c / H3c",
+      "reason": "Không mở được trang xác nhận IP ngoài trời tại Việt Nam, bỏ qua."
+    }
+  ],
+  "official_page": "https://www.ezviz.com/vn/product/H8c/43163",
+  "price_vnd": {
+    "low": 1040000,
+    "high": 1265000,
+    "as_of": "2026-10-22",
+    "sources": [
+      "src1"
+    ],
+    "confidence": "vua"
+  },
+  "specs": [
+    {
+      "id": "s1",
+      "key": "Giá bán",
+      "value_vi": "khoảng một triệu đồng (1.040.000 đồng)",
+      "condition": "TGDD, TP.HCM, ngày 2026-10-22",
+      "source": "src1",
+      "confidence": "vua"
+    },
+    {
+      "id": "s2",
+      "key": "Góc xoay",
+      "value_vi": "xoay ngang 350 độ, nghiêng 80 độ",
+      "condition": "",
+      "source": "src2",
+      "confidence": "cao"
+    },
+    {
+      "id": "s3",
+      "key": "Chống nước bụi",
+      "value_vi": "IP65; lắp dưới mái hiên hoặc tường ngoài",
+      "condition": "IP65 theo trang TGDD; trang EZVIZ VN chỉ ghi thiết kế chịu thời tiết, không nêu mã IP",
+      "source": "src1",
+      "confidence": "vua"
+    },
+    {
+      "id": "s4",
+      "key": "Nhận diện người",
+      "value_vi": "AI nhận diện người, tự theo dõi, giảm báo động giả do thú vật",
+      "condition": "",
+      "source": "src2",
+      "confidence": "cao"
+    },
+    {
+      "id": "s5",
+      "key": "Còi và đàm thoại",
+      "value_vi": "còi, đèn chớp, đàm thoại hai chiều",
+      "condition": "",
+      "source": "src2",
+      "confidence": "cao"
+    },
+    {
+      "id": "s6",
+      "key": "Hồng ngoại",
+      "value_vi": "30 m (đen trắng); 20 m khi ban đêm có màu",
+      "condition": "30 m theo EZVIZ VN và TGDD; 20 m có màu theo TGDD",
+      "source": "src1",
+      "confidence": "cao"
+    },
+    {
+      "id": "s7",
+      "key": "Lưu trữ",
+      "value_vi": "thẻ microSD tới 512 GB (thẻ bán riêng); đám mây trả phí",
+      "condition": "",
+      "source": "src2",
+      "confidence": "cao"
+    },
+    {
+      "id": "s8",
+      "key": "Wi-Fi",
+      "value_vi": "chỉ băng tần 2,4 GHz, có cổng LAN",
+      "condition": "",
+      "source": "src2",
+      "confidence": "cao"
+    },
+    {
+      "id": "s9",
+      "key": "Đánh giá người mua",
+      "value_vi": "4,9/5 từ 27 đánh giá; than phiền: khó xem lại video thẻ nhớ, hay mất kết nối Wi-Fi, camera quay về phía tường",
+      "condition": "trang TGDD",
+      "source": "src1",
+      "confidence": "vua"
+    },
+    {
+      "id": "s10",
+      "key": "Độ phân giải",
+      "value_vi": "4MP (TGDD) hoặc 1080p (EZVIZ VN)",
+      "condition": "hai nguồn lệch nhau, không dùng trong lời đọc",
+      "source": "src1",
+      "confidence": "thap"
+    }
+  ],
+  "strengths": [
+    {
+      "text": "Xoay ngang 350 độ, nghiêng 80 độ, chống bụi nước IP65 (theo trang bán)",
+      "source": "src1"
+    },
+    {
+      "text": "AI nhận diện người, tự theo dõi, giảm báo động giả",
+      "source": "src2"
+    },
+    {
+      "text": "Còi, đèn chớp và đàm thoại hai chiều",
+      "source": "src2"
+    },
+    {
+      "text": "Hồng ngoại 30 m; người mua khen hình rõ, màu ban đêm tốt (4,9/5, 27 đánh giá)",
+      "source": "src1"
+    }
+  ],
+  "caveats": [
+    {
+      "text": "Chỉ Wi-Fi 2,4 GHz, chỗ lắp cần sóng ổn định",
+      "source": "src2"
+    },
+    {
+      "text": "Thẻ microSD không kèm, đám mây tính phí",
+      "source": "src2"
+    },
+    {
+      "text": "Người mua nhắc: khó xem lại video trên thẻ nhớ, thỉnh thoảng mất kết nối Wi-Fi",
+      "source": "src1"
+    }
+  ],
+  "sources": [
+    {
+      "id": "src1",
+      "url": "https://www.thegioididong.com/camera-giam-sat/camera-ip-ngoai-troi-360-do-4mp-ezviz-h8c",
+      "title": "Camera IP ngoài trời 360 độ 4MP EZVIZ H8C, Thế Giới Di Động",
+      "type": "cua_hang"
+    },
+    {
+      "id": "src2",
+      "url": "https://www.ezviz.com/vn/product/H8c/43163",
+      "title": "EZVIZ H8c Wi-Fi Pan-Tilt Camera, EZVIZ Việt Nam",
+      "type": "chinh_hang"
+    },
+    {
+      "id": "src3",
+      "url": "https://hacom.vn/camera-ip-imou-ipc-gs7ep-3m0we-3mp",
+      "title": "Camera IP Imou IPC-GS7EP-3M0WE, Hà Nội Computer",
+      "type": "cua_hang"
+    }
+  ],
+  "unverified": [
+    "Độ phân giải thật của bản bán tại Việt Nam (TGDD ghi 4MP, EZVIZ VN ghi 1080p): không dùng trong lời đọc.",
+    "Không tìm được đánh giá độc lập chuyên sâu; điểm cần cân nhắc dựa trên trang chính hãng và phản hồi người mua ở TGDD.",
+    "Số lượng đánh giá 27 là rất nhỏ so với 13 nghìn lượt bán ghi trên trang."
+  ],
+  "product_visual_description": "a compact white outdoor pan-tilt Wi-Fi camera with a rounded dome-style body, a dual-antenna design and a detachable mounting plate for an eave or exterior wall",
+  "ref_image_candidates": [
+    {
+      "url": "https://cdn.tgdd.vn/Products/Images/4728/323205/camera-ip-ngoai-troi-360-do-4mp-ezviz-h8c-white-1-1.jpg",
+      "page": "https://www.thegioididong.com/camera-giam-sat/camera-ip-ngoai-troi-360-do-4mp-ezviz-h8c",
+      "kind": "product_main"
+    },
+    {
+      "url": "https://cdn.tgdd.vn/Products/Images/4728/323205/camera-ip-ngoai-troi-360-do-4mp-ezviz-h8c-white-2-1.jpg",
+      "page": "https://www.thegioididong.com/camera-giam-sat/camera-ip-ngoai-troi-360-do-4mp-ezviz-h8c",
+      "kind": "product_angle"
+    },
+    {
+      "url": "https://cdn.tgdd.vn/Products/Images/4728/323205/camera-ip-ngoai-troi-360-do-4mp-ezviz-h8c-white-3-1.jpg",
+      "page": "https://www.thegioididong.com/camera-giam-sat/camera-ip-ngoai-troi-360-do-4mp-ezviz-h8c",
+      "kind": "product_angle"
+    },
+    {
+      "url": "https://mfs.ezvizlife.com/198c74d09cc8b089767366a34f5d8152.jpg",
+      "page": "https://www.ezviz.com/vn/product/H8c/43163",
+      "kind": "product_main"
+    }
+  ],
+  "takeaway": "Cần camera ngoài trời xoay được, giá khoảng một triệu đồng thì H8c đáng cân nhắc; cần Wi-Fi 5 GHz hoặc lưu trữ không phiền thì nên xem thêm.",
+  "buyer_personas": [
+    "Chủ nhà phố, quán nhỏ cần xem sân hoặc cửa trước từ xa",
+    "Người chấp nhận mua thẻ nhớ riêng và có Wi-Fi 2,4 GHz ổn định"
+  ]
+}

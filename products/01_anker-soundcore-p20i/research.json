@@ -1,0 +1,251 @@
+{
+  "id": "01",
+  "slug": "01_anker-soundcore-p20i",
+  "status": "mot_phan",
+  "chosen_model": "Anker Soundcore P20i (mã A3949)",
+  "alternatives_rejected": [
+    {
+      "model": "Soundcore Life P2i (A3991)",
+      "reason": "Là mẫu khác, đời cũ hơn; CellphoneS bán P2i nhưng ứng viên của dự án là P20i."
+    }
+  ],
+  "official_page": "https://www.soundcore.com/products/p20i",
+  "price_vnd": {
+    "low": null,
+    "high": null,
+    "as_of": "2026-10-22",
+    "sources": [
+      "src5"
+    ],
+    "confidence": "thap"
+  },
+  "specs": [
+    {
+      "id": "s1",
+      "key": "Pin tai nghe",
+      "value_vi": "10 giờ mỗi lần sạc",
+      "condition": "hãng không nêu điều kiện đo; SoundGuys ghi 10,5 giờ",
+      "source": "src1",
+      "confidence": "cao"
+    },
+    {
+      "id": "s2",
+      "key": "Pin tổng cùng hộp sạc",
+      "value_vi": "30 giờ",
+      "condition": "tính cả hộp sạc",
+      "source": "src1",
+      "confidence": "cao"
+    },
+    {
+      "id": "s3",
+      "key": "Sạc nhanh",
+      "value_vi": "sạc 10 phút nghe thêm 2 giờ",
+      "condition": "",
+      "source": "src1",
+      "confidence": "cao"
+    },
+    {
+      "id": "s4",
+      "key": "Bluetooth",
+      "value_vi": "Bluetooth 5.3",
+      "condition": "",
+      "source": "src1",
+      "confidence": "cao"
+    },
+    {
+      "id": "s5",
+      "key": "Chống nước",
+      "value_vi": "IPX5 (tai nghe)",
+      "condition": "xếp hạng cho tai nghe; không có thông tin đáng tin cho hộp sạc",
+      "source": "src1",
+      "confidence": "cao"
+    },
+    {
+      "id": "s6",
+      "key": "Driver và ứng dụng",
+      "value_vi": "driver 10 mm, ứng dụng soundcore với 22 preset EQ, chế độ Gaming",
+      "condition": "",
+      "source": "src1",
+      "confidence": "cao"
+    },
+    {
+      "id": "s7",
+      "key": "Micro gọi điện",
+      "value_vi": "2 micro, thuật toán AI",
+      "condition": "",
+      "source": "src1",
+      "confidence": "cao"
+    },
+    {
+      "id": "s8",
+      "key": "Chống ồn",
+      "value_vi": "Không có chống ồn chủ động (trang hãng để trống mục này)",
+      "condition": "",
+      "source": "src1",
+      "confidence": "cao"
+    },
+    {
+      "id": "s9",
+      "key": "Kết nối nhiều thiết bị",
+      "value_vi": "Không hỗ trợ multipoint",
+      "condition": "theo SoundGuys",
+      "source": "src3",
+      "confidence": "vua"
+    },
+    {
+      "id": "s10",
+      "key": "Độ trễ",
+      "value_vi": "khoảng 295 ms",
+      "condition": "theo SoundGuys, một nguồn",
+      "source": "src3",
+      "confidence": "vua"
+    },
+    {
+      "id": "s11",
+      "key": "Khối lượng",
+      "value_vi": "4,3 g mỗi tai, 47,6 g kèm hộp",
+      "condition": "",
+      "source": "src3",
+      "confidence": "vua"
+    },
+    {
+      "id": "s12",
+      "key": "Codec",
+      "value_vi": "AAC, SBC",
+      "condition": "",
+      "source": "src3",
+      "confidence": "vua"
+    },
+    {
+      "id": "s13",
+      "key": "Chất âm",
+      "value_vi": "thiên bass, âm giữa như guitar piano bị lùi, hợp nhạc nền và video",
+      "condition": "cảm nhận một người đánh giá",
+      "source": "src4",
+      "confidence": "vua"
+    },
+    {
+      "id": "s14",
+      "key": "Chất lượng gọi",
+      "value_vi": "giọng người gọi khá nhỏ",
+      "condition": "cảm nhận một người đánh giá",
+      "source": "src4",
+      "confidence": "vua"
+    }
+  ],
+  "strengths": [
+    {
+      "text": "Pin 10 giờ mỗi tai, 30 giờ cùng hộp, sạc nhanh 10 phút nghe thêm 2 giờ.",
+      "source": "src1"
+    },
+    {
+      "text": "Tai nghe IPX5, Bluetooth 5.3, có ứng dụng với 22 preset EQ.",
+      "source": "src1"
+    },
+    {
+      "text": "Giá thấp so với tính năng; nhẹ khoảng 4,3 g mỗi tai.",
+      "source": "src3"
+    },
+    {
+      "text": "Hợp nghe nhạc nền và xem video, đa số người đeo thấy thoải mái.",
+      "source": "src4"
+    }
+  ],
+  "caveats": [
+    {
+      "text": "Không có chống ồn, không multipoint.",
+      "source": "src3"
+    },
+    {
+      "text": "Độ trễ khoảng 295 ms, chơi game hoặc xem video có thể thấy lệch tiếng.",
+      "source": "src3"
+    },
+    {
+      "text": "Âm thiên bass, âm giữa lùi; giọng gọi điện nhỏ; hộp sạc dễ xước.",
+      "source": "src4"
+    }
+  ],
+  "sources": [
+    {
+      "id": "src1",
+      "url": "https://www.soundcore.com/products/p20i",
+      "title": "soundcore P20i Wireless Earbuds - soundcore US",
+      "type": "chinh_hang"
+    },
+    {
+      "id": "src2",
+      "url": "https://www.soundcore.com/nz/products/p20i",
+      "title": "Soundcore P20i - trang New Zealand",
+      "type": "chinh_hang"
+    },
+    {
+      "id": "src3",
+      "url": "https://www.soundguys.com/product/anker-soundcore-p20i/",
+      "title": "SoundGuys - Anker Soundcore P20i (bảng thông số)",
+      "type": "danh_gia"
+    },
+    {
+      "id": "src4",
+      "url": "https://www.scarbir.com/tws/soundcore-p20i-review",
+      "title": "Scarbir - Soundcore P20i review",
+      "type": "danh_gia"
+    },
+    {
+      "id": "src5",
+      "url": "https://www.lazada.vn/products/tai-nghe-anker-life-p20i-i2311548078.html",
+      "title": "Lazada VN - Tai nghe Anker life P20i (trang không hiện giá)",
+      "type": "cua_hang"
+    },
+    {
+      "id": "src6",
+      "url": "https://anker.vn/search?q=P20i",
+      "title": "ANKER Việt Nam - tìm P20i không có kết quả",
+      "type": "cua_hang"
+    }
+  ],
+  "unverified": [
+    "Giá bán tại Việt Nam: không tìm thấy giá xác nhận (CellphoneS không bán P20i, anker.vn không có kết quả, trang Lazada không hiện giá). Một tóm tắt tìm kiếm nêu khoảng 589.000 đồng trên Lazada nhưng chưa tự xác nhận được. Không dùng giá trong lời đọc.",
+    "Chưa xác nhận P20i còn được phân phối chính hãng tại Việt Nam (anker.vn không liệt kê). Người điều phối nên kiểm tra tay trước khi đăng.",
+    "Mã A3949 lấy từ đường dẫn trang soundcore.com/anker.com xuất hiện trong kết quả tìm kiếm, chưa kiểm trên hộp.",
+    "Multipoint và độ trễ 295 ms chỉ từ SoundGuys (một nguồn).",
+    "Mô tả hình dáng chỉ từ chữ (review nói thiết kế có cần ngắn, 3 cỡ đệm tai); chưa nhìn ảnh. Loại ảnh (kind) trong ref_image_candidates chưa kiểm bằng mắt, cần chọn ảnh thủ công."
+  ],
+  "product_visual_description": "Soundcore P20i true wireless earbuds with a short stem on each bud and a compact charging case with a carrying lanyard; sold in black, white, blue, pink and light blue.",
+  "ref_image_candidates": [
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0516/3761/6830/files/20260304-121406_3840x.png?v=1772597724",
+      "page": "https://www.soundcore.com/products/p20i",
+      "kind": "product_main"
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0516/3761/6830/files/471c8d80f4d4806c3d6f89358109925d_aea39bd0-161d-48cd-a5a3-ec83e71385c1.png?v=1733293001",
+      "page": "https://www.soundcore.com/products/p20i",
+      "kind": "product_angle"
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0716/2223/0306/files/1productphoto_3840x.jpg?v=1724655730",
+      "page": "https://www.soundcore.com/nz/products/p20i",
+      "kind": "product_main"
+    },
+    {
+      "url": "https://soundcore-nz-official-store.myshopify.com/cdn/shop/files/black.png",
+      "page": "https://www.soundcore.com/nz/products/p20i",
+      "kind": "product_angle"
+    },
+    {
+      "url": "https://soundcore-nz-official-store.myshopify.com/cdn/shop/files/white.png",
+      "page": "https://www.soundcore.com/nz/products/p20i",
+      "kind": "product_angle"
+    },
+    {
+      "url": "https://soundcore-nz-official-store.myshopify.com/cdn/shop/files/blue.png",
+      "page": "https://www.soundcore.com/nz/products/p20i",
+      "kind": "product_angle"
+    }
+  ],
+  "takeaway": "Cần tai nghe không dây giá thấp, pin lâu, chống mồ hôi thì P20i đáng xem; cần chống ồn, độ trễ thấp hay nhiều thiết bị cùng lúc thì nên cân nhắc loại khác.",
+  "buyer_personas": [
+    "Sinh viên, người đi làm cần tai nghe rẻ để nghe nhạc nền, xem video",
+    "Người hay tập thể thao nhẹ, ra mồ hôi"
+  ]
+}

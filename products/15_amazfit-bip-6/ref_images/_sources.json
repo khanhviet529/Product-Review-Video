@@ -1,0 +1,82 @@
+[
+  {
+    "file": "product_main.jpg",
+    "url": "https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/7077/337643/amazfit-bip-6-do-1-638839426935518028.jpg",
+    "page": "https://www.thegioididong.com/dong-ho-thong-minh/amazfit-bip-6",
+    "kind": "product_main",
+    "width": 1020,
+    "height": 680
+  },
+  {
+    "file": "product_angle_1.jpg",
+    "url": "https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/7077/337643/amazfit-bip-6-do-2-638839426941573907.jpg",
+    "page": "https://www.thegioididong.com/dong-ho-thong-minh/amazfit-bip-6",
+    "kind": "product_angle",
+    "width": 1020,
+    "height": 680
+  },
+  {
+    "file": "product_angle_2.jpg",
+    "url": "https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/7077/337643/amazfit-bip-6-do-3-638839426949037351.jpg",
+    "page": "https://www.thegioididong.com/dong-ho-thong-minh/amazfit-bip-6",
+    "kind": "product_angle",
+    "width": 1020,
+    "height": 680
+  },
+  {
+    "file": "in_use_1.jpg",
+    "url": "https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/7077/337643/amazfit-bip-6-do-4-638839426956675910.jpg",
+    "page": "https://www.thegioididong.com/dong-ho-thong-minh/amazfit-bip-6",
+    "kind": "in_use",
+    "width": 1020,
+    "height": 680
+  },
+  {
+    "file": "in_use_2.jpg",
+    "url": "https://cdn.tgdd.vn/Products/Images/7077/337643/Slider/vi-vn-amazfit-bip-6-sld-1.jpg",
+    "page": "https://www.thegioididong.com/dong-ho-thong-minh/amazfit-bip-6",
+    "kind": "in_use",
+    "width": 1020,
+    "height": 570
+  },
+  {
+    "file": "product_main_2.jpg",
+    "url": "https://cdn2.fptshop.com.vn/unsafe/1920x0/filters:format(webp):quality(75)/amazfit_bip_6_1_c77769ea5e.jpg",
+    "page": "https://fptshop.com.vn/smartwatch/amazfit-bip-6",
+    "kind": "product_main",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "file": "product_angle_3.jpg",
+    "url": "https://cdn.tgdd.vn/Products/Images/7077/337643/amazfit-bip-6-do-tn.jpg",
+    "page": "https://www.thegioididong.com/dong-ho-thong-minh/amazfit-bip-6",
+    "kind": "product_angle",
+    "width": 600,
+    "height": 600
+  },
+  {
+    "file": "product_angle_4.jpg",
+    "url": "https://cdnv2.tgdd.vn/webmwg/2024/ContentMwg/images/default-tgdd.png",
+    "page": "https://www.thegioididong.com/dong-ho-thong-minh/amazfit-bip-6",
+    "kind": "product_angle",
+    "width": 1200,
+    "height": 628
+  },
+  {
+    "file": "product_angle_5.jpg",
+    "url": "https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/7077/337643/amazfit-bip-6-den-1-638839429343833391.jpg",
+    "page": "https://www.thegioididong.com/dong-ho-thong-minh/amazfit-bip-6",
+    "kind": "product_angle",
+    "width": 1020,
+    "height": 680
+  },
+  {
+    "file": "product_angle_6.jpg",
+    "url": "https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/7077/337643/amazfit-bip-6-xam-hc-1-638847133751053434.jpg",
+    "page": "https://www.thegioididong.com/dong-ho-thong-minh/amazfit-bip-6",
+    "kind": "product_angle",
+    "width": 1020,
+    "height": 680
+  }
+]

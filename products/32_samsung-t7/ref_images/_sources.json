@@ -1,0 +1,82 @@
+[
+  {
+    "file": "product_main.jpg",
+    "url": "https://hanoicomputercdn.com/media/product/67389_o_cung_gan_ngoai_ssd_samsung_t7_portable_shield_1tb_2_5_inch_usb_3__1_.jpg",
+    "page": "https://hacom.vn/o-cung-gan-ngoai-ssd-samsung-t7-portable-shield-1tb-2.5-inch-usb-3.2-den-doc-1050mb-s-ghi-1000mb-s-mu-pe1t0s-ww",
+    "kind": "product_main",
+    "width": 850,
+    "height": 850
+  },
+  {
+    "file": "product_angle_1.jpg",
+    "url": "https://hanoicomputercdn.com/media/product/67389_o_cung_gan_ngoai_ssd_samsung_t7_portable_shield_1tb_2_5_inch_usb_3__2_.jpg",
+    "page": "https://hacom.vn/o-cung-gan-ngoai-ssd-samsung-t7-portable-shield-1tb-2.5-inch-usb-3.2-den-doc-1050mb-s-ghi-1000mb-s-mu-pe1t0s-ww",
+    "kind": "product_angle",
+    "width": 850,
+    "height": 850
+  },
+  {
+    "file": "product_angle_2.jpg",
+    "url": "https://hanoicomputercdn.com/media/product/67389_o_cung_gan_ngoai_ssd_samsung_t7_portable_shield_1tb_2_5_inch_usb_3__3_.jpg",
+    "page": "https://hacom.vn/o-cung-gan-ngoai-ssd-samsung-t7-portable-shield-1tb-2.5-inch-usb-3.2-den-doc-1050mb-s-ghi-1000mb-s-mu-pe1t0s-ww",
+    "kind": "product_angle",
+    "width": 850,
+    "height": 850
+  },
+  {
+    "file": "product_angle_3.jpg",
+    "url": "https://bizweb.dktcdn.net/thumb/1024x1024/100/329/122/products/samsung-t7-shield-01.jpg?v=1729659474260",
+    "page": "https://memoryzone.com.vn/o-cung-di-dong-1tb-external-ssd-samsung-t7-shield-usb-3-2-gen-2-mu-pe1t0",
+    "kind": "product_angle",
+    "width": 1000,
+    "height": 1000
+  },
+  {
+    "file": "in_use_1.jpg",
+    "url": "https://bizweb.dktcdn.net/thumb/1024x1024/100/329/122/products/samsung-t7-shield-02.jpg?v=1729659474260",
+    "page": "https://memoryzone.com.vn/o-cung-di-dong-1tb-external-ssd-samsung-t7-shield-usb-3-2-gen-2-mu-pe1t0",
+    "kind": "in_use",
+    "width": 1000,
+    "height": 1000
+  },
+  {
+    "file": "product_angle_4.jpg",
+    "url": "https://images.samsung.com/is/image/samsung/p6pim/ca/mu-pe1t0s-am/gallery/ca-portable-ssd-t7-shield-423167-mu-pe1t0s-am-532385801?$1164_776_PNG$",
+    "page": "https://www.samsung.com/ca/memory-storage/portable-ssd/t7-shield-1tb-black-external-storage-nvme-1050-mbs-mu-pe1t0s-am/",
+    "kind": "product_angle",
+    "width": 1164,
+    "height": 776
+  },
+  {
+    "file": "product_angle_5.jpg",
+    "url": "https://bizweb.dktcdn.net/thumb/grande/100/329/122/products/o-cung-di-dong-ssd-samsung-t7-shield.jpg?v=1720544737477",
+    "page": "https://memoryzone.com.vn/o-cung-di-dong-1tb-external-ssd-samsung-t7-shield-usb-3-2-gen-2-mu-pe1t0",
+    "kind": "product_angle",
+    "width": 600,
+    "height": 600
+  },
+  {
+    "file": "product_angle_6.jpg",
+    "url": "https://bizweb.dktcdn.net/thumb/grande/100/329/122/products/o-cung-di-dong-ssd-1tb-samsung-t7-shield-1050mb-s-mu-pe1t0-04.jpg?v=1729659444810",
+    "page": "https://memoryzone.com.vn/o-cung-di-dong-1tb-external-ssd-samsung-t7-shield-usb-3-2-gen-2-mu-pe1t0",
+    "kind": "product_angle",
+    "width": 600,
+    "height": 600
+  },
+  {
+    "file": "product_angle_7.jpg",
+    "url": "https://bizweb.dktcdn.net/thumb/grande/100/329/122/products/samsung-t7-shield-03.jpg?v=1729659474260",
+    "page": "https://memoryzone.com.vn/o-cung-di-dong-1tb-external-ssd-samsung-t7-shield-usb-3-2-gen-2-mu-pe1t0",
+    "kind": "product_angle",
+    "width": 600,
+    "height": 600
+  },
+  {
+    "file": "product_angle_8.jpg",
+    "url": "https://bizweb.dktcdn.net/100/329/122/products/o-cung-di-dong-ssd-samsung-t7-shield.jpg?v=1720544737477",
+    "page": "https://memoryzone.com.vn/o-cung-di-dong-1tb-external-ssd-samsung-t7-shield-usb-3-2-gen-2-mu-pe1t0",
+    "kind": "product_angle",
+    "width": 1000,
+    "height": 1000
+  }
+]

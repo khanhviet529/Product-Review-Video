@@ -1,0 +1,50 @@
+[
+  {
+    "file": "product_main.jpg",
+    "url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/c/a/camera-ezviz-ip-wifi-hong-ngoai-c6n-g1-5mp_1_.png",
+    "page": "https://cellphones.com.vn/camera-ezviz-ip-wifi-hong-ngoai-c6n-g1-5mp.html",
+    "kind": "product_main",
+    "width": 600,
+    "height": 600
+  },
+  {
+    "file": "product_angle_1.jpg",
+    "url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/c/a/camera-ezviz-ip-wifi-hong-ngoai-c6n-g1-5mp_2_.png",
+    "page": "https://cellphones.com.vn/camera-ezviz-ip-wifi-hong-ngoai-c6n-g1-5mp.html",
+    "kind": "product_angle",
+    "width": 600,
+    "height": 600
+  },
+  {
+    "file": "product_angle_2.jpg",
+    "url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/c/a/camera-ezviz-ip-wifi-hong-ngoai-c6n-g1-5mp_3_.png",
+    "page": "https://cellphones.com.vn/camera-ezviz-ip-wifi-hong-ngoai-c6n-g1-5mp.html",
+    "kind": "product_angle",
+    "width": 1234,
+    "height": 925
+  },
+  {
+    "file": "in_use_1.jpg",
+    "url": "https://mfs.ezvizlife.com/70c74791757746456699867ae1782b93.jpg",
+    "page": "https://www.ezviz.com/product/c6n+g1+2k/293591",
+    "kind": "in_use",
+    "width": 1560,
+    "height": 996
+  },
+  {
+    "file": "product_angle_3.jpg",
+    "url": "https://mfs.ezvizlife.com/mall/fff4e8f3dab7eaf81ec404648182f175.jpg",
+    "page": "https://www.ezviz.com/product/c6n+g1+2k/293591",
+    "kind": "product_angle",
+    "width": 855,
+    "height": 600
+  },
+  {
+    "file": "product_angle_4.jpg",
+    "url": "https://mfs.ezvizlife.com/mall/6aa37c1c83bbfbc7ea705aa4c71d55e7.jpg",
+    "page": "https://www.ezviz.com/product/c6n+g1+2k/293591",
+    "kind": "product_angle",
+    "width": 855,
+    "height": 600
+  }
+]

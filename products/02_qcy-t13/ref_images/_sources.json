@@ -1,0 +1,66 @@
+[
+  {
+    "file": "product_main.jpg",
+    "url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/t/a/tai-nghe-khong-day-qcy-t13-spa_1_.png",
+    "page": "https://cellphones.com.vn/tai-nghe-khong-day-qcy-t13.html",
+    "kind": "product_main",
+    "width": 1234,
+    "height": 652
+  },
+  {
+    "file": "product_angle_1.jpg",
+    "url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/5/_/5_483_26.png",
+    "page": "https://cellphones.com.vn/tai-nghe-khong-day-qcy-t13.html",
+    "kind": "product_angle",
+    "width": 600,
+    "height": 600
+  },
+  {
+    "file": "product_angle_2.jpg",
+    "url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/9/_/9_115_15.png",
+    "page": "https://cellphones.com.vn/tai-nghe-khong-day-qcy-t13.html",
+    "kind": "product_angle",
+    "width": 600,
+    "height": 600
+  },
+  {
+    "file": "product_angle_3.jpg",
+    "url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/4/_/4_557_33.png",
+    "page": "https://cellphones.com.vn/tai-nghe-khong-day-qcy-t13.html",
+    "kind": "product_angle",
+    "width": 600,
+    "height": 600
+  },
+  {
+    "file": "product_angle_4.jpg",
+    "url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/8/_/8_174_16.png",
+    "page": "https://cellphones.com.vn/tai-nghe-khong-day-qcy-t13.html",
+    "kind": "product_angle",
+    "width": 600,
+    "height": 600
+  },
+  {
+    "file": "product_angle_5.jpg",
+    "url": "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:0/q:100/plain/https://cellphones.com.vn/media/wysiwyg/Am-thanh/Tai-nghe/QCY/tai-nghe-khong-day-qcy-t13-5.jpg",
+    "page": "https://cellphones.com.vn/tai-nghe-khong-day-qcy-t13.html",
+    "kind": "product_angle",
+    "width": 1200,
+    "height": 675
+  },
+  {
+    "file": "product_angle_6.jpg",
+    "url": "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:0/q:100/plain/https://cellphones.com.vn/media/wysiwyg/Am-thanh/Tai-nghe/QCY/tai-nghe-khong-day-qcy-t13-3.jpg",
+    "page": "https://cellphones.com.vn/tai-nghe-khong-day-qcy-t13.html",
+    "kind": "product_angle",
+    "width": 1200,
+    "height": 675
+  },
+  {
+    "file": "product_angle_7.jpg",
+    "url": "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:0/q:100/plain/https://cellphones.com.vn/media/wysiwyg/Am-thanh/Tai-nghe/QCY/tai-nghe-khong-day-qcy-t13-7.jpg",
+    "page": "https://cellphones.com.vn/tai-nghe-khong-day-qcy-t13.html",
+    "kind": "product_angle",
+    "width": 1200,
+    "height": 675
+  }
+]

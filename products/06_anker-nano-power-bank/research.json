@@ -1,0 +1,222 @@
+{
+  "id": "06",
+  "slug": "06_anker-nano-power-bank",
+  "status": "mot_phan",
+  "chosen_model": "Anker Nano Power Bank (30W, Built-In USB-C Cable) 10000mAh, mã model A1259",
+  "alternatives_rejected": [
+    {
+      "model": "Anker Nano Power Bank 22,5W cáp liền (A1652 và các mã khác)",
+      "reason": "Không thấy trang bán còn hàng ở Việt Nam; A1652 nằm trong danh sách thu hồi toàn cầu 2025 nên không chọn."
+    }
+  ],
+  "official_page": "https://www.anker.com/products/a1259-built-in-cable-power-bank-10000mah",
+  "price_vnd": {
+    "low": 675000,
+    "high": 960000,
+    "as_of": "2026-10-22",
+    "sources": [
+      "src3",
+      "src4",
+      "src5",
+      "src6"
+    ],
+    "confidence": "vua"
+  },
+  "specs": [
+    {
+      "id": "s1",
+      "key": "Dung lượng",
+      "value_vi": "10000mAh",
+      "condition": "Con số ghi trên nhãn",
+      "source": "src1",
+      "confidence": "cao"
+    },
+    {
+      "id": "s2",
+      "key": "Cáp liền và sạc hai chiều",
+      "value_vi": "Cáp USB-C liền, tối đa 30W cho cả sạc vào và sạc ra",
+      "condition": "Công suất thực phụ thuộc thiết bị",
+      "source": "src1",
+      "confidence": "cao"
+    },
+    {
+      "id": "s3",
+      "key": "Cổng",
+      "value_vi": "Cáp USB-C liền + 1 USB-C + 1 USB-A",
+      "condition": "",
+      "source": "src1",
+      "confidence": "cao"
+    },
+    {
+      "id": "s4",
+      "key": "Tổng công suất ra khi dùng nhiều cổng",
+      "value_vi": "Tối đa 24W",
+      "condition": "Cổng đơn lẻ tối đa 30W",
+      "source": "src1",
+      "confidence": "cao"
+    },
+    {
+      "id": "s5",
+      "key": "Kích thước và khối lượng",
+      "value_vi": "104 x 52,3 x 26 mm, 215g",
+      "condition": "CellphoneS ghi 213g",
+      "source": "src2",
+      "confidence": "cao"
+    },
+    {
+      "id": "s6",
+      "key": "Nạp lại pin",
+      "value_vi": "Lên 50% trong khoảng 45 phút",
+      "condition": "Theo hãng, khi nạp bằng nguồn 30W",
+      "source": "src1",
+      "confidence": "cao"
+    },
+    {
+      "id": "s7",
+      "key": "Màn hình",
+      "value_vi": "Màn hình màu nhỏ hiển thị trạng thái sạc",
+      "condition": "",
+      "source": "src1",
+      "confidence": "cao"
+    },
+    {
+      "id": "s8",
+      "key": "Giá",
+      "value_vi": "Khoảng 675.000 - 960.000 đồng",
+      "condition": "Ngày 2026-10-22; nhiều nơi tạm hết hàng",
+      "source": "src3",
+      "confidence": "vua"
+    },
+    {
+      "id": "s9",
+      "key": "Bảo hành",
+      "value_vi": "18 tháng (anker.vn), 12 tháng (iCenter, hàng nhập USA)",
+      "condition": "",
+      "source": "src3",
+      "confidence": "vua"
+    },
+    {
+      "id": "s10",
+      "key": "Tình trạng hàng",
+      "value_vi": "anker.vn, CellphoneS, Di Động Việt: tạm hết hàng; iCenter: có bán",
+      "condition": "Ngày 2026-10-22",
+      "source": "src3",
+      "confidence": "vua"
+    }
+  ],
+  "strengths": [
+    {
+      "text": "Cáp USB-C liền có tay cầm, không cần mang dây rời; hỗ trợ sạc hai chiều tối đa 30W",
+      "source": "src1"
+    },
+    {
+      "text": "Nhỏ gọn: 104 x 52,3 x 26 mm, nặng 215g",
+      "source": "src2"
+    },
+    {
+      "text": "Màn hình màu hiển thị trạng thái sạc",
+      "source": "src1"
+    },
+    {
+      "text": "Hãng ghi nạp lại pin lên 50% trong khoảng 45 phút khi dùng nguồn 30W",
+      "source": "src1"
+    }
+  ],
+  "caveats": [
+    {
+      "text": "Chỉ có một sợi cáp liền cố định, cần cáp dài hơn hoặc khác chuẩn thì phải dùng cáp rời",
+      "source": "src1"
+    },
+    {
+      "text": "Dùng nhiều cổng cùng lúc thì tổng công suất ra chỉ tối đa 24W",
+      "source": "src1"
+    },
+    {
+      "text": "Dung lượng 10000mAh, không phù hợp nếu cần sạc laptop hoặc đi xa nhiều ngày",
+      "source": "src1"
+    },
+    {
+      "text": "Tại ngày 2026-10-22 nhiều cửa hàng ở Việt Nam ghi tạm hết hàng",
+      "source": "src3"
+    }
+  ],
+  "sources": [
+    {
+      "id": "src1",
+      "url": "https://www.anker.com/products/a1259-built-in-cable-power-bank-10000mah",
+      "title": "Anker Nano Power Bank (30W, Built-In USB-C Cable) - Anker US (A1259)",
+      "type": "chinh_hang"
+    },
+    {
+      "id": "src2",
+      "url": "https://ankervietnam.vn/anker-a1259-pin-du-phong-10000mah-30w",
+      "title": "Anker A1259 - Pin dự phòng 10000mAh 30W kèm cáp type C in/out - AnkerVietNam.vn",
+      "type": "cua_hang"
+    },
+    {
+      "id": "src3",
+      "url": "https://anker.vn/products/pin-du-phong-anker-nano-10000-30w-built-in-usb-c-connector-a1259",
+      "title": "Pin Dự Phòng Anker Nano 10000 30W (Built-In USB-C Connector) A1259 - anker.vn",
+      "type": "cua_hang"
+    },
+    {
+      "id": "src4",
+      "url": "https://cellphones.com.vn/pin-sac-du-phong-anker-nano-10000mah-30w-usb-c-tich-hop-a1259.html",
+      "title": "Pin sạc dự phòng Anker Nano A1259 10000mAh 30W USB-C tích hợp - CellphoneS",
+      "type": "cua_hang"
+    },
+    {
+      "id": "src5",
+      "url": "https://icenter.vn/products/pin-du-phong-anker-nano-power-bank-10-000mah-30w-built-in-usb-c-cable-a1259-hang-chinh-hang-nhap-khau-usa",
+      "title": "Pin dự phòng Anker Nano Power Bank 10.000mAh A1259 hàng nhập USA - iCenter",
+      "type": "cua_hang"
+    },
+    {
+      "id": "src6",
+      "url": "https://didongviet.vn/phu-kien/pin-sac-du-phong-anker-nano-1a1c-30w-10000mah-kem-cap-usb-c-a1259.html",
+      "title": "Pin sạc dự phòng Anker Nano 1A1C 30W 10000mAh A1259 - Di Động Việt",
+      "type": "cua_hang"
+    }
+  ],
+  "unverified": [
+    "Đánh giá độc lập chi tiết (đo thực tế, độ bền cáp liền): không tìm được bài đánh giá độc lập đọc được; điểm cần cân nhắc rút từ thông số hãng, không phải từ người dùng.",
+    "Chiều dài sợi cáp liền: trang đã đọc không ghi, không dùng trong lời đọc.",
+    "Mang lên máy bay: hãng không ghi Wh trên trang đã đọc, không nói trong video.",
+    "Nhóm thu hồi toàn cầu của Anker năm 2025 không thấy nêu A1259 (kết quả tìm kiếm), chưa xác minh bằng trang thu hồi chính thức của Anker nên không nói trong video.",
+    "Tình trạng hàng thay đổi theo ngày; cần kiểm tra lại trước khi đăng.",
+    "Ảnh anker.com TD02 có chữ chèn trong ảnh nên không dùng làm ảnh tham chiếu sản phẩm."
+  ],
+  "product_visual_description": "a compact rounded-rectangle black power bank with a short flat black USB-C cable looping out from the top, a small round color display with a green ring on the front, a USB-C port and a blue USB-A port stacked on one narrow side, and ANKER printed vertically on the lower front",
+  "ref_image_candidates": [
+    {
+      "url": "https://product.hstatic.net/1000016460/product/a1259011_td01_v1_-1280x1280_d08d2d45d7d545a3ae4ed3e563e4c40a.jpg",
+      "page": "https://icenter.vn/products/pin-du-phong-anker-nano-power-bank-10-000mah-30w-built-in-usb-c-cable-a1259-hang-chinh-hang-nhap-khau-usa",
+      "kind": "product_main"
+    },
+    {
+      "url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/p/i/pin-sac-du-phong-anker-nano-10000mah-30w-usb-c-tich-hop-a1259-1.png",
+      "page": "https://cellphones.com.vn/pin-sac-du-phong-anker-nano-10000mah-30w-usb-c-tich-hop-a1259.html",
+      "kind": "product_angle"
+    },
+    {
+      "url": "https://product.hstatic.net/1000153276/product/hong_anker_nano_10000_30w__built-in_usb-c_connector__-_a1259_-_mau_den_e6a33bc3352847959565048831e3fff6_1024x1024.png",
+      "page": "https://anker.vn/products/pin-du-phong-anker-nano-10000-30w-built-in-usb-c-connector-a1259",
+      "kind": "product_angle"
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0493/9834/9974/files/A1259011_TD03_V1-1280x1280.jpg?v=1764230004",
+      "page": "https://www.anker.com/products/a1259-built-in-cable-power-bank-10000mah",
+      "kind": "product_angle"
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0493/9834/9974/files/A1259011_TD04_V1-1280x1280.jpg?v=1764230004",
+      "page": "https://www.anker.com/products/a1259-built-in-cable-power-bank-10000mah",
+      "kind": "in_use"
+    }
+  ],
+  "takeaway": "Cần một viên pin nhỏ có sẵn cáp USB-C để đi làm, sạc điện thoại và tai nghe thì Anker Nano A1259 hợp; cần sạc laptop, dung lượng lớn hoặc sạc nhiều thiết bị cùng lúc ở công suất cao thì nên chọn loại khác.",
+  "buyer_personas": [
+    "Người đi làm cần pin gọn bỏ túi",
+    "Người dùng iPhone/Android đời mới cần sạc nhanh qua USB-C"
+  ]
+}

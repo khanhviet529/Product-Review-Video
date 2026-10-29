@@ -1,0 +1,255 @@
+{
+  "id": "05",
+  "slug": "05_xiaomi-power-bank-20000mah",
+  "status": "mot_phan",
+  "chosen_model": "Xiaomi 33W Power Bank 20000mAh (Integrated Cable), mã model PB2030MI",
+  "alternatives_rejected": [
+    {
+      "model": "Xiaomi Power Bank 20000 (Integrated Cable) PB2020MI 22,5W",
+      "reason": "Đời cũ hơn, 22,5W; trang Xiaomi VN ghi 342g, 128x73x32mm. Dùng làm đối chiếu, không chọn."
+    }
+  ],
+  "official_page": "https://www.mi.com/vn/product/xiaomi-33w-power-bank-20000mah-integrated-cable/",
+  "price_vnd": {
+    "low": 790000,
+    "high": 890000,
+    "as_of": "2026-10-22",
+    "sources": [
+      "src3",
+      "src4"
+    ],
+    "confidence": "vua"
+  },
+  "specs": [
+    {
+      "id": "s1",
+      "key": "Dung lượng pin",
+      "value_vi": "Hai cell 10000mAh, ghi tổng 20000mAh; năng lượng định mức 74Wh",
+      "condition": "Con số 20000mAh là dung lượng cell",
+      "source": "src1",
+      "confidence": "cao"
+    },
+    {
+      "id": "s2",
+      "key": "Dung lượng định mức",
+      "value_vi": "12000mAh (5V/3A)",
+      "condition": "Hãng ghi riêng, thấp hơn con số 20000mAh trên nhãn",
+      "source": "src1",
+      "confidence": "cao"
+    },
+    {
+      "id": "s3",
+      "key": "Công suất ra tối đa",
+      "value_vi": "33W",
+      "condition": "Khi dùng với điện thoại Xiaomi hỗ trợ sạc nhanh thông minh; Thế Giới Di Động ghi cổng USB tối đa 22,5W",
+      "source": "src2",
+      "confidence": "cao"
+    },
+    {
+      "id": "s4",
+      "key": "Cổng",
+      "value_vi": "Cáp USB-C liền + 1 USB-C + 1 USB-A, sạc ba thiết bị cùng lúc",
+      "condition": "Nếu tổng nhu cầu công suất không vượt tổng công suất ra",
+      "source": "src2",
+      "confidence": "cao"
+    },
+    {
+      "id": "s5",
+      "key": "Sạc vào",
+      "value_vi": "Tối đa 30W qua USB-C (sạc hai chiều)",
+      "condition": "",
+      "source": "src2",
+      "confidence": "cao"
+    },
+    {
+      "id": "s6",
+      "key": "Thời gian nạp đầy",
+      "value_vi": "Khoảng 5,5 giờ",
+      "condition": "Dùng củ sạc 18W và cáp Type C đi kèm",
+      "source": "src3",
+      "confidence": "vua"
+    },
+    {
+      "id": "s7",
+      "key": "Kích thước",
+      "value_vi": "127 x 70,5 x 30,5 mm",
+      "condition": "",
+      "source": "src1",
+      "confidence": "cao"
+    },
+    {
+      "id": "s8",
+      "key": "Mang lên máy bay",
+      "value_vi": "Pin dưới 100Wh, hãng ghi phù hợp khi đi máy bay",
+      "condition": "Theo chú thích của Xiaomi; quy định từng hãng bay có thể khác",
+      "source": "src2",
+      "confidence": "cao"
+    },
+    {
+      "id": "s9",
+      "key": "Hiển thị dung lượng",
+      "value_vi": "Đèn LED hiển thị dung lượng pin (không phải màn hình số)",
+      "condition": "",
+      "source": "src4",
+      "confidence": "vua"
+    },
+    {
+      "id": "s10",
+      "key": "Thu hồi",
+      "value_vi": "Xiaomi Việt Nam thu hồi một lô PB2030MI sản xuất tháng 8-9/2024 (87 chiếc đã bán), chương trình từ 2/9/2025; toàn cầu gần 146.891 viên; kiểm tra số SN mặt sau pin",
+      "condition": "Chỉ lô có SN nằm trong danh sách",
+      "source": "src5",
+      "confidence": "cao"
+    },
+    {
+      "id": "s11",
+      "key": "Bảo hành",
+      "value_vi": "12 tháng chính hãng",
+      "condition": "",
+      "source": "src1",
+      "confidence": "cao"
+    },
+    {
+      "id": "s12",
+      "key": "Giá",
+      "value_vi": "Khoảng 790.000 - 890.000 đồng",
+      "condition": "Ngày 2026-10-22; CellphoneS ghi sắp về hàng",
+      "source": "src3",
+      "confidence": "vua"
+    },
+    {
+      "id": "s13",
+      "key": "Khối lượng",
+      "value_vi": "260g (Thế Giới Di Động, CellphoneS) nhưng bản 22,5W cùng dung lượng nặng 342g",
+      "condition": "Số liệu lệch nhau",
+      "source": "src3",
+      "confidence": "thap"
+    }
+  ],
+  "strengths": [
+    {
+      "text": "Cáp USB-C liền kèm thêm cổng USB-C và USB-A, sạc được ba thiết bị cùng lúc",
+      "source": "src2"
+    },
+    {
+      "text": "Sạc hai chiều tối đa 30W; công suất ra tối đa 33W với điện thoại Xiaomi hỗ trợ sạc nhanh",
+      "source": "src2"
+    },
+    {
+      "text": "Pin 74Wh dưới ngưỡng 100Wh, hãng ghi phù hợp khi đi máy bay",
+      "source": "src2"
+    },
+    {
+      "text": "Một người dùng trên Thế Giới Di Động nhận xét sạc điện thoại Xiaomi nhanh",
+      "source": "src3"
+    }
+  ],
+  "caveats": [
+    {
+      "text": "Một lô model PB2030MI đã bị Xiaomi thu hồi do nguy cơ quá nhiệt; cần kiểm tra số SN mặt sau",
+      "source": "src5"
+    },
+    {
+      "text": "Dung lượng định mức hãng ghi chỉ 12000mAh, thấp hơn con số 20000mAh trên nhãn",
+      "source": "src1"
+    },
+    {
+      "text": "Chỉ có đèn LED báo dung lượng, không có màn hình số",
+      "source": "src4"
+    },
+    {
+      "text": "Một số người dùng trên Thế Giới Di Động báo pin nhấp nháy đèn và không sạc vào sau vài tháng",
+      "source": "src3"
+    }
+  ],
+  "sources": [
+    {
+      "id": "src1",
+      "url": "https://www.mi.com/vn/product/xiaomi-33w-power-bank-20000mah-integrated-cable/specs/",
+      "title": "Xiaomi 33W Power Bank 20000mAh (Integrated Cable) - Thông số kỹ thuật, Xiaomi Việt Nam",
+      "type": "chinh_hang"
+    },
+    {
+      "id": "src2",
+      "url": "https://www.mi.com/vn/product/xiaomi-33w-power-bank-20000mah-integrated-cable/",
+      "title": "Xiaomi 33W Power Bank 20000mAh (Integrated Cable) - Tổng quan, Xiaomi Việt Nam",
+      "type": "chinh_hang"
+    },
+    {
+      "id": "src3",
+      "url": "https://www.thegioididong.com/sac-dtdd/pin-sac-du-phong-20000mah-type-c-pd-qc-3-0-33w-xiaomi-pb2030mi",
+      "title": "Pin sạc dự phòng 20000mAh Type C PD QC 3.0 33W Xiaomi PB2030MI - Thế Giới Di Động (đọc 2026-10-22)",
+      "type": "cua_hang"
+    },
+    {
+      "id": "src4",
+      "url": "https://cellphones.com.vn/sac-pin-du-phong-xiaomi-20000mah-33w.html",
+      "title": "Pin dự phòng Xiaomi 20000mAh 33W tích hợp cáp Type-C - CellphoneS",
+      "type": "cua_hang"
+    },
+    {
+      "id": "src5",
+      "url": "https://thuonghieucongluan.com.vn/thu-hoi-pin-sac-du-phong-xiaomi-33w-power-bank-20000mah-tai-viet-nam-a283085.html",
+      "title": "Thu hồi pin sạc dự phòng Xiaomi 33W Power Bank 20000mAh tại Việt Nam (01/10/2025)",
+      "type": "danh_gia"
+    },
+    {
+      "id": "src6",
+      "url": "https://tinhte.vn/thread/xiaomi-thu-hoi-pin-sac-du-phong-33w-20000mah-tren-toan-cau-vi-nguy-co-chay-no.4052854/",
+      "title": "Tinh tế: Xiaomi thu hồi pin sạc dự phòng 33W 20000mAh trên toàn cầu (31/8/2025)",
+      "type": "danh_gia"
+    },
+    {
+      "id": "src7",
+      "url": "https://www.mi.com/vn/product/xiaomi-power-bank-20000/specs/",
+      "title": "Xiaomi Power Bank 20000 (Integrated Cable) PB2020MI - Thông số, Xiaomi Việt Nam",
+      "type": "chinh_hang"
+    }
+  ],
+  "unverified": [
+    "Khối lượng bản 33W: các nguồn lệch (260g so với 342g của bản 22,5W) nên không dùng trong lời đọc.",
+    "Dung lượng thực đo ra điện thoại: chưa mở được đánh giá độc lập có đo, không nói con số thực tế.",
+    "Giá 690.000 đ tại Thế Giới Di Động chỉ thấy trong tóm tắt tìm kiếm, không thấy trên trang đã mở nên không dùng.",
+    "Máy đang bán có thuộc lô thu hồi hay không: phải đối chiếu số SN trên trang hỗ trợ Xiaomi; lời đọc chỉ nhắc kiểm tra.",
+    "Ảnh tham chiếu ngoài hai ảnh đầu (be-1, xanh-1) chưa được xem từng ảnh nên nhãn \"product_angle\" là ước đoán; cần xem khi tải.",
+    "Trang chính hãng Xiaomi VN không hiển thị giá."
+  ],
+  "product_visual_description": "a compact rounded-rectangle power bank in matte beige with a fine dotted texture, a small xiaomi logo near the bottom of the front face, and a short flat beige USB-C cable looping out from the top edge",
+  "ref_image_candidates": [
+    {
+      "url": "https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/57/334150/pin-sac-du-phong-20000mah-type-c-pd-qc-3-0-33w-xiaomi-pb2030mi-be-1-638729903258794831.jpg",
+      "page": "https://www.thegioididong.com/sac-dtdd/pin-sac-du-phong-20000mah-type-c-pd-qc-3-0-33w-xiaomi-pb2030mi",
+      "kind": "product_main"
+    },
+    {
+      "url": "https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/57/334150/pin-sac-du-phong-20000mah-type-c-pd-qc-3-0-33w-xiaomi-pb2030mi-xanh-1-638729903460643666.jpg",
+      "page": "https://www.thegioididong.com/sac-dtdd/pin-sac-du-phong-20000mah-type-c-pd-qc-3-0-33w-xiaomi-pb2030mi",
+      "kind": "product_main"
+    },
+    {
+      "url": "https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/57/334150/pin-sac-du-phong-20000mah-type-c-pd-qc-3-0-33w-xiaomi-pb2030mi-be-2-638729903247090770.jpg",
+      "page": "https://www.thegioididong.com/sac-dtdd/pin-sac-du-phong-20000mah-type-c-pd-qc-3-0-33w-xiaomi-pb2030mi",
+      "kind": "product_angle"
+    },
+    {
+      "url": "https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/57/334150/pin-sac-du-phong-20000mah-type-c-pd-qc-3-0-33w-xiaomi-pb2030mi-be-3-638729903239967103.jpg",
+      "page": "https://www.thegioididong.com/sac-dtdd/pin-sac-du-phong-20000mah-type-c-pd-qc-3-0-33w-xiaomi-pb2030mi",
+      "kind": "product_angle"
+    },
+    {
+      "url": "https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/57/334150/pin-sac-du-phong-20000mah-type-c-pd-qc-3-0-33w-xiaomi-pb2030mi-be-4-638729903227481816.jpg",
+      "page": "https://www.thegioididong.com/sac-dtdd/pin-sac-du-phong-20000mah-type-c-pd-qc-3-0-33w-xiaomi-pb2030mi",
+      "kind": "product_angle"
+    },
+    {
+      "url": "https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/57/334150/pin-sac-du-phong-20000mah-type-c-pd-qc-3-0-33w-xiaomi-pb2030mi-xanh-2-638729903450688842.jpg",
+      "page": "https://www.thegioididong.com/sac-dtdd/pin-sac-du-phong-20000mah-type-c-pd-qc-3-0-33w-xiaomi-pb2030mi",
+      "kind": "product_angle"
+    }
+  ],
+  "takeaway": "Cần một viên pin dự phòng có sẵn cáp, dung lượng lớn, đủ sạc điện thoại, tablet, tai nghe và mang lên máy bay thì Xiaomi PB2030MI hợp; cần sạc laptop công suất lớn hoặc muốn màn hình hiển thị số thì cân nhắc loại khác, và nhớ kiểm tra số SN vì từng có lô bị thu hồi.",
+  "buyer_personas": [
+    "Người hay đi xa cần sạc điện thoại, tablet, tai nghe nhiều lần",
+    "Người muốn pin có sẵn cáp, ít mang dây rời"
+  ]
+}

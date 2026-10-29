@@ -1,0 +1,214 @@
+{
+  "id": "34",
+  "slug": "34_tp-link-archer-ax23",
+  "status": "mot_phan",
+  "chosen_model": "TP-Link Archer AX23 (AX1800 Wi-Fi 6 băng tần kép)",
+  "alternatives_rejected": [
+    {
+      "model": "TP-Link Archer AX55",
+      "reason": "Không nghiên cứu: đề tài ghi router Wi-Fi 6 giá rẻ và slug là AX23; AX55 thuộc tầm AX3000, chưa có số liệu."
+    }
+  ],
+  "official_page": "https://www.tp-link.com/vn/home-networking/wifi-router/archer-ax23/",
+  "price_vnd": {
+    "low": 850000,
+    "high": 1290000,
+    "as_of": "2026-10-22",
+    "sources": [
+      "src2",
+      "src3"
+    ],
+    "confidence": "vua"
+  },
+  "specs": [
+    {
+      "id": "s1",
+      "key": "Chuẩn Wi-Fi",
+      "value_vi": "Wi-Fi 6 (802.11ax) băng tần kép, AX1800",
+      "condition": "",
+      "source": "src1",
+      "confidence": "cao"
+    },
+    {
+      "id": "s2",
+      "key": "Tốc độ băng 5 GHz",
+      "value_vi": "1201 Mbps",
+      "condition": "tốc độ kết nối lý thuyết",
+      "source": "src1",
+      "confidence": "cao"
+    },
+    {
+      "id": "s3",
+      "key": "Tốc độ băng 2.4 GHz",
+      "value_vi": "574 Mbps",
+      "condition": "tốc độ kết nối lý thuyết",
+      "source": "src1",
+      "confidence": "cao"
+    },
+    {
+      "id": "s4",
+      "key": "Ăng-ten",
+      "value_vi": "4 ăng-ten ngoài cố định, beamforming",
+      "condition": "",
+      "source": "src1",
+      "confidence": "cao"
+    },
+    {
+      "id": "s5",
+      "key": "Cổng",
+      "value_vi": "1 WAN gigabit, 4 LAN gigabit; không USB",
+      "condition": "",
+      "source": "src1",
+      "confidence": "cao"
+    },
+    {
+      "id": "s6",
+      "key": "Mesh",
+      "value_vi": "Hỗ trợ OneMesh; tương thích EasyMesh",
+      "condition": "",
+      "source": "src1",
+      "confidence": "cao"
+    },
+    {
+      "id": "s7",
+      "key": "Phù hợp diện tích",
+      "value_vi": "Nhà 2-3 phòng ngủ",
+      "condition": "theo mô tả trên trang TP-Link",
+      "source": "src1",
+      "confidence": "cao"
+    },
+    {
+      "id": "s8",
+      "key": "Cổng USB",
+      "value_vi": "Không có",
+      "condition": "theo đánh giá Walastech và danh sách cổng của hãng",
+      "source": "src4",
+      "confidence": "vua"
+    },
+    {
+      "id": "s9",
+      "key": "Bảo mật",
+      "value_vi": "WPA3",
+      "condition": "",
+      "source": "src1",
+      "confidence": "cao"
+    },
+    {
+      "id": "s10",
+      "key": "Giá niêm yết hãng",
+      "value_vi": "1.699.000 đ",
+      "condition": "trang TP-Link Việt Nam",
+      "source": "src1",
+      "confidence": "cao"
+    },
+    {
+      "id": "s11",
+      "key": "Bảo hành",
+      "value_vi": "24 tháng",
+      "condition": "theo Memoryzone và Meta.vn",
+      "source": "src2",
+      "confidence": "cao"
+    },
+    {
+      "id": "s12",
+      "key": "Kích thước",
+      "value_vi": "260,2 x 135,0 x 38,6 mm",
+      "condition": "",
+      "source": "src2",
+      "confidence": "cao"
+    }
+  ],
+  "strengths": [
+    {
+      "text": "Wi-Fi 6 băng tần kép AX1800 có WPA3, giá thấp.",
+      "source": "src1"
+    },
+    {
+      "text": "Dễ cài đặt qua trình duyệt hoặc ứng dụng Tether; nhanh hơn router nhà mạng của người dùng (một hộ).",
+      "source": "src4"
+    },
+    {
+      "text": "Hỗ trợ OneMesh/EasyMesh để mở rộng sau này.",
+      "source": "src1"
+    }
+  ],
+  "caveats": [
+    {
+      "text": "Không có cổng USB.",
+      "source": "src4"
+    },
+    {
+      "text": "Tốc độ trên giấy là lý thuyết; trải nghiệm là của một hộ gia đình.",
+      "source": "src4"
+    },
+    {
+      "text": "Giá chênh lớn giữa niêm yết hãng và cửa hàng; hai cửa hàng đang ghi hết hàng.",
+      "source": "src2"
+    }
+  ],
+  "sources": [
+    {
+      "id": "src1",
+      "url": "https://www.tp-link.com/vn/home-networking/wifi-router/archer-ax23/",
+      "title": "TP-Link Việt Nam - Archer AX23",
+      "type": "chinh_hang"
+    },
+    {
+      "id": "src2",
+      "url": "https://memoryzone.com.vn/router-wifi-6-tp-link-archer-ax23",
+      "title": "Memoryzone - Router Wi-Fi 6 TP-Link Archer AX23",
+      "type": "cua_hang"
+    },
+    {
+      "id": "src3",
+      "url": "https://meta.vn/bo-phat-wifi-6-ax1800-tp-link-archer-ax23-p118926",
+      "title": "Meta.vn - Bộ phát Wifi 6 AX1800 TP-Link Archer AX23",
+      "type": "cua_hang"
+    },
+    {
+      "id": "src4",
+      "url": "https://walastech.com/go/zs03",
+      "title": "Walastech - TP-Link Archer AX23 AX1800 review (11/2021)",
+      "type": "danh_gia"
+    }
+  ],
+  "unverified": [
+    "Không hỗ trợ kênh 160 MHz và 'không hợp đường truyền trên 500 Mbps': chỉ thấy trong tóm tắt kết quả tìm kiếm, chưa mở bài gốc; không dùng.",
+    "Còn hàng tại Việt Nam ngày 2026-10-22: Memoryzone và Meta.vn đều ghi hết hàng/tạm hết.",
+    "Điện áp bộ đổi nguồn: trang TP-Link ghi 12 V 1 A, các nguồn khác mâu thuẫn; không dùng.",
+    "Đánh giá độc lập tiếng Việt: chưa tìm được."
+  ],
+  "product_visual_description": "A compact TP-Link Archer AX23 Wi-Fi 6 router, 260.2 x 135.0 x 38.6 mm, with four fixed external antennas and a geometric design with matte and glossy surfaces and ventilation slots; colour not stated, follow the reference image.",
+  "ref_image_candidates": [
+    {
+      "url": "https://static.tp-link.com/1large_1627273016330o.jpg",
+      "page": "https://www.tp-link.com/vn/home-networking/wifi-router/archer-ax23/",
+      "kind": "product_main"
+    },
+    {
+      "url": "https://static.tp-link.com/2large_1627273016557j.jpg",
+      "page": "https://www.tp-link.com/vn/home-networking/wifi-router/archer-ax23/",
+      "kind": "product_angle"
+    },
+    {
+      "url": "https://static.tp-link.com/3large_1627273016805D.jpg",
+      "page": "https://www.tp-link.com/vn/home-networking/wifi-router/archer-ax23/",
+      "kind": "product_angle"
+    },
+    {
+      "url": "https://static.tp-link.com/Lifestyle-Images_05_large_1627435604376p.jpg",
+      "page": "https://www.tp-link.com/vn/home-networking/wifi-router/archer-ax23/",
+      "kind": "in_use"
+    },
+    {
+      "url": "https://media.meta.vn/Data/image/2026/02/02/bo-phat-wifi-6-ax1800-tp-link-archer-ax23-g.jpg",
+      "page": "https://meta.vn/bo-phat-wifi-6-ax1800-tp-link-archer-ax23-p118926",
+      "kind": "product_main"
+    }
+  ],
+  "takeaway": "Nhà hai đến ba phòng ngủ cần Wi-Fi 6 giá mềm thì Archer AX23 hợp lý; cần cổng USB hoặc phủ nhà lớn thì cân nhắc loại khác hoặc bộ mesh.",
+  "buyer_personas": [
+    "Căn hộ nhỏ, nhà 2-3 phòng ngủ muốn thay router nhà mạng",
+    "Người cần Wi-Fi 6 giá thấp, không cần USB"
+  ]
+}

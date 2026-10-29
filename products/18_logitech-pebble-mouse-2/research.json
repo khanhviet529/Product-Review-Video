@@ -1,0 +1,205 @@
+{
+  "id": "18",
+  "slug": "18_logitech-pebble-mouse-2",
+  "status": "xac_minh",
+  "chosen_model": "Logitech Pebble Mouse 2 M350s (bản đen, mã 910-006988)",
+  "alternatives_rejected": [
+    {
+      "model": "Logitech M331 Silent Plus",
+      "reason": "không tìm được nguồn xác nhận còn bán và thông số; Pebble Mouse 2 là đời mới hơn"
+    }
+  ],
+  "official_page": "https://hacom.vn/chuot-khong-day-logitech-pebble-m350s-mau-den-wireless-bluetooth-_-910-006988",
+  "price_vnd": {
+    "low": 459000,
+    "high": 490000,
+    "as_of": "2026-10-22",
+    "sources": [
+      "src1",
+      "src3"
+    ],
+    "confidence": "vua"
+  },
+  "specs": [
+    {
+      "id": "s1",
+      "key": "Kết nối",
+      "value_vi": "Bluetooth Low Energy, tầm 10 m; đầu thu Logi Bolt dùng được nhưng không kèm hộp",
+      "condition": "",
+      "source": "src1",
+      "confidence": "cao"
+    },
+    {
+      "id": "s2",
+      "key": "Pin",
+      "value_vi": "1 viên AA alkaline có sẵn, dùng tới 24 tháng",
+      "condition": "theo hãng, tùy điều kiện sử dụng",
+      "source": "src1",
+      "confidence": "cao"
+    },
+    {
+      "id": "s3",
+      "key": "Kích thước, khối lượng",
+      "value_vi": "76 g gồm pin; 106,7 x 58,7 x 26,62 mm",
+      "condition": "",
+      "source": "src1",
+      "confidence": "cao"
+    },
+    {
+      "id": "s4",
+      "key": "Click",
+      "value_vi": "SilentTouch, click êm (cửa hàng nêu giảm tiếng ồn tới 90 phần trăm, không dùng số này)",
+      "condition": "",
+      "source": "src3",
+      "confidence": "vua"
+    },
+    {
+      "id": "s5",
+      "key": "Ghép đôi",
+      "value_vi": "tối đa 3 thiết bị, đổi bằng nút Easy-Switch",
+      "condition": "",
+      "source": "src1",
+      "confidence": "cao"
+    },
+    {
+      "id": "s6",
+      "key": "Hệ điều hành",
+      "value_vi": "Windows 10/11, macOS 11, iPadOS 14, Android 9, ChromeOS, Linux",
+      "condition": "phiên bản tối thiểu",
+      "source": "src1",
+      "confidence": "cao"
+    },
+    {
+      "id": "s7",
+      "key": "Nút",
+      "value_vi": "3 nút, ít nút tùy chỉnh",
+      "condition": "",
+      "source": "src2",
+      "confidence": "vua"
+    },
+    {
+      "id": "s8",
+      "key": "Cảm giác cầm",
+      "value_vi": "nhỏ, phẳng; iMore cho rằng không thoải mái khi dùng lâu",
+      "condition": "đánh giá một người",
+      "source": "src4",
+      "confidence": "vua"
+    },
+    {
+      "id": "s9",
+      "key": "Giá",
+      "value_vi": "khoảng 459.000 đến 490.000 đồng",
+      "condition": "",
+      "source": "src1",
+      "confidence": "vua"
+    }
+  ],
+  "strengths": [
+    {
+      "text": "Click êm (SilentTouch)",
+      "source": "src4"
+    },
+    {
+      "text": "Nhỏ nhẹ 76 g, dễ mang đi",
+      "source": "src1"
+    },
+    {
+      "text": "Ghép 3 thiết bị Bluetooth, nhiều hệ điều hành",
+      "source": "src1"
+    },
+    {
+      "text": "Pin AA dùng tới 24 tháng theo hãng",
+      "source": "src1"
+    },
+    {
+      "text": "Giá dưới 500.000 đồng",
+      "source": "src1"
+    }
+  ],
+  "caveats": [
+    {
+      "text": "Thân nhỏ, phẳng, một đánh giá nói dùng lâu không thoải mái",
+      "source": "src4"
+    },
+    {
+      "text": "Ít nút tùy chỉnh",
+      "source": "src4"
+    },
+    {
+      "text": "Đầu thu Logi Bolt không kèm hộp",
+      "source": "src1"
+    }
+  ],
+  "sources": [
+    {
+      "id": "src1",
+      "url": "https://hacom.vn/chuot-khong-day-logitech-pebble-m350s-mau-den-wireless-bluetooth-_-910-006988",
+      "title": "Chuột không dây Logitech Pebble M350s màu đen - Hà Nội Computer",
+      "type": "cua_hang"
+    },
+    {
+      "id": "src2",
+      "url": "https://memoryzone.com.vn/chuot-khong-day-logitech-pebble-mouse-2-m350s",
+      "title": "Logitech Pebble Mouse 2 M350s - MemoryZone",
+      "type": "cua_hang"
+    },
+    {
+      "id": "src3",
+      "url": "https://meta.vn/chuot-khong-day-logitech-pebble-mouse-2-m350s-p124210",
+      "title": "Logitech Pebble Mouse 2 M350s - META.vn",
+      "type": "cua_hang"
+    },
+    {
+      "id": "src4",
+      "url": "https://www.imore.com/mac/logitech-pebble-mouse-2-m350s-review-low-profile-low-comfort",
+      "title": "Logitech Pebble Mouse 2 M350S review: Low profile, low comfort - iMore",
+      "type": "danh_gia"
+    },
+    {
+      "id": "src5",
+      "url": "https://hacom.vn/chuot-khong-day-logitech-pebble-m350s-mau-trang-wireless-bluetooth-_-910-006986",
+      "title": "Logitech Pebble M350s màu trắng - Hà Nội Computer",
+      "type": "cua_hang"
+    }
+  ],
+  "unverified": [
+    "official_page: trang logitech.com không mở được (404); đang dùng trang bán Hacom, chưa có nguồn chính hãng trực tiếp.",
+    "DPI: Hacom và META ghi 400-4000, MemoryZone và mô tả META ghi 1000; mâu thuẫn, không dùng.",
+    "Tỷ lệ giảm tiếng ồn 90 phần trăm: chỉ là lời cửa hàng/FAQ, không dùng.",
+    "RTINGS, Trusted Reviews chỉ thấy qua kết quả tìm kiếm (RTINGS không tải được nội dung), không dùng làm nguồn.",
+    "M331 Silent Plus: chưa xác minh còn bán."
+  ],
+  "product_visual_description": "Small, thin, round symmetrical low-profile wireless mouse, matte black body (also sold in white and pink), made from partly recycled plastic.",
+  "ref_image_candidates": [
+    {
+      "url": "https://hanoicomputercdn.com/media/product/76289_chuot_khong_day_logitech_pebble_m350s_mau_den_wireless_bluetooth___910_006988_2.jpg",
+      "page": "https://hacom.vn/chuot-khong-day-logitech-pebble-m350s-mau-den-wireless-bluetooth-_-910-006988",
+      "kind": "product_main"
+    },
+    {
+      "url": "https://media.meta.vn/Data/image/2026/08/26/chuot-khong-day-logitech-pebble-mouse-2-m350s-h.jpg",
+      "page": "https://meta.vn/chuot-khong-day-logitech-pebble-mouse-2-m350s-p124210",
+      "kind": "product_main"
+    },
+    {
+      "url": "https://media.meta.vn/Data/image/2026/08/26/chuot-khong-day-logitech-pebble-mouse-2-m350s-5.jpg",
+      "page": "https://meta.vn/chuot-khong-day-logitech-pebble-mouse-2-m350s-p124210",
+      "kind": "product_angle"
+    },
+    {
+      "url": "https://media.meta.vn/Data/image/2026/08/26/chuot-khong-day-logitech-pebble-mouse-2-m350s-6.jpg",
+      "page": "https://meta.vn/chuot-khong-day-logitech-pebble-mouse-2-m350s-p124210",
+      "kind": "product_angle"
+    },
+    {
+      "url": "https://hanoicomputercdn.com/media/product/76290_chuot_khong_day_logitech_pebble_m350s_mau_trang_wireless_bluetooth___910_006986_1.jpg",
+      "page": "https://hacom.vn/chuot-khong-day-logitech-pebble-m350s-mau-trang-wireless-bluetooth-_-910-006986",
+      "kind": "product_angle"
+    }
+  ],
+  "takeaway": "Cần chuột nhỏ, êm, rẻ để mang đi làm thì chọn Pebble Mouse 2 M350s; cần chuột to, nhiều nút, dùng cả ngày thì nên cân nhắc loại khác.",
+  "buyer_personas": [
+    "Dân văn phòng cần chuột yên tĩnh",
+    "Sinh viên, người hay di chuyển với laptop"
+  ]
+}

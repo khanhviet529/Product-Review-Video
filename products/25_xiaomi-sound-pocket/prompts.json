@@ -1,0 +1,226 @@
+{
+  "product_id": "25",
+  "slug": "25_xiaomi-sound-pocket",
+  "model": "Xiaomi Sound Pocket (mã MDZ-37-DB)",
+  "presenter": "M",
+  "takeaway": "Cần loa bỏ túi, chống nước, giá khoảng nửa triệu thì chọn Xiaomi Sound Pocket; cần âm chi tiết hoặc pin thật bền thì cân nhắc loa khác.",
+  "target_seconds": 88,
+  "clips": [
+    {
+      "n": 1,
+      "code": "P25C01",
+      "role": "hook",
+      "narration_vi": "Cần loa bỏ túi, chống nước, giá mềm thì chọn Sound Pocket. Cần âm chi tiết thì cân nhắc loa khác.",
+      "facts_used": [],
+      "camera": "push in",
+      "camera_reason": "tiến vào người nói để mở đầu bằng câu trả lời ngắn",
+      "first_frame": "seated at the desk facing the camera, the Xiaomi Sound Pocket resting on the desk beside him, relaxed upright posture",
+      "motion": "slow push in toward his face as he starts speaking, he glances at the product then back to the lens",
+      "last_frame": "tighter on his face and shoulders, product still visible at the lower edge of the frame",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P25C01. Vertical 9:16, 8 seconds, photorealistic, medium close-up. First frame: seated at the desk facing the camera, the Xiaomi Sound Pocket resting on the desk beside him, relaxed upright posture. Motion: slow push in toward his face as he starts speaking, he glances at the product then back to the lens. Last frame: tighter on his face and shoulders, product still visible at the lower edge of the frame. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Cần loa bỏ túi, chống nước, giá mềm thì chọn Sound Pocket. Cần âm chi tiết thì cân nhắc loa khác.\" He is the Xiaomi Sound Pocket on the desk within reach; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P25C01. Vertical 9:16, 8 seconds, photorealistic, close-up, 50mm. First frame: Presenter at desk, speaker by her hand. Motion: Slow push in. Last frame: She holds it by her cheek. Host: a Vietnamese woman in her late 20s with shoulder-length straight black hair and light side-swept bangs, warm light-brown skin, small gold stud earrings, natural makeup, wearing a plain white crew-neck t-shirt under a light beige overshirt, friendly confident expression, in a bright modern minimalist desk studio, light oak desk, soft natural window light from the left, plain warm-white wall, shallow depth of field. She says in Vietnamese, in a natural friendly tone: \"Cần loa bỏ túi, chống nước, giá mềm thì chọn Sound Pocket. Cần âm chi tiết thì cân nhắc loa khác.\" Product: exact product shown in the reference image, palm-sized Bluetooth speaker, fabric-mesh grille. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+    },
+    {
+      "n": 2,
+      "code": "P25C02",
+      "role": "feature",
+      "narration_vi": "Âm thanh thiên về ấm, bass khá chắc so với cỡ loa. Giọng hát nghe rõ ở nhạc pop và acoustic.",
+      "facts_used": [
+        "s8"
+      ],
+      "camera": "push in",
+      "camera_reason": "tiến vào đúng chi tiết sản phẩm đang nói đến",
+      "first_frame": "seated at the desk, one hand lifting the Xiaomi Sound Pocket toward the camera at chest height",
+      "motion": "slow push in on the product in his open palm while he keeps eye contact with the lens",
+      "last_frame": "product held close to the lens in sharp focus, his face softly blurred behind it",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P25C02. Vertical 9:16, 8 seconds, photorealistic, medium close-up. First frame: seated at the desk, one hand lifting the Xiaomi Sound Pocket toward the camera at chest height. Motion: slow push in on the product in his open palm while he keeps eye contact with the lens. Last frame: product held close to the lens in sharp focus, his face softly blurred behind it. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Âm thanh thiên về ấm, bass khá chắc so với cỡ loa. Giọng hát nghe rõ ở nhạc pop và acoustic.\" He is holding the Xiaomi Sound Pocket in his open palm; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P25C02. Vertical 9:16, 8 seconds, photorealistic, close-up, 85mm lens. First frame: The speaker stands on a light oak desk in a bright minimalist studio, soft window light from the left, front grille facing the camera. Motion: Slow push in toward the fabric-mesh grille; a soft ripple of light shifts across the mesh. Last frame: The grille fills most of the frame, sharp. Product: exact product shown in the reference image, compact palm-sized portable Bluetooth speaker with a plastic body and fabric-mesh grille, physical buttons, USB-C port under a rubber cover, sold in black, blue-grey or pink. Voice-over by the presenter, off-screen, says in Vietnamese, in a natural friendly tone: \"Âm thanh thiên về ấm, bass khá chắc so với cỡ loa. Giọng hát nghe rõ ở nhạc pop và acoustic.\" No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+    },
+    {
+      "n": 3,
+      "code": "P25C03",
+      "role": "feature",
+      "narration_vi": "Hai loa ghép đôi được để nghe nổi, dùng Bluetooth năm chấm bốn. Có micro nên nghe gọi rảnh tay.",
+      "facts_used": [
+        "s5"
+      ],
+      "camera": "rack focus",
+      "camera_reason": "chuyển nét từ sản phẩm sang người nói để nối chi tiết với đánh giá",
+      "first_frame": "face and shoulders, one hand bringing the Xiaomi Sound Pocket up next to his cheek",
+      "motion": "rack focus from the product beside his cheek to his eyes, he turns slightly toward the lens",
+      "last_frame": "sharp on his face, product soft beside his cheek",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P25C03. Vertical 9:16, 8 seconds, photorealistic, close-up. First frame: face and shoulders, one hand bringing the Xiaomi Sound Pocket up next to his cheek. Motion: rack focus from the product beside his cheek to his eyes, he turns slightly toward the lens. Last frame: sharp on his face, product soft beside his cheek. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Hai loa ghép đôi được để nghe nổi, dùng Bluetooth năm chấm bốn. Có micro nên nghe gọi rảnh tay.\" He is showing the Xiaomi Sound Pocket beside his face; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P25C03. Vertical 9:16, 8 seconds, photorealistic, medium shot, 50mm lens. First frame: Two identical speakers sit side by side on a light oak desk in a bright minimalist studio, soft window light from the left. Motion: Slow pan left to right across the pair; a hand taps the top of one speaker. Last frame: The frame settles on the second speaker, both still visible. Product: exact product shown in the reference image, compact palm-sized portable Bluetooth speaker with a plastic body and fabric-mesh grille, physical buttons, USB-C port under a rubber cover, sold in black, blue-grey or pink. Voice-over by the presenter, off-screen, says in Vietnamese, in a natural friendly tone: \"Hai loa ghép đôi được để nghe nổi, dùng Bluetooth năm chấm bốn. Có micro nên nghe gọi rảnh tay.\" No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+    },
+    {
+      "n": 4,
+      "code": "P25C04",
+      "role": "feature",
+      "narration_vi": "Hãng công bố khoảng mười giờ nghe ở bốn mươi phần trăm âm lượng. Sạc đầy qua Type-C mất chừng ba giờ.",
+      "facts_used": [
+        "s3",
+        "s4"
+      ],
+      "camera": "dolly in",
+      "camera_reason": "lại gần dần để tạo cảm giác trò chuyện trực tiếp",
+      "first_frame": "seated at the desk, both hands holding the Xiaomi Sound Pocket at table height, looking down at it",
+      "motion": "he looks up at the camera mid-sentence while the camera does a slow dolly in",
+      "last_frame": "closer on his face with both hands and the product still in frame",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P25C04. Vertical 9:16, 8 seconds, photorealistic, medium shot. First frame: seated at the desk, both hands holding the Xiaomi Sound Pocket at table height, looking down at it. Motion: he looks up at the camera mid-sentence while the camera does a slow dolly in. Last frame: closer on his face with both hands and the product still in frame. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Hãng công bố khoảng mười giờ nghe ở bốn mươi phần trăm âm lượng. Sạc đầy qua Type-C mất chừng ba giờ.\" He is turning the Xiaomi Sound Pocket in both hands; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P25C04. Vertical 9:16, 8 seconds, photorealistic, macro, 100mm lens. First frame: Macro of the speaker's side with the rubber cover over the USB-C port, on a light oak desk in a bright minimalist studio, soft window light from the left. Motion: A hand lifts the rubber cover; macro push in toward the USB-C port as a cable approaches. Last frame: The cable tip sits at the open port, in focus. Product: exact product shown in the reference image, compact palm-sized portable Bluetooth speaker with a plastic body and fabric-mesh grille, physical buttons, USB-C port under a rubber cover, sold in black, blue-grey or pink. Voice-over by the presenter, off-screen, says in Vietnamese, in a natural friendly tone: \"Hãng công bố khoảng mười giờ nghe ở bốn mươi phần trăm âm lượng. Sạc đầy qua Type-C mất chừng ba giờ.\" No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+    },
+    {
+      "n": 5,
+      "code": "P25C05",
+      "role": "feature",
+      "narration_vi": "Loa nhỏ gọn, nặng khoảng hai trăm gam, bỏ vào túi áo hay ba lô đều tiện.",
+      "facts_used": [
+        "s1"
+      ],
+      "camera": "pan",
+      "camera_reason": "lia từ thiết bị sang người nói để cho thấy cách dùng thực tế",
+      "first_frame": "standing near the window, the Xiaomi Sound Pocket in one hand and a smartphone in the other",
+      "motion": "slow pan from the phone in his hand across to his face as he speaks",
+      "last_frame": "centred on his face, phone and product low in the frame",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P25C05. Vertical 9:16, 8 seconds, photorealistic, medium shot. First frame: standing near the window, the Xiaomi Sound Pocket in one hand and a smartphone in the other. Motion: slow pan from the phone in his hand across to his face as he speaks. Last frame: centred on his face, phone and product low in the frame. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Loa nhỏ gọn, nặng khoảng hai trăm gam, bỏ vào túi áo hay ba lô đều tiện.\" He is holding the Xiaomi Sound Pocket and a phone; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P25C05. Vertical 9:16, 8 seconds, photorealistic, medium shot, 35mm lens. First frame: Tight on the speaker held in a palm, on a light oak desk in a bright minimalist studio, soft window light from the left. Motion: Pull back to reveal the whole hand and a small backpack on the desk; the speaker is dropped into the backpack pocket. Last frame: The backpack sits on the desk, the speaker half inside the pocket. Product: exact product shown in the reference image, compact palm-sized portable Bluetooth speaker with a plastic body and fabric-mesh grille, physical buttons, USB-C port under a rubber cover, sold in black, blue-grey or pink. Voice-over by the presenter, off-screen, says in Vietnamese, in a natural friendly tone: \"Loa nhỏ gọn, nặng khoảng hai trăm gam, bỏ vào túi áo hay ba lô đều tiện.\" No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+    },
+    {
+      "n": 6,
+      "code": "P25C06",
+      "role": "feature",
+      "narration_vi": "Chuẩn IP sáu mươi bảy, chống được bụi và nước, nên mang ra ban công hay đi dã ngoại nhẹ đều ổn.",
+      "facts_used": [
+        "s2"
+      ],
+      "camera": "pull back",
+      "camera_reason": "mở rộng khung hình để thấy quy mô sản phẩm so với người",
+      "first_frame": "seated at the desk, the Xiaomi Sound Pocket held out toward the camera at arm's length",
+      "motion": "he draws the product back toward himself as the camera pulls back to reveal the desk",
+      "last_frame": "wider shot of him at the desk, product held at chest height",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P25C06. Vertical 9:16, 8 seconds, photorealistic, medium close-up. First frame: seated at the desk, the Xiaomi Sound Pocket held out toward the camera at arm's length. Motion: he draws the product back toward himself as the camera pulls back to reveal the desk. Last frame: wider shot of him at the desk, product held at chest height. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Chuẩn IP sáu mươi bảy, chống được bụi và nước, nên mang ra ban công hay đi dã ngoại nhẹ đều ổn.\" He is pulling the Xiaomi Sound Pocket back from the lens; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P25C06. Vertical 9:16, 8 seconds, photorealistic, close-up, 85mm lens. First frame: The speaker sits on a light oak desk in a bright minimalist studio, soft window light from the left, tiny water droplets beaded on its body. Motion: Slow push in on the droplets as a few more fall on the speaker and roll off. Last frame: Droplets sit on the grille edge, speaker in focus. Product: exact product shown in the reference image, compact palm-sized portable Bluetooth speaker with a plastic body and fabric-mesh grille, physical buttons, USB-C port under a rubber cover, sold in black, blue-grey or pink. Voice-over by the presenter, off-screen, says in Vietnamese, in a natural friendly tone: \"Chuẩn IP sáu mươi bảy, chống được bụi và nước, nên mang ra ban công hay đi dã ngoại nhẹ đều ổn.\" No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+    },
+    {
+      "n": 7,
+      "code": "P25C07",
+      "role": "feature",
+      "narration_vi": "Giá khoảng bốn trăm năm mươi lăm đến năm trăm tám mươi nghìn đồng, tùy cửa hàng. Nên so giá vài nơi.",
+      "facts_used": [
+        "s7"
+      ],
+      "camera": "push in",
+      "camera_reason": "tiến vào đúng chi tiết sản phẩm đang nói đến",
+      "first_frame": "seated at the desk, one hand lifting the Xiaomi Sound Pocket toward the camera at chest height",
+      "motion": "slow push in on the product in his open palm while he keeps eye contact with the lens",
+      "last_frame": "product held close to the lens in sharp focus, his face softly blurred behind it",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P25C07. Vertical 9:16, 8 seconds, photorealistic, medium close-up. First frame: seated at the desk, one hand lifting the Xiaomi Sound Pocket toward the camera at chest height. Motion: slow push in on the product in his open palm while he keeps eye contact with the lens. Last frame: product held close to the lens in sharp focus, his face softly blurred behind it. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Giá khoảng bốn trăm năm mươi lăm đến năm trăm tám mươi nghìn đồng, tùy cửa hàng. Nên so giá vài nơi.\" He is holding the Xiaomi Sound Pocket in his open palm; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P25C07. Vertical 9:16, 8 seconds, photorealistic, medium close-up, 50mm lens. First frame: The speaker stands alone on a light oak desk in a bright minimalist studio, soft window light from the left, three-quarter view. Motion: Slow orbit about forty-five degrees around the speaker. Last frame: The speaker is seen from the opposite three-quarter angle. Product: exact product shown in the reference image, compact palm-sized portable Bluetooth speaker with a plastic body and fabric-mesh grille, physical buttons, USB-C port under a rubber cover, sold in black, blue-grey or pink. Voice-over by the presenter, off-screen, says in Vietnamese, in a natural friendly tone: \"Giá khoảng bốn trăm năm mươi lăm đến năm trăm tám mươi nghìn đồng, tùy cửa hàng. Nên so giá vài nơi.\" No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+    },
+    {
+      "n": 8,
+      "code": "P25C08",
+      "role": "caveat",
+      "narration_vi": "Đổi lại, vài người dùng báo pin ngắn hơn công bố, có người gặp loa rè. Nên mua nơi đổi trả dễ.",
+      "facts_used": [
+        "s9"
+      ],
+      "camera": "dolly in",
+      "camera_reason": "tiến gần để nhấn vào điểm cần cân nhắc một cách thẳng thắn",
+      "first_frame": "seated at the desk, thoughtful expression, the Xiaomi Sound Pocket held loosely in one hand",
+      "motion": "slow dolly in as he tilts his head slightly and raises his eyebrows while speaking",
+      "last_frame": "closer on his face, product lowered out of focus",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P25C08. Vertical 9:16, 8 seconds, photorealistic, medium close-up. First frame: seated at the desk, thoughtful expression, the Xiaomi Sound Pocket held loosely in one hand. Motion: slow dolly in as he tilts his head slightly and raises his eyebrows while speaking. Last frame: closer on his face, product lowered out of focus. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Đổi lại, vài người dùng báo pin ngắn hơn công bố, có người gặp loa rè. Nên mua nơi đổi trả dễ.\" He is holding the Xiaomi Sound Pocket loosely; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P25C08. Vertical 9:16, 8 seconds, photorealistic, medium shot, 50mm lens. First frame: The speaker sits in sharp focus in the foreground on a light oak desk in a bright minimalist studio, soft window light from the left, a smartphone blurred behind it. Motion: Rack focus from the speaker to the smartphone behind it. Last frame: The smartphone is sharp, the speaker softly blurred. Product: exact product shown in the reference image, compact palm-sized portable Bluetooth speaker with a plastic body and fabric-mesh grille, physical buttons, USB-C port under a rubber cover, sold in black, blue-grey or pink. Voice-over by the presenter, off-screen, says in Vietnamese, in a natural friendly tone: \"Đổi lại, vài người dùng báo pin ngắn hơn công bố, có người gặp loa rè. Nên mua nơi đổi trả dễ.\" No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+    },
+    {
+      "n": 9,
+      "code": "P25C09",
+      "role": "caveat",
+      "narration_vi": "Ngoài trời bass giảm rõ, loa không có ứng dụng chỉnh âm. Âm hơi ấm nên nhạc cần chi tiết sẽ kém.",
+      "facts_used": [
+        "s8"
+      ],
+      "camera": "pull back",
+      "camera_reason": "lùi ra để đặt điểm yếu trong bức tranh chung",
+      "first_frame": "seated at the desk, the Xiaomi Sound Pocket set down in front of him, hands open",
+      "motion": "slow pull back as he gestures with one open hand",
+      "last_frame": "wide on him and the desk, product small at the centre of the table",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P25C09. Vertical 9:16, 8 seconds, photorealistic, medium shot. First frame: seated at the desk, the Xiaomi Sound Pocket set down in front of him, hands open. Motion: slow pull back as he gestures with one open hand. Last frame: wide on him and the desk, product small at the centre of the table. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Ngoài trời bass giảm rõ, loa không có ứng dụng chỉnh âm. Âm hơi ấm nên nhạc cần chi tiết sẽ kém.\" He is with the Xiaomi Sound Pocket on the desk in front of him; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P25C09. Vertical 9:16, 8 seconds, photorealistic, medium shot, 50mm lens. First frame: Eye-level view of the speaker on a light oak desk in a bright minimalist studio, soft window light from the left. Motion: Slow tilt down from the top buttons to the base of the speaker. Last frame: The base of the speaker and the desk surface fill the frame. Product: exact product shown in the reference image, compact palm-sized portable Bluetooth speaker with a plastic body and fabric-mesh grille, physical buttons, USB-C port under a rubber cover, sold in black, blue-grey or pink. Voice-over by the presenter, off-screen, says in Vietnamese, in a natural friendly tone: \"Ngoài trời bass giảm rõ, loa không có ứng dụng chỉnh âm. Âm hơi ấm nên nhạc cần chi tiết sẽ kém.\" No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+    },
+    {
+      "n": 10,
+      "code": "P25C10",
+      "role": "fit",
+      "narration_vi": "Hợp với bạn cần loa phụ cho bàn học hay ban công. Không hợp nếu bạn đòi âm thanh chi tiết.",
+      "facts_used": [],
+      "camera": "dolly in",
+      "camera_reason": "lại gần như nói chuyện với đúng người cần sản phẩm này",
+      "first_frame": "leaning slightly forward at the desk, the Xiaomi Sound Pocket beside him, open friendly posture",
+      "motion": "slow dolly in as he gestures with an open hand toward the camera",
+      "last_frame": "close on his smiling face, product visible at the edge",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P25C10. Vertical 9:16, 8 seconds, photorealistic, medium close-up. First frame: leaning slightly forward at the desk, the Xiaomi Sound Pocket beside him, open friendly posture. Motion: slow dolly in as he gestures with an open hand toward the camera. Last frame: close on his smiling face, product visible at the edge. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Hợp với bạn cần loa phụ cho bàn học hay ban công. Không hợp nếu bạn đòi âm thanh chi tiết.\" He is with the Xiaomi Sound Pocket beside him; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P25C10. Vertical 9:16, 8 seconds, photorealistic, medium shot, 35mm. First frame: Presenter at desk, speaker before her. Motion: Slow widen; she gestures to the speaker. Last frame: Wider desk scene. Host: a Vietnamese woman in her late 20s with shoulder-length straight black hair and light side-swept bangs, warm light-brown skin, small gold stud earrings, natural makeup, wearing a plain white crew-neck t-shirt under a light beige overshirt, friendly confident expression, in a bright modern minimalist desk studio, light oak desk, soft natural window light from the left, plain warm-white wall, shallow depth of field. She says in Vietnamese, in a natural friendly tone: \"Hợp với bạn cần loa phụ cho bàn học hay ban công. Không hợp nếu bạn đòi âm thanh chi tiết.\" Product: exact product shown in the reference image, palm-sized Bluetooth speaker, fabric-mesh grille. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+    },
+    {
+      "n": 11,
+      "code": "P25C11",
+      "role": "outro",
+      "narration_vi": "Bạn đang dùng loa mini loại nào? Lưu lại video này trước khi mua nhé.",
+      "facts_used": [],
+      "camera": "pull back",
+      "camera_reason": "lùi ra khép lại video một cách thân thiện",
+      "first_frame": "seated at the desk, the Xiaomi Sound Pocket on the table, bright smile toward the camera",
+      "motion": "slow pull back while he gives a small friendly wave at the end",
+      "last_frame": "wide on him and the desk with the product, warm and relaxed",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P25C11. Vertical 9:16, 8 seconds, photorealistic, medium shot. First frame: seated at the desk, the Xiaomi Sound Pocket on the table, bright smile toward the camera. Motion: slow pull back while he gives a small friendly wave at the end. Last frame: wide on him and the desk with the product, warm and relaxed. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Bạn đang dùng loa mini loại nào? Lưu lại video này trước khi mua nhé.\" He is with the Xiaomi Sound Pocket on the desk; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P25C11. Vertical 9:16, 8 seconds, photorealistic, close-up, 50mm. First frame: Presenter at desk, speaker by her hand. Motion: Gentle push in as she asks. Last frame: She smiles at the camera. Host: a Vietnamese woman in her late 20s with shoulder-length straight black hair and light side-swept bangs, warm light-brown skin, small gold stud earrings, natural makeup, wearing a plain white crew-neck t-shirt under a light beige overshirt, friendly confident expression, in a bright modern minimalist desk studio, light oak desk, soft natural window light from the left, plain warm-white wall, shallow depth of field. She says in Vietnamese, in a natural friendly tone: \"Bạn đang dùng loa mini loại nào? Lưu lại video này trước khi mua nhé.\" Product: exact product shown in the reference image, palm-sized Bluetooth speaker, fabric-mesh grille. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+    }
+  ],
+  "onscreen_presenter": true
+}

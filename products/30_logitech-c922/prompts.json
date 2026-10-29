@@ -1,0 +1,190 @@
+{
+  "product_id": "30",
+  "slug": "30_logitech-c922",
+  "model": "Logitech C922 Pro Stream Webcam",
+  "presenter": "M",
+  "takeaway": "Cần webcam Full HD họp online giá khoảng hai triệu thì chọn Logitech C922 Pro Stream; cần giọng thu tốt, hình cao hơn Full HD hay phần mềm êm hơn thì cân nhắc thêm mic rời hoặc dòng khác.",
+  "target_seconds": 72,
+  "clips": [
+    {
+      "n": 1,
+      "code": "P30C01",
+      "role": "hook",
+      "narration_vi": "Cần webcam họp online rõ nét, giá vừa phải thì C922 Pro Stream đáng xem. Cần mic tốt thì mua thêm.",
+      "facts_used": [
+        "s1"
+      ],
+      "camera": "push in",
+      "camera_reason": "tiến vào người nói để mở đầu bằng câu trả lời ngắn",
+      "first_frame": "seated at the desk facing the camera, the Logitech C922 Pro Stream Webcam resting on the desk beside him, relaxed upright posture",
+      "motion": "slow push in toward his face as he starts speaking, he glances at the product then back to the lens",
+      "last_frame": "tighter on his face and shoulders, product still visible at the lower edge of the frame",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P30C01. Vertical 9:16, 8 seconds, photorealistic, medium close-up. First frame: seated at the desk facing the camera, the Logitech C922 Pro Stream Webcam resting on the desk beside him, relaxed upright posture. Motion: slow push in toward his face as he starts speaking, he glances at the product then back to the lens. Last frame: tighter on his face and shoulders, product still visible at the lower edge of the frame. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Cần webcam họp online rõ nét, giá vừa phải thì C922 Pro Stream đáng xem. Cần mic tốt thì mua thêm.\" He is the Logitech C922 Pro Stream Webcam on the desk within reach; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P30C01. Vertical 9:16, 8 seconds, photorealistic, medium shot. First frame: he sits at the desk, webcam beside him. Motion: slow push in; he turns to camera and speaks. Last frame: medium close-up facing the camera. a handsome young Vietnamese man in his mid-20s, textured black quiff hairstyle, clear skin, sharp jawline, bright confident smile, athletic build, olive bomber jacket over a white t-shirt, upbeat energetic expression, in a bright modern minimalist desk studio, light oak desk, soft natural window light from the left, plain warm-white wall, shallow depth of field. He says in Vietnamese, in a natural friendly tone: \"Cần webcam họp online rõ nét, giá vừa phải thì C922 Pro Stream đáng xem. Cần mic tốt thì mua thêm.\". Exact product shown in the reference image: the black Logitech webcam. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+    },
+    {
+      "n": 2,
+      "code": "P30C02",
+      "role": "feature",
+      "narration_vi": "Full HD ở ba mươi khung hình mỗi giây, hoặc bảy trăm hai mươi p ở sáu mươi khung hình.",
+      "facts_used": [
+        "s1"
+      ],
+      "camera": "push in",
+      "camera_reason": "tiến vào đúng chi tiết sản phẩm đang nói đến",
+      "first_frame": "seated at the desk, one hand lifting the Logitech C922 Pro Stream Webcam toward the camera at chest height",
+      "motion": "slow push in on the product in his open palm while he keeps eye contact with the lens",
+      "last_frame": "product held close to the lens in sharp focus, his face softly blurred behind it",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P30C02. Vertical 9:16, 8 seconds, photorealistic, medium close-up. First frame: seated at the desk, one hand lifting the Logitech C922 Pro Stream Webcam toward the camera at chest height. Motion: slow push in on the product in his open palm while he keeps eye contact with the lens. Last frame: product held close to the lens in sharp focus, his face softly blurred behind it. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Full HD ở ba mươi khung hình mỗi giây, hoặc bảy trăm hai mươi p ở sáu mươi khung hình.\" He is holding the Logitech C922 Pro Stream Webcam in his open palm; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P30C02. Vertical 9:16, 8 seconds, photorealistic, close-up product shot, 85mm lens. First frame: the webcam on the oak desk, lens facing the camera, soft window light. Motion: slow push in; light glints softly on the glass lens. Last frame: tight on the lens. Voice-over by the presenter, off-screen, in Vietnamese, natural friendly tone: \"Full HD ở ba mươi khung hình mỗi giây, hoặc bảy trăm hai mươi p ở sáu mươi khung hình.\". Exact product shown in the reference image: a compact black Logitech webcam with a central round glass lens, sitting on a small adjustable stand, matching the front-view product photos. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+    },
+    {
+      "n": 3,
+      "code": "P30C03",
+      "role": "feature",
+      "narration_vi": "Góc nhìn chéo bảy mươi tám độ, lấy nét tự động và tự chỉnh sáng khi ánh sáng thay đổi.",
+      "facts_used": [
+        "s2",
+        "s3",
+        "s5"
+      ],
+      "camera": "rack focus",
+      "camera_reason": "chuyển nét từ sản phẩm sang người nói để nối chi tiết với đánh giá",
+      "first_frame": "face and shoulders, one hand bringing the Logitech C922 Pro Stream Webcam up next to his cheek",
+      "motion": "rack focus from the product beside his cheek to his eyes, he turns slightly toward the lens",
+      "last_frame": "sharp on his face, product soft beside his cheek",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P30C03. Vertical 9:16, 8 seconds, photorealistic, close-up. First frame: face and shoulders, one hand bringing the Logitech C922 Pro Stream Webcam up next to his cheek. Motion: rack focus from the product beside his cheek to his eyes, he turns slightly toward the lens. Last frame: sharp on his face, product soft beside his cheek. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Góc nhìn chéo bảy mươi tám độ, lấy nét tự động và tự chỉnh sáng khi ánh sáng thay đổi.\" He is showing the Logitech C922 Pro Stream Webcam beside his face; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P30C03. Vertical 9:16, 8 seconds, photorealistic, medium product shot, 50mm lens. First frame: the webcam clipped on top of a monitor, seen from the front. Motion: slow pull back; room light shifts softly from warm to bright. Last frame: wide view of the monitor with the webcam on top. Voice-over by the presenter, off-screen, in Vietnamese, natural friendly tone: \"Góc nhìn chéo bảy mươi tám độ, lấy nét tự động và tự chỉnh sáng khi ánh sáng thay đổi.\". Exact product shown in the reference image: a compact black Logitech webcam with a central round glass lens, sitting on a small adjustable stand, matching the front-view product photos. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+    },
+    {
+      "n": 4,
+      "code": "P30C04",
+      "role": "feature",
+      "narration_vi": "Hai mic đa hướng nằm ở hai bên, thu âm thanh nổi, đủ dùng cho cuộc họp thông thường.",
+      "facts_used": [
+        "s4"
+      ],
+      "camera": "dolly in",
+      "camera_reason": "lại gần dần để tạo cảm giác trò chuyện trực tiếp",
+      "first_frame": "seated at the desk, both hands holding the Logitech C922 Pro Stream Webcam at table height, looking down at it",
+      "motion": "he looks up at the camera mid-sentence while the camera does a slow dolly in",
+      "last_frame": "closer on his face with both hands and the product still in frame",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P30C04. Vertical 9:16, 8 seconds, photorealistic, medium shot. First frame: seated at the desk, both hands holding the Logitech C922 Pro Stream Webcam at table height, looking down at it. Motion: he looks up at the camera mid-sentence while the camera does a slow dolly in. Last frame: closer on his face with both hands and the product still in frame. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Hai mic đa hướng nằm ở hai bên, thu âm thanh nổi, đủ dùng cho cuộc họp thông thường.\" He is turning the Logitech C922 Pro Stream Webcam in both hands; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P30C04. Vertical 9:16, 8 seconds, photorealistic, macro product shot, 100mm lens. First frame: extreme close-up of the left side of the webcam body near the microphone opening. Motion: macro slide right; a gentle slide across the front of the body. Last frame: close-up of the right side, lens centered in soft focus. Voice-over by the presenter, off-screen, in Vietnamese, natural friendly tone: \"Hai mic đa hướng nằm ở hai bên, thu âm thanh nổi, đủ dùng cho cuộc họp thông thường.\". Exact product shown in the reference image: a compact black Logitech webcam with a central round glass lens, sitting on a small adjustable stand, matching the front-view product photos. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+    },
+    {
+      "n": 5,
+      "code": "P30C05",
+      "role": "caveat",
+      "narration_vi": "Đổi lại, đánh giá đời C920 nhận xét giọng rõ nhưng hơi phẳng. Quay nội dung thì nên có mic rời.",
+      "facts_used": [
+        "s7"
+      ],
+      "camera": "dolly in",
+      "camera_reason": "tiến gần để nhấn vào điểm cần cân nhắc một cách thẳng thắn",
+      "first_frame": "seated at the desk, thoughtful expression, the Logitech C922 Pro Stream Webcam held loosely in one hand",
+      "motion": "slow dolly in as he tilts his head slightly and raises his eyebrows while speaking",
+      "last_frame": "closer on his face, product lowered out of focus",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P30C05. Vertical 9:16, 8 seconds, photorealistic, medium close-up. First frame: seated at the desk, thoughtful expression, the Logitech C922 Pro Stream Webcam held loosely in one hand. Motion: slow dolly in as he tilts his head slightly and raises his eyebrows while speaking. Last frame: closer on his face, product lowered out of focus. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Đổi lại, đánh giá đời C920 nhận xét giọng rõ nhưng hơi phẳng. Quay nội dung thì nên có mic rời.\" He is holding the Logitech C922 Pro Stream Webcam loosely; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P30C05. Vertical 9:16, 8 seconds, photorealistic, medium shot, 50mm lens. First frame: the webcam on a monitor and a separate small desktop microphone beside it. Motion: rack focus; focus moves from the webcam to the microphone. Last frame: the desktop microphone in sharp focus, webcam soft behind. Voice-over by the presenter, off-screen, in Vietnamese, natural friendly tone: \"Đổi lại, đánh giá đời C920 nhận xét giọng rõ nhưng hơi phẳng. Quay nội dung thì nên có mic rời.\". Exact product shown in the reference image: a compact black Logitech webcam with a central round glass lens, sitting on a small adjustable stand, matching the front-view product photos. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+    },
+    {
+      "n": 6,
+      "code": "P30C06",
+      "role": "caveat",
+      "narration_vi": "Đổi lại, tối đa chỉ Full HD. Phần mềm đi kèm từng bị đánh giá là hay lỗi.",
+      "facts_used": [
+        "s1",
+        "s8"
+      ],
+      "camera": "pull back",
+      "camera_reason": "lùi ra để đặt điểm yếu trong bức tranh chung",
+      "first_frame": "seated at the desk, the Logitech C922 Pro Stream Webcam set down in front of him, hands open",
+      "motion": "slow pull back as he gestures with one open hand",
+      "last_frame": "wide on him and the desk, product small at the centre of the table",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P30C06. Vertical 9:16, 8 seconds, photorealistic, medium shot. First frame: seated at the desk, the Logitech C922 Pro Stream Webcam set down in front of him, hands open. Motion: slow pull back as he gestures with one open hand. Last frame: wide on him and the desk, product small at the centre of the table. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Đổi lại, tối đa chỉ Full HD. Phần mềm đi kèm từng bị đánh giá là hay lỗi.\" He is with the Logitech C922 Pro Stream Webcam on the desk in front of him; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P30C06. Vertical 9:16, 8 seconds, photorealistic, medium shot, 50mm lens. First frame: the webcam on the monitor, a laptop open beside it, front view. Motion: slow orbit right; camera circles slowly around the monitor. Last frame: angle from the right showing the laptop and webcam together. Voice-over by the presenter, off-screen, in Vietnamese, natural friendly tone: \"Đổi lại, tối đa chỉ Full HD. Phần mềm đi kèm từng bị đánh giá là hay lỗi.\". Exact product shown in the reference image: a compact black Logitech webcam with a central round glass lens, sitting on a small adjustable stand, matching the front-view product photos. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+    },
+    {
+      "n": 7,
+      "code": "P30C07",
+      "role": "feature",
+      "narration_vi": "Tại Phong Vũ, giá đang khoảng hai triệu một trăm nghìn đồng. Cần xác nhận hàng chính hãng trước khi mua.",
+      "facts_used": [
+        "s6"
+      ],
+      "camera": "pan",
+      "camera_reason": "lia từ thiết bị sang người nói để cho thấy cách dùng thực tế",
+      "first_frame": "standing near the window, the Logitech C922 Pro Stream Webcam in one hand and a smartphone in the other",
+      "motion": "slow pan from the phone in his hand across to his face as he speaks",
+      "last_frame": "centred on his face, phone and product low in the frame",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P30C07. Vertical 9:16, 8 seconds, photorealistic, medium shot. First frame: standing near the window, the Logitech C922 Pro Stream Webcam in one hand and a smartphone in the other. Motion: slow pan from the phone in his hand across to his face as he speaks. Last frame: centred on his face, phone and product low in the frame. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Tại Phong Vũ, giá đang khoảng hai triệu một trăm nghìn đồng. Cần xác nhận hàng chính hãng trước khi mua.\" He is holding the Logitech C922 Pro Stream Webcam and a phone; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P30C07. Vertical 9:16, 8 seconds, photorealistic, wide product shot, 35mm lens. First frame: tidy desk with the monitor, the webcam on top, keyboard and mouse. Motion: slow widen; the webcam stays centered while the frame widens. Last frame: full desk setup, webcam on the monitor. Voice-over by the presenter, off-screen, in Vietnamese, natural friendly tone: \"Tại Phong Vũ, giá đang khoảng hai triệu một trăm nghìn đồng. Cần xác nhận hàng chính hãng trước khi mua.\". Exact product shown in the reference image: a compact black Logitech webcam with a central round glass lens, sitting on a small adjustable stand, matching the front-view product photos. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+    },
+    {
+      "n": 8,
+      "code": "P30C08",
+      "role": "fit",
+      "narration_vi": "Hợp người học online, họp và stream cơ bản. Cần hình bốn K hoặc mic xịn thì tìm sản phẩm khác.",
+      "facts_used": [],
+      "camera": "dolly in",
+      "camera_reason": "lại gần như nói chuyện với đúng người cần sản phẩm này",
+      "first_frame": "leaning slightly forward at the desk, the Logitech C922 Pro Stream Webcam beside him, open friendly posture",
+      "motion": "slow dolly in as he gestures with an open hand toward the camera",
+      "last_frame": "close on his smiling face, product visible at the edge",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P30C08. Vertical 9:16, 8 seconds, photorealistic, medium close-up. First frame: leaning slightly forward at the desk, the Logitech C922 Pro Stream Webcam beside him, open friendly posture. Motion: slow dolly in as he gestures with an open hand toward the camera. Last frame: close on his smiling face, product visible at the edge. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Hợp người học online, họp và stream cơ bản. Cần hình bốn K hoặc mic xịn thì tìm sản phẩm khác.\" He is with the Logitech C922 Pro Stream Webcam beside him; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P30C08. Vertical 9:16, 8 seconds, photorealistic, medium shot. First frame: he sits at the desk, webcam beside him. Motion: slow push in; he nods and speaks. Last frame: medium close-up facing the camera. a handsome young Vietnamese man in his mid-20s, textured black quiff hairstyle, clear skin, sharp jawline, bright confident smile, athletic build, olive bomber jacket over a white t-shirt, upbeat energetic expression, in a bright modern minimalist desk studio, light oak desk, soft natural window light from the left, plain warm-white wall, shallow depth of field. He says in Vietnamese, in a natural friendly tone: \"Hợp người học online, họp và stream cơ bản. Cần hình bốn K hoặc mic xịn thì tìm sản phẩm khác.\". Exact product shown in the reference image: the black Logitech webcam. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+    },
+    {
+      "n": 9,
+      "code": "P30C09",
+      "role": "outro",
+      "narration_vi": "Lưu lại trước khi mua. Bạn đang dùng webcam rời hay camera laptop?",
+      "facts_used": [],
+      "camera": "pull back",
+      "camera_reason": "lùi ra khép lại video một cách thân thiện",
+      "first_frame": "seated at the desk, the Logitech C922 Pro Stream Webcam on the table, bright smile toward the camera",
+      "motion": "slow pull back while he gives a small friendly wave at the end",
+      "last_frame": "wide on him and the desk with the product, warm and relaxed",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P30C09. Vertical 9:16, 8 seconds, photorealistic, medium shot. First frame: seated at the desk, the Logitech C922 Pro Stream Webcam on the table, bright smile toward the camera. Motion: slow pull back while he gives a small friendly wave at the end. Last frame: wide on him and the desk with the product, warm and relaxed. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Lưu lại trước khi mua. Bạn đang dùng webcam rời hay camera laptop?\" He is with the Logitech C922 Pro Stream Webcam on the desk; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P30C09. Vertical 9:16, 8 seconds, photorealistic, medium close-up. First frame: he sits facing the camera, webcam behind him. Motion: slow pull back; he smiles and speaks. Last frame: wider shot, he smiles at the camera. a handsome young Vietnamese man in his mid-20s, textured black quiff hairstyle, clear skin, sharp jawline, bright confident smile, athletic build, olive bomber jacket over a white t-shirt, upbeat energetic expression, in a bright modern minimalist desk studio, light oak desk, soft natural window light from the left, plain warm-white wall, shallow depth of field. He says in Vietnamese, in a natural friendly tone: \"Lưu lại trước khi mua. Bạn đang dùng webcam rời hay camera laptop?\". Exact product shown in the reference image: the black Logitech webcam. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+    }
+  ],
+  "onscreen_presenter": true
+}

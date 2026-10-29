@@ -1,0 +1,66 @@
+[
+  {
+    "file": "product_main.jpg",
+    "url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/t/a/tai-nghe-khong-day-jbl-wave-beam-2_17_.png",
+    "page": "https://cellphones.com.vn/tai-nghe-khong-day-jbl-wave-beam-2.html",
+    "kind": "product_main",
+    "width": 600,
+    "height": 600
+  },
+  {
+    "file": "product_angle_1.jpg",
+    "url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/t/a/tai_nghe_bluetooth_true_wireless_jbl_wave_beam_2_1.png",
+    "page": "https://cellphones.com.vn/tai-nghe-khong-day-jbl-wave-beam-2.html",
+    "kind": "product_angle",
+    "width": 1234,
+    "height": 652
+  },
+  {
+    "file": "product_angle_2.jpg",
+    "url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/t/a/tai-nghe-khong-day-jbl-wave-beam-2_20_.png",
+    "page": "https://cellphones.com.vn/tai-nghe-khong-day-jbl-wave-beam-2.html",
+    "kind": "product_angle",
+    "width": 600,
+    "height": 600
+  },
+  {
+    "file": "product_main_2.jpg",
+    "url": "https://cdn-files.hacom.vn/hacom/cdn/web/07102025/tai-nghe-khong-day-jbl-wave-beam-2-blue-1.jpg",
+    "page": "https://hacom.vn/tai-nghe-khong-day-jbl-wave-beam-2-tnjb0099",
+    "kind": "product_main",
+    "width": 850,
+    "height": 850
+  },
+  {
+    "file": "product_angle_3.jpg",
+    "url": "https://cdn-files.hacom.vn/hacom/cdn/web/07102025/tai-nghe-khong-day-jbl-wave-beam-2-blue-2.jpg",
+    "page": "https://hacom.vn/tai-nghe-khong-day-jbl-wave-beam-2-tnjb0099",
+    "kind": "product_angle",
+    "width": 850,
+    "height": 850
+  },
+  {
+    "file": "product_angle_4.jpg",
+    "url": "https://cdn-v2.didongviet.vn/files/products/2024/10/21/1/1732196373468_tai_nghe_true_wireless_jbl_wave_beam_2_den_10.png",
+    "page": "https://didongviet.vn/thiet-bi-am-thanh/tai-nghe-true-wireless-jbl-wave-beam-2.html",
+    "kind": "product_angle",
+    "width": 600,
+    "height": 600
+  },
+  {
+    "file": "product_angle_5.jpg",
+    "url": "https://img.youtube.com/vi/AmiU1BADJwI/maxresdefault.jpg",
+    "page": "https://cellphones.com.vn/tai-nghe-khong-day-jbl-wave-beam-2.html",
+    "kind": "product_angle",
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "file": "product_angle_6.jpg",
+    "url": "https://cdn-v2.didongviet.vn/files/products/2024/10/21/1/1732196352620_tai_nghe_true_wireless_jbl_wave_beam_2_didongviet.png",
+    "page": "https://didongviet.vn/thiet-bi-am-thanh/tai-nghe-true-wireless-jbl-wave-beam-2.html",
+    "kind": "product_angle",
+    "width": 600,
+    "height": 600
+  }
+]

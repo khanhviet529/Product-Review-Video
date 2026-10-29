@@ -1,0 +1,82 @@
+[
+  {
+    "file": "product_main.jpg",
+    "url": "https://static.tp-link.com/1large_1627273016330o.jpg",
+    "page": "https://www.tp-link.com/vn/home-networking/wifi-router/archer-ax23/",
+    "kind": "product_main",
+    "width": 1000,
+    "height": 1000
+  },
+  {
+    "file": "product_angle_1.jpg",
+    "url": "https://static.tp-link.com/2large_1627273016557j.jpg",
+    "page": "https://www.tp-link.com/vn/home-networking/wifi-router/archer-ax23/",
+    "kind": "product_angle",
+    "width": 1000,
+    "height": 1000
+  },
+  {
+    "file": "product_angle_2.jpg",
+    "url": "https://static.tp-link.com/3large_1627273016805D.jpg",
+    "page": "https://www.tp-link.com/vn/home-networking/wifi-router/archer-ax23/",
+    "kind": "product_angle",
+    "width": 1000,
+    "height": 1000
+  },
+  {
+    "file": "in_use_1.jpg",
+    "url": "https://static.tp-link.com/Lifestyle-Images_05_large_1627435604376p.jpg",
+    "page": "https://www.tp-link.com/vn/home-networking/wifi-router/archer-ax23/",
+    "kind": "in_use",
+    "width": 1000,
+    "height": 1000
+  },
+  {
+    "file": "product_main_2.jpg",
+    "url": "https://media.meta.vn/Data/image/2026/02/02/bo-phat-wifi-6-ax1800-tp-link-archer-ax23-g.jpg",
+    "page": "https://meta.vn/bo-phat-wifi-6-ax1800-tp-link-archer-ax23-p118926",
+    "kind": "product_main",
+    "width": 829,
+    "height": 622
+  },
+  {
+    "file": "product_angle_3.jpg",
+    "url": "https://static.tp-link.com/1normal_16272730162846.jpg",
+    "page": "https://www.tp-link.com/vn/home-networking/wifi-router/archer-ax23/",
+    "kind": "product_angle",
+    "width": 590,
+    "height": 590
+  },
+  {
+    "file": "product_angle_4.jpg",
+    "url": "https://static.tp-link.com/2normal_1627273016492G.jpg",
+    "page": "https://www.tp-link.com/vn/home-networking/wifi-router/archer-ax23/",
+    "kind": "product_angle",
+    "width": 590,
+    "height": 590
+  },
+  {
+    "file": "product_angle_5.jpg",
+    "url": "https://static.tp-link.com/3normal_16272730167402.jpg",
+    "page": "https://www.tp-link.com/vn/home-networking/wifi-router/archer-ax23/",
+    "kind": "product_angle",
+    "width": 590,
+    "height": 590
+  },
+  {
+    "file": "product_angle_6.jpg",
+    "url": "https://static.tp-link.com/Overview_AX23_02_normal_1627273064914m.jpg",
+    "page": "https://www.tp-link.com/vn/home-networking/wifi-router/archer-ax23/",
+    "kind": "product_angle",
+    "width": 590,
+    "height": 590
+  },
+  {
+    "file": "product_angle_7.jpg",
+    "url": "https://static.tp-link.com/Lifestyle-Images_05_normal_1627435604376n.jpg",
+    "page": "https://www.tp-link.com/vn/home-networking/wifi-router/archer-ax23/",
+    "kind": "product_angle",
+    "width": 590,
+    "height": 590
+  }
+]

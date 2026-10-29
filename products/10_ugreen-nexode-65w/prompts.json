@@ -1,0 +1,192 @@
+{
+  "product_id": "10",
+  "slug": "10_ugreen-nexode-65w",
+  "model": "UGREEN Nexode GaN 3 cổng 65W, mã CD244 (10334 chân dẹt / 10335 chân tròn)",
+  "presenter": "M",
+  "takeaway": "Cần một củ sạc cho laptop mỏng và điện thoại thì Ugreen Nexode 65W CD244 hợp; cần sạc hai laptop hoặc nhiều thiết bị cùng lúc ở tốc độ cao thì cân nhắc củ công suất lớn hơn.",
+  "target_seconds": 72,
+  "clips": [
+    {
+      "n": 1,
+      "code": "P10C01",
+      "role": "hook",
+      "narration_vi": "Một củ sạc cho cả laptop và điện thoại? Ugreen Nexode sáu mươi lăm oát làm được, nhưng ba cổng chia chung.",
+      "facts_used": [
+        "s1"
+      ],
+      "camera": "push in",
+      "camera_reason": "tiến vào người nói để mở đầu bằng câu trả lời ngắn",
+      "first_frame": "seated at the desk facing the camera, the UGREEN Nexode GaN 3 cổng 65W resting on the desk beside him, relaxed upright posture",
+      "motion": "slow push in toward his face as he starts speaking, he glances at the product then back to the lens",
+      "last_frame": "tighter on his face and shoulders, product still visible at the lower edge of the frame",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P10C01. Vertical 9:16, 8 seconds, photorealistic, medium close-up. First frame: seated at the desk facing the camera, the UGREEN Nexode GaN 3 cổng 65W resting on the desk beside him, relaxed upright posture. Motion: slow push in toward his face as he starts speaking, he glances at the product then back to the lens. Last frame: tighter on his face and shoulders, product still visible at the lower edge of the frame. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Một củ sạc cho cả laptop và điện thoại? Ugreen Nexode sáu mươi lăm oát làm được, nhưng ba cổng chia chung.\" He is the UGREEN Nexode GaN 3 cổng 65W on the desk within reach; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P10C01. Vertical 9:16, 8 seconds, photorealistic. First frame: a handsome young Vietnamese man in his mid-20s, textured black quiff hairstyle, clear skin, sharp jawline, bright confident smile, athletic build, olive bomber jacket over a white t-shirt, upbeat energetic expression, in a bright modern minimalist desk studio, light oak desk, soft natural window light from the left, plain warm-white wall, shallow depth of field, holding the charger in front of his chest. Motion: slow push in toward his face as he speaks. Last frame: close framing, charger lowered slightly. He says in Vietnamese, in a natural friendly tone: \"Một củ sạc cho cả laptop và điện thoại? Ugreen Nexode sáu mươi lăm oát làm được, nhưng ba cổng chia chung.\" Product: exact product shown in the reference image, black GaN charger, 2 USB-C and 1 USB-A. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+    },
+    {
+      "n": 2,
+      "code": "P10C02",
+      "role": "feature",
+      "narration_vi": "Cổng USB-C nào cũng tới sáu mươi lăm oát khi dùng riêng, đủ cho nhiều laptop mỏng nhẹ.",
+      "facts_used": [
+        "s2"
+      ],
+      "camera": "push in",
+      "camera_reason": "tiến vào đúng chi tiết sản phẩm đang nói đến",
+      "first_frame": "seated at the desk, one hand lifting the UGREEN Nexode GaN 3 cổng 65W toward the camera at chest height",
+      "motion": "slow push in on the product in his open palm while he keeps eye contact with the lens",
+      "last_frame": "product held close to the lens in sharp focus, his face softly blurred behind it",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P10C02. Vertical 9:16, 8 seconds, photorealistic, medium close-up. First frame: seated at the desk, one hand lifting the UGREEN Nexode GaN 3 cổng 65W toward the camera at chest height. Motion: slow push in on the product in his open palm while he keeps eye contact with the lens. Last frame: product held close to the lens in sharp focus, his face softly blurred behind it. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Cổng USB-C nào cũng tới sáu mươi lăm oát khi dùng riêng, đủ cho nhiều laptop mỏng nhẹ.\" He is holding the UGREEN Nexode GaN 3 cổng 65W in his open palm; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P10C02. Vertical 9:16, 8 seconds, photorealistic, macro close-up. First frame: front face of the charger showing the two USB-C ports and the USB-A port. Motion: slow push in on the USB-C ports as a thin laptop cable plugs into one. Last frame: USB-C port filling the frame with the cable connected. Voice-over by the presenter, off-screen, a calm male voice, in Vietnamese in a natural friendly tone: \"Cổng USB-C nào cũng tới sáu mươi lăm oát khi dùng riêng, đủ cho nhiều laptop mỏng nhẹ.\" The exact product shown in the reference image: A black and grey GaN wall charger with two USB-C ports and one USB-A port, with a foldable plug; a white version also exists. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+    },
+    {
+      "n": 3,
+      "code": "P10C03",
+      "role": "feature",
+      "narration_vi": "Ba cổng gồm hai USB-C và một USB-A, nên laptop, điện thoại và phụ kiện cắm chung một củ.",
+      "facts_used": [
+        "s1"
+      ],
+      "camera": "rack focus",
+      "camera_reason": "chuyển nét từ sản phẩm sang người nói để nối chi tiết với đánh giá",
+      "first_frame": "face and shoulders, one hand bringing the UGREEN Nexode GaN 3 cổng 65W up next to his cheek",
+      "motion": "rack focus from the product beside his cheek to his eyes, he turns slightly toward the lens",
+      "last_frame": "sharp on his face, product soft beside his cheek",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P10C03. Vertical 9:16, 8 seconds, photorealistic, close-up. First frame: face and shoulders, one hand bringing the UGREEN Nexode GaN 3 cổng 65W up next to his cheek. Motion: rack focus from the product beside his cheek to his eyes, he turns slightly toward the lens. Last frame: sharp on his face, product soft beside his cheek. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Ba cổng gồm hai USB-C và một USB-A, nên laptop, điện thoại và phụ kiện cắm chung một củ.\" He is showing the UGREEN Nexode GaN 3 cổng 65W beside his face; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P10C03. Vertical 9:16, 8 seconds, photorealistic, close-up. First frame: the charger in a wall socket, three cables lined up beside it. Motion: slow pan left to right across the laptop, phone and accessory cables. Last frame: all three cables plugged in, charger centered. Voice-over by the presenter, off-screen, a calm male voice, in Vietnamese in a natural friendly tone: \"Ba cổng gồm hai USB-C và một USB-A, nên laptop, điện thoại và phụ kiện cắm chung một củ.\" The exact product shown in the reference image: A black and grey GaN wall charger with two USB-C ports and one USB-A port, with a foldable plug; a white version also exists. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+    },
+    {
+      "n": 4,
+      "code": "P10C04",
+      "role": "feature",
+      "narration_vi": "Trang hãng ghi tương thích iPhone mười bảy, Galaxy S25 và MacBook Air mười ba inch, cùng PD ba chấm không.",
+      "facts_used": [
+        "s4",
+        "s7"
+      ],
+      "camera": "dolly in",
+      "camera_reason": "lại gần dần để tạo cảm giác trò chuyện trực tiếp",
+      "first_frame": "seated at the desk, both hands holding the UGREEN Nexode GaN 3 cổng 65W at table height, looking down at it",
+      "motion": "he looks up at the camera mid-sentence while the camera does a slow dolly in",
+      "last_frame": "closer on his face with both hands and the product still in frame",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P10C04. Vertical 9:16, 8 seconds, photorealistic, medium shot. First frame: seated at the desk, both hands holding the UGREEN Nexode GaN 3 cổng 65W at table height, looking down at it. Motion: he looks up at the camera mid-sentence while the camera does a slow dolly in. Last frame: closer on his face with both hands and the product still in frame. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Trang hãng ghi tương thích iPhone mười bảy, Galaxy S25 và MacBook Air mười ba inch, cùng PD ba chấm không.\" He is turning the UGREEN Nexode GaN 3 cổng 65W in both hands; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P10C04. Vertical 9:16, 8 seconds, photorealistic. First frame: a handsome young Vietnamese man in his mid-20s, textured black quiff hairstyle, clear skin, sharp jawline, bright confident smile, athletic build, olive bomber jacket over a white t-shirt, upbeat energetic expression, in a bright modern minimalist desk studio, light oak desk, soft natural window light from the left, plain warm-white wall, shallow depth of field, medium shot, he sits with the charger and a phone on the desk. Motion: static, locked camera, he counts devices on his fingers as he speaks. Last frame: he rests his hand on the desk, smiling. He says in Vietnamese, in a natural friendly tone: \"Trang hãng ghi tương thích iPhone mười bảy, Galaxy S25 và MacBook Air mười ba inch, cùng PD ba chấm không.\" Product: exact product shown in the reference image, black GaN charger, 2 USB-C and 1 USB-A. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+    },
+    {
+      "n": 5,
+      "code": "P10C05",
+      "role": "feature",
+      "narration_vi": "Chân cắm gập được, nên bỏ vào balo hay ngăn kéo không bị vướng.",
+      "facts_used": [
+        "s6"
+      ],
+      "camera": "pan",
+      "camera_reason": "lia từ thiết bị sang người nói để cho thấy cách dùng thực tế",
+      "first_frame": "standing near the window, the UGREEN Nexode GaN 3 cổng 65W in one hand and a smartphone in the other",
+      "motion": "slow pan from the phone in his hand across to his face as he speaks",
+      "last_frame": "centred on his face, phone and product low in the frame",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P10C05. Vertical 9:16, 8 seconds, photorealistic, medium shot. First frame: standing near the window, the UGREEN Nexode GaN 3 cổng 65W in one hand and a smartphone in the other. Motion: slow pan from the phone in his hand across to his face as he speaks. Last frame: centred on his face, phone and product low in the frame. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Chân cắm gập được, nên bỏ vào balo hay ngăn kéo không bị vướng.\" He is holding the UGREEN Nexode GaN 3 cổng 65W and a phone; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P10C05. Vertical 9:16, 8 seconds, photorealistic, macro close-up. First frame: charger on the desk with the prongs folded flat. Motion: slow orbit as a finger flips the prongs open. Last frame: prongs open, charger seen from the side. Voice-over by the presenter, off-screen, a calm male voice, in Vietnamese in a natural friendly tone: \"Chân cắm gập được, nên bỏ vào balo hay ngăn kéo không bị vướng.\" The exact product shown in the reference image: A black and grey GaN wall charger with two USB-C ports and one USB-A port, with a foldable plug; a white version also exists. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+    },
+    {
+      "n": 6,
+      "code": "P10C06",
+      "role": "caveat",
+      "narration_vi": "Đổi lại, đó là tổng công suất. Nhiều thiết bị thì mỗi cổng nhận ít hơn, trang bán không ghi mức chia.",
+      "facts_used": [
+        "c1"
+      ],
+      "camera": "dolly in",
+      "camera_reason": "tiến gần để nhấn vào điểm cần cân nhắc một cách thẳng thắn",
+      "first_frame": "seated at the desk, thoughtful expression, the UGREEN Nexode GaN 3 cổng 65W held loosely in one hand",
+      "motion": "slow dolly in as he tilts his head slightly and raises his eyebrows while speaking",
+      "last_frame": "closer on his face, product lowered out of focus",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P10C06. Vertical 9:16, 8 seconds, photorealistic, medium close-up. First frame: seated at the desk, thoughtful expression, the UGREEN Nexode GaN 3 cổng 65W held loosely in one hand. Motion: slow dolly in as he tilts his head slightly and raises his eyebrows while speaking. Last frame: closer on his face, product lowered out of focus. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Đổi lại, đó là tổng công suất. Nhiều thiết bị thì mỗi cổng nhận ít hơn, trang bán không ghi mức chia.\" He is holding the UGREEN Nexode GaN 3 cổng 65W loosely; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P10C06. Vertical 9:16, 8 seconds, photorealistic. First frame: a handsome young Vietnamese man in his mid-20s, textured black quiff hairstyle, clear skin, sharp jawline, bright confident smile, athletic build, olive bomber jacket over a white t-shirt, upbeat energetic expression, in a bright modern minimalist desk studio, light oak desk, soft natural window light from the left, plain warm-white wall, shallow depth of field, he holds up the charger, serious expression. Motion: slow dolly in as he points to the three ports and shakes his head slightly. Last frame: close framing, charger lowered on the desk. He says in Vietnamese, in a natural friendly tone: \"Đổi lại, đó là tổng công suất. Nhiều thiết bị thì mỗi cổng nhận ít hơn, trang bán không ghi mức chia.\" Product: exact product shown in the reference image, black GaN charger, 2 USB-C and 1 USB-A. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+    },
+    {
+      "n": 7,
+      "code": "P10C07",
+      "role": "caveat",
+      "narration_vi": "Cổng USB-A chỉ khoảng hai mươi hai phẩy năm oát, nên không nhanh bằng cổng USB-C.",
+      "facts_used": [
+        "s3"
+      ],
+      "camera": "pull back",
+      "camera_reason": "lùi ra để đặt điểm yếu trong bức tranh chung",
+      "first_frame": "seated at the desk, the UGREEN Nexode GaN 3 cổng 65W set down in front of him, hands open",
+      "motion": "slow pull back as he gestures with one open hand",
+      "last_frame": "wide on him and the desk, product small at the centre of the table",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P10C07. Vertical 9:16, 8 seconds, photorealistic, medium shot. First frame: seated at the desk, the UGREEN Nexode GaN 3 cổng 65W set down in front of him, hands open. Motion: slow pull back as he gestures with one open hand. Last frame: wide on him and the desk, product small at the centre of the table. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Cổng USB-A chỉ khoảng hai mươi hai phẩy năm oát, nên không nhanh bằng cổng USB-C.\" He is with the UGREEN Nexode GaN 3 cổng 65W on the desk in front of him; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P10C07. Vertical 9:16, 8 seconds, photorealistic, macro close-up. First frame: the USB-C ports sharp, the USB-A port blurred behind. Motion: rack focus from the USB-C ports to the USB-A port. Last frame: USB-A port sharp, USB-C ports blurred. Voice-over by the presenter, off-screen, a calm male voice, in Vietnamese in a natural friendly tone: \"Cổng USB-A chỉ khoảng hai mươi hai phẩy năm oát, nên không nhanh bằng cổng USB-C.\" The exact product shown in the reference image: A black and grey GaN wall charger with two USB-C ports and one USB-A port, with a foldable plug; a white version also exists. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+    },
+    {
+      "n": 8,
+      "code": "P10C08",
+      "role": "fit",
+      "narration_vi": "Hợp với người đi làm mang laptop mỏng và điện thoại. Giá khoảng năm trăm tám mươi nghìn đồng.",
+      "facts_used": [
+        "price"
+      ],
+      "camera": "dolly in",
+      "camera_reason": "lại gần như nói chuyện với đúng người cần sản phẩm này",
+      "first_frame": "leaning slightly forward at the desk, the UGREEN Nexode GaN 3 cổng 65W beside him, open friendly posture",
+      "motion": "slow dolly in as he gestures with an open hand toward the camera",
+      "last_frame": "close on his smiling face, product visible at the edge",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P10C08. Vertical 9:16, 8 seconds, photorealistic, medium close-up. First frame: leaning slightly forward at the desk, the UGREEN Nexode GaN 3 cổng 65W beside him, open friendly posture. Motion: slow dolly in as he gestures with an open hand toward the camera. Last frame: close on his smiling face, product visible at the edge. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Hợp với người đi làm mang laptop mỏng và điện thoại. Giá khoảng năm trăm tám mươi nghìn đồng.\" He is with the UGREEN Nexode GaN 3 cổng 65W beside him; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P10C08. Vertical 9:16, 8 seconds, photorealistic. First frame: a handsome young Vietnamese man in his mid-20s, textured black quiff hairstyle, clear skin, sharp jawline, bright confident smile, athletic build, olive bomber jacket over a white t-shirt, upbeat energetic expression, in a bright modern minimalist desk studio, light oak desk, soft natural window light from the left, plain warm-white wall, shallow depth of field, he sits upright, laptop and charger on the desk. Motion: gentle push in as he nods and gestures toward the charger. Last frame: close framing, friendly smile. He says in Vietnamese, in a natural friendly tone: \"Hợp với người đi làm mang laptop mỏng và điện thoại. Giá khoảng năm trăm tám mươi nghìn đồng.\" Product: exact product shown in the reference image, black GaN charger, 2 USB-C and 1 USB-A. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+    },
+    {
+      "n": 9,
+      "code": "P10C09",
+      "role": "outro",
+      "narration_vi": "Chọn đúng mã chân dẹt hay chân tròn nhé, rồi lưu lại video. Bạn đang dùng củ sạc bao nhiêu oát?",
+      "facts_used": [
+        "s8"
+      ],
+      "camera": "pull back",
+      "camera_reason": "lùi ra khép lại video một cách thân thiện",
+      "first_frame": "seated at the desk, the UGREEN Nexode GaN 3 cổng 65W on the table, bright smile toward the camera",
+      "motion": "slow pull back while he gives a small friendly wave at the end",
+      "last_frame": "wide on him and the desk with the product, warm and relaxed",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P10C09. Vertical 9:16, 8 seconds, photorealistic, medium shot. First frame: seated at the desk, the UGREEN Nexode GaN 3 cổng 65W on the table, bright smile toward the camera. Motion: slow pull back while he gives a small friendly wave at the end. Last frame: wide on him and the desk with the product, warm and relaxed. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Chọn đúng mã chân dẹt hay chân tròn nhé, rồi lưu lại video. Bạn đang dùng củ sạc bao nhiêu oát?\" He is with the UGREEN Nexode GaN 3 cổng 65W on the desk; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P10C09. Vertical 9:16, 8 seconds, photorealistic. First frame: a handsome young Vietnamese man in his mid-20s, textured black quiff hairstyle, clear skin, sharp jawline, bright confident smile, athletic build, olive bomber jacket over a white t-shirt, upbeat energetic expression, in a bright modern minimalist desk studio, light oak desk, soft natural window light from the left, plain warm-white wall, shallow depth of field, close framing on his face, charger beside him. Motion: slow pull back to a wider view of the desk as he asks the question. Last frame: wide view of him and the charger on the desk. He says in Vietnamese, in a natural friendly tone: \"Chọn đúng mã chân dẹt hay chân tròn nhé, rồi lưu lại video. Bạn đang dùng củ sạc bao nhiêu oát?\" Product: exact product shown in the reference image, black GaN charger, 2 USB-C and 1 USB-A. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+    }
+  ],
+  "onscreen_presenter": true
+}

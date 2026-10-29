@@ -1,0 +1,236 @@
+{
+  "id": "29",
+  "slug": "29_lg-27u631a",
+  "status": "mot_phan",
+  "chosen_model": "LG 27U631A-B (27 inch QHD IPS 100Hz, USB-C)",
+  "alternatives_rejected": [
+    {
+      "model": "LG 27QN600-B (27 inch QHD IPS 75Hz)",
+      "reason": "Trang LG Mỹ ghi đã ngừng sản xuất và Hacom ghi 'Sản phẩm đã ngừng kinh doanh'; tần số quét chỉ 75Hz."
+    },
+    {
+      "model": "ViewSonic VA2708-2K-MHD",
+      "reason": "Chỉ thấy trong kết quả tìm kiếm, chưa mở trang nguồn để xác minh thông số và giá."
+    },
+    {
+      "model": "Dải LG 27 inch Full HD (27MR400-B)",
+      "reason": "Không phải độ phân giải 2K."
+    }
+  ],
+  "official_page": "https://www.lg.com/us/monitors/lg-27u631a-b-qhd-monitor",
+  "price_vnd": {
+    "low": 4090000,
+    "high": 4390000,
+    "as_of": "2026-10-22",
+    "sources": [
+      "src2",
+      "src1"
+    ],
+    "confidence": "vua"
+  },
+  "specs": [
+    {
+      "id": "s1",
+      "key": "Kích thước và độ phân giải",
+      "value_vi": "27 inch, 2560 x 1440 (QHD/2K), tấm nền IPS",
+      "condition": "",
+      "source": "src1",
+      "confidence": "cao"
+    },
+    {
+      "id": "s2",
+      "key": "Độ phủ màu",
+      "value_vi": "tới 99% sRGB",
+      "condition": "LG ghi 'up to 99% sRGB'",
+      "source": "src3",
+      "confidence": "cao"
+    },
+    {
+      "id": "s3",
+      "key": "Tần số quét và phản hồi",
+      "value_vi": "100Hz; 5ms",
+      "condition": "5ms đo GtG ở chế độ Faster",
+      "source": "src1",
+      "confidence": "cao"
+    },
+    {
+      "id": "s4",
+      "key": "USB-C",
+      "value_vi": "nhận hình ảnh và cấp nguồn Power Delivery 15W",
+      "condition": "15W là mức thấp, đủ cho thiết bị nhỏ",
+      "source": "src3",
+      "confidence": "cao"
+    },
+    {
+      "id": "s5",
+      "key": "Chân đế",
+      "value_vi": "điều chỉnh nghiêng (FPT: từ âm 5 đến 20 độ), không ghi chỉnh độ cao",
+      "condition": "",
+      "source": "src2",
+      "confidence": "vua"
+    },
+    {
+      "id": "s6",
+      "key": "VESA",
+      "value_vi": "100 x 100 mm",
+      "condition": "",
+      "source": "src2",
+      "confidence": "cao"
+    },
+    {
+      "id": "s7",
+      "key": "Độ sáng và tương phản",
+      "value_vi": "250 cd/m2; 1000:1",
+      "condition": "Thông số lấy từ trang Hacom (bản likenew) và tiêu đề Phúc Anh; thinkpro ghi 300 nits nên chỉ dùng mức thấp hơn",
+      "source": "src4",
+      "confidence": "vua"
+    },
+    {
+      "id": "s8",
+      "key": "Bảo hành",
+      "value_vi": "24 tháng",
+      "condition": "chính hãng",
+      "source": "src1",
+      "confidence": "cao"
+    },
+    {
+      "id": "s9",
+      "key": "Giá bán tại VN",
+      "value_vi": "CellphoneS 4.090.000; FPT Shop 4.390.000 đồng",
+      "condition": "ngày 2026-10-22",
+      "source": "src2",
+      "confidence": "vua"
+    },
+    {
+      "id": "s10",
+      "key": "Cổng kết nối",
+      "value_vi": "HDMI, USB-C, giắc tai nghe",
+      "condition": "FPT Shop còn ghi DisplayPort nhưng CellphoneS không ghi; chưa dùng DisplayPort",
+      "source": "src2",
+      "confidence": "vua"
+    },
+    {
+      "id": "s11",
+      "key": "Khối lượng",
+      "value_vi": "4,4 kg có chân; 3,6 kg không chân",
+      "condition": "",
+      "source": "src2",
+      "confidence": "cao"
+    }
+  ],
+  "strengths": [
+    {
+      "text": "Độ phân giải 2K trên 27 inch IPS với giá khoảng bốn triệu đồng.",
+      "source": "src1"
+    },
+    {
+      "text": "Một cổng USB-C vừa truyền hình vừa sạc nhẹ cho laptop.",
+      "source": "src3"
+    },
+    {
+      "text": "Phủ tới 99% sRGB, có Reader Mode và Flicker Safe cho làm việc lâu.",
+      "source": "src1"
+    },
+    {
+      "text": "Viền mỏng ba cạnh, hỗ trợ VESA 100 x 100.",
+      "source": "src2"
+    }
+  ],
+  "caveats": [
+    {
+      "text": "USB-C chỉ 15W, laptop mạnh vẫn cần sạc riêng (suy ra từ thông số LG).",
+      "source": "src3"
+    },
+    {
+      "text": "Chân đế chủ yếu chỉ nghiêng, không nâng hạ.",
+      "source": "src2"
+    },
+    {
+      "text": "Độ sáng 250 cd/m2 thuộc mức vừa phải.",
+      "source": "src4"
+    }
+  ],
+  "sources": [
+    {
+      "id": "src1",
+      "url": "https://fptshop.com.vn/man-hinh/lg-27u631a-b27inchqhd2560x1440ips-100hz",
+      "title": "FPT Shop - LG 27U631A-B",
+      "type": "cua_hang"
+    },
+    {
+      "id": "src2",
+      "url": "https://cellphones.com.vn/man-hinh-lg-27u631a-b-27-inch.html",
+      "title": "CellphoneS - LG 27U631A-B",
+      "type": "cua_hang"
+    },
+    {
+      "id": "src3",
+      "url": "https://www.lg.com/us/monitors/lg-27u631a-b-qhd-monitor",
+      "title": "LG USA - 27U631A-B",
+      "type": "chinh_hang"
+    },
+    {
+      "id": "src4",
+      "url": "https://hacom.vn/man-hinh-lg-27u631a-b-molg00025",
+      "title": "Hacom - LG 27U631A-B (hàng likenew, dùng cho thông số)",
+      "type": "cua_hang"
+    },
+    {
+      "id": "src5",
+      "url": "https://hacom.vn/man-hinh-lg-27qn600-b",
+      "title": "Hacom - LG 27QN600-B (ngừng kinh doanh)",
+      "type": "cua_hang"
+    },
+    {
+      "id": "src6",
+      "url": "https://www.lg.com/us/monitors/lg-27qn600-b-led-monitor",
+      "title": "LG USA - 27QN600-B (discontinued)",
+      "type": "chinh_hang"
+    }
+  ],
+  "unverified": [
+    "Chưa mở được trang lg.com/vn cho 27U631A-B; thông số lấy từ LG Mỹ và cửa hàng VN.",
+    "Chưa mở được đánh giá độc lập chuyên sâu (đo màu, độ trễ); điểm mạnh/hạn chế dựa trên thông số và trang bán.",
+    "DisplayPort: FPT Shop ghi có, CellphoneS không ghi; không dùng trong lời đọc.",
+    "Độ sáng 250 cd/m2 và 300 nits (thinkpro) lệch nhau; lời đọc dùng 250.",
+    "Tình trạng tồn kho thực tế tại thời điểm mua chưa xác nhận."
+  ],
+  "product_visual_description": "Black 27-inch LG monitor with very thin bezels on three sides and a slim stand base; front-view product photo shows a flat IPS screen (FPT Shop and LG pages).",
+  "ref_image_candidates": [
+    {
+      "url": "https://cdn2.fptshop.com.vn/unsafe/1920x0/filters:format(webp):quality(75)/lg_27u631a_b_den_01_8e30d5cc9a.png",
+      "page": "https://fptshop.com.vn/man-hinh/lg-27u631a-b27inchqhd2560x1440ips-100hz",
+      "kind": "product_main"
+    },
+    {
+      "url": "https://cdn2.fptshop.com.vn/unsafe/1920x0/filters:format(webp):quality(75)/lg_27u631a_b27inchqhd2560x1440ips_100hz_3_291852dcaa.jpg",
+      "page": "https://fptshop.com.vn/man-hinh/lg-27u631a-b27inchqhd2560x1440ips-100hz",
+      "kind": "product_angle"
+    },
+    {
+      "url": "https://cdn2.fptshop.com.vn/unsafe/1920x0/filters:format(webp):quality(75)/lg_27u631a_b27inchqhd2560x1440ips_100hz_2_bdeaa9f44d.jpg",
+      "page": "https://fptshop.com.vn/man-hinh/lg-27u631a-b27inchqhd2560x1440ips-100hz",
+      "kind": "product_angle"
+    },
+    {
+      "url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/m/_/m_n_h_nh_lg_27u631a-b_27_inch_-_1.png",
+      "page": "https://cellphones.com.vn/man-hinh-lg-27u631a-b-27-inch.html",
+      "kind": "product_main"
+    },
+    {
+      "url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/m/_/m_n_h_nh_lg_27u631a-b_27_inch_-_2.png",
+      "page": "https://cellphones.com.vn/man-hinh-lg-27u631a-b-27-inch.html",
+      "kind": "product_angle"
+    },
+    {
+      "url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/m/_/m_n_h_nh_lg_27u631a-b_27_inch_-_3.png",
+      "page": "https://cellphones.com.vn/man-hinh-lg-27u631a-b-27-inch.html",
+      "kind": "product_angle"
+    }
+  ],
+  "takeaway": "Cần màn hình 2K 27 inch giá khoảng bốn triệu để làm việc và nối laptop bằng một cáp thì chọn LG 27U631A-B; cần độ sáng cao, sạc laptop mạnh hay chơi game tốc độ cao thì cân nhắc mẫu khác.",
+  "buyer_personas": [
+    "Nhân viên văn phòng, sinh viên dùng laptop cần màn rộng và nét",
+    "Người chỉnh ảnh cơ bản, ngân sách khoảng bốn triệu"
+  ]
+}

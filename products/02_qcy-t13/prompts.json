@@ -1,0 +1,239 @@
+{
+  "product_id": "02",
+  "slug": "02_qcy-t13",
+  "model": "QCY T13 ANC2 (mã HT09)",
+  "presenter": "M",
+  "takeaway": "Cần tai nghe có chống ồn mà giá mềm thì QCY T13 ANC2 đáng xem; cần pin thật lâu khi bật chống ồn hoặc gọi điện nhiều thì nên cân nhắc kỹ.",
+  "target_seconds": 88,
+  "clips": [
+    {
+      "n": 1,
+      "code": "P02C01",
+      "role": "hook",
+      "narration_vi": "Cần chống ồn giá mềm thì QCY T13 ANC2 đáng xem. Cần pin lâu khi bật chống ồn thì cân nhắc.",
+      "facts_used": [
+        "s1",
+        "s5"
+      ],
+      "camera": "push in",
+      "camera_reason": "tiến vào người nói để mở đầu bằng câu trả lời ngắn",
+      "first_frame": "seated at the desk facing the camera, the QCY T13 ANC2 earbuds resting on the desk beside him, relaxed upright posture",
+      "motion": "slow push in toward his face as he starts speaking, he glances at the product then back to the lens",
+      "last_frame": "tighter on his face and shoulders, product still visible at the lower edge of the frame",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P02C01R. Vertical 9:16, 8 seconds, photorealistic, medium close-up. First frame: seated at the desk facing the camera, the QCY T13 ANC2 earbuds resting on the desk beside him, relaxed upright posture. Motion: slow push in toward his face as he starts speaking, he glances at the product then back to the lens. Last frame: tighter on his face and shoulders, product still visible at the lower edge of the frame. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Cần chống ồn giá mềm thì QCY T13 ANC2 đáng xem. Cần pin lâu khi bật chống ồn thì cân nhắc.\" He is the QCY T13 ANC2 earbuds on the desk within reach; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P02C01. Vertical 9:16, 8 seconds, photorealistic, medium close-up. First frame: seated facing the camera, earbud case on the desk. Motion: slow push in toward his face as he speaks. Last frame: tighter on his face and shoulders. Presenter: a handsome young Vietnamese man in his mid-20s, textured black quiff hairstyle, clear skin, sharp jawline, bright confident smile, athletic build, olive bomber jacket over a white t-shirt, upbeat energetic expression. Setting: a bright modern minimalist desk studio, light oak desk, soft natural window light from the left, plain warm-white wall, shallow depth of field. He says in Vietnamese: \"Cần chống ồn giá mềm thì QCY T13 ANC2 đáng xem. Cần pin lâu khi bật chống ồn thì cân nhắc.\" Product: exact product shown in the reference image, QCY T13 ANC2 earbuds with silicone tips in a compact pocket charging case. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_code": "P02C01R"
+    },
+    {
+      "n": 2,
+      "code": "P02C02",
+      "role": "feature",
+      "narration_vi": "Giá tham khảo trên CellphoneS khoảng hai trăm chín mươi nghìn đồng, nhưng có thể đổi theo đợt khuyến mãi.",
+      "facts_used": [
+        "s12"
+      ],
+      "camera": "push in",
+      "camera_reason": "tiến vào đúng chi tiết sản phẩm đang nói đến",
+      "first_frame": "seated at the desk, one hand lifting the QCY T13 ANC2 earbuds toward the camera at chest height",
+      "motion": "slow push in on the product in his open palm while he keeps eye contact with the lens",
+      "last_frame": "product held close to the lens in sharp focus, his face softly blurred behind it",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P02C02R. Vertical 9:16, 8 seconds, photorealistic, medium close-up. First frame: seated at the desk, one hand lifting the QCY T13 ANC2 earbuds toward the camera at chest height. Motion: slow push in on the product in his open palm while he keeps eye contact with the lens. Last frame: product held close to the lens in sharp focus, his face softly blurred behind it. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Giá tham khảo trên CellphoneS khoảng hai trăm chín mươi nghìn đồng, nhưng có thể đổi theo đợt khuyến mãi.\" He is holding the QCY T13 ANC2 earbuds in his open palm; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P02C02. Vertical 9:16, 8 seconds, photorealistic, product hero shot, 85mm lens. First frame: the closed charging case standing on a light oak desk, plain warm-white wall behind, soft window light from the left. Motion: slow orbit to the right around the closed case, light sliding across its surface. Last frame: the case seen from the opposite side, still closed. Voice-over by the presenter, off-screen, in Vietnamese, in a natural friendly tone: \"Giá tham khảo trên CellphoneS khoảng hai trăm chín mươi nghìn đồng, nhưng có thể đổi theo đợt khuyến mãi.\" Product: exact product shown in the reference image, QCY T13 ANC2 true wireless earbuds, small and lightweight with silicone ear tips, in a compact pocket-size charging case with a magnetic tray, matching the colour in the reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_code": "P02C02R"
+    },
+    {
+      "n": 3,
+      "code": "P02C03",
+      "role": "feature",
+      "narration_vi": "Chống ồn chủ động giảm tới hai mươi tám đê-xi-ben. Người thử máy thấy rõ ở quán cà phê.",
+      "facts_used": [
+        "s1",
+        "s2"
+      ],
+      "camera": "rack focus",
+      "camera_reason": "chuyển nét từ sản phẩm sang người nói để nối chi tiết với đánh giá",
+      "first_frame": "face and shoulders, one hand bringing the QCY T13 ANC2 earbuds up next to his cheek",
+      "motion": "rack focus from the product beside his cheek to his eyes, he turns slightly toward the lens",
+      "last_frame": "sharp on his face, product soft beside his cheek",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P02C03. Vertical 9:16, 8 seconds, photorealistic, close-up. First frame: face and shoulders, one hand bringing the QCY T13 ANC2 earbuds up next to his cheek. Motion: rack focus from the product beside his cheek to his eyes, he turns slightly toward the lens. Last frame: sharp on his face, product soft beside his cheek. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Chống ồn chủ động giảm tới hai mươi tám đê-xi-ben. Người thử máy thấy rõ ở quán cà phê.\" He is showing the QCY T13 ANC2 earbuds beside his face; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P02C03. Vertical 9:16, 8 seconds, photorealistic, medium close-up. First frame: a person seen from behind at a cafe table with an earbud in the ear, blurred cafe background. Motion: slow push in toward the ear and earbud while cafe patrons move softly in the background. Last frame: tight view of the earbud in the ear, background still blurred. Voice-over by the presenter, off-screen, in Vietnamese, in a natural friendly tone: \"Chống ồn chủ động giảm tới hai mươi tám đê-xi-ben. Người thử máy thấy rõ ở quán cà phê.\" Product: exact product shown in the reference image, QCY T13 ANC2 true wireless earbuds, small and lightweight with silicone ear tips, in a compact pocket-size charging case with a magnetic tray, matching the colour in the reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+    },
+    {
+      "n": 4,
+      "code": "P02C04",
+      "role": "feature",
+      "narration_vi": "Tai nghe dùng được khoảng bảy tiếng. Hộp sạc nâng tổng lên ba mươi tiếng khi tắt chống ồn.",
+      "facts_used": [
+        "s3",
+        "s4"
+      ],
+      "camera": "dolly in",
+      "camera_reason": "lại gần dần để tạo cảm giác trò chuyện trực tiếp",
+      "first_frame": "seated at the desk, both hands holding the QCY T13 ANC2 earbuds at table height, looking down at it",
+      "motion": "he looks up at the camera mid-sentence while the camera does a slow dolly in",
+      "last_frame": "closer on his face with both hands and the product still in frame",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P02C04. Vertical 9:16, 8 seconds, photorealistic, medium shot. First frame: seated at the desk, both hands holding the QCY T13 ANC2 earbuds at table height, looking down at it. Motion: he looks up at the camera mid-sentence while the camera does a slow dolly in. Last frame: closer on his face with both hands and the product still in frame. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Tai nghe dùng được khoảng bảy tiếng. Hộp sạc nâng tổng lên ba mươi tiếng khi tắt chống ồn.\" He is turning the QCY T13 ANC2 earbuds in both hands; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P02C04. Vertical 9:16, 8 seconds, photorealistic, macro product shot, 100mm lens. First frame: the open charging case on the desk, both earbuds seated in the magnetic tray, no hands. Motion: slow push in on the earbuds in the tray, a hand lifts one earbud out and the lid stays open. Last frame: close view of one earbud held between two fingers above the open case. Voice-over by the presenter, off-screen, in Vietnamese, in a natural friendly tone: \"Tai nghe dùng được khoảng bảy tiếng. Hộp sạc nâng tổng lên ba mươi tiếng khi tắt chống ồn.\" Product: exact product shown in the reference image, QCY T13 ANC2 true wireless earbuds, small and lightweight with silicone ear tips, in a compact pocket-size charging case with a magnetic tray, matching the colour in the reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+    },
+    {
+      "n": 5,
+      "code": "P02C05",
+      "role": "feature",
+      "narration_vi": "Sạc nhanh năm phút nghe thêm khoảng một tiếng. Kết nối Bluetooth năm phẩy ba.",
+      "facts_used": [
+        "s6",
+        "s7"
+      ],
+      "camera": "pan",
+      "camera_reason": "lia từ thiết bị sang người nói để cho thấy cách dùng thực tế",
+      "first_frame": "standing near the window, the QCY T13 ANC2 earbuds in one hand and a smartphone in the other",
+      "motion": "slow pan from the phone in his hand across to his face as he speaks",
+      "last_frame": "centred on his face, phone and product low in the frame",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P02C05. Vertical 9:16, 8 seconds, photorealistic, medium shot. First frame: standing near the window, the QCY T13 ANC2 earbuds in one hand and a smartphone in the other. Motion: slow pan from the phone in his hand across to his face as he speaks. Last frame: centred on his face, phone and product low in the frame. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Sạc nhanh năm phút nghe thêm khoảng một tiếng. Kết nối Bluetooth năm phẩy ba.\" He is holding the QCY T13 ANC2 earbuds and a phone; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P02C05. Vertical 9:16, 8 seconds, photorealistic, close-up product shot, 85mm lens. First frame: the charging case with a USB-C cable plugged in, the cable end sharp and the earbuds soft. Motion: rack focus from the plugged cable end to the earbuds inside the case, a hand then unplugs the cable. Last frame: the earbuds sharp inside the case, cable lying beside it. Voice-over by the presenter, off-screen, in Vietnamese, in a natural friendly tone: \"Sạc nhanh năm phút nghe thêm khoảng một tiếng. Kết nối Bluetooth năm phẩy ba.\" Product: exact product shown in the reference image, QCY T13 ANC2 true wireless earbuds, small and lightweight with silicone ear tips, in a compact pocket-size charging case with a magnetic tray, matching the colour in the reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+    },
+    {
+      "n": 6,
+      "code": "P02C06",
+      "role": "feature",
+      "narration_vi": "Củ loa mười mi-li-mét cho bass có lực, giọng hát rõ. Đây là cảm nhận của một người thử máy.",
+      "facts_used": [
+        "s8",
+        "s13"
+      ],
+      "camera": "pull back",
+      "camera_reason": "mở rộng khung hình để thấy quy mô sản phẩm so với người",
+      "first_frame": "seated at the desk, the QCY T13 ANC2 earbuds held out toward the camera at arm's length",
+      "motion": "he draws the product back toward himself as the camera pulls back to reveal the desk",
+      "last_frame": "wider shot of him at the desk, product held at chest height",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P02C06. Vertical 9:16, 8 seconds, photorealistic, medium close-up. First frame: seated at the desk, the QCY T13 ANC2 earbuds held out toward the camera at arm's length. Motion: he draws the product back toward himself as the camera pulls back to reveal the desk. Last frame: wider shot of him at the desk, product held at chest height. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Củ loa mười mi-li-mét cho bass có lực, giọng hát rõ. Đây là cảm nhận của một người thử máy.\" He is pulling the QCY T13 ANC2 earbuds back from the lens; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P02C06. Vertical 9:16, 8 seconds, photorealistic, close-up product shot, 85mm lens. First frame: a single earbud resting upright on the oak desk, the case blurred beside it. Motion: slow dolly in on the earbud, the window light moving across its glossy surface. Last frame: tight close view of the earbud nozzle and silicone tip. Voice-over by the presenter, off-screen, in Vietnamese, in a natural friendly tone: \"Củ loa mười mi-li-mét cho bass có lực, giọng hát rõ. Đây là cảm nhận của một người thử máy.\" Product: exact product shown in the reference image, QCY T13 ANC2 true wireless earbuds, small and lightweight with silicone ear tips, in a compact pocket-size charging case with a magnetic tray, matching the colour in the reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+    },
+    {
+      "n": 7,
+      "code": "P02C07",
+      "role": "feature",
+      "narration_vi": "Người thử đeo ba đến bốn tiếng không đau tai. Mỗi bên nặng khoảng bốn phẩy sáu gam, chuẩn IPX năm.",
+      "facts_used": [
+        "s10",
+        "s11",
+        "s14"
+      ],
+      "camera": "push in",
+      "camera_reason": "tiến vào đúng chi tiết sản phẩm đang nói đến",
+      "first_frame": "seated at the desk, one hand lifting the QCY T13 ANC2 earbuds toward the camera at chest height",
+      "motion": "slow push in on the product in his open palm while he keeps eye contact with the lens",
+      "last_frame": "product held close to the lens in sharp focus, his face softly blurred behind it",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P02C07. Vertical 9:16, 8 seconds, photorealistic, medium close-up. First frame: seated at the desk, one hand lifting the QCY T13 ANC2 earbuds toward the camera at chest height. Motion: slow push in on the product in his open palm while he keeps eye contact with the lens. Last frame: product held close to the lens in sharp focus, his face softly blurred behind it. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Người thử đeo ba đến bốn tiếng không đau tai. Mỗi bên nặng khoảng bốn phẩy sáu gam, chuẩn IPX năm.\" He is holding the QCY T13 ANC2 earbuds in his open palm; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P02C07. Vertical 9:16, 8 seconds, photorealistic, medium shot, 50mm lens. First frame: a person in a light shirt holding the case near the shoulder, face out of frame. Motion: a hand takes out an earbud and places it in the ear, slow pan following the hand up to the ear. Last frame: close side view of the earbud worn in the ear, face turned away. Voice-over by the presenter, off-screen, in Vietnamese, in a natural friendly tone: \"Người thử đeo ba đến bốn tiếng không đau tai. Mỗi bên nặng khoảng bốn phẩy sáu gam, chuẩn IPX năm.\" Product: exact product shown in the reference image, QCY T13 ANC2 true wireless earbuds, small and lightweight with silicone ear tips, in a compact pocket-size charging case with a magnetic tray, matching the colour in the reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+    },
+    {
+      "n": 8,
+      "code": "P02C08",
+      "role": "caveat",
+      "narration_vi": "Bật chống ồn thì pin tai nghe còn khoảng năm tiếng theo hãng. Đổi lại, bạn yên tĩnh hơn khi đi đường.",
+      "facts_used": [
+        "s5"
+      ],
+      "camera": "dolly in",
+      "camera_reason": "tiến gần để nhấn vào điểm cần cân nhắc một cách thẳng thắn",
+      "first_frame": "seated at the desk, thoughtful expression, the QCY T13 ANC2 earbuds held loosely in one hand",
+      "motion": "slow dolly in as he tilts his head slightly and raises his eyebrows while speaking",
+      "last_frame": "closer on his face, product lowered out of focus",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P02C08. Vertical 9:16, 8 seconds, photorealistic, medium close-up. First frame: seated at the desk, thoughtful expression, the QCY T13 ANC2 earbuds held loosely in one hand. Motion: slow dolly in as he tilts his head slightly and raises his eyebrows while speaking. Last frame: closer on his face, product lowered out of focus. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Bật chống ồn thì pin tai nghe còn khoảng năm tiếng theo hãng. Đổi lại, bạn yên tĩnh hơn khi đi đường.\" He is holding the QCY T13 ANC2 earbuds loosely; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P02C08. Vertical 9:16, 8 seconds, photorealistic, medium shot, 50mm lens. First frame: a person seen from behind at a bus stop with an earbud in the ear, blurred street. Motion: slow pull back revealing the street and the passing bus lights, the person standing still. Last frame: wide view of the person at the stop, street softly blurred. Voice-over by the presenter, off-screen, in Vietnamese, in a natural friendly tone: \"Bật chống ồn thì pin tai nghe còn khoảng năm tiếng theo hãng. Đổi lại, bạn yên tĩnh hơn khi đi đường.\" Product: exact product shown in the reference image, QCY T13 ANC2 true wireless earbuds, small and lightweight with silicone ear tips, in a compact pocket-size charging case with a magnetic tray, matching the colour in the reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+    },
+    {
+      "n": 9,
+      "code": "P02C09",
+      "role": "caveat",
+      "narration_vi": "Điểm cần cân nhắc: cảm ứng đôi lúc phản hồi chậm, và phần lớn số pin là số liệu của hãng.",
+      "facts_used": [
+        "s3",
+        "s4"
+      ],
+      "camera": "pull back",
+      "camera_reason": "lùi ra để đặt điểm yếu trong bức tranh chung",
+      "first_frame": "seated at the desk, the QCY T13 ANC2 earbuds set down in front of him, hands open",
+      "motion": "slow pull back as he gestures with one open hand",
+      "last_frame": "wide on him and the desk, product small at the centre of the table",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P02C09. Vertical 9:16, 8 seconds, photorealistic, medium shot. First frame: seated at the desk, the QCY T13 ANC2 earbuds set down in front of him, hands open. Motion: slow pull back as he gestures with one open hand. Last frame: wide on him and the desk, product small at the centre of the table. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Điểm cần cân nhắc: cảm ứng đôi lúc phản hồi chậm, và phần lớn số pin là số liệu của hãng.\" He is with the QCY T13 ANC2 earbuds on the desk in front of him; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P02C09. Vertical 9:16, 8 seconds, photorealistic, close-up, 85mm lens. First frame: a hand beside an earbud in an ear, fingertip hovering near the touch area, blurred background. Motion: slow dolly in as the fingertip taps the earbud twice. Last frame: tight close view of the fingertip resting on the earbud surface. Voice-over by the presenter, off-screen, in Vietnamese, in a natural friendly tone: \"Điểm cần cân nhắc: cảm ứng đôi lúc phản hồi chậm, và phần lớn số pin là số liệu của hãng.\" Product: exact product shown in the reference image, QCY T13 ANC2 true wireless earbuds, small and lightweight with silicone ear tips, in a compact pocket-size charging case with a magnetic tray, matching the colour in the reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+    },
+    {
+      "n": 10,
+      "code": "P02C10",
+      "role": "fit",
+      "narration_vi": "Hợp người đi xe buýt, ngồi quán cần giảm ồn mà ngân sách hạn chế. Gọi điện nhiều thì nên thử trước.",
+      "facts_used": [
+        "s9"
+      ],
+      "camera": "dolly in",
+      "camera_reason": "lại gần như nói chuyện với đúng người cần sản phẩm này",
+      "first_frame": "leaning slightly forward at the desk, the QCY T13 ANC2 earbuds beside him, open friendly posture",
+      "motion": "slow dolly in as he gestures with an open hand toward the camera",
+      "last_frame": "close on his smiling face, product visible at the edge",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P02C10. Vertical 9:16, 8 seconds, photorealistic, medium close-up. First frame: leaning slightly forward at the desk, the QCY T13 ANC2 earbuds beside him, open friendly posture. Motion: slow dolly in as he gestures with an open hand toward the camera. Last frame: close on his smiling face, product visible at the edge. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Hợp người đi xe buýt, ngồi quán cần giảm ồn mà ngân sách hạn chế. Gọi điện nhiều thì nên thử trước.\" He is with the QCY T13 ANC2 earbuds beside him; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P02C10. Vertical 9:16, 8 seconds, photorealistic, medium shot. First frame: seated facing the camera, earbuds in one open hand. Motion: slow dolly in as he speaks. Last frame: closer on his face, earbuds in palm. Presenter: a handsome young Vietnamese man in his mid-20s, textured black quiff hairstyle, clear skin, sharp jawline, bright confident smile, athletic build, olive bomber jacket over a white t-shirt, upbeat energetic expression. Setting: a bright modern minimalist desk studio, light oak desk, soft natural window light from the left, plain warm-white wall, shallow depth of field. He says in Vietnamese, in a natural friendly tone: \"Hợp người đi xe buýt, ngồi quán cần giảm ồn mà ngân sách hạn chế. Gọi điện nhiều thì nên thử trước.\" Product: exact product shown in the reference image, QCY T13 ANC2 earbuds with silicone tips in a compact pocket charging case. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+    },
+    {
+      "n": 11,
+      "code": "P02C11",
+      "role": "outro",
+      "narration_vi": "Lưu lại trước khi mua. Bạn đang dùng tai nghe nào, nói cho mình biết nhé.",
+      "facts_used": [],
+      "camera": "pull back",
+      "camera_reason": "lùi ra khép lại video một cách thân thiện",
+      "first_frame": "seated at the desk, the QCY T13 ANC2 earbuds on the table, bright smile toward the camera",
+      "motion": "slow pull back while he gives a small friendly wave at the end",
+      "last_frame": "wide on him and the desk with the product, warm and relaxed",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P02C11. Vertical 9:16, 8 seconds, photorealistic, medium shot. First frame: seated at the desk, the QCY T13 ANC2 earbuds on the table, bright smile toward the camera. Motion: slow pull back while he gives a small friendly wave at the end. Last frame: wide on him and the desk with the product, warm and relaxed. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Lưu lại trước khi mua. Bạn đang dùng tai nghe nào, nói cho mình biết nhé.\" He is with the QCY T13 ANC2 earbuds on the desk; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P02C11. Vertical 9:16, 8 seconds, photorealistic, medium close-up. First frame: facing the camera with a warm smile, case beside him. Motion: slow pull back as he speaks and waves. Last frame: wider view of him at the desk. Presenter: a handsome young Vietnamese man in his mid-20s, textured black quiff hairstyle, clear skin, sharp jawline, bright confident smile, athletic build, olive bomber jacket over a white t-shirt, upbeat energetic expression. Setting: a bright modern minimalist desk studio, light oak desk, soft natural window light from the left, plain warm-white wall, shallow depth of field. He says in Vietnamese, in a natural friendly tone: \"Lưu lại trước khi mua. Bạn đang dùng tai nghe nào, nói cho mình biết nhé.\" Product: exact product shown in the reference image, QCY T13 ANC2 earbuds with silicone tips in a compact pocket charging case. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+    }
+  ],
+  "onscreen_presenter": true
+}

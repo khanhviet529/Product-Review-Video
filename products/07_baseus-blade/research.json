@@ -1,0 +1,221 @@
+{
+  "id": "07",
+  "slug": "07_baseus-blade",
+  "status": "mot_phan",
+  "chosen_model": "Baseus Blade High Power Digital Display Power Bank 20000mAh 100W (mã LVA021-2K, kèm cáp C-C 1m)",
+  "alternatives_rejected": [
+    {
+      "model": "Cuktech 20 (Cuktech PB200N 55W là mẫu Hoàng Hà đang bán)",
+      "reason": "Không mở được trang thông số đáng tin của đúng mẫu \"Cuktech 20\", không đủ nguồn để review."
+    },
+    {
+      "model": "Baseus Blade Digital Display LVA011-2K-100 (bản cũ)",
+      "reason": "baseus.vn ghi hết hàng; dùng làm nguồn thông số tham khảo của dòng Blade."
+    }
+  ],
+  "official_page": "https://baseus.vn/products/os-baseus-blade-high-power-digital-display-quick-charge-power-bank-20000mah-100w-black-with-cable-type-c-to-type-c-100w-20v-5a-1m-black-1",
+  "price_vnd": {
+    "low": 1370000,
+    "high": 1650000,
+    "as_of": "2026-10-22",
+    "sources": [
+      "src1",
+      "src2"
+    ],
+    "confidence": "vua"
+  },
+  "specs": [
+    {
+      "id": "s1",
+      "key": "Dung lượng",
+      "value_vi": "20000mAh, 74Wh, dung lượng định mức 12000mAh (5V/3A)",
+      "condition": "Thông số lấy từ trang bản Blade LVA011 trên baseus.vn; bản LVA021-2K cùng tiêu đề dòng nhưng trang không ghi thông số",
+      "source": "src2",
+      "confidence": "vua"
+    },
+    {
+      "id": "s2",
+      "key": "Cổng",
+      "value_vi": "2 USB-C (mỗi cổng ra tối đa 100W) + 2 USB-A",
+      "condition": "100W khi chỉ dùng một cổng USB-C",
+      "source": "src3",
+      "confidence": "cao"
+    },
+    {
+      "id": "s3",
+      "key": "Dùng nhiều cổng",
+      "value_vi": "Hai cổng USB-C cùng lúc: 65W + 30W; ba cổng: 45W + 30W + 18W",
+      "condition": "Công suất chia lại khi cắm nhiều cổng",
+      "source": "src3",
+      "confidence": "cao"
+    },
+    {
+      "id": "s4",
+      "key": "Nạp lại pin",
+      "value_vi": "Đầu vào tối đa 65W; đầy khoảng 90 phút với củ sạc 65W, khoảng 180 phút với củ sạc 30W",
+      "condition": "Theo trang baseus.vn",
+      "source": "src2",
+      "confidence": "vua"
+    },
+    {
+      "id": "s5",
+      "key": "Màn hình",
+      "value_vi": "Màn hình số hiện phần trăm pin, điện áp vào/ra và thời gian còn lại để đầy/hết",
+      "condition": "",
+      "source": "src3",
+      "confidence": "cao"
+    },
+    {
+      "id": "s6",
+      "key": "Độ dày",
+      "value_vi": "Khoảng 18mm (162 x 134 x 18 mm)",
+      "condition": "",
+      "source": "src3",
+      "confidence": "cao"
+    },
+    {
+      "id": "s7",
+      "key": "Khối lượng",
+      "value_vi": "Khoảng 490g (baseus.vn), 503g (Notebookcheck)",
+      "condition": "Hai nguồn lệch nhẹ",
+      "source": "src2",
+      "confidence": "vua"
+    },
+    {
+      "id": "s8",
+      "key": "Sạc laptop",
+      "value_vi": "Sạc được khoảng một phần ba đến một nửa pin của ultrabook",
+      "condition": "Notebookcheck đánh giá bản Blade đời đầu 2022, laptop sạc qua USB-C",
+      "source": "src3",
+      "confidence": "vua"
+    },
+    {
+      "id": "s9",
+      "key": "Giá",
+      "value_vi": "1.370.000 đồng (bản kèm cáp, còn hàng tại baseus.vn)",
+      "condition": "Ngày 2026-10-22",
+      "source": "src1",
+      "confidence": "vua"
+    },
+    {
+      "id": "s10",
+      "key": "Điểm trừ theo Notebookcheck",
+      "value_vi": "Diện tích lớn hơn nhiều pin khác; màn hình bóng dễ trầy; giá cao so với pin nhỏ",
+      "condition": "Bản Blade 2022",
+      "source": "src3",
+      "confidence": "cao"
+    },
+    {
+      "id": "s11",
+      "key": "Bảo hành",
+      "value_vi": "12 tháng, 1 đổi 1",
+      "condition": "Theo baseus.vn",
+      "source": "src1",
+      "confidence": "cao"
+    }
+  ],
+  "strengths": [
+    {
+      "text": "Hai cổng USB-C đều ra được tối đa 100W, đủ sạc nhiều laptop qua USB-C, trong khi đa số pin khác chỉ 15W, 45W hoặc 65W",
+      "source": "src3"
+    },
+    {
+      "text": "Màn hình số hiện phần trăm, điện áp vào/ra và thời gian còn lại",
+      "source": "src3"
+    },
+    {
+      "text": "Dày khoảng 18mm, bỏ vừa ngăn laptop",
+      "source": "src3"
+    },
+    {
+      "text": "Nạp lại nhanh: đầu vào tối đa 65W, đầy khoảng 90 phút với củ sạc 65W",
+      "source": "src2"
+    }
+  ],
+  "caveats": [
+    {
+      "text": "Nặng khoảng 490g và diện tích lớn hơn nhiều pin khác",
+      "source": "src3"
+    },
+    {
+      "text": "Màn hình bóng dễ trầy xước",
+      "source": "src3"
+    },
+    {
+      "text": "Cắm nhiều cổng cùng lúc thì công suất chia lại, không còn 100W mỗi cổng",
+      "source": "src3"
+    },
+    {
+      "text": "Giá cao so với pin nhỏ cùng nhóm",
+      "source": "src3"
+    }
+  ],
+  "sources": [
+    {
+      "id": "src1",
+      "url": "https://baseus.vn/products/os-baseus-blade-high-power-digital-display-quick-charge-power-bank-20000mah-100w-black-with-cable-type-c-to-type-c-100w-20v-5a-1m-black-1",
+      "title": "OS-Baseus Blade High Power Digital Display Power Bank 20000mAh 100W (LVA021-2K) - baseus.vn",
+      "type": "cua_hang"
+    },
+    {
+      "id": "src2",
+      "url": "https://baseus.vn/products/pin-du-phong-baseus-blade-power-digital-display-20000mah-100w",
+      "title": "Pin dự phòng Baseus Blade Power Digital Display 20000mAh 100W (LVA011-2K-100) - baseus.vn",
+      "type": "cua_hang"
+    },
+    {
+      "id": "src3",
+      "url": "https://www.notebookcheck.net/100-W-Baseus-Blade-power-bank-can-recharge-your-Ultrabook-as-fast-as-a-regular-AC-power-outlet.613797.0.html",
+      "title": "Notebookcheck: 100 W Baseus Blade power bank can recharge your Ultrabook... (14/04/2022)",
+      "type": "danh_gia"
+    },
+    {
+      "id": "src4",
+      "url": "https://the-gadgeteer.com/?p=396374",
+      "title": "The Gadgeteer: Baseus Blade laptop power bank review (bình luận người dùng)",
+      "type": "nguoi_dung"
+    }
+  ],
+  "unverified": [
+    "Thông số chi tiết của đúng mã LVA021-2K: trang baseus.vn không liệt kê; dùng thông số bản Blade LVA011 cùng dòng (độ tin cậy vừa). Khuyến nghị đối chiếu nhãn hộp.",
+    "Notebookcheck đánh giá bản Blade đời đầu năm 2022, chưa chắc trùng 100% bản đang bán.",
+    "Khối lượng lệch nhẹ giữa baseus.vn (490g) và Notebookcheck (503g).",
+    "Bình luận của một người dùng trên The Gadgeteer báo máy hỏng ngay lần sạc đầu theo lô; chỉ là một ý kiến, không đưa vào video.",
+    "Mẫu Cuktech 20 không xác minh được.",
+    "Trang global baseus.com bị giới hạn truy cập khi đọc; không dùng.",
+    "Nhãn \"product_angle\" của các ảnh ngoài ảnh đầu chưa được xem từng ảnh."
+  ],
+  "product_visual_description": "an ultra-thin flat rectangular matte black power bank with a ribbed texture, a glossy black display strip near the top edge showing small white digits, several ports along the top edge, and a large 100W mark printed near the bottom of the front",
+  "ref_image_candidates": [
+    {
+      "url": "https://cdn.hstatic.net/products/1000152881/2983cd793a4105a2da939eaf5f8bf6_b9294664f1e543a78f817dba70c17e24_master_ef2aa93c459c4c97855e6aad6261b089.jpg",
+      "page": "https://baseus.vn/products/os-baseus-blade-high-power-digital-display-quick-charge-power-bank-20000mah-100w-black-with-cable-type-c-to-type-c-100w-20v-5a-1m-black-1",
+      "kind": "product_main"
+    },
+    {
+      "url": "https://cdn.hstatic.net/products/1000152881/7_d9fd84b9ffd54bf89219cc6202df326a_dbde77d1037e490b8361955b58214207.jpg",
+      "page": "https://baseus.vn/products/os-baseus-blade-high-power-digital-display-quick-charge-power-bank-20000mah-100w-black-with-cable-type-c-to-type-c-100w-20v-5a-1m-black-1",
+      "kind": "product_angle"
+    },
+    {
+      "url": "https://cdn.hstatic.net/products/1000152881/c845a57b044706a144f2d5d4aaaee8_9d9d57d84d544222b25db575993ed844_master_94c20b25c13a4efb9212ef22a8e330e8.jpg",
+      "page": "https://baseus.vn/products/os-baseus-blade-high-power-digital-display-quick-charge-power-bank-20000mah-100w-black-with-cable-type-c-to-type-c-100w-20v-5a-1m-black-1",
+      "kind": "product_angle"
+    },
+    {
+      "url": "https://cdn.hstatic.net/products/1000152881/e27351955c45c293d7b56a9e64fa8a_4dd942549f7a45c9a2f55974061ff6cd_master_862e0fc58ad14484bbdd3a96d83b84d5.jpg",
+      "page": "https://baseus.vn/products/os-baseus-blade-high-power-digital-display-quick-charge-power-bank-20000mah-100w-black-with-cable-type-c-to-type-c-100w-20v-5a-1m-black-1",
+      "kind": "product_angle"
+    },
+    {
+      "url": "https://cdn.hstatic.net/products/1000152881/4edba6d3484bbb8846657b8e5614d1_f1db6dc7229e43e5b81d6cbc37f3834c_master_4f4fa4e5c2b442a1a4248512044a4769.jpg",
+      "page": "https://baseus.vn/products/os-baseus-blade-high-power-digital-display-quick-charge-power-bank-20000mah-100w-black-with-cable-type-c-to-type-c-100w-20v-5a-1m-black-1",
+      "kind": "product_angle"
+    }
+  ],
+  "takeaway": "Cần sạc laptop mỏng qua USB-C bằng pin dự phòng thì Baseus Blade 100W là lựa chọn đáng cân nhắc; cần pin nhỏ nhẹ bỏ túi hoặc cắm nhiều cổng ở công suất cao thì nên chọn loại khác.",
+  "buyer_personas": [
+    "Người mang laptop mỏng sạc qua USB-C đi làm, đi công tác",
+    "Người cần một pin sạc được laptop lẫn điện thoại"
+  ]
+}

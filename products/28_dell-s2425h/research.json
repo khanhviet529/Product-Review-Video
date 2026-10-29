@@ -1,0 +1,213 @@
+{
+  "id": "28",
+  "slug": "28_dell-s2425h",
+  "status": "mot_phan",
+  "chosen_model": "Dell S2425H 23.8 inch (mã S2425H)",
+  "alternatives_rejected": [
+    {
+      "model": "Dell S2425HS",
+      "reason": "Mẫu anh em có chân đế chỉnh độ cao; ứng viên ghi rõ S2425H nên giữ S2425H."
+    }
+  ],
+  "official_page": "https://www.dell.com/support/kbdoc/en-us/000225073/dell-s2425h-monitor-usage-and-troubleshooting-guide",
+  "official_page_note": "Trang Dell không mở được (404, lỗi kết nối); URL chỉ thấy trong kết quả tìm kiếm",
+  "price_vnd": {
+    "low": 3359000,
+    "high": 3399000,
+    "as_of": "2026-10-22",
+    "sources": [
+      "src1",
+      "src2"
+    ],
+    "confidence": "vua"
+  },
+  "specs": [
+    {
+      "id": "s1",
+      "key": "Màn hình",
+      "value_vi": "23,8 inch, Full HD 1920 x 1080, tấm nền IPS, góc nhìn 178 độ",
+      "condition": "",
+      "source": "src3",
+      "confidence": "cao"
+    },
+    {
+      "id": "s2",
+      "key": "Tần số quét",
+      "value_vi": "100 Hz",
+      "condition": "qua HDMI 1.4 ở Full HD",
+      "source": "src3",
+      "confidence": "cao"
+    },
+    {
+      "id": "s3",
+      "key": "Màu sắc",
+      "value_vi": "99% sRGB, 16,7 triệu màu",
+      "condition": "",
+      "source": "src3",
+      "confidence": "cao"
+    },
+    {
+      "id": "s4",
+      "key": "Độ sáng",
+      "value_vi": "250 nit",
+      "condition": "",
+      "source": "src3",
+      "confidence": "cao"
+    },
+    {
+      "id": "s5",
+      "key": "Cổng",
+      "value_vi": "2 HDMI; không thấy DisplayPort hay USB-C trong các trang đã mở",
+      "condition": "",
+      "source": "src3",
+      "confidence": "cao"
+    },
+    {
+      "id": "s6",
+      "key": "Loa",
+      "value_vi": "Hai loa tích hợp, mỗi loa 5 W",
+      "condition": "Hacom ghi 2 x 5 W; Phúc Anh ghi có loa",
+      "source": "src1",
+      "confidence": "vua"
+    },
+    {
+      "id": "s7",
+      "key": "Treo tường",
+      "value_vi": "VESA 100 x 100 mm",
+      "condition": "",
+      "source": "src3",
+      "confidence": "cao"
+    },
+    {
+      "id": "s8",
+      "key": "Giá",
+      "value_vi": "3.359.000 đ (Phúc Anh, niêm yết 4.031.000 đ) đến 3.399.000 đ (Hacom, hàng đặt trước, niêm yết 4.999.000 đ)",
+      "condition": "22/10/2026",
+      "source": "src1",
+      "confidence": "vua"
+    },
+    {
+      "id": "s9",
+      "key": "Bảo hành",
+      "value_vi": "36 tháng",
+      "condition": "",
+      "source": "src1",
+      "confidence": "cao"
+    },
+    {
+      "id": "s10",
+      "key": "Hạn chế theo bài biên tập",
+      "value_vi": "Không có HDR",
+      "condition": "theo trang Hoàng Hà PC",
+      "source": "src3",
+      "confidence": "vua"
+    },
+    {
+      "id": "s11",
+      "key": "Tình trạng bán",
+      "value_vi": "Phúc Anh ghi đã ngừng kinh doanh; Hacom ghi hàng đặt trước; Hoàng Hà PC bán hàng thanh lý",
+      "condition": "22/10/2026",
+      "source": "src2",
+      "confidence": "cao"
+    }
+  ],
+  "strengths": [
+    {
+      "text": "IPS, Full HD, 100 Hz, 99% sRGB",
+      "source": "src3"
+    },
+    {
+      "text": "Có sẵn hai loa 5 W",
+      "source": "src1"
+    },
+    {
+      "text": "Hai cổng HDMI, treo tường VESA 100 x 100",
+      "source": "src3"
+    },
+    {
+      "text": "Bảo hành 36 tháng",
+      "source": "src1"
+    }
+  ],
+  "caveats": [
+    {
+      "text": "Chỉ có hai cổng HDMI, không thấy DisplayPort hay USB-C",
+      "source": "src3"
+    },
+    {
+      "text": "Không có HDR",
+      "source": "src3"
+    },
+    {
+      "text": "Nguồn hàng hạn chế: Phúc Anh ghi ngừng kinh doanh, Hacom đặt trước",
+      "source": "src2"
+    }
+  ],
+  "sources": [
+    {
+      "id": "src1",
+      "url": "https://hacom.vn/man-hinh-dell-s2425h",
+      "title": "Màn hình Dell S2425H - Hacom",
+      "type": "cua_hang"
+    },
+    {
+      "id": "src2",
+      "url": "https://www.phucanh.vn/man-hinh-dell-s2425h.html",
+      "title": "Màn hình Dell S2425H - Phúc Anh (trang ghi đã ngừng kinh doanh)",
+      "type": "cua_hang"
+    },
+    {
+      "id": "src3",
+      "url": "https://hoanghapc.vn/man-hinh-dell-s2425h-hl",
+      "title": "Màn hình Dell S2425H (hàng thanh lý) - Hoàng Hà PC",
+      "type": "cua_hang"
+    }
+  ],
+  "unverified": [
+    "Thời gian đáp ứng: các nguồn ghi 4 ms, 5 ms, và 8 ms (bình thường), không dùng.",
+    "Độ tương phản: 1000:1 (Hacom) lệch 1500:1 (Hoàng Hà, Phúc Anh), không dùng.",
+    "Góc nghiêng chân đế và chuyện chân đế chỉ nghiêng: chỉ thấy trong kết quả tìm kiếm tóm tắt trang Dell không mở được, không dùng.",
+    "Màu vỏ: Phúc Anh ghi Silver, Hacom ghi Đen; dùng ảnh tham chiếu.",
+    "Trang chính hãng Dell không mở được.",
+    "Giá niêm yết cao hơn nhiều giá bán; chỉ dùng giá bán.",
+    "Loại ảnh (kind) suy ra từ tên file."
+  ],
+  "product_visual_description": "23.8-inch flat Dell monitor on a simple desk stand with built-in stereo speakers; listings show silver or black, so follow the reference image",
+  "ref_image_candidates": [
+    {
+      "url": "https://hanoicomputercdn.com/media/product/81966_man_hinh_dell_s2425h_1.jpg",
+      "page": "https://hacom.vn/man-hinh-dell-s2425h",
+      "kind": "product_main"
+    },
+    {
+      "url": "https://hanoicomputercdn.com/media/product/81966_man_hinh_dell_s2425h_2.jpg",
+      "page": "https://hacom.vn/man-hinh-dell-s2425h",
+      "kind": "product_angle"
+    },
+    {
+      "url": "https://hanoicomputercdn.com/media/product/81966_man_hinh_dell_s2425h_3.jpg",
+      "page": "https://hacom.vn/man-hinh-dell-s2425h",
+      "kind": "product_angle"
+    },
+    {
+      "url": "https://phucanhcdn.com/media/product/54967_man_hinh_dell_s2425h_1.jpg",
+      "page": "https://www.phucanh.vn/man-hinh-dell-s2425h.html",
+      "kind": "product_main"
+    },
+    {
+      "url": "https://phucanhcdn.com/media/product/54967_man_hinh_dell_s2425h_2.jpg",
+      "page": "https://www.phucanh.vn/man-hinh-dell-s2425h.html",
+      "kind": "product_angle"
+    },
+    {
+      "url": "https://hoanghapccdn.com/media/product/6146_s2425h_ha1s.jpg",
+      "page": "https://hoanghapc.vn/man-hinh-dell-s2425h-hl",
+      "kind": "product_angle"
+    }
+  ],
+  "takeaway": "Cần màn hình văn phòng IPS, có sẵn loa, giá khoảng ba triệu ba thì Dell S2425H hợp; cần DisplayPort, HDR hoặc hàng còn bán đều đặn thì cân nhắc mẫu khác.",
+  "buyer_personas": [
+    "Dân văn phòng muốn màn có sẵn loa, bàn gọn",
+    "Người học và họp trực tuyến"
+  ]
+}

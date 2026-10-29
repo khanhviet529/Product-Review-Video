@@ -1,0 +1,215 @@
+{
+  "product_id": "19",
+  "slug": "19_logitech-mx-anywhere-3s",
+  "model": "Logitech MX Anywhere 3S (bản Graphite/Đen, mã 910-006262)",
+  "presenter": "M",
+  "takeaway": "Cần chuột gọn, click êm, pin lâu cho laptop thì chọn MX Anywhere 3S; cần chuột giá mềm hoặc đã có MX Anywhere 3 thì nên cân nhắc kỹ trước khi mua.",
+  "target_seconds": 80,
+  "clips": [
+    {
+      "n": 1,
+      "code": "P19C01",
+      "role": "hook",
+      "narration_vi": "Cần chuột gọn, click êm, pin lâu cho laptop thì chọn MX Anywhere 3S. Đổi lại, giá không rẻ.",
+      "facts_used": [
+        "s1",
+        "s6",
+        "s10"
+      ],
+      "camera": "push in",
+      "camera_reason": "tiến vào người nói để mở đầu bằng câu trả lời ngắn",
+      "first_frame": "seated at the desk facing the camera, the Logitech MX Anywhere 3S resting on the desk beside him, relaxed upright posture",
+      "motion": "slow push in toward his face as he starts speaking, he glances at the product then back to the lens",
+      "last_frame": "tighter on his face and shoulders, product still visible at the lower edge of the frame",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P19C01. Vertical 9:16, 8 seconds, photorealistic, medium close-up. First frame: seated at the desk facing the camera, the Logitech MX Anywhere 3S resting on the desk beside him, relaxed upright posture. Motion: slow push in toward his face as he starts speaking, he glances at the product then back to the lens. Last frame: tighter on his face and shoulders, product still visible at the lower edge of the frame. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Cần chuột gọn, click êm, pin lâu cho laptop thì chọn MX Anywhere 3S. Đổi lại, giá không rẻ.\" He is the Logitech MX Anywhere 3S on the desk within reach; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P19C01. Vertical 9:16, 8 seconds, photorealistic, medium close-up. First frame: She sits centered, mouse resting in her palm. Motion: slow push in; she nods and smiles. Last frame: tighter framing, mouse steady in her palm. A Vietnamese woman in her late 20s with shoulder-length straight black hair and light side-swept bangs, warm light-brown skin, small gold stud earrings, natural makeup, wearing a plain white crew-neck t-shirt under a light beige overshirt, friendly confident expression, in a bright modern minimalist desk studio, light oak desk, soft natural window light from the left, plain warm-white wall, shallow depth of field. She says in Vietnamese, in a natural friendly tone: \"Cần chuột gọn, click êm, pin lâu cho laptop thì chọn MX Anywhere 3S. Đổi lại, giá không rẻ.\" Product: exact product shown in the reference image, a compact graphite wireless mouse. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+    },
+    {
+      "n": 2,
+      "code": "P19C02",
+      "role": "feature",
+      "narration_vi": "Click êm hơn đời trước, nghe như tiếng chạm nhẹ, hợp phòng họp hay thư viện.",
+      "facts_used": [
+        "s6"
+      ],
+      "camera": "push in",
+      "camera_reason": "tiến vào đúng chi tiết sản phẩm đang nói đến",
+      "first_frame": "seated at the desk, one hand lifting the Logitech MX Anywhere 3S toward the camera at chest height",
+      "motion": "slow push in on the product in his open palm while he keeps eye contact with the lens",
+      "last_frame": "product held close to the lens in sharp focus, his face softly blurred behind it",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P19C02. Vertical 9:16, 8 seconds, photorealistic, medium close-up. First frame: seated at the desk, one hand lifting the Logitech MX Anywhere 3S toward the camera at chest height. Motion: slow push in on the product in his open palm while he keeps eye contact with the lens. Last frame: product held close to the lens in sharp focus, his face softly blurred behind it. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Click êm hơn đời trước, nghe như tiếng chạm nhẹ, hợp phòng họp hay thư viện.\" He is holding the Logitech MX Anywhere 3S in his open palm; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P19C02. Vertical 9:16, 8 seconds, photorealistic, close-up product shot. First frame: The mouse on the oak desk beside a laptop, seen from above at an angle. Motion: macro push in toward the buttons while a fingertip presses the left button softly. Last frame: close view of the buttons and fingertip, sharp focus. Voice-over by the presenter, off-screen, in Vietnamese, natural friendly tone: \"Click êm hơn đời trước, nghe như tiếng chạm nhẹ, hợp phòng họp hay thư viện.\" Product: exact product shown in the reference image, a compact graphite wireless mouse made with recycled plastic, with a metal MagSpeed scroll wheel (also sold in pink and white). Light oak desk, soft natural window light from the left, plain warm-white wall. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+    },
+    {
+      "n": 3,
+      "code": "P19C03",
+      "role": "feature",
+      "narration_vi": "Chuột nặng chín mươi chín gam, dài khoảng mười xăng-ti-mét, nằm gọn trong túi laptop.",
+      "facts_used": [
+        "s3"
+      ],
+      "camera": "rack focus",
+      "camera_reason": "chuyển nét từ sản phẩm sang người nói để nối chi tiết với đánh giá",
+      "first_frame": "face and shoulders, one hand bringing the Logitech MX Anywhere 3S up next to his cheek",
+      "motion": "rack focus from the product beside his cheek to his eyes, he turns slightly toward the lens",
+      "last_frame": "sharp on his face, product soft beside his cheek",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P19C03. Vertical 9:16, 8 seconds, photorealistic, close-up. First frame: face and shoulders, one hand bringing the Logitech MX Anywhere 3S up next to his cheek. Motion: rack focus from the product beside his cheek to his eyes, he turns slightly toward the lens. Last frame: sharp on his face, product soft beside his cheek. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Chuột nặng chín mươi chín gam, dài khoảng mười xăng-ti-mét, nằm gọn trong túi laptop.\" He is showing the Logitech MX Anywhere 3S beside his face; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P19C03. Vertical 9:16, 8 seconds, photorealistic, close-up product shot. First frame: Macro of the mouse top surface on the desk. Motion: pull back to reveal the mouse beside a laptop bag, then a hand slides it into the bag's pocket. Last frame: wide shot, mouse half inside the bag pocket. Voice-over by the presenter, off-screen, in Vietnamese, natural friendly tone: \"Chuột nặng chín mươi chín gam, dài khoảng mười xăng-ti-mét, nằm gọn trong túi laptop.\" Product: exact product shown in the reference image, a compact graphite wireless mouse made with recycled plastic, with a metal MagSpeed scroll wheel (also sold in pink and white). Light oak desk, soft natural window light from the left, plain warm-white wall. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+    },
+    {
+      "n": 4,
+      "code": "P19C04",
+      "role": "feature",
+      "narration_vi": "Con lăn thép MagSpeed có hai chế độ, nấc từng bước hoặc cuộn tự do, tiện cho tài liệu dài.",
+      "facts_used": [
+        "s7"
+      ],
+      "camera": "dolly in",
+      "camera_reason": "lại gần dần để tạo cảm giác trò chuyện trực tiếp",
+      "first_frame": "seated at the desk, both hands holding the Logitech MX Anywhere 3S at table height, looking down at it",
+      "motion": "he looks up at the camera mid-sentence while the camera does a slow dolly in",
+      "last_frame": "closer on his face with both hands and the product still in frame",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P19C04. Vertical 9:16, 8 seconds, photorealistic, medium shot. First frame: seated at the desk, both hands holding the Logitech MX Anywhere 3S at table height, looking down at it. Motion: he looks up at the camera mid-sentence while the camera does a slow dolly in. Last frame: closer on his face with both hands and the product still in frame. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Con lăn thép MagSpeed có hai chế độ, nấc từng bước hoặc cuộn tự do, tiện cho tài liệu dài.\" He is turning the Logitech MX Anywhere 3S in both hands; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P19C04. Vertical 9:16, 8 seconds, photorealistic, close-up product shot. First frame: The mouse from above, scroll wheel visible, a long document on a laptop behind. Motion: dolly in toward the metal scroll wheel while a fingertip rolls it. Last frame: scroll wheel fills the frame, fingertip on it. Voice-over by the presenter, off-screen, in Vietnamese, natural friendly tone: \"Con lăn thép MagSpeed có hai chế độ, nấc từng bước hoặc cuộn tự do, tiện cho tài liệu dài.\" Product: exact product shown in the reference image, a compact graphite wireless mouse made with recycled plastic, with a metal MagSpeed scroll wheel (also sold in pink and white). Light oak desk, soft natural window light from the left, plain warm-white wall. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+    },
+    {
+      "n": 5,
+      "code": "P19C05",
+      "role": "feature",
+      "narration_vi": "Cảm biến tám nghìn đi-pi-ai chạy được trên hầu hết bề mặt, kể cả kính.",
+      "facts_used": [
+        "s4",
+        "s8"
+      ],
+      "camera": "pan",
+      "camera_reason": "lia từ thiết bị sang người nói để cho thấy cách dùng thực tế",
+      "first_frame": "standing near the window, the Logitech MX Anywhere 3S in one hand and a smartphone in the other",
+      "motion": "slow pan from the phone in his hand across to his face as he speaks",
+      "last_frame": "centred on his face, phone and product low in the frame",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P19C05. Vertical 9:16, 8 seconds, photorealistic, medium shot. First frame: standing near the window, the Logitech MX Anywhere 3S in one hand and a smartphone in the other. Motion: slow pan from the phone in his hand across to his face as he speaks. Last frame: centred on his face, phone and product low in the frame. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Cảm biến tám nghìn đi-pi-ai chạy được trên hầu hết bề mặt, kể cả kính.\" He is holding the Logitech MX Anywhere 3S and a phone; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P19C05. Vertical 9:16, 8 seconds, photorealistic, close-up product shot. First frame: The mouse on the oak desk next to a glass tabletop panel. Motion: pan right following the mouse as a hand slides it from the wood onto the glass. Last frame: mouse resting on the glass, reflection beneath. Voice-over by the presenter, off-screen, in Vietnamese, natural friendly tone: \"Cảm biến tám nghìn đi-pi-ai chạy được trên hầu hết bề mặt, kể cả kính.\" Product: exact product shown in the reference image, a compact graphite wireless mouse made with recycled plastic, with a metal MagSpeed scroll wheel (also sold in pink and white). Light oak desk, soft natural window light from the left, plain warm-white wall. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+    },
+    {
+      "n": 6,
+      "code": "P19C06",
+      "role": "feature",
+      "narration_vi": "Bluetooth ghép được ba thiết bị, đổi bằng một nút. Đầu thu Logi Bolt phải mua riêng, trong hộp không có.",
+      "facts_used": [
+        "s5",
+        "s9"
+      ],
+      "camera": "pull back",
+      "camera_reason": "mở rộng khung hình để thấy quy mô sản phẩm so với người",
+      "first_frame": "seated at the desk, the Logitech MX Anywhere 3S held out toward the camera at arm's length",
+      "motion": "he draws the product back toward himself as the camera pulls back to reveal the desk",
+      "last_frame": "wider shot of him at the desk, product held at chest height",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P19C06. Vertical 9:16, 8 seconds, photorealistic, medium close-up. First frame: seated at the desk, the Logitech MX Anywhere 3S held out toward the camera at arm's length. Motion: he draws the product back toward himself as the camera pulls back to reveal the desk. Last frame: wider shot of him at the desk, product held at chest height. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Bluetooth ghép được ba thiết bị, đổi bằng một nút. Đầu thu Logi Bolt phải mua riêng, trong hộp không có.\" He is pulling the Logitech MX Anywhere 3S back from the lens; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P19C06. Vertical 9:16, 8 seconds, photorealistic, close-up product shot. First frame: The mouse in front, a laptop and a tablet blurred behind it. Motion: rack focus from the laptop to the tablet while a finger rests on the mouse. Last frame: tablet in focus, mouse softly blurred in front. Voice-over by the presenter, off-screen, in Vietnamese, natural friendly tone: \"Bluetooth ghép được ba thiết bị, đổi bằng một nút. Đầu thu Logi Bolt phải mua riêng, trong hộp không có.\" Product: exact product shown in the reference image, a compact graphite wireless mouse made with recycled plastic, with a metal MagSpeed scroll wheel (also sold in pink and white). Light oak desk, soft natural window light from the left, plain warm-white wall. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+    },
+    {
+      "n": 7,
+      "code": "P19C07",
+      "role": "feature",
+      "narration_vi": "Pin sạc qua USB-C, một lần sạc dùng khoảng bảy mươi ngày. Cần gấp thì sạc một phút là có vài giờ.",
+      "facts_used": [
+        "s1",
+        "s2"
+      ],
+      "camera": "push in",
+      "camera_reason": "tiến vào đúng chi tiết sản phẩm đang nói đến",
+      "first_frame": "seated at the desk, one hand lifting the Logitech MX Anywhere 3S toward the camera at chest height",
+      "motion": "slow push in on the product in his open palm while he keeps eye contact with the lens",
+      "last_frame": "product held close to the lens in sharp focus, his face softly blurred behind it",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P19C07. Vertical 9:16, 8 seconds, photorealistic, medium close-up. First frame: seated at the desk, one hand lifting the Logitech MX Anywhere 3S toward the camera at chest height. Motion: slow push in on the product in his open palm while he keeps eye contact with the lens. Last frame: product held close to the lens in sharp focus, his face softly blurred behind it. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Pin sạc qua USB-C, một lần sạc dùng khoảng bảy mươi ngày. Cần gấp thì sạc một phút là có vài giờ.\" He is holding the Logitech MX Anywhere 3S in his open palm; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P19C07. Vertical 9:16, 8 seconds, photorealistic, close-up product shot. First frame: The mouse tilted to show its front edge with the USB-C port. Motion: macro move as a USB-C cable is plugged into the port. Last frame: cable seated in the port, sharp focus. Voice-over by the presenter, off-screen, in Vietnamese, natural friendly tone: \"Pin sạc qua USB-C, một lần sạc dùng khoảng bảy mươi ngày. Cần gấp thì sạc một phút là có vài giờ.\" Product: exact product shown in the reference image, a compact graphite wireless mouse made with recycled plastic, with a metal MagSpeed scroll wheel (also sold in pink and white). Light oak desk, soft natural window light from the left, plain warm-white wall. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+    },
+    {
+      "n": 8,
+      "code": "P19C08",
+      "role": "caveat",
+      "narration_vi": "Đổi lại, giá khoảng một triệu năm trăm nghìn đồng. Ngoại hình như MX Anywhere 3, nâng cấp chính là click êm.",
+      "facts_used": [
+        "s10",
+        "s11"
+      ],
+      "camera": "dolly in",
+      "camera_reason": "tiến gần để nhấn vào điểm cần cân nhắc một cách thẳng thắn",
+      "first_frame": "seated at the desk, thoughtful expression, the Logitech MX Anywhere 3S held loosely in one hand",
+      "motion": "slow dolly in as he tilts his head slightly and raises his eyebrows while speaking",
+      "last_frame": "closer on his face, product lowered out of focus",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P19C08. Vertical 9:16, 8 seconds, photorealistic, medium close-up. First frame: seated at the desk, thoughtful expression, the Logitech MX Anywhere 3S held loosely in one hand. Motion: slow dolly in as he tilts his head slightly and raises his eyebrows while speaking. Last frame: closer on his face, product lowered out of focus. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Đổi lại, giá khoảng một triệu năm trăm nghìn đồng. Ngoại hình như MX Anywhere 3, nâng cấp chính là click êm.\" He is holding the Logitech MX Anywhere 3S loosely; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P19C08. Vertical 9:16, 8 seconds, photorealistic, close-up product shot. First frame: The mouse on the desk, softly lit. Motion: slow tilt up from the desk surface to the mouse. Last frame: mouse centered in a clean frame. Voice-over by the presenter, off-screen, in Vietnamese, natural friendly tone: \"Đổi lại, giá khoảng một triệu năm trăm nghìn đồng. Ngoại hình như MX Anywhere 3, nâng cấp chính là click êm.\" Product: exact product shown in the reference image, a compact graphite wireless mouse made with recycled plastic, with a metal MagSpeed scroll wheel (also sold in pink and white). Light oak desk, soft natural window light from the left, plain warm-white wall. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+    },
+    {
+      "n": 9,
+      "code": "P19C09",
+      "role": "fit",
+      "narration_vi": "Hợp với dân văn phòng, người hay đi công tác, làm việc trên laptop ở nhiều nơi.",
+      "facts_used": [
+        "s3"
+      ],
+      "camera": "dolly in",
+      "camera_reason": "lại gần như nói chuyện với đúng người cần sản phẩm này",
+      "first_frame": "leaning slightly forward at the desk, the Logitech MX Anywhere 3S beside him, open friendly posture",
+      "motion": "slow dolly in as he gestures with an open hand toward the camera",
+      "last_frame": "close on his smiling face, product visible at the edge",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P19C09. Vertical 9:16, 8 seconds, photorealistic, medium close-up. First frame: leaning slightly forward at the desk, the Logitech MX Anywhere 3S beside him, open friendly posture. Motion: slow dolly in as he gestures with an open hand toward the camera. Last frame: close on his smiling face, product visible at the edge. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Hợp với dân văn phòng, người hay đi công tác, làm việc trên laptop ở nhiều nơi.\" He is with the Logitech MX Anywhere 3S beside him; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P19C09. Vertical 9:16, 8 seconds, photorealistic, medium close-up. First frame: She sits centered, mouse on the desk by her hand. Motion: push in; she gestures toward the mouse. Last frame: closer framing, mouse in view. A Vietnamese woman in her late 20s with shoulder-length straight black hair and light side-swept bangs, warm light-brown skin, small gold stud earrings, natural makeup, wearing a plain white crew-neck t-shirt under a light beige overshirt, friendly confident expression, in a bright modern minimalist desk studio, light oak desk, soft natural window light from the left, plain warm-white wall, shallow depth of field. She says in Vietnamese, in a natural friendly tone: \"Hợp với dân văn phòng, người hay đi công tác, làm việc trên laptop ở nhiều nơi.\" Product: exact product shown in the reference image, a compact graphite wireless mouse. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+    },
+    {
+      "n": 10,
+      "code": "P19C10",
+      "role": "outro",
+      "narration_vi": "Lưu lại trước khi mua. Bạn đang dùng chuột loại nào khi làm việc ngoài văn phòng?",
+      "facts_used": [],
+      "camera": "pull back",
+      "camera_reason": "lùi ra khép lại video một cách thân thiện",
+      "first_frame": "seated at the desk, the Logitech MX Anywhere 3S on the table, bright smile toward the camera",
+      "motion": "slow pull back while he gives a small friendly wave at the end",
+      "last_frame": "wide on him and the desk with the product, warm and relaxed",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P19C10. Vertical 9:16, 8 seconds, photorealistic, medium shot. First frame: seated at the desk, the Logitech MX Anywhere 3S on the table, bright smile toward the camera. Motion: slow pull back while he gives a small friendly wave at the end. Last frame: wide on him and the desk with the product, warm and relaxed. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Lưu lại trước khi mua. Bạn đang dùng chuột loại nào khi làm việc ngoài văn phòng?\" He is with the Logitech MX Anywhere 3S on the desk; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P19C10. Vertical 9:16, 8 seconds, photorealistic, medium close-up. First frame: She sits close to camera, smiling. Motion: slow pull back; she waves. Last frame: wide studio view, she smiles. A Vietnamese woman in her late 20s with shoulder-length straight black hair and light side-swept bangs, warm light-brown skin, small gold stud earrings, natural makeup, wearing a plain white crew-neck t-shirt under a light beige overshirt, friendly confident expression, in a bright modern minimalist desk studio, light oak desk, soft natural window light from the left, plain warm-white wall, shallow depth of field. She says in Vietnamese, in a natural friendly tone: \"Lưu lại trước khi mua. Bạn đang dùng chuột loại nào khi làm việc ngoài văn phòng?\" Product: exact product shown in the reference image, a compact graphite wireless mouse. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+    }
+  ],
+  "onscreen_presenter": true
+}

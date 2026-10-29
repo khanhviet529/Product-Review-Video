@@ -1,0 +1,212 @@
+{
+  "product_id": "17",
+  "slug": "17_huawei-band-10",
+  "model": "Huawei Band 10 (viền nhựa, bản Đen)",
+  "presenter": "M",
+  "takeaway": "Cần vòng đeo mỏng nhẹ, pin cả tuần, giá dưới một triệu thì chọn Huawei Band 10; cần GPS riêng hoặc đo sức khỏe để chẩn đoán thì nên cân nhắc thiết bị khác.",
+  "target_seconds": 80,
+  "clips": [
+    {
+      "n": 1,
+      "code": "P17C01",
+      "role": "hook",
+      "narration_vi": "Cần vòng đeo mỏng nhẹ, pin cả tuần thì chọn Huawei Band 10. Cần GPS riêng thì nên cân nhắc loại khác.",
+      "facts_used": [
+        "s2",
+        "s6"
+      ],
+      "camera": "push in",
+      "camera_reason": "tiến vào người nói để mở đầu bằng câu trả lời ngắn",
+      "first_frame": "seated at the desk facing the camera, the Huawei Band 10 resting on the desk beside him, relaxed upright posture",
+      "motion": "slow push in toward his face as he starts speaking, he glances at the product then back to the lens",
+      "last_frame": "tighter on his face and shoulders, product still visible at the lower edge of the frame",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P17C01. Vertical 9:16, 8 seconds, photorealistic, medium close-up. First frame: seated at the desk facing the camera, the Huawei Band 10 resting on the desk beside him, relaxed upright posture. Motion: slow push in toward his face as he starts speaking, he glances at the product then back to the lens. Last frame: tighter on his face and shoulders, product still visible at the lower edge of the frame. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Cần vòng đeo mỏng nhẹ, pin cả tuần thì chọn Huawei Band 10. Cần GPS riêng thì nên cân nhắc loại khác.\" He is the Huawei Band 10 on the desk within reach; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P17C01. Vertical 9:16, 8 seconds, photorealistic, medium close-up. First frame: She sits centered, band held beside her face. Motion: slow push in; she nods and smiles. Last frame: tighter framing, band steady. A Vietnamese woman in her late 20s with shoulder-length straight black hair and light side-swept bangs, warm light-brown skin, small gold stud earrings, natural makeup, wearing a plain white crew-neck t-shirt under a light beige overshirt, friendly confident expression, in a bright modern minimalist desk studio, light oak desk, soft natural window light from the left, plain warm-white wall, shallow depth of field. She says in Vietnamese, in a natural friendly tone: \"Cần vòng đeo mỏng nhẹ, pin cả tuần thì chọn Huawei Band 10. Cần GPS riêng thì nên cân nhắc loại khác.\" Product: exact product shown in the reference image, a slim black rectangular smart band. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+    },
+    {
+      "n": 2,
+      "code": "P17C02",
+      "role": "feature",
+      "narration_vi": "Nặng khoảng mười bốn gam, dày chưa tới chín mi-li-mét. Đeo cả ngày lẫn lúc ngủ khá nhẹ cổ tay.",
+      "facts_used": [
+        "s4"
+      ],
+      "camera": "push in",
+      "camera_reason": "tiến vào đúng chi tiết sản phẩm đang nói đến",
+      "first_frame": "seated at the desk, one hand lifting the Huawei Band 10 toward the camera at chest height",
+      "motion": "slow push in on the product in his open palm while he keeps eye contact with the lens",
+      "last_frame": "product held close to the lens in sharp focus, his face softly blurred behind it",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P17C02. Vertical 9:16, 8 seconds, photorealistic, medium close-up. First frame: seated at the desk, one hand lifting the Huawei Band 10 toward the camera at chest height. Motion: slow push in on the product in his open palm while he keeps eye contact with the lens. Last frame: product held close to the lens in sharp focus, his face softly blurred behind it. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Nặng khoảng mười bốn gam, dày chưa tới chín mi-li-mét. Đeo cả ngày lẫn lúc ngủ khá nhẹ cổ tay.\" He is holding the Huawei Band 10 in his open palm; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P17C02. Vertical 9:16, 8 seconds, photorealistic, close-up product shot. First frame: The band lies on the oak desk, seen from the side, strap curved. Motion: slow macro push in along the slim edge; soft light slides over the frame. Last frame: close view of the thin side profile, sharp focus on the edge. Voice-over by the presenter, off-screen, in Vietnamese, natural friendly tone: \"Nặng khoảng mười bốn gam, dày chưa tới chín mi-li-mét. Đeo cả ngày lẫn lúc ngủ khá nhẹ cổ tay.\" Product: exact product shown in the reference image, a slim rectangular smart band with a rounded-corner 1.47-inch AMOLED screen, black plastic frame and black rubber strap. Light oak desk, soft natural window light from the left, plain warm-white wall. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+    },
+    {
+      "n": 3,
+      "code": "P17C03",
+      "role": "feature",
+      "narration_vi": "Màn hình AMOLED một phẩy bốn mươi bảy inch, đủ lớn để đọc thông báo và xem chỉ số trên cổ tay.",
+      "facts_used": [
+        "s1"
+      ],
+      "camera": "rack focus",
+      "camera_reason": "chuyển nét từ sản phẩm sang người nói để nối chi tiết với đánh giá",
+      "first_frame": "face and shoulders, one hand bringing the Huawei Band 10 up next to his cheek",
+      "motion": "rack focus from the product beside his cheek to his eyes, he turns slightly toward the lens",
+      "last_frame": "sharp on his face, product soft beside his cheek",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P17C03. Vertical 9:16, 8 seconds, photorealistic, close-up. First frame: face and shoulders, one hand bringing the Huawei Band 10 up next to his cheek. Motion: rack focus from the product beside his cheek to his eyes, he turns slightly toward the lens. Last frame: sharp on his face, product soft beside his cheek. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Màn hình AMOLED một phẩy bốn mươi bảy inch, đủ lớn để đọc thông báo và xem chỉ số trên cổ tay.\" He is showing the Huawei Band 10 beside his face; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P17C03. Vertical 9:16, 8 seconds, photorealistic, close-up product shot. First frame: The band face-up on the desk, screen dark, slightly angled. Motion: dolly in toward the screen; reflections glide across the glass. Last frame: screen fills most of the frame, edges softly blurred. Voice-over by the presenter, off-screen, in Vietnamese, natural friendly tone: \"Màn hình AMOLED một phẩy bốn mươi bảy inch, đủ lớn để đọc thông báo và xem chỉ số trên cổ tay.\" Product: exact product shown in the reference image, a slim rectangular smart band with a rounded-corner 1.47-inch AMOLED screen, black plastic frame and black rubber strap. Light oak desk, soft natural window light from the left, plain warm-white wall. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+    },
+    {
+      "n": 4,
+      "code": "P17C04",
+      "role": "feature",
+      "narration_vi": "Vòng đo nhịp tim, oxy trong máu, giấc ngủ. Hãng ghi số liệu chỉ để tham khảo, không dùng chẩn đoán.",
+      "facts_used": [
+        "s7"
+      ],
+      "camera": "dolly in",
+      "camera_reason": "lại gần dần để tạo cảm giác trò chuyện trực tiếp",
+      "first_frame": "seated at the desk, both hands holding the Huawei Band 10 at table height, looking down at it",
+      "motion": "he looks up at the camera mid-sentence while the camera does a slow dolly in",
+      "last_frame": "closer on his face with both hands and the product still in frame",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P17C04. Vertical 9:16, 8 seconds, photorealistic, medium shot. First frame: seated at the desk, both hands holding the Huawei Band 10 at table height, looking down at it. Motion: he looks up at the camera mid-sentence while the camera does a slow dolly in. Last frame: closer on his face with both hands and the product still in frame. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Vòng đo nhịp tim, oxy trong máu, giấc ngủ. Hãng ghi số liệu chỉ để tham khảo, không dùng chẩn đoán.\" He is turning the Huawei Band 10 in both hands; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P17C04. Vertical 9:16, 8 seconds, photorealistic, close-up product shot. First frame: A hand holds the band wrapped on a wrist, seen from the front. Motion: slow orbit around the wrist, revealing the sensor side of the band. Last frame: side-rear view of the band on the wrist, steady. Voice-over by the presenter, off-screen, in Vietnamese, natural friendly tone: \"Vòng đo nhịp tim, oxy trong máu, giấc ngủ. Hãng ghi số liệu chỉ để tham khảo, không dùng chẩn đoán.\" Product: exact product shown in the reference image, a slim rectangular smart band with a rounded-corner 1.47-inch AMOLED screen, black plastic frame and black rubber strap. Light oak desk, soft natural window light from the left, plain warm-white wall. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+    },
+    {
+      "n": 5,
+      "code": "P17C05",
+      "role": "feature",
+      "narration_vi": "Chống nước năm ATM, dùng được khi rửa tay và bơi nông. Tránh nước nóng và phòng xông hơi.",
+      "facts_used": [
+        "s5"
+      ],
+      "camera": "pan",
+      "camera_reason": "lia từ thiết bị sang người nói để cho thấy cách dùng thực tế",
+      "first_frame": "standing near the window, the Huawei Band 10 in one hand and a smartphone in the other",
+      "motion": "slow pan from the phone in his hand across to his face as he speaks",
+      "last_frame": "centred on his face, phone and product low in the frame",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P17C05. Vertical 9:16, 8 seconds, photorealistic, medium shot. First frame: standing near the window, the Huawei Band 10 in one hand and a smartphone in the other. Motion: slow pan from the phone in his hand across to his face as he speaks. Last frame: centred on his face, phone and product low in the frame. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Chống nước năm ATM, dùng được khi rửa tay và bơi nông. Tránh nước nóng và phòng xông hơi.\" He is holding the Huawei Band 10 and a phone; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P17C05. Vertical 9:16, 8 seconds, photorealistic, close-up product shot. First frame: The band on a wrist held over a sink, dry, tap in the background. Motion: push in as clear water runs over the band and beads off the screen. Last frame: wet band close up, droplets on the glass. Voice-over by the presenter, off-screen, in Vietnamese, natural friendly tone: \"Chống nước năm ATM, dùng được khi rửa tay và bơi nông. Tránh nước nóng và phòng xông hơi.\" Product: exact product shown in the reference image, a slim rectangular smart band with a rounded-corner 1.47-inch AMOLED screen, black plastic frame and black rubber strap. Light oak desk, soft natural window light from the left, plain warm-white wall. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+    },
+    {
+      "n": 6,
+      "code": "P17C06",
+      "role": "feature",
+      "narration_vi": "Sạc đầy mất khoảng bốn mươi lăm phút, sạc nhanh năm phút đủ dùng khoảng hai ngày.",
+      "facts_used": [
+        "s3"
+      ],
+      "camera": "pull back",
+      "camera_reason": "mở rộng khung hình để thấy quy mô sản phẩm so với người",
+      "first_frame": "seated at the desk, the Huawei Band 10 held out toward the camera at arm's length",
+      "motion": "he draws the product back toward himself as the camera pulls back to reveal the desk",
+      "last_frame": "wider shot of him at the desk, product held at chest height",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P17C06. Vertical 9:16, 8 seconds, photorealistic, medium close-up. First frame: seated at the desk, the Huawei Band 10 held out toward the camera at arm's length. Motion: he draws the product back toward himself as the camera pulls back to reveal the desk. Last frame: wider shot of him at the desk, product held at chest height. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Sạc đầy mất khoảng bốn mươi lăm phút, sạc nhanh năm phút đủ dùng khoảng hai ngày.\" He is pulling the Huawei Band 10 back from the lens; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P17C06. Vertical 9:16, 8 seconds, photorealistic, close-up product shot. First frame: The band beside a small magnetic charging cable on the desk. Motion: macro move: a hand brings the charger to the back of the band, it snaps on. Last frame: band attached to the charger, centered. Voice-over by the presenter, off-screen, in Vietnamese, natural friendly tone: \"Sạc đầy mất khoảng bốn mươi lăm phút, sạc nhanh năm phút đủ dùng khoảng hai ngày.\" Product: exact product shown in the reference image, a slim rectangular smart band with a rounded-corner 1.47-inch AMOLED screen, black plastic frame and black rubber strap. Light oak desk, soft natural window light from the left, plain warm-white wall. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+    },
+    {
+      "n": 7,
+      "code": "P17C07",
+      "role": "feature",
+      "narration_vi": "Pin khoảng tám ngày dùng bình thường. Bật màn hình luôn sáng thì còn khoảng ba ngày.",
+      "facts_used": [
+        "s2"
+      ],
+      "camera": "push in",
+      "camera_reason": "tiến vào đúng chi tiết sản phẩm đang nói đến",
+      "first_frame": "seated at the desk, one hand lifting the Huawei Band 10 toward the camera at chest height",
+      "motion": "slow push in on the product in his open palm while he keeps eye contact with the lens",
+      "last_frame": "product held close to the lens in sharp focus, his face softly blurred behind it",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P17C07. Vertical 9:16, 8 seconds, photorealistic, medium close-up. First frame: seated at the desk, one hand lifting the Huawei Band 10 toward the camera at chest height. Motion: slow push in on the product in his open palm while he keeps eye contact with the lens. Last frame: product held close to the lens in sharp focus, his face softly blurred behind it. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Pin khoảng tám ngày dùng bình thường. Bật màn hình luôn sáng thì còn khoảng ba ngày.\" He is holding the Huawei Band 10 in his open palm; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P17C07. Vertical 9:16, 8 seconds, photorealistic, close-up product shot. First frame: Macro of the band's screen on a wrist. Motion: pull back to reveal a person typing at the desk, the band on the wrist. Last frame: wide desk scene, band visible on the wrist. Voice-over by the presenter, off-screen, in Vietnamese, natural friendly tone: \"Pin khoảng tám ngày dùng bình thường. Bật màn hình luôn sáng thì còn khoảng ba ngày.\" Product: exact product shown in the reference image, a slim rectangular smart band with a rounded-corner 1.47-inch AMOLED screen, black plastic frame and black rubber strap. Light oak desk, soft natural window light from the left, plain warm-white wall. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+    },
+    {
+      "n": 8,
+      "code": "P17C08",
+      "role": "caveat",
+      "narration_vi": "Đổi lại, vòng không có GPS riêng. Muốn có lộ trình khi chạy bộ thì phải mang theo điện thoại.",
+      "facts_used": [
+        "s6"
+      ],
+      "camera": "dolly in",
+      "camera_reason": "tiến gần để nhấn vào điểm cần cân nhắc một cách thẳng thắn",
+      "first_frame": "seated at the desk, thoughtful expression, the Huawei Band 10 held loosely in one hand",
+      "motion": "slow dolly in as he tilts his head slightly and raises his eyebrows while speaking",
+      "last_frame": "closer on his face, product lowered out of focus",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P17C08. Vertical 9:16, 8 seconds, photorealistic, medium close-up. First frame: seated at the desk, thoughtful expression, the Huawei Band 10 held loosely in one hand. Motion: slow dolly in as he tilts his head slightly and raises his eyebrows while speaking. Last frame: closer on his face, product lowered out of focus. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Đổi lại, vòng không có GPS riêng. Muốn có lộ trình khi chạy bộ thì phải mang theo điện thoại.\" He is holding the Huawei Band 10 loosely; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P17C08. Vertical 9:16, 8 seconds, photorealistic, close-up product shot. First frame: The band and a smartphone side by side on the desk. Motion: slow tilt from the band to the smartphone beside it. Last frame: the smartphone centered, band softly out of focus. Voice-over by the presenter, off-screen, in Vietnamese, natural friendly tone: \"Đổi lại, vòng không có GPS riêng. Muốn có lộ trình khi chạy bộ thì phải mang theo điện thoại.\" Product: exact product shown in the reference image, a slim rectangular smart band with a rounded-corner 1.47-inch AMOLED screen, black plastic frame and black rubber strap. Light oak desk, soft natural window light from the left, plain warm-white wall. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+    },
+    {
+      "n": 9,
+      "code": "P17C09",
+      "role": "fit",
+      "narration_vi": "Hợp với người cần theo dõi sức khỏe, dùng Android lẫn iPhone, ngân sách dưới một triệu đồng.",
+      "facts_used": [
+        "s7",
+        "s8",
+        "s9"
+      ],
+      "camera": "dolly in",
+      "camera_reason": "lại gần như nói chuyện với đúng người cần sản phẩm này",
+      "first_frame": "leaning slightly forward at the desk, the Huawei Band 10 beside him, open friendly posture",
+      "motion": "slow dolly in as he gestures with an open hand toward the camera",
+      "last_frame": "close on his smiling face, product visible at the edge",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P17C09. Vertical 9:16, 8 seconds, photorealistic, medium close-up. First frame: leaning slightly forward at the desk, the Huawei Band 10 beside him, open friendly posture. Motion: slow dolly in as he gestures with an open hand toward the camera. Last frame: close on his smiling face, product visible at the edge. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Hợp với người cần theo dõi sức khỏe, dùng Android lẫn iPhone, ngân sách dưới một triệu đồng.\" He is with the Huawei Band 10 beside him; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P17C09. Vertical 9:16, 8 seconds, photorealistic, medium close-up. First frame: She sits centered, band on her wrist. Motion: push in; she raises her wrist. Last frame: closer framing, wrist and band visible. A Vietnamese woman in her late 20s with shoulder-length straight black hair and light side-swept bangs, warm light-brown skin, small gold stud earrings, natural makeup, wearing a plain white crew-neck t-shirt under a light beige overshirt, friendly confident expression, in a bright modern minimalist desk studio, light oak desk, soft natural window light from the left, plain warm-white wall, shallow depth of field. She says in Vietnamese, in a natural friendly tone: \"Hợp với người cần theo dõi sức khỏe, dùng Android lẫn iPhone, ngân sách dưới một triệu đồng.\" Product: exact product shown in the reference image, a slim black rectangular smart band. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+    },
+    {
+      "n": 10,
+      "code": "P17C10",
+      "role": "outro",
+      "narration_vi": "Lưu lại trước khi mua. Bạn đang đeo vòng hay đồng hồ, và bạn cần nhất tính năng nào?",
+      "facts_used": [],
+      "camera": "pull back",
+      "camera_reason": "lùi ra khép lại video một cách thân thiện",
+      "first_frame": "seated at the desk, the Huawei Band 10 on the table, bright smile toward the camera",
+      "motion": "slow pull back while he gives a small friendly wave at the end",
+      "last_frame": "wide on him and the desk with the product, warm and relaxed",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P17C10. Vertical 9:16, 8 seconds, photorealistic, medium shot. First frame: seated at the desk, the Huawei Band 10 on the table, bright smile toward the camera. Motion: slow pull back while he gives a small friendly wave at the end. Last frame: wide on him and the desk with the product, warm and relaxed. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Lưu lại trước khi mua. Bạn đang đeo vòng hay đồng hồ, và bạn cần nhất tính năng nào?\" He is with the Huawei Band 10 on the desk; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P17C10. Vertical 9:16, 8 seconds, photorealistic, medium close-up. First frame: She sits close to camera, smiling. Motion: slow pull back; she waves. Last frame: wide studio view, she smiles. A Vietnamese woman in her late 20s with shoulder-length straight black hair and light side-swept bangs, warm light-brown skin, small gold stud earrings, natural makeup, wearing a plain white crew-neck t-shirt under a light beige overshirt, friendly confident expression, in a bright modern minimalist desk studio, light oak desk, soft natural window light from the left, plain warm-white wall, shallow depth of field. She says in Vietnamese, in a natural friendly tone: \"Lưu lại trước khi mua. Bạn đang đeo vòng hay đồng hồ, và bạn cần nhất tính năng nào?\" Product: exact product shown in the reference image, a slim black rectangular smart band. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+    }
+  ],
+  "onscreen_presenter": true
+}

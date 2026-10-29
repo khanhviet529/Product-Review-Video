@@ -1,0 +1,82 @@
+[
+  {
+    "file": "product_main.jpg",
+    "url": "https://www.baseus.com/cdn/shop/files/Baseus_Gan5_Pro_3_Ports_Fast_Charger_65W_1_1200x.jpg?v=1743588717",
+    "page": "https://www.baseus.com/products/gan5-pro-3-ports-fast-charger-65w",
+    "kind": "product_main",
+    "width": 1200,
+    "height": 1200
+  },
+  {
+    "file": "product_angle_1.jpg",
+    "url": "https://www.baseus.com/cdn/shop/files/Baseus_Gan5_Pro_3_Ports_Fast_Charger_65W_2_e7fd92fe-0f0b-4ce7-ae10-968cbf6ec2ef_1200x.jpg?v=1743588755",
+    "page": "https://www.baseus.com/products/gan5-pro-3-ports-fast-charger-65w",
+    "kind": "product_angle",
+    "width": 1200,
+    "height": 1200
+  },
+  {
+    "file": "product_main_2.jpg",
+    "url": "https://bizweb.dktcdn.net/100/461/377/products/coc-sac-nhanh-baseus-gan5-pro-quick-charger-65w.jpg?v=1686302740550",
+    "page": "https://dgastore.vn/sac-nhanh-baseus-65w-gan5-pro-quick-charger",
+    "kind": "product_main",
+    "width": 2071,
+    "height": 2071
+  },
+  {
+    "file": "product_angle_2.jpg",
+    "url": "https://product.hstatic.net/200000567141/product/1_4_c03c85469d7340d4a2f5e7f6d6069cd8_01ab40af4ae249528f12de4aea4603b1_master.jpg",
+    "page": "https://promax.vn/products/bo-combo-sac-nhanh-baseus-gan5-pro-quick-charger-65w",
+    "kind": "product_angle",
+    "width": 800,
+    "height": 800
+  },
+  {
+    "file": "product_angle_3.jpg",
+    "url": "https://www.baseus.com/cdn/shop/files/Baseus_Gan5_Pro_3_Ports_Fast_Charger_65W_1_1200x1200_crop_center.jpg?v=1743588717",
+    "page": "https://www.baseus.com/products/gan5-pro-3-ports-fast-charger-65w",
+    "kind": "product_angle",
+    "width": 1200,
+    "height": 1200
+  },
+  {
+    "file": "product_angle_4.jpg",
+    "url": "https://www.baseus.com/cdn/shop/files/Baseus_Gan5_Pro_3_Ports_Fast_Charger_65W_1.jpg?v=1743588717&width=1024",
+    "page": "https://www.baseus.com/products/gan5-pro-3-ports-fast-charger-65w",
+    "kind": "product_angle",
+    "width": 1024,
+    "height": 1024
+  },
+  {
+    "file": "product_angle_5.jpg",
+    "url": "https://cdn.shopifycdn.net/s/files/1/0555/8432/5709/files/20230807-104158.png?v=1691377069",
+    "page": "https://www.baseus.com/products/gan5-pro-3-ports-fast-charger-65w",
+    "kind": "product_angle",
+    "width": 1918,
+    "height": 1920
+  },
+  {
+    "file": "product_angle_6.jpg",
+    "url": "https://cdn.shopifycdn.net/s/files/1/0555/8432/5709/files/20230807-104203.png?v=1691377075",
+    "page": "https://www.baseus.com/products/gan5-pro-3-ports-fast-charger-65w",
+    "kind": "product_angle",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "file": "product_angle_7.jpg",
+    "url": "https://cdn.shopify.com/s/files/1/0555/8432/5709/files/img_v2_31d5d87e-814d-4d54-b14c-d23980802ffg.png?v=1691396154",
+    "page": "https://www.baseus.com/products/gan5-pro-3-ports-fast-charger-65w",
+    "kind": "product_angle",
+    "width": 2048,
+    "height": 2048
+  },
+  {
+    "file": "product_angle_8.jpg",
+    "url": "https://bizweb.dktcdn.net/thumb/grande/100/461/377/products/coc-sac-nhanh-baseus-gan5-pro-quick-charger-65w.jpg?v=1686302740550",
+    "page": "https://dgastore.vn/sac-nhanh-baseus-65w-gan5-pro-quick-charger",
+    "kind": "product_angle",
+    "width": 600,
+    "height": 600
+  }
+]

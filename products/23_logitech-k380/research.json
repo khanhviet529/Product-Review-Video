@@ -1,0 +1,222 @@
+{
+  "id": "23",
+  "slug": "23_logitech-k380",
+  "status": "mot_phan",
+  "chosen_model": "Logitech K380 Multi-Device Bluetooth Keyboard (mã 920-007582 trên trang Logitech Việt Nam; mã khác theo màu)",
+  "alternatives_rejected": [
+    {
+      "model": "Logitech Pebble Keys 2 K380s",
+      "reason": "Mẫu mới hơn; TGDD gọi sản phẩm là 'K380s' nhưng thông số (2 pin AAA, 423 g, Bluetooth, 79 phím) trùng K380, không tìm được thông số chính hãng để phân biệt, nên bám ứng viên K380."
+    }
+  ],
+  "official_page": "https://www.logitech.com/vi-vn/products/keyboards/k380-multi-device-bluetooth-keyboard.920-007582.html",
+  "price_vnd": {
+    "low": 730000,
+    "high": 750000,
+    "as_of": "2026-10-22",
+    "sources": [
+      "src3",
+      "src4"
+    ],
+    "confidence": "vua",
+    "note": "TGDD 730.000 đồng (giá gạch 970.000, trang ghi tên K380s); CellphoneS 750.000 đồng nhưng đang tạm hết hàng; 2026-10-22."
+  },
+  "specs": [
+    {
+      "id": "s1",
+      "key": "Kết nối",
+      "value_vi": "Bluetooth Classic 3.0, ghép tối đa 3 thiết bị, chuyển bằng phím Easy-Switch; phạm vi 10 m",
+      "condition": "",
+      "source": "src1",
+      "confidence": "cao"
+    },
+    {
+      "id": "s2",
+      "key": "Hệ điều hành",
+      "value_vi": "Windows, macOS, ChromeOS, Android, iOS và Apple TV",
+      "condition": "",
+      "source": "src1",
+      "confidence": "cao"
+    },
+    {
+      "id": "s3",
+      "key": "Pin",
+      "value_vi": "2 pin AAA lắp sẵn, ước tính 24 tháng",
+      "condition": "Ước tính của hãng, phụ thuộc mức dùng",
+      "source": "src1",
+      "confidence": "cao"
+    },
+    {
+      "id": "s4",
+      "key": "Kích thước, trọng lượng",
+      "value_vi": "279 x 124 x 16 mm, 423 g (gồm pin)",
+      "condition": "",
+      "source": "src1",
+      "confidence": "cao"
+    },
+    {
+      "id": "s5",
+      "key": "Đèn nền",
+      "value_vi": "Không có",
+      "condition": "",
+      "source": "src2",
+      "confidence": "cao"
+    },
+    {
+      "id": "s6",
+      "key": "Cảm giác gõ",
+      "value_vi": "Gõ nhẹ, ít ồn, không gây mỏi khi gõ dài",
+      "condition": "RTINGS, dùng văn phòng",
+      "source": "src2",
+      "confidence": "cao"
+    },
+    {
+      "id": "s7",
+      "key": "Tùy biến",
+      "value_vi": "Chỉ gán lại được một số phím chức năng theo danh sách có sẵn; Logi Options+ trên Windows và macOS",
+      "condition": "",
+      "source": "src2",
+      "confidence": "cao"
+    },
+    {
+      "id": "s8",
+      "key": "Keycap",
+      "value_vi": "Nhựa ABS, một số người thấy hơi rẻ tiền",
+      "condition": "RTINGS",
+      "source": "src2",
+      "confidence": "vua"
+    },
+    {
+      "id": "s9",
+      "key": "Bố cục",
+      "value_vi": "Compact, không có cụm phím số; vài phím điều hướng khó bấm",
+      "condition": "Android Police 2015, qua tóm tắt tìm kiếm",
+      "source": "src5",
+      "confidence": "thap"
+    },
+    {
+      "id": "s10",
+      "key": "Giá",
+      "value_vi": "730.000 đến 750.000 đồng",
+      "condition": "TGDD 730.000 (tên K380s); CellphoneS 750.000 tạm hết hàng",
+      "source": "src3",
+      "confidence": "vua"
+    },
+    {
+      "id": "s11",
+      "key": "Số phím",
+      "value_vi": "79 phím, nhựa, không đèn LED",
+      "condition": "TGDD (tên K380s)",
+      "source": "src3",
+      "confidence": "vua"
+    }
+  ],
+  "strengths": [
+    {
+      "text": "Ghép ba thiết bị Bluetooth, chuyển nhanh bằng Easy-Switch",
+      "source": "src1"
+    },
+    {
+      "text": "Chạy Windows, macOS, ChromeOS, Android, iOS",
+      "source": "src1"
+    },
+    {
+      "text": "Mỏng 16 mm, nặng 423 g, pin AAA ước tính 24 tháng",
+      "source": "src1"
+    },
+    {
+      "text": "Gõ nhẹ, êm, không mỏi khi gõ dài (RTINGS)",
+      "source": "src2"
+    }
+  ],
+  "caveats": [
+    {
+      "text": "Không có đèn nền",
+      "source": "src2"
+    },
+    {
+      "text": "Chỉ gán lại được một số phím chức năng, ít tùy biến phần mềm",
+      "source": "src2"
+    },
+    {
+      "text": "Keycap ABS, nhiều người thấy cảm giác hơi rẻ",
+      "source": "src2"
+    },
+    {
+      "text": "Bố cục gọn nên không có cụm số",
+      "source": "src3"
+    }
+  ],
+  "sources": [
+    {
+      "id": "src1",
+      "url": "https://www.logitech.com/vi-vn/products/keyboards/k380-multi-device-bluetooth-keyboard.920-007582.html",
+      "title": "Logitech Việt Nam: Bàn phím không dây Bluetooth K380",
+      "type": "chinh_hang"
+    },
+    {
+      "id": "src2",
+      "url": "https://www.rtings.com/keyboard/reviews/logitech/k380",
+      "title": "RTINGS: Logitech K380 review",
+      "type": "danh_gia"
+    },
+    {
+      "id": "src3",
+      "url": "https://www.thegioididong.com/ban-phim/ban-phim-bluetooth-logitech-k380s",
+      "title": "Thế Giới Di Động: Bàn phím Bluetooth Logitech K380s",
+      "type": "cua_hang"
+    },
+    {
+      "id": "src4",
+      "url": "https://cellphones.com.vn/ban-phim-bluetooth-logitech-k380.html",
+      "title": "CellphoneS: Bàn phím Bluetooth Logitech K380",
+      "type": "cua_hang"
+    },
+    {
+      "id": "src5",
+      "url": "https://www.androidpolice.com/2015/10/28/logitech-k380-keyboard-review-one-keyboard-to-rule-them-all-at-least-in-theory/",
+      "title": "Android Police: Logitech K380 keyboard review (2015, chỉ đọc qua tóm tắt tìm kiếm)",
+      "type": "danh_gia"
+    }
+  ],
+  "unverified": [
+    "Giá TGDD hiển thị cho trang tên 'K380s' (thông số trùng K380), CellphoneS ghi K380 đang tạm hết hàng; chưa xác nhận hàng K380 gốc còn bán ổn định ở mọi cửa hàng.",
+    "Bố cục thiếu phím điều hướng lấy từ bài 2015 qua tóm tắt tìm kiếm (thap), không dùng làm số liệu trong lời đọc.",
+    "Điều kiện '2 triệu lần gõ mỗi năm' của số liệu pin chỉ thấy trong tóm tắt tìm kiếm của trang bán lẻ, trang Logitech Việt Nam ghi 24 tháng.",
+    "Độ trễ phím: RTINGS ghi độ trễ click khá cao, chưa có số đo cụ thể nên không dùng."
+  ],
+  "product_visual_description": "A slim compact wireless keyboard with a flat rounded-rectangle body and round keycaps in matching tones (sand/greige shown), three Bluetooth channel keys on the top left and a small logo above the keys; also sold in lavender, white, pink, blue and graphite.",
+  "ref_image_candidates": [
+    {
+      "url": "https://resource.logitech.com/content/dam/logitech/en/products/keyboards/multi-keyboard-k380/gallery/k380-sand-gallery-1-us.png",
+      "page": "https://www.logitech.com/vi-vn/products/keyboards/k380-multi-device-bluetooth-keyboard.920-007582.html",
+      "kind": "product_main"
+    },
+    {
+      "url": "https://resource.logitech.com/content/dam/logitech/en/products/keyboards/multi-keyboard-k380/gallery/k380-lavender-gallery-2-us.png",
+      "page": "https://www.logitech.com/vi-vn/products/keyboards/k380-multi-device-bluetooth-keyboard.920-007582.html",
+      "kind": "product_angle"
+    },
+    {
+      "url": "https://resource.logitech.com/content/dam/logitech/en/products/keyboards/multi-keyboard-k380/gallery/k380-sand-gallery-3.png",
+      "page": "https://www.logitech.com/vi-vn/products/keyboards/k380-multi-device-bluetooth-keyboard.920-007582.html",
+      "kind": "product_angle"
+    },
+    {
+      "url": "https://resource.logitech.com/content/dam/logitech/en/products/keyboards/multi-keyboard-k380/k380-type-on-anything-lavender.jpg",
+      "page": "https://www.logitech.com/vi-vn/products/keyboards/k380-multi-device-bluetooth-keyboard.920-007582.html",
+      "kind": "in_use"
+    },
+    {
+      "url": "https://resource.logitech.com/content/dam/logitech/en/products/keyboards/multi-keyboard-k380/k380-full-setup-lavender.jpg",
+      "page": "https://www.logitech.com/vi-vn/products/keyboards/k380-multi-device-bluetooth-keyboard.920-007582.html",
+      "kind": "in_use"
+    }
+  ],
+  "takeaway": "Cần bàn phím mỏng, ghép nhiều thiết bị, pin AAA bền thì Logitech K380 hợp; cần đèn nền, phím cơ hoặc nhiều tùy biến thì nên cân nhắc loại khác.",
+  "buyer_personas": [
+    "Người dùng laptop, máy tính bảng và điện thoại cùng lúc",
+    "Người hay làm việc ở quán cà phê, thường xuyên mang theo",
+    "Người thích bàn phím êm, yên tĩnh"
+  ]
+}

@@ -1,0 +1,82 @@
+[
+  {
+    "file": "product_main.jpg",
+    "url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/r/o/router-wifi-6-mercusys-mr80x-ax3000_1_.png",
+    "page": "https://cellphones.com.vn/router-wifi-6-mercusys-mr80x-ax3000.html",
+    "kind": "product_main",
+    "width": 1200,
+    "height": 1200
+  },
+  {
+    "file": "product_angle_1.jpg",
+    "url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/r/o/router-wifi-6-mercusys-mr80x-ax3000_2_.png",
+    "page": "https://cellphones.com.vn/router-wifi-6-mercusys-mr80x-ax3000.html",
+    "kind": "product_angle",
+    "width": 1200,
+    "height": 1200
+  },
+  {
+    "file": "product_angle_2.jpg",
+    "url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/r/o/router-wifi-6-mercusys-mr80x-ax3000_3_.png",
+    "page": "https://cellphones.com.vn/router-wifi-6-mercusys-mr80x-ax3000.html",
+    "kind": "product_angle",
+    "width": 1200,
+    "height": 1200
+  },
+  {
+    "file": "product_main_2.jpg",
+    "url": "https://static.mercusys.com/product-image/MR80X_EU_2.0_01_large20220222075956.jpg",
+    "page": "https://www.mercusys.com/en/product/details/mr80x",
+    "kind": "product_main",
+    "width": 1000,
+    "height": 1000
+  },
+  {
+    "file": "product_angle_3.jpg",
+    "url": "https://static.mercusys.com/product-image/MR80X_EU_2.0_02_large20220222080022.jpg",
+    "page": "https://www.mercusys.com/en/product/details/mr80x",
+    "kind": "product_angle",
+    "width": 1000,
+    "height": 1000
+  },
+  {
+    "file": "product_main_3.jpg",
+    "url": "https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/4727/360322/router-wifi-chuan-wifi-6-ax3000-mercusys-mr80x-1-639017410598222346.jpg",
+    "page": "https://www.thegioididong.com/thiet-bi-mang/router-wifi-chuan-wifi-6-ax3000-mercusys-mr80x",
+    "kind": "product_main",
+    "width": 1020,
+    "height": 680
+  },
+  {
+    "file": "product_angle_4.jpg",
+    "url": "https://static.mercusys.com/product-image/MR80X_EU_2.0_01_normal20220222075957.jpg",
+    "page": "https://www.mercusys.com/en/product/details/mr80x",
+    "kind": "product_angle",
+    "width": 590,
+    "height": 590
+  },
+  {
+    "file": "product_angle_5.jpg",
+    "url": "https://static.mercusys.com/product-image/MR80X_EU_2.0_02_normal20220222080022.jpg",
+    "page": "https://www.mercusys.com/en/product/details/mr80x",
+    "kind": "product_angle",
+    "width": 590,
+    "height": 590
+  },
+  {
+    "file": "product_angle_6.jpg",
+    "url": "https://static.mercusys.com/product-image/MR80X_EU_2.0_03_normal20220222080041.jpg",
+    "page": "https://www.mercusys.com/en/product/details/mr80x",
+    "kind": "product_angle",
+    "width": 590,
+    "height": 590
+  },
+  {
+    "file": "product_angle_7.jpg",
+    "url": "https://static.mercusys.com/product-image/03_normal20251209061908.jpg",
+    "page": "https://www.mercusys.com/en/product/details/mr80x",
+    "kind": "product_angle",
+    "width": 590,
+    "height": 590
+  }
+]

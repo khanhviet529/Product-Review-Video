@@ -1,0 +1,220 @@
+{
+  "id": "08",
+  "slug": "08_ugreen-nexode-power-bank",
+  "status": "mot_phan",
+  "chosen_model": "Ugreen Nexode Power Bank 20000mAh 130W PB721 (2 USB-C + 1 USB-A, màn hình số)",
+  "alternatives_rejected": [
+    {
+      "model": "Ugreen Nexode 25000mAh 200W",
+      "reason": "Chỉ tìm thấy nguồn quốc tế, không xác nhận được trang bán tại Việt Nam."
+    }
+  ],
+  "official_page": "https://ugreen.vn/pin-du-phong-20000mah-ugreen-pb721-2c1a-130w",
+  "price_vnd": {
+    "low": 1290000,
+    "high": 1690000,
+    "as_of": "2026-10-22",
+    "sources": [
+      "src1",
+      "src2"
+    ],
+    "confidence": "vua"
+  },
+  "specs": [
+    {
+      "id": "s1",
+      "key": "Dung lượng",
+      "value_vi": "20000mAh (4 cell x 5000mAh), năng lượng 72Wh",
+      "condition": "Con số nhãn",
+      "source": "src2",
+      "confidence": "cao"
+    },
+    {
+      "id": "s2",
+      "key": "Dung lượng định mức",
+      "value_vi": "11000mAh (5V/6A)",
+      "condition": "",
+      "source": "src2",
+      "confidence": "cao"
+    },
+    {
+      "id": "s3",
+      "key": "Công suất ra",
+      "value_vi": "USB-C1 tối đa 100W, USB-C2 tối đa 30W, USB-A tối đa 22,5W; dùng cả USB-C1 và USB-C2 cùng lúc tối đa 130W",
+      "condition": "130W chỉ khi dùng hai cổng USB-C cùng lúc, chia giữa hai thiết bị",
+      "source": "src2",
+      "confidence": "cao"
+    },
+    {
+      "id": "s4",
+      "key": "Sạc vào",
+      "value_vi": "Tối đa 65W qua USB-C1",
+      "condition": "",
+      "source": "src2",
+      "confidence": "cao"
+    },
+    {
+      "id": "s5",
+      "key": "Thời gian nạp đầy",
+      "value_vi": "Khoảng 3 - 4 giờ",
+      "condition": "Dùng củ sạc 65W, theo Thế Giới Di Động",
+      "source": "src1",
+      "confidence": "vua"
+    },
+    {
+      "id": "s6",
+      "key": "Màn hình",
+      "value_vi": "Màn hình số hiển thị mức pin, điện áp, dòng điện và công suất từng cổng",
+      "condition": "",
+      "source": "src2",
+      "confidence": "cao"
+    },
+    {
+      "id": "s7",
+      "key": "Khối lượng",
+      "value_vi": "480g",
+      "condition": "Thế Giới Di Động và ugreen.vn cùng ghi 480g",
+      "source": "src1",
+      "confidence": "cao"
+    },
+    {
+      "id": "s8",
+      "key": "Phụ kiện",
+      "value_vi": "Kèm cáp sạc Type C 100W",
+      "condition": "Theo Thế Giới Di Động",
+      "source": "src1",
+      "confidence": "vua"
+    },
+    {
+      "id": "s9",
+      "key": "Giá",
+      "value_vi": "Khoảng 1.290.000 - 1.690.000 đồng",
+      "condition": "Ngày 2026-10-22",
+      "source": "src1",
+      "confidence": "vua"
+    },
+    {
+      "id": "s10",
+      "key": "Bảo hành",
+      "value_vi": "18 tháng chính hãng (ugreen.vn)",
+      "condition": "",
+      "source": "src2",
+      "confidence": "cao"
+    },
+    {
+      "id": "s11",
+      "key": "Đánh giá người dùng",
+      "value_vi": "Trang Thế Giới Di Động: 99,6% đánh giá 5 sao trong khoảng 1,6 nghìn lượt; vài người báo máy hỏng sau vài tháng",
+      "condition": "Ảnh chụp đánh giá ngày 2026-10-22",
+      "source": "src1",
+      "confidence": "vua"
+    },
+    {
+      "id": "s12",
+      "key": "Cổng",
+      "value_vi": "2 USB-C + 1 USB-A",
+      "condition": "",
+      "source": "src2",
+      "confidence": "cao"
+    },
+    {
+      "id": "s13",
+      "key": "Kích thước",
+      "value_vi": "Hai nguồn ghi lệch (4,5 x 5,5 x 12,5 cm so với 5,1 x 2,1 x 2 inch)",
+      "condition": "",
+      "source": "src1",
+      "confidence": "thap"
+    }
+  ],
+  "strengths": [
+    {
+      "text": "Cổng USB-C1 ra tối đa 100W, đủ cho nhiều laptop sạc qua USB-C",
+      "source": "src2"
+    },
+    {
+      "text": "Hai cổng USB-C cùng lúc tối đa 130W, thêm cổng USB-A 22,5W",
+      "source": "src2"
+    },
+    {
+      "text": "Màn hình số hiển thị mức pin, điện áp, dòng điện và công suất từng cổng",
+      "source": "src2"
+    },
+    {
+      "text": "Sạc vào tối đa 65W, đầy khoảng 3 - 4 giờ với củ sạc 65W",
+      "source": "src1"
+    }
+  ],
+  "caveats": [
+    {
+      "text": "Nặng 480g, gần nửa ký",
+      "source": "src1"
+    },
+    {
+      "text": "130W chỉ đạt khi dùng hai cổng USB-C cùng lúc và chia giữa hai thiết bị; một cổng đơn tối đa 100W",
+      "source": "src2"
+    },
+    {
+      "text": "Một số người dùng trên Thế Giới Di Động báo máy hỏng sau vài tháng dù đa số đánh giá 5 sao",
+      "source": "src1"
+    },
+    {
+      "text": "Giá chênh khá nhiều giữa các nơi (1.290.000 - 1.690.000 đ)",
+      "source": "src2"
+    }
+  ],
+  "sources": [
+    {
+      "id": "src1",
+      "url": "https://www.thegioididong.com/sac-dtdd/pin-sac-du-phong-20000mah-type-c-pd-qc-3-0-130w-ugreen-pb721",
+      "title": "Pin sạc dự phòng 20000mAh Type C PD QC 3.0 130W Ugreen PB721 - Thế Giới Di Động (đọc 2026-10-22)",
+      "type": "cua_hang"
+    },
+    {
+      "id": "src2",
+      "url": "https://ugreen.vn/pin-du-phong-20000mah-ugreen-pb721-2c1a-130w",
+      "title": "Pin dự phòng 20000mAh UGREEN PB721 2C1A 130W - ugreen.vn (ZACOM, nhà phân phối chính hãng)",
+      "type": "cua_hang"
+    }
+  ],
+  "unverified": [
+    "Kích thước: hai nguồn ghi lệch nhau nên không dùng trong lời đọc.",
+    "Mang lên máy bay: 72Wh nhưng trang đã đọc không ghi chú về hàng không nên không nói trong video.",
+    "Đánh giá độc lập có đo (Notebookcheck, RTINGS...) cho đúng PB721: chưa tìm được; điểm mạnh và điểm cần cân nhắc dựa vào thông số trang bán và đánh giá người dùng Thế Giới Di Động.",
+    "Trang chính hãng ugreen.com/vi-vn bị giới hạn truy cập khi đọc, chưa đối chiếu được; thông số lấy từ ugreen.vn (nhà phân phối).",
+    "Mã model: một số trang ghi PB720 hoặc PB205; lấy PB721 theo Thế Giới Di Động và ugreen.vn.",
+    "Nhãn \"product_angle\" của các ảnh ngoài hai ảnh đầu chưa được xem từng ảnh."
+  ],
+  "product_visual_description": "a tall slim rectangular power bank in matte blue-gray metal finish, a large glossy black color display on the upper half of the front showing battery percentage and port wattage, UGREEN printed near the bottom, with one USB-A and two USB-C ports on the top end",
+  "ref_image_candidates": [
+    {
+      "url": "https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/57/331853/pin-sac-du-phong-20000mah-type-c-pd-qc-3-0-130w-ugreen-pb721-1-639102256922288182.jpg",
+      "page": "https://www.thegioididong.com/sac-dtdd/pin-sac-du-phong-20000mah-type-c-pd-qc-3-0-130w-ugreen-pb721",
+      "kind": "product_main"
+    },
+    {
+      "url": "https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/57/331853/pin-sac-du-phong-20000mah-type-c-pd-qc-3-0-130w-ugreen-pb721-2-639102256916198846.jpg",
+      "page": "https://www.thegioididong.com/sac-dtdd/pin-sac-du-phong-20000mah-type-c-pd-qc-3-0-130w-ugreen-pb721",
+      "kind": "product_angle"
+    },
+    {
+      "url": "https://ugreen.vn/wp-content/smush-webp/2024/08/PB721-1.jpg.webp",
+      "page": "https://ugreen.vn/pin-du-phong-20000mah-ugreen-pb721-2c1a-130w",
+      "kind": "product_main"
+    },
+    {
+      "url": "https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/57/331853/pin-sac-du-phong-20000mah-type-c-pd-qc-3-0-130w-ugreen-pb721-10-639102256856252083.jpg",
+      "page": "https://www.thegioididong.com/sac-dtdd/pin-sac-du-phong-20000mah-type-c-pd-qc-3-0-130w-ugreen-pb721",
+      "kind": "product_angle"
+    },
+    {
+      "url": "https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/57/331853/pin-sac-du-phong-20000mah-type-c-pd-qc-3-0-130w-ugreen-pb721-11-639102256847777132.jpg",
+      "page": "https://www.thegioididong.com/sac-dtdd/pin-sac-du-phong-20000mah-type-c-pd-qc-3-0-130w-ugreen-pb721",
+      "kind": "product_angle"
+    }
+  ],
+  "takeaway": "Cần một viên pin vừa sạc laptop qua USB-C vừa sạc điện thoại cùng lúc thì Ugreen Nexode PB721 đáng cân nhắc; cần pin nhẹ gọn hoặc muốn chắc về độ bền thì nên so thêm loại khác và giữ hóa đơn bảo hành.",
+  "buyer_personas": [
+    "Người đi công tác mang laptop và điện thoại",
+    "Người cần sạc hai thiết bị USB-C cùng lúc"
+  ]
+}

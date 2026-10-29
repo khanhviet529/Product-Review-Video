@@ -1,0 +1,172 @@
+{
+  "id": "39",
+  "slug": "39_den-ban-xiaomi",
+  "status": "mot_phan",
+  "chosen_model": "Xiaomi LED Desk Lamp 2 (đèn bàn thông minh, ra mắt 2025)",
+  "alternatives_rejected": [
+    {
+      "model": "Xiaomi Mi LED Desk Lamp 1S (MJTD01SYL)",
+      "reason": "Đời cũ hơn (ra mắt 2024 theo TGDD), giá 850.000 đồng; vẫn là lựa chọn rẻ hơn, 520 lm, Ra 90."
+    },
+    {
+      "model": "Baseus",
+      "reason": "Không tìm được model cụ thể có nguồn đã mở."
+    }
+  ],
+  "official_page": "https://www.dienmayxanh.com/den-thong-minh/den-ban-thong-minh-xiaomi-led-desk-lamp-2",
+  "price_vnd": {
+    "low": 1200000,
+    "high": 1590000,
+    "as_of": "2026-10-22",
+    "sources": [
+      "src1"
+    ],
+    "confidence": "vua"
+  },
+  "specs": [
+    {
+      "id": "s1",
+      "key": "Giá bán",
+      "value_vi": "1.200.000 đồng",
+      "condition": "Điện Máy Xanh, TP.HCM, 2026-10-22; 1S giá 850.000 đồng ở TGDD",
+      "source": "src1",
+      "confidence": "vua"
+    },
+    {
+      "id": "s2",
+      "key": "Đầu đèn",
+      "value_vi": "thanh ngang dài khoảng 60 cm, 112 LED, vùng sáng 120 x 60 cm",
+      "condition": "",
+      "source": "src1",
+      "confidence": "vua"
+    },
+    {
+      "id": "s3",
+      "key": "Chỉ số hoàn màu",
+      "value_vi": "CRI 95 Ra",
+      "condition": "",
+      "source": "src1",
+      "confidence": "cao"
+    },
+    {
+      "id": "s4",
+      "key": "Độ sáng và nhiệt độ màu",
+      "value_vi": "670 lumen; 2700K đến 5100K",
+      "condition": "",
+      "source": "src1",
+      "confidence": "cao"
+    },
+    {
+      "id": "s5",
+      "key": "An toàn ánh sáng xanh",
+      "value_vi": "RG0 (miễn rủi ro ánh sáng xanh); 6 chế độ; chỉnh cảm ứng trên thân đèn",
+      "condition": "",
+      "source": "src1",
+      "confidence": "cao"
+    },
+    {
+      "id": "s6",
+      "key": "Kết nối",
+      "value_vi": "Wi-Fi, ứng dụng Mi Home, giọng nói, hẹn giờ, đồng bộ thiết bị Xiaomi",
+      "condition": "Android và iOS",
+      "source": "src1",
+      "confidence": "cao"
+    },
+    {
+      "id": "s7",
+      "key": "Nguồn điện",
+      "value_vi": "cắm điện 12V 1A, công suất 10 W, không có pin",
+      "condition": "",
+      "source": "src1",
+      "confidence": "cao"
+    },
+    {
+      "id": "s8",
+      "key": "Đánh giá người mua",
+      "value_vi": "5/5 từ 219 lượt, không có nội dung chữ",
+      "condition": "chỉ số sao, không dùng trong lời đọc",
+      "source": "src1",
+      "confidence": "thap"
+    }
+  ],
+  "strengths": [
+    {
+      "text": "Hoàn màu CRI 95 Ra, 670 lumen, nhiệt độ màu 2700K đến 5100K",
+      "source": "src1"
+    },
+    {
+      "text": "Đầu đèn thanh ngang dài khoảng 60 cm, vùng sáng 120 x 60 cm",
+      "source": "src1"
+    },
+    {
+      "text": "RG0 về ánh sáng xanh, 6 chế độ, chỉnh cảm ứng",
+      "source": "src1"
+    },
+    {
+      "text": "Kết nối Wi-Fi, ứng dụng Mi Home và giọng nói, hẹn giờ",
+      "source": "src1"
+    }
+  ],
+  "caveats": [
+    {
+      "text": "Phải cắm điện, không có pin",
+      "source": "src1"
+    },
+    {
+      "text": "Giá 1.200.000 đồng, cao hơn đời 1S 850.000 đồng",
+      "source": "src2"
+    },
+    {
+      "text": "Chưa có đánh giá độc lập nào được mở để kiểm chứng độ bền (xem unverified)",
+      "source": "src1"
+    }
+  ],
+  "sources": [
+    {
+      "id": "src1",
+      "url": "https://www.dienmayxanh.com/den-thong-minh/den-ban-thong-minh-xiaomi-led-desk-lamp-2",
+      "title": "Đèn bàn thông minh Xiaomi LED Desk Lamp 2, Điện Máy Xanh",
+      "type": "cua_hang"
+    },
+    {
+      "id": "src2",
+      "url": "https://www.thegioididong.com/den-thong-minh/den-ban-thong-minh-xiaomi-mi-led-desk-lamp-1s",
+      "title": "Đèn bàn thông minh Xiaomi Mi LED Desk Lamp 1S, Thế Giới Di Động",
+      "type": "cua_hang"
+    }
+  ],
+  "unverified": [
+    "Không tìm được đánh giá độc lập hay phản hồi người dùng bằng chữ cho Desk Lamp 2: caveat chỉ dựa trên thông số, lời đọc nói rõ chưa có đánh giá độc lập.",
+    "Mã model theo vùng (có thể MJTD06YL) chỉ thấy trong kết quả tìm kiếm, chưa mở trang chính hãng (403).",
+    "Không có kích thước tổng thể, khối lượng, bảo hành cho Desk Lamp 2.",
+    "Tuyên bố không nhấp nháy là của nhà sản xuất qua trang bán, không dùng."
+  ],
+  "product_visual_description": "a white Xiaomi desk lamp with a wide horizontal bar-shaped lamp head about 60 cm long on a slim pole and a base, with touch controls on the body",
+  "ref_image_candidates": [
+    {
+      "url": "https://cdn.tgdd.vn/Products/Images/14099/359878/Slider/den-ban-thong-minh-xiaomi-led-desk-lamp-2-thumb-1920x1080.jpg",
+      "page": "https://www.dienmayxanh.com/den-thong-minh/den-ban-thong-minh-xiaomi-led-desk-lamp-2",
+      "kind": "product_main"
+    },
+    {
+      "url": "https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/7075/359878/den-ban-thong-minh-xiaomi-led-desk-lamp-2-trang-1-639023438560189863.jpg",
+      "page": "https://www.dienmayxanh.com/den-thong-minh/den-ban-thong-minh-xiaomi-led-desk-lamp-2",
+      "kind": "product_main"
+    },
+    {
+      "url": "https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/7075/359878/den-ban-thong-minh-xiaomi-led-desk-lamp-2-trang-2-639023438565989361.jpg",
+      "page": "https://www.dienmayxanh.com/den-thong-minh/den-ban-thong-minh-xiaomi-led-desk-lamp-2",
+      "kind": "product_angle"
+    },
+    {
+      "url": "https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/7075/359878/den-ban-thong-minh-xiaomi-led-desk-lamp-2-trang-3-639023438572311889.jpg",
+      "page": "https://www.dienmayxanh.com/den-thong-minh/den-ban-thong-minh-xiaomi-led-desk-lamp-2",
+      "kind": "product_angle"
+    }
+  ],
+  "takeaway": "Cần đèn bàn chiếu rộng, màu ánh sáng chỉnh được thì Desk Lamp 2 đáng xem; chỉ cần đèn đọc sách đơn giản thì có lựa chọn rẻ hơn.",
+  "buyer_personas": [
+    "Người ngồi bàn nhiều giờ, thích chỉnh màu ánh sáng",
+    "Người dùng sẵn hệ Xiaomi và ứng dụng Mi Home"
+  ]
+}

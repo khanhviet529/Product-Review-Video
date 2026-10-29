@@ -1,0 +1,74 @@
+[
+  {
+    "file": "product_main.jpg",
+    "url": "https://cdn2.fptshop.com.vn/unsafe/1920x0/filters:format(webp):quality(75)/lg_27u631a_b_den_01_8e30d5cc9a.png",
+    "page": "https://fptshop.com.vn/man-hinh/lg-27u631a-b27inchqhd2560x1440ips-100hz",
+    "kind": "product_main",
+    "width": 1920,
+    "height": 1920
+  },
+  {
+    "file": "product_angle_1.jpg",
+    "url": "https://cdn2.fptshop.com.vn/unsafe/1920x0/filters:format(webp):quality(75)/lg_27u631a_b27inchqhd2560x1440ips_100hz_3_291852dcaa.jpg",
+    "page": "https://fptshop.com.vn/man-hinh/lg-27u631a-b27inchqhd2560x1440ips-100hz",
+    "kind": "product_angle",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "file": "product_angle_2.jpg",
+    "url": "https://cdn2.fptshop.com.vn/unsafe/1920x0/filters:format(webp):quality(75)/lg_27u631a_b27inchqhd2560x1440ips_100hz_2_bdeaa9f44d.jpg",
+    "page": "https://fptshop.com.vn/man-hinh/lg-27u631a-b27inchqhd2560x1440ips-100hz",
+    "kind": "product_angle",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "file": "product_main_2.jpg",
+    "url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/m/_/m_n_h_nh_lg_27u631a-b_27_inch_-_1.png",
+    "page": "https://cellphones.com.vn/man-hinh-lg-27u631a-b-27-inch.html",
+    "kind": "product_main",
+    "width": 1234,
+    "height": 652
+  },
+  {
+    "file": "product_angle_3.jpg",
+    "url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/m/_/m_n_h_nh_lg_27u631a-b_27_inch_-_2.png",
+    "page": "https://cellphones.com.vn/man-hinh-lg-27u631a-b-27-inch.html",
+    "kind": "product_angle",
+    "width": 1234,
+    "height": 652
+  },
+  {
+    "file": "product_angle_4.jpg",
+    "url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/m/_/m_n_h_nh_lg_27u631a-b_27_inch_-_3.png",
+    "page": "https://cellphones.com.vn/man-hinh-lg-27u631a-b-27-inch.html",
+    "kind": "product_angle",
+    "width": 1234,
+    "height": 652
+  },
+  {
+    "file": "product_angle_5.jpg",
+    "url": "https://cdn2.fptshop.com.vn/unsafe/lg_27u631a_b_den_01_8e30d5cc9a.png",
+    "page": "https://fptshop.com.vn/man-hinh/lg-27u631a-b27inchqhd2560x1440ips-100hz",
+    "kind": "product_angle",
+    "width": 800,
+    "height": 800
+  },
+  {
+    "file": "product_angle_6.jpg",
+    "url": "https://cdn-files.hacom.vn/hacom/cdn/web/20082026/man-hinh-lg-27u631a-b-molg00025-1.jpg",
+    "page": "https://hacom.vn/man-hinh-lg-27u631a-b-molg00025",
+    "kind": "product_angle",
+    "width": 850,
+    "height": 850
+  },
+  {
+    "file": "product_angle_7.jpg",
+    "url": "https://hanoicomputercdn.com/media/product/53698_lg_27qn600__6_.png",
+    "page": "https://hacom.vn/man-hinh-lg-27qn600-b",
+    "kind": "product_angle",
+    "width": 850,
+    "height": 850
+  }
+]

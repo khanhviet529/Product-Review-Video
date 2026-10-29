@@ -1,0 +1,82 @@
+[
+  {
+    "file": "product_main.jpg",
+    "url": "https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/522/339204/xiaomi-redmi-pad-2-wifi-xam-1-638889722791105651.jpg",
+    "page": "https://www.thegioididong.com/may-tinh-bang/xiaomi-redmi-pad-2-wifi-4gb-128gb",
+    "kind": "product_main",
+    "width": 1020,
+    "height": 680
+  },
+  {
+    "file": "product_angle_1.jpg",
+    "url": "https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/522/339204/xiaomi-redmi-pad-2-wifi-xam-2-638889722797826792.jpg",
+    "page": "https://www.thegioididong.com/may-tinh-bang/xiaomi-redmi-pad-2-wifi-4gb-128gb",
+    "kind": "product_angle",
+    "width": 1020,
+    "height": 680
+  },
+  {
+    "file": "product_main_2.jpg",
+    "url": "https://cdn2.fptshop.com.vn/unsafe/1920x0/filters:format(webp):quality(75)/xiaomi_redmi_pad_2_1_0d8bce97f5.jpg",
+    "page": "https://fptshop.com.vn/may-tinh-bang/xiaomi-redmi-pad-2-4gb",
+    "kind": "product_main",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "file": "product_angle_2.jpg",
+    "url": "https://cdn2.fptshop.com.vn/unsafe/1920x0/filters:format(webp):quality(75)/xiaomi_redmi_pad_2_2_3bdacf4436.jpg",
+    "page": "https://fptshop.com.vn/may-tinh-bang/xiaomi-redmi-pad-2-4gb",
+    "kind": "product_angle",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "file": "product_angle_3.jpg",
+    "url": "https://cdn.tgdd.vn/Products/Images/522/339204/xiaomi-redmi-pad-2-gray-thumb.jpg",
+    "page": "https://www.thegioididong.com/may-tinh-bang/xiaomi-redmi-pad-2-wifi-4gb-128gb",
+    "kind": "product_angle",
+    "width": 600,
+    "height": 600
+  },
+  {
+    "file": "product_angle_4.jpg",
+    "url": "https://cdnv2.tgdd.vn/webmwg/2024/ContentMwg/images/default-tgdd.png",
+    "page": "https://www.thegioididong.com/may-tinh-bang/xiaomi-redmi-pad-2-wifi-4gb-128gb",
+    "kind": "product_angle",
+    "width": 1200,
+    "height": 628
+  },
+  {
+    "file": "product_angle_5.jpg",
+    "url": "https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/522/367604/xiaomi-redmi-pad-2-wifi-xam-1-639153158726595510.jpg",
+    "page": "https://www.thegioididong.com/may-tinh-bang/xiaomi-redmi-pad-2-wifi-4gb-128gb",
+    "kind": "product_angle",
+    "width": 1020,
+    "height": 680
+  },
+  {
+    "file": "product_angle_6.jpg",
+    "url": "https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/522/339206/xiaomi-redmi-pad-2-wifi-xanh-2-638889729494192862.jpg",
+    "page": "https://www.thegioididong.com/may-tinh-bang/xiaomi-redmi-pad-2-wifi-4gb-128gb",
+    "kind": "product_angle",
+    "width": 1020,
+    "height": 680
+  },
+  {
+    "file": "product_angle_7.jpg",
+    "url": "https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/522/339206/xiaomi-redmi-pad-2-wifi-tim-1-638889731274544187.jpg",
+    "page": "https://www.thegioididong.com/may-tinh-bang/xiaomi-redmi-pad-2-wifi-4gb-128gb",
+    "kind": "product_angle",
+    "width": 1020,
+    "height": 680
+  },
+  {
+    "file": "product_angle_8.jpg",
+    "url": "https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/522/367604/xiaomi-redmi-pad-2-wifi-tim-1-639153158928151932.jpg",
+    "page": "https://www.thegioididong.com/may-tinh-bang/xiaomi-redmi-pad-2-wifi-4gb-128gb",
+    "kind": "product_angle",
+    "width": 1020,
+    "height": 680
+  }
+]

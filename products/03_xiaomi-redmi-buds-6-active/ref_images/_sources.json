@@ -1,0 +1,82 @@
+[
+  {
+    "file": "product_main.jpg",
+    "url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/t/a/tai-nghe-bluetooth-xiaomi-redmi-buds-6-active_5_.png",
+    "page": "https://cellphones.com.vn/tai-nghe-bluetooth-xiaomi-redmi-buds-6-active.html",
+    "kind": "product_main",
+    "width": 1234,
+    "height": 652
+  },
+  {
+    "file": "product_main_2.jpg",
+    "url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/t/a/tai-nghe-bluetooth-xiaomi-redmi-buds-6-active_1_.png",
+    "page": "https://cellphones.com.vn/tai-nghe-bluetooth-xiaomi-redmi-buds-6-active.html",
+    "kind": "product_main",
+    "width": 600,
+    "height": 600
+  },
+  {
+    "file": "product_angle_1.jpg",
+    "url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/1/6/166_1_2.png",
+    "page": "https://cellphones.com.vn/tai-nghe-bluetooth-xiaomi-redmi-buds-6-active.html",
+    "kind": "product_angle",
+    "width": 2556,
+    "height": 2350
+  },
+  {
+    "file": "product_angle_2.jpg",
+    "url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/1/6/165_1_1.png",
+    "page": "https://cellphones.com.vn/tai-nghe-bluetooth-xiaomi-redmi-buds-6-active.html",
+    "kind": "product_angle",
+    "width": 2556,
+    "height": 2350
+  },
+  {
+    "file": "product_angle_3.jpg",
+    "url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/t/a/tai-nghe-bluetooth-xiaomi-redmi-buds-6-active_2_.png",
+    "page": "https://cellphones.com.vn/tai-nghe-bluetooth-xiaomi-redmi-buds-6-active.html",
+    "kind": "product_angle",
+    "width": 600,
+    "height": 600
+  },
+  {
+    "file": "product_angle_4.jpg",
+    "url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/1/7/170_1_2.png",
+    "page": "https://cellphones.com.vn/tai-nghe-bluetooth-xiaomi-redmi-buds-6-active.html",
+    "kind": "product_angle",
+    "width": 2556,
+    "height": 2350
+  },
+  {
+    "file": "product_angle_5.jpg",
+    "url": "https://i02.appmifile.com/472_item_vn/09/04/2025/313118ecc242f98fec7a1f8922b4e5df.png",
+    "page": "https://www.mi.com/vn/product/redmi-buds-6-active/",
+    "kind": "product_angle",
+    "width": 1600,
+    "height": 1600
+  },
+  {
+    "file": "product_angle_6.jpg",
+    "url": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-buds-6-active/pc/hongmilanyaerjibgpc.png?f=webp",
+    "page": "https://www.mi.com/vn/product/redmi-buds-6-active/",
+    "kind": "product_angle",
+    "width": 2560,
+    "height": 1350
+  },
+  {
+    "file": "product_angle_7.jpg",
+    "url": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-buds-6-active/pc/2b14b0e18cf653e07327588669532494.jpg?f=webp",
+    "page": "https://www.mi.com/vn/product/redmi-buds-6-active/",
+    "kind": "product_angle",
+    "width": 2560,
+    "height": 2902
+  },
+  {
+    "file": "product_angle_8.jpg",
+    "url": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-buds-6-active/pc/b05bdd3e736766d8278d7d19925fc061.png?f=webp",
+    "page": "https://www.mi.com/vn/product/redmi-buds-6-active/",
+    "kind": "product_angle",
+    "width": 1800,
+    "height": 717
+  }
+]

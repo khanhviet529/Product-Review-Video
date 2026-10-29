@@ -1,0 +1,222 @@
+{
+  "id": "24",
+  "slug": "24_jbl-go-4",
+  "status": "xac_minh",
+  "chosen_model": "JBL Go 4 (loa Bluetooth di động)",
+  "alternatives_rejected": [],
+  "official_page": "https://fptshop.com.vn/phu-kien/loa-bluetooth-jbl-go-4",
+  "price_vnd": {
+    "low": 1070000,
+    "high": 1070000,
+    "as_of": "2026-10-22",
+    "sources": [
+      "src1",
+      "src2",
+      "src3"
+    ],
+    "confidence": "vua",
+    "note": "FPT Shop, CellphoneS và Phúc Anh cùng niêm yết 1.070.000 đồng (giá gạch 1.290.000 ở FPT Shop), 2026-10-22."
+  },
+  "specs": [
+    {
+      "id": "s1",
+      "key": "Chống nước và bụi",
+      "value_vi": "IP67; ngâm tối đa 1 m trong 30 phút",
+      "condition": "Theo mô tả FPT Shop",
+      "source": "src1",
+      "confidence": "cao"
+    },
+    {
+      "id": "s2",
+      "key": "Thời lượng pin",
+      "value_vi": "Tối đa 7 giờ phát nhạc, tùy âm lượng và nội dung",
+      "condition": "Pin Li-ion 3,23 Wh (khoảng 850 mAh)",
+      "source": "src3",
+      "confidence": "cao"
+    },
+    {
+      "id": "s3",
+      "key": "Pin thực tế",
+      "value_vi": "Gần 7 giờ trong thử nghiệm",
+      "condition": "RTINGS và Tom's Guide đều ghi sát số hãng",
+      "source": "src5",
+      "confidence": "vua"
+    },
+    {
+      "id": "s4",
+      "key": "Playtime Boost",
+      "value_vi": "Kéo dài thêm khoảng 2 giờ, tổng đến 9 giờ",
+      "condition": "Theo mô tả CellphoneS, chưa kiểm chứng độc lập",
+      "source": "src2",
+      "confidence": "vua"
+    },
+    {
+      "id": "s5",
+      "key": "Kết nối",
+      "value_vi": "Bluetooth 5.3, sạc USB-C, có Auracast để ghép loa",
+      "condition": "",
+      "source": "src3",
+      "confidence": "cao"
+    },
+    {
+      "id": "s6",
+      "key": "Công suất",
+      "value_vi": "4,2 W RMS",
+      "condition": "",
+      "source": "src3",
+      "confidence": "cao"
+    },
+    {
+      "id": "s7",
+      "key": "Kích thước, trọng lượng",
+      "value_vi": "94,3 x 75,7 x 42,2 mm, khoảng 190 g",
+      "condition": "",
+      "source": "src3",
+      "confidence": "cao"
+    },
+    {
+      "id": "s8",
+      "key": "Chất âm",
+      "value_vi": "Dưới trung bình khi nghe nhạc, mất dải trầm thấp do loa nhỏ",
+      "condition": "RTINGS",
+      "source": "src4",
+      "confidence": "cao"
+    },
+    {
+      "id": "s9",
+      "key": "Âm lượng",
+      "value_vi": "Không quá lớn, nghe podcast trong phòng nhỏ được",
+      "condition": "RTINGS",
+      "source": "src4",
+      "confidence": "vua"
+    },
+    {
+      "id": "s10",
+      "key": "Mono",
+      "value_vi": "Gộp âm thanh nổi thành mono, trừ khi ghép thêm loa tương thích",
+      "condition": "RTINGS",
+      "source": "src4",
+      "confidence": "cao"
+    },
+    {
+      "id": "s11",
+      "key": "Độ trễ",
+      "value_vi": "Có thể gây lệch hình và tiếng khi xem video",
+      "condition": "RTINGS",
+      "source": "src4",
+      "confidence": "cao"
+    },
+    {
+      "id": "s12",
+      "key": "Giá",
+      "value_vi": "1.070.000 đồng",
+      "condition": "FPT Shop, CellphoneS, Phúc Anh 2026-10-22",
+      "source": "src1",
+      "confidence": "cao"
+    }
+  ],
+  "strengths": [
+    {
+      "text": "IP67 chống bụi và nước, ngâm được tối đa 1 m trong 30 phút",
+      "source": "src1"
+    },
+    {
+      "text": "Nhỏ, nhẹ khoảng 190 g, có quai treo",
+      "source": "src3"
+    },
+    {
+      "text": "Pin tối đa 7 giờ, thử nghiệm sát số hãng",
+      "source": "src5"
+    },
+    {
+      "text": "Bluetooth 5.3, USB-C, Auracast",
+      "source": "src3"
+    }
+  ],
+  "caveats": [
+    {
+      "text": "Chất âm nghe nhạc dưới trung bình, thiếu bass",
+      "source": "src4"
+    },
+    {
+      "text": "Gộp stereo thành mono",
+      "source": "src4"
+    },
+    {
+      "text": "Độ trễ có thể lệch hình và tiếng khi xem video",
+      "source": "src4"
+    }
+  ],
+  "sources": [
+    {
+      "id": "src1",
+      "url": "https://fptshop.com.vn/phu-kien/loa-bluetooth-jbl-go-4",
+      "title": "FPT Shop: Loa Bluetooth JBL Go 4",
+      "type": "cua_hang"
+    },
+    {
+      "id": "src2",
+      "url": "https://cellphones.com.vn/loa-bluetooth-jbl-go-4.html",
+      "title": "CellphoneS: Loa Bluetooth JBL Go 4",
+      "type": "cua_hang"
+    },
+    {
+      "id": "src3",
+      "url": "https://www.phucanh.vn/loa-bluetooth-jbl-go-4-do.html",
+      "title": "Phúc Anh: Loa Bluetooth di động JBL GO 4 (Đỏ)",
+      "type": "cua_hang"
+    },
+    {
+      "id": "src4",
+      "url": "https://www.rtings.com/speaker/reviews/jbl/go-4",
+      "title": "RTINGS: JBL Go 4 speaker review",
+      "type": "danh_gia"
+    },
+    {
+      "id": "src5",
+      "url": "https://www.tomsguide.com/audio/bluetooth-speakers/jbl-go-4-review",
+      "title": "Tom's Guide: JBL Go 4 review",
+      "type": "danh_gia"
+    }
+  ],
+  "unverified": [
+    "Trang chính hãng JBL chặn truy cập tự động; thông số lấy từ FPT Shop, CellphoneS, Phúc Anh và khớp nhau.",
+    "Mô tả CellphoneS nói bass uy lực hơn thế hệ trước; RTINGS và GearLab đánh giá khác, không dùng ý này.",
+    "Số giờ pin có nguồn ghi 3,5 giờ trong một bài thử khác (Galaxus, chỉ thấy qua tóm tắt tìm kiếm), chưa mở xác minh nên không dùng.",
+    "Quai treo chỉ thấy trên ảnh sản phẩm, chưa có chữ trong trang nguồn xác nhận cách dùng."
+  ],
+  "product_visual_description": "A small rounded-rectangle portable Bluetooth speaker with a woven fabric front grille, a large JBL logo on the front, a short loop strap at the top corner, buttons on top and a USB-C port on the side; shown in blue, also sold in red, black and other colors (FPT Shop product image).",
+  "ref_image_candidates": [
+    {
+      "url": "https://cdn2.fptshop.com.vn/unsafe/2024_5_16_638514780325508849_jbl-go-4-thumb.jpg",
+      "page": "https://fptshop.com.vn/phu-kien/loa-bluetooth-jbl-go-4",
+      "kind": "product_main"
+    },
+    {
+      "url": "https://cdn2.fptshop.com.vn/unsafe/2024_5_16_638514780323957595_jbl-go-4-blue-5.jpg",
+      "page": "https://fptshop.com.vn/phu-kien/loa-bluetooth-jbl-go-4",
+      "kind": "product_angle"
+    },
+    {
+      "url": "https://cdn2.fptshop.com.vn/unsafe/2024_5_17_638515428747509456_jbl-go-4-black-3.jpg",
+      "page": "https://fptshop.com.vn/phu-kien/loa-bluetooth-jbl-go-4",
+      "kind": "product_angle"
+    },
+    {
+      "url": "https://cdn2.fptshop.com.vn/unsafe/2024_5_16_638514780327265406_jbl-go-4-blue-1.jpg",
+      "page": "https://fptshop.com.vn/phu-kien/loa-bluetooth-jbl-go-4",
+      "kind": "product_angle"
+    },
+    {
+      "url": "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:0/q:100/plain/https://cellphones.com.vn/media/wysiwyg/Loa/JBL/Go/loa-jbl-go-4-01.jpg",
+      "page": "https://cellphones.com.vn/loa-bluetooth-jbl-go-4.html",
+      "kind": "in_use"
+    }
+  ],
+  "takeaway": "Cần loa bỏ túi chống nước, pin đủ dùng vài giờ thì JBL Go 4 hợp; muốn bass sâu, nghe nhạc chất lượng hay xem video đồng bộ thì nên cân nhắc loại lớn hơn.",
+  "buyer_personas": [
+    "Người hay đi biển, dã ngoại, hồ bơi",
+    "Người cần loa nhỏ nghe podcast, nhạc nền",
+    "Người muốn loa dự phòng trong ba lô"
+  ]
+}

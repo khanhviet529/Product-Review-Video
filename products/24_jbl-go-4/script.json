@@ -1,0 +1,228 @@
+{
+  "product_id": "24",
+  "as_of": "2026-10-22",
+  "thesis": "Đừng chọn loa bỏ túi chỉ vì nó nhỏ: hãy chọn theo nơi bạn mang nó đi và việc bạn muốn nó làm.",
+  "answer_short": "Hay ra biển, dã ngoại, cần loa nhỏ chống nước thì JBL Go 4 hợp; muốn bass sâu hay xem video khớp tiếng thì chọn loa lớn hơn.",
+  "personas": [
+    "Người hay đi biển, dã ngoại, hồ bơi",
+    "Người cần loa nhỏ nghe podcast, nhạc nền",
+    "Người muốn loa dự phòng trong ba lô"
+  ],
+  "clips": [
+    {
+      "n": 1,
+      "role": "hook",
+      "criterion": "",
+      "source_label": "nhan_dinh",
+      "narration_vi": "Loa bỏ túi nào cũng nhỏ. Vậy chọn theo chống nước, pin hay âm thanh? Mình xem JBL Go 4.",
+      "facts_used": [],
+      "title_vi": "Loa nhỏ: chọn theo gì?",
+      "labels_vi": [
+        "Chống nước",
+        "Pin",
+        "Âm thanh"
+      ],
+      "focus_en": "the whole speaker",
+      "scene_en": "the speaker stands upright in the centre of the frame, a soft window shadow falls across the backdrop",
+      "camera": "push in",
+      "camera_reason": "tiến từ cả sản phẩm vào để mở bằng câu hỏi chọn loa"
+    },
+    {
+      "n": 2,
+      "role": "identify",
+      "criterion": "",
+      "source_label": "cua_hang",
+      "narration_vi": "Đây là JBL Go 4. Giá một triệu bảy mươi nghìn đồng, theo FPT Shop ngày hai mươi hai tháng mười.",
+      "facts_used": [
+        "price"
+      ],
+      "title_vi": "JBL Go 4",
+      "labels_vi": [
+        "Giá tham khảo: 1.070.000đ"
+      ],
+      "focus_en": "the woven front grille and the large logo",
+      "scene_en": "the speaker seen from the front at a slight angle, front grille facing the camera",
+      "camera": "dolly in",
+      "camera_reason": "lại gần mặt trước để nhận diện đúng mẫu"
+    },
+    {
+      "n": 3,
+      "role": "criterion",
+      "criterion": "Chống nước và bụi",
+      "source_label": "cua_hang",
+      "narration_vi": "Theo mô tả của FPT Shop, loa đạt chuẩn IP sáu bảy. Ngâm tối đa một mét trong ba mươi phút.",
+      "facts_used": [
+        "s1"
+      ],
+      "title_vi": "Chuẩn IP67",
+      "labels_vi": [
+        "Chống bụi",
+        "Chống nước"
+      ],
+      "focus_en": "the fabric grille and the sealed side of the speaker",
+      "scene_en": "a few clean water droplets bead on the beige surface beside the speaker",
+      "camera": "rack focus",
+      "camera_reason": "chuyển nét từ giọt nước sang thân loa để nối chuẩn chống nước với sản phẩm"
+    },
+    {
+      "n": 4,
+      "role": "criterion",
+      "criterion": "Chống nước và bụi",
+      "source_label": "nhan_dinh",
+      "narration_vi": "Mang ra hồ bơi hay bãi biển khá yên tâm. Đây là điểm đáng chú ý với người hay đi chơi.",
+      "facts_used": [
+        "s1"
+      ],
+      "title_vi": "Hợp đi biển, hồ bơi",
+      "labels_vi": [],
+      "focus_en": "the small loop strap at the top corner",
+      "scene_en": "the speaker lies on a pale sand-coloured surface with a soft sunlit glow",
+      "camera": "pan",
+      "camera_reason": "lia từ quai treo sang thân loa để gợi cảnh mang theo khi đi chơi"
+    },
+    {
+      "n": 5,
+      "role": "criterion",
+      "criterion": "Pin",
+      "source_label": "danh_gia",
+      "narration_vi": "Pin tối đa bảy giờ theo thông số. Thử nghiệm của RTINGS và Tom's Guide cũng ghi gần bảy giờ.",
+      "facts_used": [
+        "s2",
+        "s3"
+      ],
+      "title_vi": "Pin khoảng 7 giờ",
+      "labels_vi": [
+        "Theo thông số",
+        "Theo RTINGS"
+      ],
+      "focus_en": "the buttons on top of the speaker",
+      "scene_en": "the speaker seen from above at an angle so the top buttons are clearly visible",
+      "camera": "push in",
+      "camera_reason": "tiến vào cụm nút trên đỉnh, nơi người dùng điều khiển"
+    },
+    {
+      "n": 6,
+      "role": "criterion",
+      "criterion": "Pin",
+      "source_label": "cua_hang",
+      "narration_vi": "Playtime Boost kéo thêm khoảng hai giờ, theo mô tả của CellphoneS. Chưa có kiểm chứng độc lập.",
+      "facts_used": [
+        "s4"
+      ],
+      "title_vi": "Playtime Boost",
+      "labels_vi": [
+        "+2 giờ",
+        "Chưa kiểm chứng độc lập"
+      ],
+      "focus_en": "the USB-C port on the side",
+      "scene_en": "the speaker turned so its side with the USB-C port faces the camera",
+      "camera": "dolly in",
+      "camera_reason": "lại gần cổng sạc để nối ý thời lượng pin với việc sạc"
+    },
+    {
+      "n": 7,
+      "role": "criterion",
+      "criterion": "Mang theo",
+      "source_label": "cua_hang",
+      "narration_vi": "Loa nặng khoảng một trăm chín mươi gam, có quai treo. Nhỏ gọn, dễ bỏ vào ba lô.",
+      "facts_used": [
+        "s7"
+      ],
+      "title_vi": "Nhỏ gọn, 190 g",
+      "labels_vi": [],
+      "focus_en": "the compact body next to a pen for scale",
+      "scene_en": "the speaker sits on the beige surface beside a plain black pen that shows its small size",
+      "camera": "pull back",
+      "camera_reason": "lùi ra để thấy kích thước thật so với một vật quen thuộc"
+    },
+    {
+      "n": 8,
+      "role": "criterion",
+      "criterion": "Kết nối",
+      "source_label": "cua_hang",
+      "narration_vi": "Kết nối Bluetooth năm phẩy ba, sạc qua USB-C. Có Auracast để ghép thêm loa tương thích.",
+      "facts_used": [
+        "s5"
+      ],
+      "title_vi": "Bluetooth 5.3 · USB-C",
+      "labels_vi": [
+        "Auracast"
+      ],
+      "focus_en": "the speaker with a smartphone lying beside it",
+      "scene_en": "a plain smartphone with a dark blank screen lies next to the speaker on the beige surface",
+      "camera": "orbit",
+      "camera_reason": "đi vòng quanh để cho thấy loa đứng cạnh điện thoại từ nhiều góc"
+    },
+    {
+      "n": 9,
+      "role": "criterion",
+      "criterion": "Âm thanh",
+      "source_label": "danh_gia",
+      "narration_vi": "Về âm thanh, RTINGS đánh giá dưới trung bình khi nghe nhạc. Loa nhỏ nên thiếu dải trầm.",
+      "facts_used": [
+        "s8"
+      ],
+      "title_vi": "Âm thanh: thiếu trầm",
+      "labels_vi": [
+        "Theo RTINGS"
+      ],
+      "focus_en": "the woven front grille up close",
+      "scene_en": "a tight view of the fabric speaker grille with soft side light",
+      "camera": "push in",
+      "camera_reason": "tiến sát lưới loa, nơi âm thanh phát ra, khi nói đến chất âm"
+    },
+    {
+      "n": 10,
+      "role": "limits",
+      "criterion": "",
+      "source_label": "danh_gia",
+      "narration_vi": "Lưu ý: loa phát mono, độ trễ có thể lệch tiếng khi xem video. Đây là tổng hợp, mình chưa tự đo.",
+      "facts_used": [
+        "s10",
+        "s11"
+      ],
+      "title_vi": "Lưu ý trước khi mua",
+      "labels_vi": [
+        "Mono",
+        "Có độ trễ"
+      ],
+      "focus_en": "the whole speaker",
+      "scene_en": "the speaker alone on the beige backdrop under calm even light",
+      "camera": "pull back",
+      "camera_reason": "lùi ra để nhìn lại toàn bộ loa khi nêu những giới hạn"
+    },
+    {
+      "n": 11,
+      "role": "fit",
+      "criterion": "",
+      "source_label": "nhan_dinh",
+      "narration_vi": "Hay ra biển, dã ngoại, cần loa dự phòng trong ba lô thì hợp. Muốn bass sâu thì chọn loa lớn hơn.",
+      "facts_used": [],
+      "title_vi": "Hợp với ai?",
+      "labels_vi": [
+        "Đi biển, dã ngoại",
+        "Loa dự phòng"
+      ],
+      "focus_en": "the speaker next to a small canvas backpack",
+      "scene_en": "the speaker rests beside a small plain canvas backpack on the beige surface",
+      "camera": "dolly in",
+      "camera_reason": "lại gần để chốt bằng hình ảnh người dùng cần loa này"
+    },
+    {
+      "n": 12,
+      "role": "outro",
+      "criterion": "",
+      "source_label": "nhan_dinh",
+      "narration_vi": "Bạn hay mang loa đi đâu? Lưu lại trước khi mua. Thông tin đối chiếu ngày hai mươi hai tháng mười.",
+      "facts_used": [],
+      "title_vi": "Bạn mang loa đi đâu?",
+      "labels_vi": [
+        "Đối chiếu: 22/10/2026"
+      ],
+      "focus_en": "the whole speaker",
+      "scene_en": "the speaker centred on the beige backdrop with soft warm light",
+      "camera": "pull back",
+      "camera_reason": "lùi ra khép lại video một cách nhẹ nhàng"
+    }
+  ]
+}

@@ -1,0 +1,214 @@
+{
+  "id": "40",
+  "slug": "40_xiaomi-redmi-pad-2",
+  "status": "xac_minh",
+  "chosen_model": "Xiaomi Redmi Pad 2 WiFi 11 inch, 4GB/128GB",
+  "alternatives_rejected": [
+    {
+      "model": "Redmi Pad 2 9,7 inch",
+      "reason": "Là mẫu khác (màn nhỏ hơn); chỉ thấy trong kết quả tìm kiếm, chưa mở trang nguồn."
+    },
+    {
+      "model": "Redmi Pad 2 4G",
+      "reason": "Có SIM, giá cao hơn (5.990.000 đồng lúc ra mắt); không cần cho góc review giá mềm."
+    },
+    {
+      "model": "Redmi Pad 2 8GB/256GB",
+      "reason": "Giá cao hơn (6.490.000 đồng lúc ra mắt); bản 4GB/128GB đúng góc giá mềm."
+    }
+  ],
+  "official_page": "https://www.thegioididong.com/may-tinh-bang/xiaomi-redmi-pad-2-wifi-4gb-128gb",
+  "price_vnd": {
+    "low": 5890000,
+    "high": 6490000,
+    "as_of": "2026-10-22",
+    "sources": [
+      "src1",
+      "src3"
+    ],
+    "confidence": "vua"
+  },
+  "specs": [
+    {
+      "id": "s1",
+      "key": "Giá bán",
+      "value_vi": "khoảng 6 triệu đồng (5.990.000 đồng bản 4GB/128GB)",
+      "condition": "TGDD, TP.HCM, 2026-10-22",
+      "source": "src1",
+      "confidence": "vua"
+    },
+    {
+      "id": "s2",
+      "key": "Màn hình",
+      "value_vi": "11 inch IPS LCD 2560 x 1600 (2,5K), 90 Hz, sáng tối đa 600 nit",
+      "condition": "",
+      "source": "src1",
+      "confidence": "cao"
+    },
+    {
+      "id": "s3",
+      "key": "Loa và tai nghe",
+      "value_vi": "4 loa Dolby Atmos, cổng tai nghe 3,5 mm",
+      "condition": "VnReview: âm lớn, trong",
+      "source": "src4",
+      "confidence": "cao"
+    },
+    {
+      "id": "s4",
+      "key": "Thiết kế",
+      "value_vi": "nhôm nguyên khối, dày khoảng 7,4 mm, nặng khoảng 510 gam",
+      "condition": "TGDD ghi 519 g, 7,36 mm; VnReview và FPT ghi 510 g",
+      "source": "src4",
+      "confidence": "vua"
+    },
+    {
+      "id": "s5",
+      "key": "Pin",
+      "value_vi": "9000 mAh; PCMark khoảng 15 giờ 6 phút; dùng thực tế thường 2 đến 3 ngày",
+      "condition": "PCMark và dùng thực tế theo VnReview",
+      "source": "src4",
+      "confidence": "cao"
+    },
+    {
+      "id": "s6",
+      "key": "Sạc",
+      "value_vi": "sạc nhanh 18 W, đầy từ 0 mất khoảng 3 giờ",
+      "condition": "VnReview đo",
+      "source": "src4",
+      "confidence": "cao"
+    },
+    {
+      "id": "s7",
+      "key": "Hiệu năng",
+      "value_vi": "MediaTek Helio G100-Ultra, đủ cho văn phòng và giải trí cơ bản; Liên Quân 60 FPS đồ họa trung bình, PUBG Mobile khoảng 40 FPS",
+      "condition": "VnReview",
+      "source": "src4",
+      "confidence": "cao"
+    },
+    {
+      "id": "s8",
+      "key": "Mở rộng và bút",
+      "value_vi": "thẻ microSD tới 2 TB; hỗ trợ Redmi Smart Pen (bán riêng)",
+      "condition": "",
+      "source": "src1",
+      "confidence": "cao"
+    },
+    {
+      "id": "s9",
+      "key": "Hạn chế màn hình",
+      "value_vi": "LCD, góc nhìn hẹp, đèn nền không đều ở rìa, không có cảm biến ánh sáng",
+      "condition": "VnReview",
+      "source": "src4",
+      "confidence": "cao"
+    },
+    {
+      "id": "s10",
+      "key": "Bộ nhớ",
+      "value_vi": "RAM 4 GB LPDDR4X, 128 GB UFS 2.2 (bản chọn)",
+      "condition": "",
+      "source": "src1",
+      "confidence": "cao"
+    }
+  ],
+  "strengths": [
+    {
+      "text": "Màn 11 inch 2,5K, 90 Hz, 600 nit ở tầm giá khoảng 6 triệu đồng",
+      "source": "src1"
+    },
+    {
+      "text": "Bốn loa Dolby Atmos, âm lớn và trong, giữ jack tai nghe 3,5 mm",
+      "source": "src4"
+    },
+    {
+      "text": "Pin 9000 mAh, PCMark khoảng 15 giờ, dùng thực tế 2 đến 3 ngày",
+      "source": "src4"
+    },
+    {
+      "text": "Thân nhôm nguyên khối, tản nhiệt tốt, không giảm hiệu năng đột ngột khi chạy benchmark kéo dài",
+      "source": "src4"
+    }
+  ],
+  "caveats": [
+    {
+      "text": "Tấm LCD: góc nhìn hẹp, đèn nền không đều ở rìa, không có cảm biến ánh sáng",
+      "source": "src4"
+    },
+    {
+      "text": "Chỉ sạc nhanh 18 W, đầy mất khoảng 3 giờ",
+      "source": "src4"
+    },
+    {
+      "text": "Hiệu năng ở mức đủ dùng, không hợp game nặng",
+      "source": "src4"
+    },
+    {
+      "text": "Bút Redmi Smart Pen bán riêng",
+      "source": "src2"
+    }
+  ],
+  "sources": [
+    {
+      "id": "src1",
+      "url": "https://www.thegioididong.com/may-tinh-bang/xiaomi-redmi-pad-2-wifi-4gb-128gb",
+      "title": "Xiaomi Redmi Pad 2 WiFi 4GB/128GB, Thế Giới Di Động",
+      "type": "cua_hang"
+    },
+    {
+      "id": "src2",
+      "url": "https://vnreview.vn/threads/xiaomi-redmi-pad-2-series-ra-mat-tai-viet-nam-may-tinh-bang-man-hinh-rong-11-inch-2-5k-90hz-pin-lon-9-000-mah-gia-tu-5-trieu-dong.64238/latest",
+      "title": "Redmi Pad 2 series ra mắt tại Việt Nam, VnReview",
+      "type": "danh_gia"
+    },
+    {
+      "id": "src3",
+      "url": "https://fptshop.com.vn/may-tinh-bang/xiaomi-redmi-pad-2-4gb",
+      "title": "Xiaomi Redmi Pad 2 WiFi 4GB 256GB, FPT Shop",
+      "type": "cua_hang"
+    },
+    {
+      "id": "src4",
+      "url": "https://www.vnreview.vn/threads/danh-gia-chi-tiet-xiaomi-redmi-pad-2-khi-dinh-nghia-ngon-bo-re-duoc-nang-tam.64772/",
+      "title": "Đánh giá chi tiết Xiaomi Redmi Pad 2, VnReview",
+      "type": "danh_gia"
+    }
+  ],
+  "unverified": [
+    "Chưa mở được trang chính hãng Xiaomi Việt Nam (lỗi 403); official_page là trang TGDD.",
+    "Khối lượng lệch giữa nguồn (510 g và 519 g), lời đọc dùng khoảng 510 gam.",
+    "Một số đánh giá quốc tế nói giao diện chạy 60 Hz dù đặt 90 Hz, chỉ thấy trong kết quả tìm kiếm, chưa mở nguồn: không dùng.",
+    "Chưa mở được trang bán Redmi Pad 2 bản 4GB/128GB tại các cửa hàng khác ngoài TGDD."
+  ],
+  "product_visual_description": "a slim 11-inch tablet with a flat 16:10 screen and a unibody metal back available in gray, purple or green, with speaker grilles on the short sides",
+  "ref_image_candidates": [
+    {
+      "url": "https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/522/339204/xiaomi-redmi-pad-2-wifi-xam-1-638889722791105651.jpg",
+      "page": "https://www.thegioididong.com/may-tinh-bang/xiaomi-redmi-pad-2-wifi-4gb-128gb",
+      "kind": "product_main"
+    },
+    {
+      "url": "https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/522/339204/xiaomi-redmi-pad-2-wifi-xam-2-638889722797826792.jpg",
+      "page": "https://www.thegioididong.com/may-tinh-bang/xiaomi-redmi-pad-2-wifi-4gb-128gb",
+      "kind": "product_angle"
+    },
+    {
+      "url": "https://cdn2.fptshop.com.vn/unsafe/1920x0/filters:format(webp):quality(75)/xiaomi_redmi_pad_2_1_0d8bce97f5.jpg",
+      "page": "https://fptshop.com.vn/may-tinh-bang/xiaomi-redmi-pad-2-4gb",
+      "kind": "product_main"
+    },
+    {
+      "url": "https://cdn2.fptshop.com.vn/unsafe/1920x0/filters:format(webp):quality(75)/xiaomi_redmi_pad_2_2_3bdacf4436.jpg",
+      "page": "https://fptshop.com.vn/may-tinh-bang/xiaomi-redmi-pad-2-4gb",
+      "kind": "product_angle"
+    },
+    {
+      "url": "https://cdn2.fptshop.com.vn/unsafe/750x0/filters:format(webp):quality(75)/xiaomi_redmi_pad_2_den_1_dbfe9cd4f6.jpg",
+      "page": "https://fptshop.com.vn/may-tinh-bang/xiaomi-redmi-pad-2-4gb",
+      "kind": "product_angle"
+    }
+  ],
+  "takeaway": "Cần máy tính bảng khoảng sáu triệu đồng để xem phim, học bài, pin lâu thì Redmi Pad 2 hợp; cần màn OLED hoặc chơi game nặng thì chọn máy khác.",
+  "buyer_personas": [
+    "Sinh viên, học sinh cần máy học và xem phim",
+    "Gia đình cần máy giải trí, đọc tài liệu"
+  ]
+}

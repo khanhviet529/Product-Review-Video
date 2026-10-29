@@ -1,0 +1,18 @@
+[
+  {
+    "file": "product_main.jpg",
+    "url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/_/1/_1__1_1.jpg",
+    "page": "https://cellphones.com.vn/the-nho-micro-sdxc-sandisk-extreme-v30-a2-128gb-190mbs.html",
+    "kind": "product_main",
+    "width": 600,
+    "height": 600
+  },
+  {
+    "file": "product_angle_1.jpg",
+    "url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/_/2/_2__2.jpg",
+    "page": "https://cellphones.com.vn/the-nho-micro-sdxc-sandisk-extreme-v30-a2-128gb-190mbs.html",
+    "kind": "product_angle",
+    "width": 600,
+    "height": 600
+  }
+]

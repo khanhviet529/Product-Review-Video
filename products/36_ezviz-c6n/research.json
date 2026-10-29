@@ -1,0 +1,213 @@
+{
+  "id": "36",
+  "slug": "36_ezviz-c6n",
+  "status": "mot_phan",
+  "chosen_model": "EZVIZ C6N G1 5MP (camera trong nhà xoay quét)",
+  "alternatives_rejected": [
+    {
+      "model": "EZVIZ C6N (CS-C6N) 1080p đời cũ",
+      "reason": "Đời trước (xoay 340/55 độ theo bài Sforum), thay bằng C6N G1; vẫn còn ở FPT Shop 449.000 đ."
+    },
+    {
+      "model": "Imou Ranger 2",
+      "reason": "Không nghiên cứu; đề tài ưu tiên EZVIZ C6N."
+    }
+  ],
+  "official_page": "https://www.ezviz.com/product/c6n+g1+2k/293591",
+  "price_vnd": {
+    "low": 680000,
+    "high": 680000,
+    "as_of": "2026-10-22",
+    "sources": [
+      "src2"
+    ],
+    "confidence": "vua"
+  },
+  "specs": [
+    {
+      "id": "s1",
+      "key": "Độ phân giải",
+      "value_vi": "5MP (2880 x 1620)",
+      "condition": "bản C6N G1 5MP bán ở VN; trang hãng quốc tế mô tả bản 2K 2304 x 1296",
+      "source": "src2",
+      "confidence": "cao"
+    },
+    {
+      "id": "s2",
+      "key": "Xoay/nghiêng",
+      "value_vi": "Ngang 350 độ, dọc 85 độ",
+      "condition": "trang CellphoneS ghi tiêu đề 360 độ nhưng thông số 350 độ; khớp trang hãng bản 2K",
+      "source": "src2",
+      "confidence": "cao"
+    },
+    {
+      "id": "s3",
+      "key": "Nhìn đêm",
+      "value_vi": "Hồng ngoại 10 m, có nhìn đêm màu",
+      "condition": "",
+      "source": "src2",
+      "confidence": "cao"
+    },
+    {
+      "id": "s4",
+      "key": "Lưu trữ",
+      "value_vi": "microSD tối đa 512GB (bán riêng)",
+      "condition": "đám mây EZVIZ CloudPlay chỉ có ở một số khu vực",
+      "source": "src1",
+      "confidence": "cao"
+    },
+    {
+      "id": "s5",
+      "key": "Kết nối",
+      "value_vi": "Wi-Fi và cổng Ethernet RJ45",
+      "condition": "",
+      "source": "src2",
+      "confidence": "cao"
+    },
+    {
+      "id": "s6",
+      "key": "Màn che riêng tư",
+      "value_vi": "Màn che vật lý, ống kính thụt vào thân",
+      "condition": "theo trang hãng bản C6N G1 2K; chưa xác nhận riêng trang bán bản 5MP",
+      "source": "src1",
+      "confidence": "vua"
+    },
+    {
+      "id": "s7",
+      "key": "Băng tần Wi-Fi",
+      "value_vi": "Chỉ 2.4 GHz (802.11b/g/n)",
+      "condition": "theo trang hãng bản 2K",
+      "source": "src1",
+      "confidence": "vua"
+    },
+    {
+      "id": "s8",
+      "key": "AI",
+      "value_vi": "Phát hiện người, âm thanh lớn, tự theo dõi, tuần tra tự động",
+      "condition": "",
+      "source": "src1",
+      "confidence": "vua"
+    },
+    {
+      "id": "s9",
+      "key": "Biến thể",
+      "value_vi": "Nhiều bản cùng tên C6N G1 (2K, 5MP, 8MP/4K); đám mây chỉ ở một số khu vực",
+      "condition": "",
+      "source": "src1",
+      "confidence": "vua"
+    },
+    {
+      "id": "s10",
+      "key": "Giá",
+      "value_vi": "680.000 đ (giá gốc 990.000 đ)",
+      "condition": "CellphoneS",
+      "source": "src2",
+      "confidence": "cao"
+    },
+    {
+      "id": "s11",
+      "key": "Bảo hành",
+      "value_vi": "12 tháng",
+      "condition": "CellphoneS",
+      "source": "src2",
+      "confidence": "cao"
+    }
+  ],
+  "strengths": [
+    {
+      "text": "Xoay ngang 350 độ, nghiêng 85 độ, ít góc chết.",
+      "source": "src2"
+    },
+    {
+      "text": "Hồng ngoại 10 m và nhìn đêm màu; khe microSD đến 512GB.",
+      "source": "src2"
+    },
+    {
+      "text": "Có màn che riêng tư vật lý (theo trang hãng bản 2K).",
+      "source": "src1"
+    },
+    {
+      "text": "Giá khoảng 680.000 đ.",
+      "source": "src2"
+    }
+  ],
+  "caveats": [
+    {
+      "text": "Chỉ hỗ trợ Wi-Fi 2.4 GHz (trang hãng bản 2K; bài Sforum về C6N đời cũ cũng ghi 2.4GHz).",
+      "source": "src1"
+    },
+    {
+      "text": "Nhiều biến thể độ phân giải cùng tên; đám mây chỉ ở một số khu vực.",
+      "source": "src1"
+    },
+    {
+      "text": "Chưa tìm được đánh giá độc lập riêng cho C6N G1.",
+      "source": "src3"
+    }
+  ],
+  "sources": [
+    {
+      "id": "src1",
+      "url": "https://www.ezviz.com/product/c6n+g1+2k/293591",
+      "title": "EZVIZ - C6N G1 2K",
+      "type": "chinh_hang"
+    },
+    {
+      "id": "src2",
+      "url": "https://cellphones.com.vn/camera-ezviz-ip-wifi-hong-ngoai-c6n-g1-5mp.html",
+      "title": "CellphoneS - Camera EZVIZ C6N G1 5MP",
+      "type": "cua_hang"
+    },
+    {
+      "id": "src3",
+      "url": "https://cellphones.com.vn/sforum/tren-tay-va-trai-nghiem-ezviz-c6n-bao-dam-an-ninh-voi-gia-chi-hon-500-000-chiec-camera-quoc-dan-ma-nha-nao-cung-nen-co",
+      "title": "Sforum (CellphoneS) - Trên tay EZVIZ C6N (đời 1080p)",
+      "type": "danh_gia"
+    },
+    {
+      "id": "src4",
+      "url": "https://fptshop.com.vn/camera/camera-giam-sat-ip-1080p-ezviz-cs-c6n",
+      "title": "FPT Shop - Camera EZVIZ CS-C6N 1080p",
+      "type": "cua_hang"
+    }
+  ],
+  "unverified": [
+    "Màn che riêng tư và chỉ Wi-Fi 2.4 GHz của bản 5MP: lấy từ trang hãng bản 2K; cần đối chiếu trang bản 5MP.",
+    "Nguồn điện, độ ồn động cơ, phí đám mây tại VN: chưa xác minh.",
+    "Đánh giá độc lập riêng cho C6N G1: chưa tìm được (chỉ có bài về C6N 1080p đời cũ).",
+    "Tồn kho CellphoneS ngày 2026-10-22 chưa xác nhận."
+  ],
+  "product_visual_description": "A white EZVIZ C6N G1 indoor pan-tilt camera with a minimalist rounded design, shown on a desk and on a ceiling mount.",
+  "ref_image_candidates": [
+    {
+      "url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/c/a/camera-ezviz-ip-wifi-hong-ngoai-c6n-g1-5mp_1_.png",
+      "page": "https://cellphones.com.vn/camera-ezviz-ip-wifi-hong-ngoai-c6n-g1-5mp.html",
+      "kind": "product_main"
+    },
+    {
+      "url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/c/a/camera-ezviz-ip-wifi-hong-ngoai-c6n-g1-5mp_2_.png",
+      "page": "https://cellphones.com.vn/camera-ezviz-ip-wifi-hong-ngoai-c6n-g1-5mp.html",
+      "kind": "product_angle"
+    },
+    {
+      "url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/c/a/camera-ezviz-ip-wifi-hong-ngoai-c6n-g1-5mp_3_.png",
+      "page": "https://cellphones.com.vn/camera-ezviz-ip-wifi-hong-ngoai-c6n-g1-5mp.html",
+      "kind": "product_angle"
+    },
+    {
+      "url": "https://mfs.ezvizlife.com/70c74791757746456699867ae1782b93.jpg",
+      "page": "https://www.ezviz.com/product/c6n+g1+2k/293591",
+      "kind": "in_use"
+    },
+    {
+      "url": "https://mfs.ezvizlife.com/9ab4433e614985d5eb4319f999b9f732.jpg",
+      "page": "https://www.ezviz.com/product/c6n+g1+2k/293591",
+      "kind": "in_use"
+    }
+  ],
+  "takeaway": "Cần camera trong nhà xoay quét, nhìn đêm, giá khoảng 680.000 đ thì C6N G1 hợp lý; nhà chỉ phát Wi-Fi 5 GHz hoặc cần camera ngoài trời thì cân nhắc loại khác.",
+  "buyer_personas": [
+    "Nhà ở hoặc cửa hàng nhỏ cần quan sát trong nhà",
+    "Người dùng Wi-Fi 2.4 GHz muốn camera giá mềm có lưu thẻ nhớ"
+  ]
+}

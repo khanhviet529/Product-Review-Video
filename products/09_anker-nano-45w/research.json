@@ -1,0 +1,198 @@
+{
+  "id": "09",
+  "slug": "09_anker-nano-45w",
+  "status": "xac_minh",
+  "chosen_model": "Anker Nano Charger 45W (mã A2692), 1 cổng USB-C, GaN",
+  "alternatives_rejected": [
+    {
+      "model": "Anker Nano 30W (bản 30W)",
+      "reason": "Ứng viên ghi 30W / 45W; không mở được trang bán còn hàng của bản 30W tại Việt Nam, trong khi bản 45W A2692 có trang Thế Giới Di Động còn bán, đủ cho cả điện thoại lẫn laptop mỏng nên chọn bản 45W."
+    },
+    {
+      "model": "Anker Nano II 45W (A2664, đời cũ)",
+      "reason": "Là đời trước của dòng Nano 45W, thấy trên anker.com; chọn A2692 vì có trang bán tại Việt Nam."
+    }
+  ],
+  "official_page": "https://www.anker.com/products/a2692-45w-usb-c-fast-charger",
+  "price_vnd": {
+    "low": 390000,
+    "high": 550000,
+    "as_of": "2026-10-22",
+    "sources": [
+      "s_price1"
+    ],
+    "confidence": "vua",
+    "note": "Thế Giới Di Động (TP.HCM) ghi 390.000 đồng, giá gốc 550.000 đồng, khuyến mãi đến 23:59 ngày 31/10 (xem ngày 2026-10-22). Hai trang bán khác (Hoàng Hà Mobile, Điện Thoại Vui) ghi 390.000 đồng trong kết quả tìm kiếm nhưng không mở được trang."
+  },
+  "specs": [
+    {
+      "id": "s1",
+      "key": "Công suất và cổng",
+      "value_vi": "Tối đa 45W, một cổng USB-C",
+      "condition": "",
+      "source": "src2",
+      "confidence": "cao"
+    },
+    {
+      "id": "s2",
+      "key": "Mức đầu ra USB-C",
+      "value_vi": "5V-3A, 9V-3A, 15V-3A, 20V-2,25A",
+      "condition": "Theo trang Thế Giới Di Động",
+      "source": "src2",
+      "confidence": "cao"
+    },
+    {
+      "id": "s3",
+      "key": "Kích thước",
+      "value_vi": "3,69 x 3,2 x 3,3 cm",
+      "condition": "Trang Anker quốc tế (B2692) ghi 33 x 32 x 36,9 mm, gần tương đương",
+      "source": "src2",
+      "confidence": "cao"
+    },
+    {
+      "id": "s4",
+      "key": "Công nghệ",
+      "value_vi": "GaN, PowerIQ 3.0, ActiveShield",
+      "condition": "",
+      "source": "src2",
+      "confidence": "cao"
+    },
+    {
+      "id": "s5",
+      "key": "Trọng lượng củ sạc",
+      "value_vi": "Khoảng 60 g",
+      "condition": "Theo trang Anker quốc tế, mã B2692 (kèm cáp); trang bán ở VN không ghi",
+      "source": "src1",
+      "confidence": "vua"
+    },
+    {
+      "id": "s6",
+      "key": "PPS",
+      "value_vi": "Có hỗ trợ PPS (5-11V 5A, 4,5-21V 2,25A, 5-16V 3A)",
+      "condition": "Ghi trên trang Anker quốc tế B2692; trang VN không liệt kê",
+      "source": "src1",
+      "confidence": "vua"
+    },
+    {
+      "id": "s7",
+      "key": "Bảo hành",
+      "value_vi": "12 tháng tại Thế Giới Di Động, thêm bảo hành hãng",
+      "condition": "",
+      "source": "src2",
+      "confidence": "cao"
+    },
+    {
+      "id": "s8",
+      "key": "Màu",
+      "value_vi": "Đen, Trắng",
+      "condition": "",
+      "source": "src2",
+      "confidence": "cao"
+    }
+  ],
+  "strengths": [
+    {
+      "id": "st1",
+      "text": "Nhỏ, chân cắm gập được, dễ mang theo",
+      "source": "src3"
+    },
+    {
+      "id": "st2",
+      "text": "Công suất 45W đủ sạc nhanh điện thoại và laptop nhỏ/mỏng",
+      "source": "src3"
+    },
+    {
+      "id": "st3",
+      "text": "Theo một đánh giá, không nóng đáng kể khi sạc nhanh; hoàn thiện chắc chắn",
+      "source": "src3"
+    },
+    {
+      "id": "st4",
+      "text": "Có PPS và công nghệ GaN theo trang Anker",
+      "source": "src1"
+    }
+  ],
+  "caveats": [
+    {
+      "id": "c1",
+      "text": "Chỉ có một cổng USB-C, không sạc nhiều thiết bị cùng lúc",
+      "source": "src3"
+    },
+    {
+      "id": "c2",
+      "text": "Không thay được củ sạc 65W trở lên cho laptop lớn",
+      "source": "src3"
+    },
+    {
+      "id": "c3",
+      "text": "Một tổng hợp ghi củ nóng lên khi sạc tải nặng kéo dài",
+      "source": "src3"
+    }
+  ],
+  "sources": [
+    {
+      "id": "src1",
+      "url": "https://www.anker.com/products/a2692-45w-usb-c-fast-charger",
+      "title": "Anker Nano Charger (45W) with USB-C to USB-C Cable (trang Anker quốc tế, mã B2692)",
+      "type": "chinh_hang"
+    },
+    {
+      "id": "src2",
+      "url": "https://www.thegioididong.com/adapter-sac/adapter-sac-type-c-iq3-gan-45w-anker-nano-a2692",
+      "title": "Sạc nhanh Type-C 45W Anker Nano A2692 - Thế Giới Di Động",
+      "type": "cua_hang"
+    },
+    {
+      "id": "src3",
+      "url": "https://shopsavvy.com/reviews-tldr/anker-nano-45w-charger.md",
+      "title": "TLDR Review: Anker Nano 45W Charger (tổng hợp đánh giá)",
+      "type": "danh_gia"
+    },
+    {
+      "id": "s_price1",
+      "url": "https://www.thegioididong.com/adapter-sac/adapter-sac-type-c-iq3-gan-45w-anker-nano-a2692",
+      "title": "Giá tại Thế Giới Di Động, ngày 2026-10-22",
+      "type": "cua_hang"
+    }
+  ],
+  "unverified": [
+    "Bản Anker Nano 30W tại Việt Nam: không mở được trang bán, không dùng trong lời đọc.",
+    "Cáp kèm theo bản A2692 bán ở Việt Nam: trang Thế Giới Di Động không nêu, không nói trong lời đọc (bản B2692 quốc tế có cáp 6 ft).",
+    "Trọng lượng bản A2692: chỉ có số 60 g từ trang quốc tế B2692 (độ tin cậy vừa).",
+    "Hoàng Hà Mobile và Điện Thoại Vui (giá 390.000 đồng) chỉ thấy trong kết quả tìm kiếm, không mở được trang.",
+    "Đánh giá độc lập chi tiết (TechRadar): chỉ đọc được tiêu đề, không dùng làm nguồn."
+  ],
+  "product_visual_description": "A compact glossy black GaN wall charger with a single USB-C port and foldable plug prongs; also sold in white.",
+  "ref_image_candidates": [
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0493/9834/9974/files/Black-01_95991b41-dcac-41af-8f84-0036bf8bb161.png?v=1760083094",
+      "page": "https://www.anker.com/products/a2692-45w-usb-c-fast-charger",
+      "kind": "product_main"
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0493/9834/9974/files/Black-02_8cdcf259-5246-4714-8c3e-d3ca8ef07250.jpg?v=1760083094",
+      "page": "https://www.anker.com/products/a2692-45w-usb-c-fast-charger",
+      "kind": "product_angle"
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0493/9834/9974/files/Black-03_35efa33d-1374-4c6f-b40b-bfcf90b31b24.jpg?v=1760083094",
+      "page": "https://www.anker.com/products/a2692-45w-usb-c-fast-charger",
+      "kind": "product_angle"
+    },
+    {
+      "url": "https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/9499/339112/adapter-sac-type-c-iq3-gan-45w-anker-nano-a2692-den-1-638851506831457736.jpg",
+      "page": "https://www.thegioididong.com/adapter-sac/adapter-sac-type-c-iq3-gan-45w-anker-nano-a2692",
+      "kind": "product_main"
+    },
+    {
+      "url": "https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/9499/339112/adapter-sac-type-c-iq3-gan-45w-anker-nano-a2692-den-2-638851506836555570.jpg",
+      "page": "https://www.thegioididong.com/adapter-sac/adapter-sac-type-c-iq3-gan-45w-anker-nano-a2692",
+      "kind": "product_angle"
+    }
+  ],
+  "takeaway": "Cần một củ sạc nhỏ 45W cho điện thoại và laptop mỏng thì Anker Nano A2692 hợp; cần sạc nhiều thiết bị cùng lúc hoặc laptop 65W trở lên thì cân nhắc củ nhiều cổng, công suất cao hơn.",
+  "buyer_personas": [
+    "Người hay di chuyển, mang điện thoại và laptop mỏng",
+    "Người cần củ sạc nhỏ bỏ túi cho chuyến đi ngắn"
+  ]
+}

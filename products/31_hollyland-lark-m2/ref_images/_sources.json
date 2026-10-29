@@ -1,0 +1,82 @@
+[
+  {
+    "file": "in_use_1.jpg",
+    "url": "https://cdn.hollyland.com/file/product/6301/larkm2-banner.jpg",
+    "page": "https://www.hollyland.com/product/lark-m2",
+    "kind": "in_use",
+    "width": 2560,
+    "height": 800
+  },
+  {
+    "file": "product_main.jpg",
+    "url": "https://product.hstatic.net/1000340975/product/lark-m2-combo-21_11zon_d00bc4efb9b341daa8961148603f1386_master.jpg",
+    "page": "https://phuquangkts.vn/products/hollyland-lark-m2-combo",
+    "kind": "product_main",
+    "width": 2000,
+    "height": 2000
+  },
+  {
+    "file": "product_angle_1.jpg",
+    "url": "https://product.hstatic.net/1000340975/product/lark-m2-combo-20_1878f6db798f4f9ca5a56ca4c0a92a02_master.png",
+    "page": "https://phuquangkts.vn/products/hollyland-lark-m2-combo",
+    "kind": "product_angle",
+    "width": 2048,
+    "height": 1398
+  },
+  {
+    "file": "product_angle_2.jpg",
+    "url": "https://cdn.hollyland.com/file/product/6301/choosev2/closer-combo-black-product-pe.png",
+    "page": "https://www.hollyland.com/product/lark-m2",
+    "kind": "product_angle",
+    "width": 750,
+    "height": 1000
+  },
+  {
+    "file": "product_angle_3.jpg",
+    "url": "https://cdn.hollyland.com/file/product/6301/choosev2/closer-combo-white-product-pe.png",
+    "page": "https://www.hollyland.com/product/lark-m2",
+    "kind": "product_angle",
+    "width": 750,
+    "height": 1000
+  },
+  {
+    "file": "product_angle_4.jpg",
+    "url": "https://cdn.hollyland.com/file/product/6301/choosev2/closer-mini-combo-black-product-pe.png",
+    "page": "https://www.hollyland.com/product/lark-m2",
+    "kind": "product_angle",
+    "width": 750,
+    "height": 1000
+  },
+  {
+    "file": "product_angle_5.jpg",
+    "url": "https://cdn.hollyland.com/file/product/6301/choosev2/closer-mobile-lightning-black-product-pe.png",
+    "page": "https://www.hollyland.com/product/lark-m2",
+    "kind": "product_angle",
+    "width": 750,
+    "height": 1000
+  },
+  {
+    "file": "product_angle_6.jpg",
+    "url": "https://cdn.hollyland.com/file/product/6301/choosev2/closer-mobile-lightning-white-product-pe.png",
+    "page": "https://www.hollyland.com/product/lark-m2",
+    "kind": "product_angle",
+    "width": 750,
+    "height": 1000
+  },
+  {
+    "file": "product_angle_7.jpg",
+    "url": "https://cdn.hollyland.com/file/product/6301/choosev2/closer-mobile-usbc-black-product-pe.png",
+    "page": "https://www.hollyland.com/product/lark-m2",
+    "kind": "product_angle",
+    "width": 750,
+    "height": 1000
+  },
+  {
+    "file": "product_angle_8.jpg",
+    "url": "https://cdn.hollyland.com/file/product/6301/choosev2/closer-mobile-usbc-white-product-pe.png",
+    "page": "https://www.hollyland.com/product/lark-m2",
+    "kind": "product_angle",
+    "width": 750,
+    "height": 1000
+  }
+]

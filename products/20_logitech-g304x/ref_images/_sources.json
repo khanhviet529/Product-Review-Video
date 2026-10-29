@@ -1,0 +1,82 @@
+[
+  {
+    "file": "product_main.jpg",
+    "url": "https://cdn-files.hacom.vn/hacom/cdn/web/30092026/chuot-khong-day-logitech-g304-x-den-1.jpg",
+    "page": "https://hacom.vn/chuot-khong-day-logitech-g304-x-den-melo0276",
+    "kind": "product_main",
+    "width": 850,
+    "height": 850
+  },
+  {
+    "file": "product_angle_1.jpg",
+    "url": "https://cdn-files.hacom.vn/hacom/cdn/web/30092026/chuot-khong-day-logitech-g304-x-den-2.jpg",
+    "page": "https://hacom.vn/chuot-khong-day-logitech-g304-x-den-melo0276",
+    "kind": "product_angle",
+    "width": 850,
+    "height": 850
+  },
+  {
+    "file": "product_main_2.jpg",
+    "url": "https://cdn2.fptshop.com.vn/unsafe/1920x0/filters:format(webp):quality(75)/chuot_gaming_khong_day_logitech_g304_x_lightspeed_den_1_0465d373e5.jpg",
+    "page": "https://fptshop.com.vn/phu-kien/chuot-gaming-khong-day-logitech-g304-x-lightspeed",
+    "kind": "product_main",
+    "width": 1920,
+    "height": 1920
+  },
+  {
+    "file": "product_angle_2.jpg",
+    "url": "https://resource.logitechg.com/c_fill,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/gaming/og-fallback.jpg",
+    "page": "https://www.logitechg.com/en-us/shop/p/g304x-lightspeed-wireless-gaming-mouse",
+    "kind": "product_angle",
+    "width": 1200,
+    "height": 630
+  },
+  {
+    "file": "product_angle_3.jpg",
+    "url": "https://resource.logitechg.com/c_fill,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/gaming/en/products/g304-x-lightspeed-pdp/2026-update/gallery/pink/g304-x-pink-top-angle-gallery-1.png",
+    "page": "https://www.logitechg.com/en-us/shop/p/g304x-lightspeed-wireless-gaming-mouse",
+    "kind": "product_angle",
+    "width": 2500,
+    "height": 2160
+  },
+  {
+    "file": "product_angle_4.jpg",
+    "url": "https://resource.logitechg.com/c_fill,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/gaming/en/products/g304-x-lightspeed-pdp/2026-update/gallery/pink/g304-x-pink-profile-angle-gallery-4.png",
+    "page": "https://www.logitechg.com/en-us/shop/p/g304x-lightspeed-wireless-gaming-mouse",
+    "kind": "product_angle",
+    "width": 2500,
+    "height": 2160
+  },
+  {
+    "file": "product_angle_5.jpg",
+    "url": "https://resource.logitechg.com/c_fill,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/gaming/en/products/g304-x-lightspeed-pdp/2026-update/gallery/pink/g304-x-pink-3qtr-high-back-angle-gallery-5.png",
+    "page": "https://www.logitechg.com/en-us/shop/p/g304x-lightspeed-wireless-gaming-mouse",
+    "kind": "product_angle",
+    "width": 2500,
+    "height": 2160
+  },
+  {
+    "file": "product_angle_6.jpg",
+    "url": "https://resource.logitechg.com/c_fill,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/gaming/en/products/g304-x-lightspeed-pdp/2026-update/gallery/pink/g304-x-pink-3qtr-top-angle-gallery-6.png",
+    "page": "https://www.logitechg.com/en-us/shop/p/g304x-lightspeed-wireless-gaming-mouse",
+    "kind": "product_angle",
+    "width": 2500,
+    "height": 2160
+  },
+  {
+    "file": "product_angle_7.jpg",
+    "url": "https://resource.logitechg.com/c_fill,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/gaming/en/products/g304-x-lightspeed-pdp/2026-update/gallery/pink/g304-x-pink-3qtr-high-front-angle-gallery-7.png",
+    "page": "https://www.logitechg.com/en-us/shop/p/g304x-lightspeed-wireless-gaming-mouse",
+    "kind": "product_angle",
+    "width": 2500,
+    "height": 2160
+  },
+  {
+    "file": "product_angle_8.jpg",
+    "url": "https://cdn2.fptshop.com.vn/unsafe/chuot_gaming_khong_day_logitech_g304_x_lightspeed_den_1_0465d373e5.jpg",
+    "page": "https://fptshop.com.vn/phu-kien/chuot-gaming-khong-day-logitech-g304-x-lightspeed",
+    "kind": "product_angle",
+    "width": 800,
+    "height": 800
+  }
+]

@@ -1,0 +1,27 @@
+# Virtual Environment
+.venv/
+venv/
+ENV/
+
+# Chrome user profile and session data (SENSITIVE - contains cookies and logins)
+tools/chrome_profile/
+tools/flow/_upload/
+
+# Video outputs and temporary clips
+inbox/
+final/*.mp4
+products/**/raw/
+products/**/clean/
+*.mp4
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.log
+
+# OS / Editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

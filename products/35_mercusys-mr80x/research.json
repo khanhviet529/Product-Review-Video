@@ -1,0 +1,243 @@
+{
+  "id": "35",
+  "slug": "35_mercusys-mr80x",
+  "status": "xac_minh",
+  "chosen_model": "Mercusys MR80X AX3000 Wi-Fi 6 băng tần kép",
+  "alternatives_rejected": [
+    {
+      "model": "TP-Link Deco X20",
+      "reason": "Không nghiên cứu; slug và đề tài chọn MR80X, và Deco là bộ mesh khác loại, giá cao hơn (chưa xác minh)."
+    }
+  ],
+  "official_page": "https://www.mercusys.com/en/product/details/mr80x",
+  "price_vnd": {
+    "low": 990000,
+    "high": 1230000,
+    "as_of": "2026-10-22",
+    "sources": [
+      "src2",
+      "src3",
+      "src4"
+    ],
+    "confidence": "vua"
+  },
+  "specs": [
+    {
+      "id": "s1",
+      "key": "Chuẩn Wi-Fi",
+      "value_vi": "Wi-Fi 6 băng tần kép AX3000",
+      "condition": "",
+      "source": "src1",
+      "confidence": "cao"
+    },
+    {
+      "id": "s2",
+      "key": "Tốc độ băng 5 GHz",
+      "value_vi": "2402 Mbps",
+      "condition": "tốc độ kết nối vật lý, thực tế khác",
+      "source": "src1",
+      "confidence": "cao"
+    },
+    {
+      "id": "s3",
+      "key": "Tốc độ băng 2.4 GHz",
+      "value_vi": "574 Mbps",
+      "condition": "tốc độ kết nối vật lý, thực tế khác",
+      "source": "src1",
+      "confidence": "cao"
+    },
+    {
+      "id": "s4",
+      "key": "Độ rộng kênh",
+      "value_vi": "Tối đa 160 MHz",
+      "condition": "",
+      "source": "src1",
+      "confidence": "cao"
+    },
+    {
+      "id": "s5",
+      "key": "Ăng-ten",
+      "value_vi": "4 ăng-ten ngoài, 5 dBi",
+      "condition": "",
+      "source": "src1",
+      "confidence": "cao"
+    },
+    {
+      "id": "s6",
+      "key": "Cổng",
+      "value_vi": "1 WAN gigabit, 3 LAN gigabit",
+      "condition": "",
+      "source": "src1",
+      "confidence": "cao"
+    },
+    {
+      "id": "s7",
+      "key": "Mesh",
+      "value_vi": "Tương thích EasyMesh, ghép với AP EasyMesh của nhiều hãng",
+      "condition": "không phải bộ mesh nhiều nút đi kèm",
+      "source": "src1",
+      "confidence": "cao"
+    },
+    {
+      "id": "s8",
+      "key": "Ứng dụng",
+      "value_vi": "Mercusys (iOS/Android): cài đặt, quản lý thiết bị, QoS, mạng khách, kiểm soát phụ huynh",
+      "condition": "",
+      "source": "src1",
+      "confidence": "cao"
+    },
+    {
+      "id": "s9",
+      "key": "Vùng phủ",
+      "value_vi": "Trang hãng không đưa số liệu diện tích",
+      "condition": "",
+      "source": "src1",
+      "confidence": "vua"
+    },
+    {
+      "id": "s10",
+      "key": "Thiếu cổng/chế độ",
+      "value_vi": "Không có USB, không có chế độ repeater",
+      "condition": "theo đánh giá Blacktubi (05/2022)",
+      "source": "src5",
+      "confidence": "vua"
+    },
+    {
+      "id": "s11",
+      "key": "Băng 2.4 GHz",
+      "value_vi": "Chậm hơn băng 5 GHz",
+      "condition": "theo đánh giá Blacktubi",
+      "source": "src5",
+      "confidence": "vua"
+    },
+    {
+      "id": "s12",
+      "key": "Kích thước/khối lượng",
+      "value_vi": "208,8 x 171,6 x 41,7 mm; 370 g",
+      "condition": "",
+      "source": "src2",
+      "confidence": "cao"
+    },
+    {
+      "id": "s13",
+      "key": "Giá",
+      "value_vi": "990.000 - 1.230.000 đ",
+      "condition": "TGDD 990.000, Phong Vũ 1.090.000, CellphoneS 1.230.000",
+      "source": "src2",
+      "confidence": "vua"
+    },
+    {
+      "id": "s14",
+      "key": "Bảo hành",
+      "value_vi": "2 năm chính hãng",
+      "condition": "theo TGDD; ngoài ra cam kết 12 tháng đổi tại siêu thị",
+      "source": "src2",
+      "confidence": "cao"
+    }
+  ],
+  "strengths": [
+    {
+      "text": "Wi-Fi 6 AX3000 giá thấp, kênh 160 MHz, 4 ăng-ten.",
+      "source": "src1"
+    },
+    {
+      "text": "Đánh giá Blacktubi chấm 8,5/10: rẻ, hiệu năng ổn, firmware ổn định; có thể dùng làm access point.",
+      "source": "src5"
+    },
+    {
+      "text": "Tương thích EasyMesh, có ứng dụng quản lý.",
+      "source": "src1"
+    }
+  ],
+  "caveats": [
+    {
+      "text": "Không có USB, không có chế độ repeater; kiểm soát phụ huynh cơ bản.",
+      "source": "src5"
+    },
+    {
+      "text": "Hãng không nêu diện tích phủ; một router có thể không phủ hết nhà nhiều tầng.",
+      "source": "src1"
+    },
+    {
+      "text": "Băng 2.4 GHz chậm hơn 5 GHz.",
+      "source": "src5"
+    }
+  ],
+  "sources": [
+    {
+      "id": "src1",
+      "url": "https://www.mercusys.com/en/product/details/mr80x",
+      "title": "Mercusys - MR80X",
+      "type": "chinh_hang"
+    },
+    {
+      "id": "src2",
+      "url": "https://www.thegioididong.com/thiet-bi-mang/router-wifi-chuan-wifi-6-ax3000-mercusys-mr80x",
+      "title": "Thế Giới Di Động - Router Wi-Fi 6 AX3000 Mercusys MR80X",
+      "type": "cua_hang"
+    },
+    {
+      "id": "src3",
+      "url": "https://phongvu.vn/thiet-bi-mang-router-wi-fi-6-mercusys-mr80x-bang-tan-kep-ax3000--s250203221",
+      "title": "Phong Vũ - Router Wi-Fi 6 Mercusys MR80X",
+      "type": "cua_hang"
+    },
+    {
+      "id": "src4",
+      "url": "https://cellphones.com.vn/router-wifi-6-mercusys-mr80x-ax3000.html",
+      "title": "CellphoneS - Router Wifi 6 Mercusys MR80X AX3000",
+      "type": "cua_hang"
+    },
+    {
+      "id": "src5",
+      "url": "https://www.blacktubi.com/review/mercusys-mr80x",
+      "title": "Blacktubi - Mercusys MR80X review",
+      "type": "danh_gia"
+    }
+  ],
+  "unverified": [
+    "Bán kính phủ sóng 22 m và tối đa 60 thiết bị trên TGDD: số mơ hồ, không dùng.",
+    "Phiên bản phần cứng V2 (Qualcomm) và V3 (MediaTek) theo bình luận Blacktubi: chưa xác minh bản nào đang bán ở Việt Nam.",
+    "Màu: CellphoneS ghi đen; trang hãng không mô tả.",
+    "Không tìm được đánh giá tiếng Việt chi tiết; đánh giá độc lập duy nhất là Blacktubi (2022).",
+    "MR80X là router đơn, không phải bộ mesh: nhà ống cần thêm thiết bị EasyMesh để mở rộng."
+  ],
+  "product_visual_description": "A black Mercusys MR80X Wi-Fi 6 desktop router, 208.8 x 171.6 x 41.7 mm, with four fixed external antennas, one WPS/Reset button, one LED, one WAN and three LAN ports; plain design.",
+  "ref_image_candidates": [
+    {
+      "url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/r/o/router-wifi-6-mercusys-mr80x-ax3000_1_.png",
+      "page": "https://cellphones.com.vn/router-wifi-6-mercusys-mr80x-ax3000.html",
+      "kind": "product_main"
+    },
+    {
+      "url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/r/o/router-wifi-6-mercusys-mr80x-ax3000_2_.png",
+      "page": "https://cellphones.com.vn/router-wifi-6-mercusys-mr80x-ax3000.html",
+      "kind": "product_angle"
+    },
+    {
+      "url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/r/o/router-wifi-6-mercusys-mr80x-ax3000_3_.png",
+      "page": "https://cellphones.com.vn/router-wifi-6-mercusys-mr80x-ax3000.html",
+      "kind": "product_angle"
+    },
+    {
+      "url": "https://static.mercusys.com/product-image/MR80X_EU_2.0_01_large20220222075956.jpg",
+      "page": "https://www.mercusys.com/en/product/details/mr80x",
+      "kind": "product_main"
+    },
+    {
+      "url": "https://static.mercusys.com/product-image/MR80X_EU_2.0_02_large20220222080022.jpg",
+      "page": "https://www.mercusys.com/en/product/details/mr80x",
+      "kind": "product_angle"
+    },
+    {
+      "url": "https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/4727/360322/router-wifi-chuan-wifi-6-ax3000-mercusys-mr80x-1-639017410598222346.jpg",
+      "page": "https://www.thegioididong.com/thiet-bi-mang/router-wifi-chuan-wifi-6-ax3000-mercusys-mr80x",
+      "kind": "product_main"
+    }
+  ],
+  "takeaway": "Cần Wi-Fi 6 giá mềm cho nhà vừa thì MR80X đáng xem; nhà ống nhiều tầng thì nên tính thêm thiết bị mesh hoặc mở rộng vì hãng không nêu vùng phủ.",
+  "buyer_personas": [
+    "Nhà ống/căn hộ cần nâng cấp lên Wi-Fi 6 với ngân sách thấp",
+    "Người cần router phụ hoặc access point Wi-Fi 6 rẻ"
+  ]
+}

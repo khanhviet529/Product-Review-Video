@@ -1,0 +1,82 @@
+[
+  {
+    "file": "product_main.jpg",
+    "url": "https://www.ugreen.com/cdn/shop/files/8e0e0f8e5651f732787b1969d04599f7.png?v=1768463903&width=1445",
+    "page": "https://www.ugreen.com/vi-vn/products/vn-10334",
+    "kind": "product_main",
+    "width": 1200,
+    "height": 1200
+  },
+  {
+    "file": "product_angle_1.jpg",
+    "url": "https://www.ugreen.com/cdn/shop/files/61l_rvyzMaL_661246b7-5224-4922-996f-99e4e3b8cd49.jpg?v=1768463903&width=1445",
+    "page": "https://www.ugreen.com/vi-vn/products/vn-10334",
+    "kind": "product_angle",
+    "width": 1200,
+    "height": 1600
+  },
+  {
+    "file": "product_angle_2.jpg",
+    "url": "https://www.ugreen.com/cdn/shop/files/713-1BdmPML_125439b2-70c6-44c2-8b62-3b7e7f7074cd.jpg?v=1768463903&width=1445",
+    "page": "https://www.ugreen.com/vi-vn/products/vn-10334",
+    "kind": "product_angle",
+    "width": 1200,
+    "height": 1600
+  },
+  {
+    "file": "product_main_2.jpg",
+    "url": "https://ugreen.vn/wp-content/uploads/2022/08/cu-sac-nhanh-65w-gan-ugreen-cd244.jpg",
+    "page": "https://ugreen.vn/cu-sac-nhanh-65w-gan-ugreen-cd244",
+    "kind": "product_main",
+    "width": 1000,
+    "height": 1000
+  },
+  {
+    "file": "product_angle_3.jpg",
+    "url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/b/o/bo-sac-nhanh-65w-2c-1a-eu-gan-ugreen-cd244-10335.jpg",
+    "page": "https://cellphones.com.vn/cu-sac-nhanh-ugreen-gan-nexode-3-cong-eu-65w-cd244-10335.html",
+    "kind": "product_angle",
+    "width": 1000,
+    "height": 1000
+  },
+  {
+    "file": "product_angle_4.jpg",
+    "url": "https://www.ugreen.com/cdn/shop/files/c7ffaeb1dbbe89bde146fbdeaeb1194c_5729e156-8510-4775-8166-69ec1df07126.png?v=1768463852&width=1200",
+    "page": "https://www.ugreen.com/vi-vn/products/vn-10334",
+    "kind": "product_angle",
+    "width": 1200,
+    "height": 1200
+  },
+  {
+    "file": "product_angle_5.jpg",
+    "url": "https://www.ugreen.com/cdn/shop/files/14b9b57f7f9c280c1d6d0f88d41ae143.png?v=1768463862&width=1200",
+    "page": "https://www.ugreen.com/vi-vn/products/vn-10334",
+    "kind": "product_angle",
+    "width": 1200,
+    "height": 1200
+  },
+  {
+    "file": "product_angle_6.jpg",
+    "url": "https://www.ugreen.com/cdn/shop/files/e30237c65bf10f62935b039cf144ab01.png?v=1768463890&width=1200",
+    "page": "https://www.ugreen.com/vi-vn/products/vn-10334",
+    "kind": "product_angle",
+    "width": 1200,
+    "height": 1200
+  },
+  {
+    "file": "product_angle_7.jpg",
+    "url": "https://www.ugreen.com/cdn/shop/files/ed2cc454b2b83b3468832cdeeb86f362_3969e9b5-4671-4372-996f-139bd88502b1.png?v=1768463940&width=1200",
+    "page": "https://www.ugreen.com/vi-vn/products/vn-10334",
+    "kind": "product_angle",
+    "width": 1200,
+    "height": 1200
+  },
+  {
+    "file": "product_angle_8.jpg",
+    "url": "https://www.ugreen.com/cdn/shop/files/e8f79d693941685ed9590cd957ef610f_eec80574-c226-4347-93f8-2127e6b9295c.png?v=1768463990&width=1200",
+    "page": "https://www.ugreen.com/vi-vn/products/vn-10334",
+    "kind": "product_angle",
+    "width": 1200,
+    "height": 1200
+  }
+]

@@ -1,0 +1,238 @@
+{
+  "product_id": "22",
+  "slug": "22_aula-f75",
+  "model": "AULA F75 bản 3 chế độ không dây, switch Milk White (mã HACOM KBAU0155)",
+  "presenter": "M",
+  "takeaway": "Cần bàn phím cơ không dây, hotswap, gõ êm mà giá dưới một triệu thì AULA F75 hợp; dùng macOS nhiều hoặc cần đồ bền chắc cao cấp thì cân nhắc loại khác.",
+  "target_seconds": 88,
+  "clips": [
+    {
+      "n": 1,
+      "code": "P22C01",
+      "role": "hook",
+      "narration_vi": "Cần bàn phím cơ không dây, đổi switch, giá dưới một triệu thì Aula F75 đáng xem. Dùng Mac thì cân nhắc.",
+      "facts_used": [
+        "s1",
+        "s4",
+        "s9",
+        "s12"
+      ],
+      "camera": "push in",
+      "camera_reason": "tiến vào người nói để mở đầu bằng câu trả lời ngắn",
+      "first_frame": "seated at the desk facing the camera, the AULA F75 bản 3 chế độ không dây resting on the desk beside him, relaxed upright posture",
+      "motion": "slow push in toward his face as he starts speaking, he glances at the product then back to the lens",
+      "last_frame": "tighter on his face and shoulders, product still visible at the lower edge of the frame",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P22C01. Vertical 9:16, 8 seconds, photorealistic, medium close-up. First frame: seated at the desk facing the camera, the AULA F75 bản 3 chế độ không dây resting on the desk beside him, relaxed upright posture. Motion: slow push in toward his face as he starts speaking, he glances at the product then back to the lens. Last frame: tighter on his face and shoulders, product still visible at the lower edge of the frame. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Cần bàn phím cơ không dây, đổi switch, giá dưới một triệu thì Aula F75 đáng xem. Dùng Mac thì cân nhắc.\" He is the AULA F75 bản 3 chế độ không dây on the desk within reach; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P22C01. Vertical 9:16, 8 seconds, photorealistic, medium shot. First frame: He sits centered facing the camera, the keyboard (the exact product shown in the reference image) on the desk. Motion: slow push in toward his face as he speaks. Last frame: tight on his face. a handsome young Vietnamese man in his mid-20s, textured black quiff hairstyle, clear skin, sharp jawline, bright confident smile, athletic build, olive bomber jacket over a white t-shirt, upbeat energetic expression, seated in a bright modern minimalist desk studio, light oak desk, soft natural window light from the left, plain warm-white wall, shallow depth of field. He says in Vietnamese, in a natural friendly tone: \"Cần bàn phím cơ không dây, đổi switch, giá dưới một triệu thì Aula F75 đáng xem. Dùng Mac thì cân nhắc.\" No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+    },
+    {
+      "n": 2,
+      "code": "P22C02",
+      "role": "feature",
+      "narration_vi": "Layout bảy mươi lăm phần trăm, tám mươi phím, có núm xoay chỉnh âm lượng. Gọn hơn bàn đầy đủ.",
+      "facts_used": [
+        "s1",
+        "s8"
+      ],
+      "camera": "push in",
+      "camera_reason": "tiến vào đúng chi tiết sản phẩm đang nói đến",
+      "first_frame": "seated at the desk, one hand lifting the AULA F75 bản 3 chế độ không dây toward the camera at chest height",
+      "motion": "slow push in on the product in his open palm while he keeps eye contact with the lens",
+      "last_frame": "product held close to the lens in sharp focus, his face softly blurred behind it",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P22C02. Vertical 9:16, 8 seconds, photorealistic, medium close-up. First frame: seated at the desk, one hand lifting the AULA F75 bản 3 chế độ không dây toward the camera at chest height. Motion: slow push in on the product in his open palm while he keeps eye contact with the lens. Last frame: product held close to the lens in sharp focus, his face softly blurred behind it. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Layout bảy mươi lăm phần trăm, tám mươi phím, có núm xoay chỉnh âm lượng. Gọn hơn bàn đầy đủ.\" He is holding the AULA F75 bản 3 chế độ không dây in his open palm; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P22C02. Vertical 9:16, 8 seconds, photorealistic, top-down product shot, 50mm lens. First frame: The whole keyboard centered on the oak desk seen from above. Motion: Slow dolly in toward the round knob at the top right corner, RGB light pulsing softly. Last frame: Close view of the knob and the nearby function keys. The product is the exact product shown in the reference image: a 75 percent mechanical keyboard with a black case, black and grey two-tone keycaps, RGB glow around the keys, and a round metal volume knob at the top right. Voice-over by the presenter, off-screen, speaking Vietnamese in a natural friendly tone: \"Layout bảy mươi lăm phần trăm, tám mươi phím, có núm xoay chỉnh âm lượng. Gọn hơn bàn đầy đủ.\" No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+    },
+    {
+      "n": 3,
+      "code": "P22C03",
+      "role": "feature",
+      "narration_vi": "Ba cách kết nối: hai chấm bốn gi-ga-héc, Bluetooth và cắm dây USB-C. Bluetooth ghép được ba thiết bị.",
+      "facts_used": [
+        "s2"
+      ],
+      "camera": "rack focus",
+      "camera_reason": "chuyển nét từ sản phẩm sang người nói để nối chi tiết với đánh giá",
+      "first_frame": "face and shoulders, one hand bringing the AULA F75 bản 3 chế độ không dây up next to his cheek",
+      "motion": "rack focus from the product beside his cheek to his eyes, he turns slightly toward the lens",
+      "last_frame": "sharp on his face, product soft beside his cheek",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P22C03. Vertical 9:16, 8 seconds, photorealistic, close-up. First frame: face and shoulders, one hand bringing the AULA F75 bản 3 chế độ không dây up next to his cheek. Motion: rack focus from the product beside his cheek to his eyes, he turns slightly toward the lens. Last frame: sharp on his face, product soft beside his cheek. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Ba cách kết nối: hai chấm bốn gi-ga-héc, Bluetooth và cắm dây USB-C. Bluetooth ghép được ba thiết bị.\" He is showing the AULA F75 bản 3 chế độ không dây beside his face; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P22C03. Vertical 9:16, 8 seconds, photorealistic, medium product shot at 30 degrees, 50mm lens. First frame: The keyboard at a three-quarter angle on the desk, a laptop and a smartphone resting beside it. Motion: Slow orbit around the keyboard to its top edge while a hand plugs in a USB-C cable. Last frame: The keyboard from the back-left angle with the cable plugged in. The product is the exact product shown in the reference image: a 75 percent mechanical keyboard with a black case, black and grey two-tone keycaps, RGB glow around the keys, and a round metal volume knob at the top right. Voice-over by the presenter, off-screen, speaking Vietnamese in a natural friendly tone: \"Ba cách kết nối: hai chấm bốn gi-ga-héc, Bluetooth và cắm dây USB-C. Bluetooth ghép được ba thiết bị.\" No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+    },
+    {
+      "n": 4,
+      "code": "P22C04",
+      "role": "feature",
+      "narration_vi": "Pin bốn nghìn mi-li-am-pe giờ. Quảng cáo hai trăm sáu mươi sáu giờ nếu tắt đèn, mười bảy giờ rưỡi nếu bật.",
+      "facts_used": [
+        "s5",
+        "s6"
+      ],
+      "camera": "dolly in",
+      "camera_reason": "lại gần dần để tạo cảm giác trò chuyện trực tiếp",
+      "first_frame": "seated at the desk, both hands holding the AULA F75 bản 3 chế độ không dây at table height, looking down at it",
+      "motion": "he looks up at the camera mid-sentence while the camera does a slow dolly in",
+      "last_frame": "closer on his face with both hands and the product still in frame",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P22C04. Vertical 9:16, 8 seconds, photorealistic, medium shot. First frame: seated at the desk, both hands holding the AULA F75 bản 3 chế độ không dây at table height, looking down at it. Motion: he looks up at the camera mid-sentence while the camera does a slow dolly in. Last frame: closer on his face with both hands and the product still in frame. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Pin bốn nghìn mi-li-am-pe giờ. Quảng cáo hai trăm sáu mươi sáu giờ nếu tắt đèn, mười bảy giờ rưỡi nếu bật.\" He is turning the AULA F75 bản 3 chế độ không dây in both hands; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P22C04. Vertical 9:16, 8 seconds, photorealistic, side-angle product shot, 50mm lens. First frame: The top edge of the keyboard at left of frame, RGB glow on the keys. Motion: Slow pan left to right along the top edge to the USB-C port. Last frame: The USB-C port area centered in frame. The product is the exact product shown in the reference image: a 75 percent mechanical keyboard with a black case, black and grey two-tone keycaps, RGB glow around the keys, and a round metal volume knob at the top right. Voice-over by the presenter, off-screen, speaking Vietnamese in a natural friendly tone: \"Pin bốn nghìn mi-li-am-pe giờ. Quảng cáo hai trăm sáu mươi sáu giờ nếu tắt đèn, mười bảy giờ rưỡi nếu bật.\" No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+    },
+    {
+      "n": 5,
+      "code": "P22C05",
+      "role": "feature",
+      "narration_vi": "Cấu trúc gasket mount. Một bài đánh giá độc lập khen tiếng gõ, dù bản thử dùng switch khác.",
+      "facts_used": [
+        "s3",
+        "s11"
+      ],
+      "camera": "pan",
+      "camera_reason": "lia từ thiết bị sang người nói để cho thấy cách dùng thực tế",
+      "first_frame": "standing near the window, the AULA F75 bản 3 chế độ không dây in one hand and a smartphone in the other",
+      "motion": "slow pan from the phone in his hand across to his face as he speaks",
+      "last_frame": "centred on his face, phone and product low in the frame",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P22C05. Vertical 9:16, 8 seconds, photorealistic, medium shot. First frame: standing near the window, the AULA F75 bản 3 chế độ không dây in one hand and a smartphone in the other. Motion: slow pan from the phone in his hand across to his face as he speaks. Last frame: centred on his face, phone and product low in the frame. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Cấu trúc gasket mount. Một bài đánh giá độc lập khen tiếng gõ, dù bản thử dùng switch khác.\" He is holding the AULA F75 bản 3 chế độ không dây and a phone; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P22C05. Vertical 9:16, 8 seconds, photorealistic, macro close-up, 100mm lens. First frame: Close view of keycaps in the middle of the keyboard, fingers hovering above them. Motion: Macro shot as fingers press several keys in a slow rhythm, keycaps travel down and up. Last frame: Close on the keycaps with fingers resting above them. The product is the exact product shown in the reference image: a 75 percent mechanical keyboard with a black case, black and grey two-tone keycaps, RGB glow around the keys, and a round metal volume knob at the top right. Voice-over by the presenter, off-screen, speaking Vietnamese in a natural friendly tone: \"Cấu trúc gasket mount. Một bài đánh giá độc lập khen tiếng gõ, dù bản thử dùng switch khác.\" No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+    },
+    {
+      "n": 6,
+      "code": "P22C06",
+      "role": "feature",
+      "narration_vi": "Hot-swap năm chân, tự thay switch không cần hàn. Keycap PBT hai lớp, switch bền đến sáu mươi triệu lần nhấn.",
+      "facts_used": [
+        "s4",
+        "s3"
+      ],
+      "camera": "pull back",
+      "camera_reason": "mở rộng khung hình để thấy quy mô sản phẩm so với người",
+      "first_frame": "seated at the desk, the AULA F75 bản 3 chế độ không dây held out toward the camera at arm's length",
+      "motion": "he draws the product back toward himself as the camera pulls back to reveal the desk",
+      "last_frame": "wider shot of him at the desk, product held at chest height",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P22C06. Vertical 9:16, 8 seconds, photorealistic, medium close-up. First frame: seated at the desk, the AULA F75 bản 3 chế độ không dây held out toward the camera at arm's length. Motion: he draws the product back toward himself as the camera pulls back to reveal the desk. Last frame: wider shot of him at the desk, product held at chest height. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Hot-swap năm chân, tự thay switch không cần hàn. Keycap PBT hai lớp, switch bền đến sáu mươi triệu lần nhấn.\" He is pulling the AULA F75 bản 3 chế độ không dây back from the lens; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P22C06. Vertical 9:16, 8 seconds, photorealistic, macro close-up, 100mm lens. First frame: Sharp focus on a few keycaps, a single switch lying out of focus on the desk beside them. Motion: Rack focus from the keycaps to the loose switch; a hand slides a keycap puller into frame. Last frame: Sharp focus on the loose switch, keycaps soft. The product is the exact product shown in the reference image: a 75 percent mechanical keyboard with a black case, black and grey two-tone keycaps, RGB glow around the keys, and a round metal volume knob at the top right. Voice-over by the presenter, off-screen, speaking Vietnamese in a natural friendly tone: \"Hot-swap năm chân, tự thay switch không cần hàn. Keycap PBT hai lớp, switch bền đến sáu mươi triệu lần nhấn.\" No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+    },
+    {
+      "n": 7,
+      "code": "P22C07",
+      "role": "feature",
+      "narration_vi": "Bản ba chế độ giá chín trăm bốn mươi chín nghìn. Bản có dây từ sáu trăm chín mươi chín nghìn đồng.",
+      "facts_used": [
+        "s9",
+        "s10"
+      ],
+      "camera": "push in",
+      "camera_reason": "tiến vào đúng chi tiết sản phẩm đang nói đến",
+      "first_frame": "seated at the desk, one hand lifting the AULA F75 bản 3 chế độ không dây toward the camera at chest height",
+      "motion": "slow push in on the product in his open palm while he keeps eye contact with the lens",
+      "last_frame": "product held close to the lens in sharp focus, his face softly blurred behind it",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P22C07. Vertical 9:16, 8 seconds, photorealistic, medium close-up. First frame: seated at the desk, one hand lifting the AULA F75 bản 3 chế độ không dây toward the camera at chest height. Motion: slow push in on the product in his open palm while he keeps eye contact with the lens. Last frame: product held close to the lens in sharp focus, his face softly blurred behind it. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Bản ba chế độ giá chín trăm bốn mươi chín nghìn. Bản có dây từ sáu trăm chín mươi chín nghìn đồng.\" He is holding the AULA F75 bản 3 chế độ không dây in his open palm; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P22C07. Vertical 9:16, 8 seconds, photorealistic, medium product shot, 50mm lens. First frame: The keyboard centered on the desk with RGB glow, soft light from the left. Motion: Slow push in toward the center of the keyboard while the RGB light cycles slowly. Last frame: Closer view of the keys with RGB glow. The product is the exact product shown in the reference image: a 75 percent mechanical keyboard with a black case, black and grey two-tone keycaps, RGB glow around the keys, and a round metal volume knob at the top right. Voice-over by the presenter, off-screen, speaking Vietnamese in a natural friendly tone: \"Bản ba chế độ giá chín trăm bốn mươi chín nghìn. Bản có dây từ sáu trăm chín mươi chín nghìn đồng.\" No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+    },
+    {
+      "n": 8,
+      "code": "P22C08",
+      "role": "caveat",
+      "narration_vi": "Đổi lại, bàn này hợp Windows hơn. Không có phím Command bên phải, nên người dùng Mac sẽ thiếu vài phím tắt.",
+      "facts_used": [
+        "s12"
+      ],
+      "camera": "dolly in",
+      "camera_reason": "tiến gần để nhấn vào điểm cần cân nhắc một cách thẳng thắn",
+      "first_frame": "seated at the desk, thoughtful expression, the AULA F75 bản 3 chế độ không dây held loosely in one hand",
+      "motion": "slow dolly in as he tilts his head slightly and raises his eyebrows while speaking",
+      "last_frame": "closer on his face, product lowered out of focus",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P22C08. Vertical 9:16, 8 seconds, photorealistic, medium close-up. First frame: seated at the desk, thoughtful expression, the AULA F75 bản 3 chế độ không dây held loosely in one hand. Motion: slow dolly in as he tilts his head slightly and raises his eyebrows while speaking. Last frame: closer on his face, product lowered out of focus. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Đổi lại, bàn này hợp Windows hơn. Không có phím Command bên phải, nên người dùng Mac sẽ thiếu vài phím tắt.\" He is holding the AULA F75 bản 3 chế độ không dây loosely; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P22C08. Vertical 9:16, 8 seconds, photorealistic, close-up, 50mm lens. First frame: The right side of the keyboard near the space bar and arrow keys, upper edge of frame. Motion: Tilt down from the right side of the space bar to the bottom-right keys. Last frame: Close on the bottom-right keys beside the space bar. The product is the exact product shown in the reference image: a 75 percent mechanical keyboard with a black case, black and grey two-tone keycaps, RGB glow around the keys, and a round metal volume knob at the top right. Voice-over by the presenter, off-screen, speaking Vietnamese in a natural friendly tone: \"Đổi lại, bàn này hợp Windows hơn. Không có phím Command bên phải, nên người dùng Mac sẽ thiếu vài phím tắt.\" No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+    },
+    {
+      "n": 9,
+      "code": "P22C09",
+      "role": "caveat",
+      "narration_vi": "Vỏ nhựa, bóp mạnh thì hơi võng, lại nặng hơn một ki-lô-gam. Phím Delete cũng đặt lệch thói quen lúc đầu.",
+      "facts_used": [
+        "s13",
+        "s7"
+      ],
+      "camera": "pull back",
+      "camera_reason": "lùi ra để đặt điểm yếu trong bức tranh chung",
+      "first_frame": "seated at the desk, the AULA F75 bản 3 chế độ không dây set down in front of him, hands open",
+      "motion": "slow pull back as he gestures with one open hand",
+      "last_frame": "wide on him and the desk, product small at the centre of the table",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P22C09. Vertical 9:16, 8 seconds, photorealistic, medium shot. First frame: seated at the desk, the AULA F75 bản 3 chế độ không dây set down in front of him, hands open. Motion: slow pull back as he gestures with one open hand. Last frame: wide on him and the desk, product small at the centre of the table. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Vỏ nhựa, bóp mạnh thì hơi võng, lại nặng hơn một ki-lô-gam. Phím Delete cũng đặt lệch thói quen lúc đầu.\" He is with the AULA F75 bản 3 chế độ không dây on the desk in front of him; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P22C09. Vertical 9:16, 8 seconds, photorealistic, medium wide shot, 35mm lens. First frame: Close view of the keyboard's right edge and Delete key area. Motion: Slow pull back to reveal the full keyboard and a hand lifting one edge slightly. Last frame: Wide view of the keyboard on the desk. The product is the exact product shown in the reference image: a 75 percent mechanical keyboard with a black case, black and grey two-tone keycaps, RGB glow around the keys, and a round metal volume knob at the top right. Voice-over by the presenter, off-screen, speaking Vietnamese in a natural friendly tone: \"Vỏ nhựa, bóp mạnh thì hơi võng, lại nặng hơn một ki-lô-gam. Phím Delete cũng đặt lệch thói quen lúc đầu.\" No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+    },
+    {
+      "n": 10,
+      "code": "P22C10",
+      "role": "fit",
+      "narration_vi": "Hợp sinh viên, người mới chơi phím cơ, dùng Windows. Dùng Mac thì tìm loại khác.",
+      "facts_used": [
+        "s12"
+      ],
+      "camera": "dolly in",
+      "camera_reason": "lại gần như nói chuyện với đúng người cần sản phẩm này",
+      "first_frame": "leaning slightly forward at the desk, the AULA F75 bản 3 chế độ không dây beside him, open friendly posture",
+      "motion": "slow dolly in as he gestures with an open hand toward the camera",
+      "last_frame": "close on his smiling face, product visible at the edge",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P22C10. Vertical 9:16, 8 seconds, photorealistic, medium close-up. First frame: leaning slightly forward at the desk, the AULA F75 bản 3 chế độ không dây beside him, open friendly posture. Motion: slow dolly in as he gestures with an open hand toward the camera. Last frame: close on his smiling face, product visible at the edge. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Hợp sinh viên, người mới chơi phím cơ, dùng Windows. Dùng Mac thì tìm loại khác.\" He is with the AULA F75 bản 3 chế độ không dây beside him; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P22C10. Vertical 9:16, 8 seconds, photorealistic, medium shot. First frame: the keyboard (the exact product shown in the reference image) sharp in the foreground, his face soft behind. Motion: rack focus from the keyboard to his face as he speaks. Last frame: his face sharp. a handsome young Vietnamese man in his mid-20s, textured black quiff hairstyle, clear skin, sharp jawline, bright confident smile, athletic build, olive bomber jacket over a white t-shirt, upbeat energetic expression, seated in a bright modern minimalist desk studio, light oak desk, soft natural window light from the left, plain warm-white wall, shallow depth of field. He says in Vietnamese, in a natural friendly tone: \"Hợp sinh viên, người mới chơi phím cơ, dùng Windows. Dùng Mac thì tìm loại khác.\" No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+    },
+    {
+      "n": 11,
+      "code": "P22C11",
+      "role": "outro",
+      "narration_vi": "Giá mềm, không dây, đổi switch được thì F75 đáng thử. Lưu lại trước khi mua. Bạn dùng phím gì?",
+      "facts_used": [],
+      "camera": "pull back",
+      "camera_reason": "lùi ra khép lại video một cách thân thiện",
+      "first_frame": "seated at the desk, the AULA F75 bản 3 chế độ không dây on the table, bright smile toward the camera",
+      "motion": "slow pull back while he gives a small friendly wave at the end",
+      "last_frame": "wide on him and the desk with the product, warm and relaxed",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P22C11. Vertical 9:16, 8 seconds, photorealistic, medium shot. First frame: seated at the desk, the AULA F75 bản 3 chế độ không dây on the table, bright smile toward the camera. Motion: slow pull back while he gives a small friendly wave at the end. Last frame: wide on him and the desk with the product, warm and relaxed. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Giá mềm, không dây, đổi switch được thì F75 đáng thử. Lưu lại trước khi mua. Bạn dùng phím gì?\" He is with the AULA F75 bản 3 chế độ không dây on the desk; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P22C11. Vertical 9:16, 8 seconds, photorealistic, medium shot. First frame: tight on his face, the keyboard (the exact product shown in the reference image) just visible below. Motion: slow pull back to a wide medium shot. Last frame: wide medium shot of him behind the desk and the keyboard. a handsome young Vietnamese man in his mid-20s, textured black quiff hairstyle, clear skin, sharp jawline, bright confident smile, athletic build, olive bomber jacket over a white t-shirt, upbeat energetic expression, seated in a bright modern minimalist desk studio, light oak desk, soft natural window light from the left, plain warm-white wall, shallow depth of field. He says in Vietnamese, in a natural friendly tone: \"Giá mềm, không dây, đổi switch được thì F75 đáng thử. Lưu lại trước khi mua. Bạn dùng phím gì?\" No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+    }
+  ],
+  "onscreen_presenter": true
+}

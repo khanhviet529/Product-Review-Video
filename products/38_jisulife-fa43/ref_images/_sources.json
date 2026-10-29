@@ -1,0 +1,82 @@
+[
+  {
+    "file": "product_main.jpg",
+    "url": "https://cdn2.fptshop.com.vn/unsafe/1920x0/filters:format(webp):quality(75)/quat_sac_cam_tay_jisulife_fa43_4000mah_4506a279ac.png",
+    "page": "https://fptshop.com.vn/quat/quat-sac-cam-tay-jisulife-fa43-4000mah",
+    "kind": "product_main",
+    "width": 1920,
+    "height": 1920
+  },
+  {
+    "file": "product_angle_1.jpg",
+    "url": "https://cdn2.fptshop.com.vn/unsafe/1920x0/filters:format(webp):quality(75)/quat_sac_cam_tay_jisulife_fa43_4000mah_4_56b6b8eeed.jpg",
+    "page": "https://fptshop.com.vn/quat/quat-sac-cam-tay-jisulife-fa43-4000mah",
+    "kind": "product_angle",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "file": "product_main_2.jpg",
+    "url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/q/u/quat-mini-cam-tay-jisulife-fa43.png",
+    "page": "https://cellphones.com.vn/quat-mini-cam-tay-jisulife-fa43.html",
+    "kind": "product_main",
+    "width": 600,
+    "height": 600
+  },
+  {
+    "file": "product_angle_2.jpg",
+    "url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/q/u/quat-mini-cam-tay-jisulife-fa43_1_.png",
+    "page": "https://cellphones.com.vn/quat-mini-cam-tay-jisulife-fa43.html",
+    "kind": "product_angle",
+    "width": 600,
+    "height": 600
+  },
+  {
+    "file": "product_angle_3.jpg",
+    "url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/q/u/quat-mini-cam-tay-jisulife-fa43_2_.png",
+    "page": "https://cellphones.com.vn/quat-mini-cam-tay-jisulife-fa43.html",
+    "kind": "product_angle",
+    "width": 600,
+    "height": 600
+  },
+  {
+    "file": "product_angle_4.jpg",
+    "url": "https://cdn2.fptshop.com.vn/unsafe/quat_sac_cam_tay_jisulife_fa43_4000mah_4506a279ac.png",
+    "page": "https://fptshop.com.vn/quat/quat-sac-cam-tay-jisulife-fa43-4000mah",
+    "kind": "product_angle",
+    "width": 800,
+    "height": 800
+  },
+  {
+    "file": "product_angle_5.jpg",
+    "url": "https://cdn2.fptshop.com.vn/unsafe/1920x0/filters:format(webp):quality(75)/quat_sac_cam_tay_jisulife_fa43_4000mah_2_8343f5c5e5.jpg",
+    "page": "https://fptshop.com.vn/quat/quat-sac-cam-tay-jisulife-fa43-4000mah",
+    "kind": "product_angle",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "file": "product_angle_6.jpg",
+    "url": "https://cdn2.fptshop.com.vn/unsafe/1920x0/filters:format(webp):quality(75)/quat_sac_cam_tay_jisulife_fa43_4000mah_1_ab60ee1a25.jpg",
+    "page": "https://fptshop.com.vn/quat/quat-sac-cam-tay-jisulife-fa43-4000mah",
+    "kind": "product_angle",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "file": "product_angle_7.jpg",
+    "url": "https://cdn2.fptshop.com.vn/unsafe/1920x0/filters:format(webp):quality(75)/quat_sac_cam_tay_jisulife_fa43_4000mah_3_4c956c0f71.jpg",
+    "page": "https://fptshop.com.vn/quat/quat-sac-cam-tay-jisulife-fa43-4000mah",
+    "kind": "product_angle",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "file": "product_angle_8.jpg",
+    "url": "https://cdn2.fptshop.com.vn/unsafe/1920x0/filters:format(webp):quality(75)/quat_sac_cam_tay_jisulife_fa43_4000mah_5_cd05fe510d.jpg",
+    "page": "https://fptshop.com.vn/quat/quat-sac-cam-tay-jisulife-fa43-4000mah",
+    "kind": "product_angle",
+    "width": 1920,
+    "height": 1080
+  }
+]

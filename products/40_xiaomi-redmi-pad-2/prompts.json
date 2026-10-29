@@ -1,0 +1,228 @@
+{
+  "product_id": "40",
+  "slug": "40_xiaomi-redmi-pad-2",
+  "model": "Xiaomi Redmi Pad 2 WiFi 11 inch, 4GB/128GB",
+  "presenter": "M",
+  "takeaway": "Cần máy tính bảng khoảng sáu triệu đồng để xem phim, học bài, pin lâu thì Redmi Pad 2 hợp; cần màn OLED hoặc chơi game nặng thì chọn máy khác.",
+  "target_seconds": 88,
+  "clips": [
+    {
+      "n": 1,
+      "code": "P40C01",
+      "role": "hook",
+      "narration_vi": "Cần máy tính bảng khoảng sáu triệu đồng xem phim học bài thì Redmi Pad 2 hợp. Chơi game nặng thì chưa.",
+      "facts_used": [
+        "s1",
+        "s7"
+      ],
+      "camera": "push in",
+      "camera_reason": "tiến vào người nói để mở đầu bằng câu trả lời ngắn",
+      "first_frame": "seated at the desk facing the camera, the Xiaomi Redmi Pad 2 WiFi 11 inch resting on the desk beside him, relaxed upright posture",
+      "motion": "slow push in toward his face as he starts speaking, he glances at the product then back to the lens",
+      "last_frame": "tighter on his face and shoulders, product still visible at the lower edge of the frame",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P40C01. Vertical 9:16, 8 seconds, photorealistic, medium close-up. First frame: seated at the desk facing the camera, the Xiaomi Redmi Pad 2 WiFi 11 inch resting on the desk beside him, relaxed upright posture. Motion: slow push in toward his face as he starts speaking, he glances at the product then back to the lens. Last frame: tighter on his face and shoulders, product still visible at the lower edge of the frame. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Cần máy tính bảng khoảng sáu triệu đồng xem phim học bài thì Redmi Pad 2 hợp. Chơi game nặng thì chưa.\" He is the Xiaomi Redmi Pad 2 WiFi 11 inch on the desk within reach; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P40C01. Vertical 9:16, 8 seconds, photorealistic, medium close-up, 50mm. First frame: he faces the camera, the tablet standing on the desk. Motion: camera push in; slow push in, he nods once. Last frame: close on his face, slight smile. A Vietnamese man in his early 30s with short neat black hair, light stubble, black rectangular glasses, wearing a dark navy henley shirt, calm friendly expression in a bright modern minimalist desk studio, light oak desk, soft natural window light from the left, plain warm-white wall, shallow depth of field. He says in Vietnamese, in a natural friendly tone: \"Cần máy tính bảng khoảng sáu triệu đồng xem phim học bài thì Redmi Pad 2 hợp. Chơi game nặng thì chưa.\" The exact product shown in the reference image is on the desk. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+    },
+    {
+      "n": 2,
+      "code": "P40C02",
+      "role": "feature",
+      "narration_vi": "Màn hình mười một inch, độ phân giải hai phẩy năm K, quét chín mươi héc, sáng tối đa sáu trăm nít.",
+      "facts_used": [
+        "s2"
+      ],
+      "camera": "push in",
+      "camera_reason": "tiến vào đúng chi tiết sản phẩm đang nói đến",
+      "first_frame": "seated at the desk, one hand lifting the Xiaomi Redmi Pad 2 WiFi 11 inch toward the camera at chest height",
+      "motion": "slow push in on the product in his open palm while he keeps eye contact with the lens",
+      "last_frame": "product held close to the lens in sharp focus, his face softly blurred behind it",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P40C02. Vertical 9:16, 8 seconds, photorealistic, medium close-up. First frame: seated at the desk, one hand lifting the Xiaomi Redmi Pad 2 WiFi 11 inch toward the camera at chest height. Motion: slow push in on the product in his open palm while he keeps eye contact with the lens. Last frame: product held close to the lens in sharp focus, his face softly blurred behind it. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Màn hình mười một inch, độ phân giải hai phẩy năm K, quét chín mươi héc, sáng tối đa sáu trăm nít.\" He is holding the Xiaomi Redmi Pad 2 WiFi 11 inch in his open palm; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P40C02. Vertical 9:16, 8 seconds, photorealistic, close-up, 50mm. First frame: the tablet lying flat on the desk, screen on, seen from above at an angle. Motion: camera push in; slow push in toward the screen while a hand swipes across it. Last frame: tight on the bright screen with sharp details. The exact product shown in the reference image: a slim 11-inch tablet with a flat 16:10 screen and a unibody metal back available in gray, purple or green, with speaker grilles on the short sides. Voice-over by the presenter, off-screen, speaking Vietnamese in a natural friendly tone: \"Màn hình mười một inch, độ phân giải hai phẩy năm K, quét chín mươi héc, sáng tối đa sáu trăm nít.\" No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+    },
+    {
+      "n": 3,
+      "code": "P40C03",
+      "role": "feature",
+      "narration_vi": "Bốn loa Dolby Atmos, âm lớn và trong, lại còn giữ cả jack tai nghe ba phẩy năm mi-li-mét.",
+      "facts_used": [
+        "s3"
+      ],
+      "camera": "rack focus",
+      "camera_reason": "chuyển nét từ sản phẩm sang người nói để nối chi tiết với đánh giá",
+      "first_frame": "face and shoulders, one hand bringing the Xiaomi Redmi Pad 2 WiFi 11 inch up next to his cheek",
+      "motion": "rack focus from the product beside his cheek to his eyes, he turns slightly toward the lens",
+      "last_frame": "sharp on his face, product soft beside his cheek",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P40C03. Vertical 9:16, 8 seconds, photorealistic, close-up. First frame: face and shoulders, one hand bringing the Xiaomi Redmi Pad 2 WiFi 11 inch up next to his cheek. Motion: rack focus from the product beside his cheek to his eyes, he turns slightly toward the lens. Last frame: sharp on his face, product soft beside his cheek. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Bốn loa Dolby Atmos, âm lớn và trong, lại còn giữ cả jack tai nghe ba phẩy năm mi-li-mét.\" He is showing the Xiaomi Redmi Pad 2 WiFi 11 inch beside his face; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P40C03. Vertical 9:16, 8 seconds, photorealistic, medium close-up, 50mm. First frame: the tablet held landscape, one short edge toward the lens. Motion: camera orbit; slow orbit around the tablet from one short edge to the other. Last frame: the opposite short edge with its speaker grilles toward the lens. The exact product shown in the reference image: a slim 11-inch tablet with a flat 16:10 screen and a unibody metal back available in gray, purple or green, with speaker grilles on the short sides. Voice-over by the presenter, off-screen, speaking Vietnamese in a natural friendly tone: \"Bốn loa Dolby Atmos, âm lớn và trong, lại còn giữ cả jack tai nghe ba phẩy năm mi-li-mét.\" No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+    },
+    {
+      "n": 4,
+      "code": "P40C04",
+      "role": "feature",
+      "narration_vi": "Thân nhôm nguyên khối, dày khoảng bảy phẩy bốn mi-li-mét, nặng khoảng năm trăm mười gam, cầm lâu không mỏi tay.",
+      "facts_used": [
+        "s4"
+      ],
+      "camera": "dolly in",
+      "camera_reason": "lại gần dần để tạo cảm giác trò chuyện trực tiếp",
+      "first_frame": "seated at the desk, both hands holding the Xiaomi Redmi Pad 2 WiFi 11 inch at table height, looking down at it",
+      "motion": "he looks up at the camera mid-sentence while the camera does a slow dolly in",
+      "last_frame": "closer on his face with both hands and the product still in frame",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P40C04. Vertical 9:16, 8 seconds, photorealistic, medium shot. First frame: seated at the desk, both hands holding the Xiaomi Redmi Pad 2 WiFi 11 inch at table height, looking down at it. Motion: he looks up at the camera mid-sentence while the camera does a slow dolly in. Last frame: closer on his face with both hands and the product still in frame. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Thân nhôm nguyên khối, dày khoảng bảy phẩy bốn mi-li-mét, nặng khoảng năm trăm mười gam, cầm lâu không mỏi tay.\" He is turning the Xiaomi Redmi Pad 2 WiFi 11 inch in both hands; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P40C04. Vertical 9:16, 8 seconds, photorealistic, close-up, 85mm. First frame: the top edge of the tablet standing upright, tightly framed. Motion: camera tilt down; slow tilt down along the thin side edge to the bottom. Last frame: the bottom edge and the metal back, soft light on the metal. The exact product shown in the reference image: a slim 11-inch tablet with a flat 16:10 screen and a unibody metal back available in gray, purple or green, with speaker grilles on the short sides. Voice-over by the presenter, off-screen, speaking Vietnamese in a natural friendly tone: \"Thân nhôm nguyên khối, dày khoảng bảy phẩy bốn mi-li-mét, nặng khoảng năm trăm mười gam, cầm lâu không mỏi tay.\" No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+    },
+    {
+      "n": 5,
+      "code": "P40C05",
+      "role": "feature",
+      "narration_vi": "Chip Helio G100 Ultra đủ cho văn phòng và giải trí cơ bản. Liên Quân chạy ổn ở mức trung bình.",
+      "facts_used": [
+        "s7"
+      ],
+      "camera": "pan",
+      "camera_reason": "lia từ thiết bị sang người nói để cho thấy cách dùng thực tế",
+      "first_frame": "standing near the window, the Xiaomi Redmi Pad 2 WiFi 11 inch in one hand and a smartphone in the other",
+      "motion": "slow pan from the phone in his hand across to his face as he speaks",
+      "last_frame": "centred on his face, phone and product low in the frame",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P40C05. Vertical 9:16, 8 seconds, photorealistic, medium shot. First frame: standing near the window, the Xiaomi Redmi Pad 2 WiFi 11 inch in one hand and a smartphone in the other. Motion: slow pan from the phone in his hand across to his face as he speaks. Last frame: centred on his face, phone and product low in the frame. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Chip Helio G100 Ultra đủ cho văn phòng và giải trí cơ bản. Liên Quân chạy ổn ở mức trung bình.\" He is holding the Xiaomi Redmi Pad 2 WiFi 11 inch and a phone; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P40C05. Vertical 9:16, 8 seconds, photorealistic, medium close-up, 50mm. First frame: the tablet held in two hands, screen showing a colorful game scene. Motion: camera static; static camera; thumbs move over the screen as the game scene scrolls. Last frame: the same tablet in hands, game scene mid-action. The exact product shown in the reference image: a slim 11-inch tablet with a flat 16:10 screen and a unibody metal back available in gray, purple or green, with speaker grilles on the short sides. Voice-over by the presenter, off-screen, speaking Vietnamese in a natural friendly tone: \"Chip Helio G100 Ultra đủ cho văn phòng và giải trí cơ bản. Liên Quân chạy ổn ở mức trung bình.\" No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+    },
+    {
+      "n": 6,
+      "code": "P40C06",
+      "role": "feature",
+      "narration_vi": "Có thể gắn thẻ nhớ tới hai terabyte, và dùng được bút Redmi Smart Pen, nhưng bút phải mua riêng.",
+      "facts_used": [
+        "s8"
+      ],
+      "camera": "pull back",
+      "camera_reason": "mở rộng khung hình để thấy quy mô sản phẩm so với người",
+      "first_frame": "seated at the desk, the Xiaomi Redmi Pad 2 WiFi 11 inch held out toward the camera at arm's length",
+      "motion": "he draws the product back toward himself as the camera pulls back to reveal the desk",
+      "last_frame": "wider shot of him at the desk, product held at chest height",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P40C06. Vertical 9:16, 8 seconds, photorealistic, medium close-up. First frame: seated at the desk, the Xiaomi Redmi Pad 2 WiFi 11 inch held out toward the camera at arm's length. Motion: he draws the product back toward himself as the camera pulls back to reveal the desk. Last frame: wider shot of him at the desk, product held at chest height. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Có thể gắn thẻ nhớ tới hai terabyte, và dùng được bút Redmi Smart Pen, nhưng bút phải mua riêng.\" He is pulling the Xiaomi Redmi Pad 2 WiFi 11 inch back from the lens; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P40C06. Vertical 9:16, 8 seconds, photorealistic, close-up, 85mm. First frame: a stylus resting near the tablet on the desk, screen showing a blank note page. Motion: camera push in; slow push in as the stylus writes a short line on the screen. Last frame: tight on the stylus tip and the line it wrote. The exact product shown in the reference image: a slim 11-inch tablet with a flat 16:10 screen and a unibody metal back available in gray, purple or green, with speaker grilles on the short sides. Voice-over by the presenter, off-screen, speaking Vietnamese in a natural friendly tone: \"Có thể gắn thẻ nhớ tới hai terabyte, và dùng được bút Redmi Smart Pen, nhưng bút phải mua riêng.\" No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+    },
+    {
+      "n": 7,
+      "code": "P40C07",
+      "role": "feature",
+      "narration_vi": "Pin chín nghìn mi-li-am-pe giờ, một bài test PCMark chạy hơn mười lăm tiếng, dùng thật thường được hai ba ngày.",
+      "facts_used": [
+        "s5"
+      ],
+      "camera": "push in",
+      "camera_reason": "tiến vào đúng chi tiết sản phẩm đang nói đến",
+      "first_frame": "seated at the desk, one hand lifting the Xiaomi Redmi Pad 2 WiFi 11 inch toward the camera at chest height",
+      "motion": "slow push in on the product in his open palm while he keeps eye contact with the lens",
+      "last_frame": "product held close to the lens in sharp focus, his face softly blurred behind it",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P40C07. Vertical 9:16, 8 seconds, photorealistic, medium close-up. First frame: seated at the desk, one hand lifting the Xiaomi Redmi Pad 2 WiFi 11 inch toward the camera at chest height. Motion: slow push in on the product in his open palm while he keeps eye contact with the lens. Last frame: product held close to the lens in sharp focus, his face softly blurred behind it. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Pin chín nghìn mi-li-am-pe giờ, một bài test PCMark chạy hơn mười lăm tiếng, dùng thật thường được hai ba ngày.\" He is holding the Xiaomi Redmi Pad 2 WiFi 11 inch in his open palm; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P40C07. Vertical 9:16, 8 seconds, photorealistic, medium shot, 35mm. First frame: the tablet close on a desk, screen playing a video. Motion: camera pull back; slow pull back, light from the window shifts as time passes. Last frame: wide view of the desk with the tablet still playing, evening light. The exact product shown in the reference image: a slim 11-inch tablet with a flat 16:10 screen and a unibody metal back available in gray, purple or green, with speaker grilles on the short sides. Voice-over by the presenter, off-screen, speaking Vietnamese in a natural friendly tone: \"Pin chín nghìn mi-li-am-pe giờ, một bài test PCMark chạy hơn mười lăm tiếng, dùng thật thường được hai ba ngày.\" No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+    },
+    {
+      "n": 8,
+      "code": "P40C08",
+      "role": "caveat",
+      "narration_vi": "Đổi lại, màn hình là LCD, góc nhìn hẹp và đèn nền chưa đều ở rìa, nền trắng dễ thấy.",
+      "facts_used": [
+        "s9"
+      ],
+      "camera": "dolly in",
+      "camera_reason": "tiến gần để nhấn vào điểm cần cân nhắc một cách thẳng thắn",
+      "first_frame": "seated at the desk, thoughtful expression, the Xiaomi Redmi Pad 2 WiFi 11 inch held loosely in one hand",
+      "motion": "slow dolly in as he tilts his head slightly and raises his eyebrows while speaking",
+      "last_frame": "closer on his face, product lowered out of focus",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P40C08. Vertical 9:16, 8 seconds, photorealistic, medium close-up. First frame: seated at the desk, thoughtful expression, the Xiaomi Redmi Pad 2 WiFi 11 inch held loosely in one hand. Motion: slow dolly in as he tilts his head slightly and raises his eyebrows while speaking. Last frame: closer on his face, product lowered out of focus. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Đổi lại, màn hình là LCD, góc nhìn hẹp và đèn nền chưa đều ở rìa, nền trắng dễ thấy.\" He is holding the Xiaomi Redmi Pad 2 WiFi 11 inch loosely; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P40C08. Vertical 9:16, 8 seconds, photorealistic, medium close-up, 50mm. First frame: the tablet facing the lens with a white screen, front view. Motion: camera orbit; slow orbit to the side so the viewing angle becomes oblique. Last frame: the tablet from a steep side angle, white screen looking duller. The exact product shown in the reference image: a slim 11-inch tablet with a flat 16:10 screen and a unibody metal back available in gray, purple or green, with speaker grilles on the short sides. Voice-over by the presenter, off-screen, speaking Vietnamese in a natural friendly tone: \"Đổi lại, màn hình là LCD, góc nhìn hẹp và đèn nền chưa đều ở rìa, nền trắng dễ thấy.\" No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+    },
+    {
+      "n": 9,
+      "code": "P40C09",
+      "role": "caveat",
+      "narration_vi": "Sạc nhanh chỉ mười tám oát, sạc đầy từ lúc hết pin mất khoảng ba tiếng.",
+      "facts_used": [
+        "s6"
+      ],
+      "camera": "pull back",
+      "camera_reason": "lùi ra để đặt điểm yếu trong bức tranh chung",
+      "first_frame": "seated at the desk, the Xiaomi Redmi Pad 2 WiFi 11 inch set down in front of him, hands open",
+      "motion": "slow pull back as he gestures with one open hand",
+      "last_frame": "wide on him and the desk, product small at the centre of the table",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P40C09. Vertical 9:16, 8 seconds, photorealistic, medium shot. First frame: seated at the desk, the Xiaomi Redmi Pad 2 WiFi 11 inch set down in front of him, hands open. Motion: slow pull back as he gestures with one open hand. Last frame: wide on him and the desk, product small at the centre of the table. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Sạc nhanh chỉ mười tám oát, sạc đầy từ lúc hết pin mất khoảng ba tiếng.\" He is with the Xiaomi Redmi Pad 2 WiFi 11 inch on the desk in front of him; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P40C09. Vertical 9:16, 8 seconds, photorealistic, close-up, 85mm. First frame: the tablet on the desk with a USB-C cable plugged in at the bottom edge. Motion: camera push in; slow push in toward the USB-C connector. Last frame: tight on the connector and cable. The exact product shown in the reference image: a slim 11-inch tablet with a flat 16:10 screen and a unibody metal back available in gray, purple or green, with speaker grilles on the short sides. Voice-over by the presenter, off-screen, speaking Vietnamese in a natural friendly tone: \"Sạc nhanh chỉ mười tám oát, sạc đầy từ lúc hết pin mất khoảng ba tiếng.\" No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+    },
+    {
+      "n": 10,
+      "code": "P40C10",
+      "role": "fit",
+      "narration_vi": "Hợp sinh viên và nhà cần máy xem phim, đọc tài liệu. Cần OLED hay game nặng thì chọn máy khác.",
+      "facts_used": [],
+      "camera": "dolly in",
+      "camera_reason": "lại gần như nói chuyện với đúng người cần sản phẩm này",
+      "first_frame": "leaning slightly forward at the desk, the Xiaomi Redmi Pad 2 WiFi 11 inch beside him, open friendly posture",
+      "motion": "slow dolly in as he gestures with an open hand toward the camera",
+      "last_frame": "close on his smiling face, product visible at the edge",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P40C10. Vertical 9:16, 8 seconds, photorealistic, medium close-up. First frame: leaning slightly forward at the desk, the Xiaomi Redmi Pad 2 WiFi 11 inch beside him, open friendly posture. Motion: slow dolly in as he gestures with an open hand toward the camera. Last frame: close on his smiling face, product visible at the edge. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Hợp sinh viên và nhà cần máy xem phim, đọc tài liệu. Cần OLED hay game nặng thì chọn máy khác.\" He is with the Xiaomi Redmi Pad 2 WiFi 11 inch beside him; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P40C10. Vertical 9:16, 8 seconds, photorealistic, medium shot, 50mm. First frame: he sits, the tablet on the desk. Motion: camera dolly in; slow dolly in, he gestures to the tablet. Last frame: medium close-up, looking at the lens. A Vietnamese man in his early 30s with short neat black hair, light stubble, black rectangular glasses, wearing a dark navy henley shirt, calm friendly expression in a bright modern minimalist desk studio, light oak desk, soft natural window light from the left, plain warm-white wall, shallow depth of field. He says in Vietnamese, in a natural friendly tone: \"Hợp sinh viên và nhà cần máy xem phim, đọc tài liệu. Cần OLED hay game nặng thì chọn máy khác.\" The exact product shown in the reference image is on the desk. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+    },
+    {
+      "n": 11,
+      "code": "P40C11",
+      "role": "outro",
+      "narration_vi": "Cần tablet giá mềm thì Redmi Pad 2 đáng cân nhắc. Lưu lại trước khi mua. Bạn đang dùng máy nào?",
+      "facts_used": [],
+      "camera": "pull back",
+      "camera_reason": "lùi ra khép lại video một cách thân thiện",
+      "first_frame": "seated at the desk, the Xiaomi Redmi Pad 2 WiFi 11 inch on the table, bright smile toward the camera",
+      "motion": "slow pull back while he gives a small friendly wave at the end",
+      "last_frame": "wide on him and the desk with the product, warm and relaxed",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P40C11. Vertical 9:16, 8 seconds, photorealistic, medium shot. First frame: seated at the desk, the Xiaomi Redmi Pad 2 WiFi 11 inch on the table, bright smile toward the camera. Motion: slow pull back while he gives a small friendly wave at the end. Last frame: wide on him and the desk with the product, warm and relaxed. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Cần tablet giá mềm thì Redmi Pad 2 đáng cân nhắc. Lưu lại trước khi mua. Bạn đang dùng máy nào?\" He is with the Xiaomi Redmi Pad 2 WiFi 11 inch on the desk; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P40C11. Vertical 9:16, 8 seconds, photorealistic, medium close-up, 50mm. First frame: close on his smiling face. Motion: camera pull back; slow pull back, small nod. Last frame: medium shot, the tablet on the desk beside him. A Vietnamese man in his early 30s with short neat black hair, light stubble, black rectangular glasses, wearing a dark navy henley shirt, calm friendly expression in a bright modern minimalist desk studio, light oak desk, soft natural window light from the left, plain warm-white wall, shallow depth of field. He says in Vietnamese, in a natural friendly tone: \"Cần tablet giá mềm thì Redmi Pad 2 đáng cân nhắc. Lưu lại trước khi mua. Bạn đang dùng máy nào?\" The exact product shown in the reference image is on the desk. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+    }
+  ],
+  "onscreen_presenter": true
+}

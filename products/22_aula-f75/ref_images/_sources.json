@@ -1,0 +1,66 @@
+[
+  {
+    "file": "product_main.jpg",
+    "url": "https://cdn-files.hacom.vn/hacom/cdn/web/03092026/ban-phim-co-gaming-aula-f75-3-mode-mau-den-xam-milk-white-switch.jpg",
+    "page": "https://hacom.vn/ban-phim-co-gaming-aula-f75-kbau0155",
+    "kind": "product_main",
+    "width": 850,
+    "height": 850
+  },
+  {
+    "file": "product_angle_1.jpg",
+    "url": "https://cdn-files.hacom.vn/hacom/cdn/web/24082026/ban-phim-co-gaming-aula-f75-3-mode-mau-xam-trang-milk-white-switch.jpg",
+    "page": "https://hacom.vn/ban-phim-co-gaming-aula-f75-kbau0155",
+    "kind": "product_angle",
+    "width": 850,
+    "height": 850
+  },
+  {
+    "file": "product_angle_2.jpg",
+    "url": "https://cdn-files.hacom.vn/hacom/cdn/Media/Image/DescribeProduct/05082026/Ban-phim-co-gaming-AULA-F75-Ice-Green-2.jpg",
+    "page": "https://hacom.vn/ban-phim-co-gaming-aula-f75-kbau0155",
+    "kind": "product_angle",
+    "width": 640,
+    "height": 640
+  },
+  {
+    "file": "in_use_1.jpg",
+    "url": "https://cdn-files.hacom.vn/hacom/cdn/Media/Image/DescribeProduct/05082026/Ban-phim-co-gaming-AULA-F75-Ice-Green-3.jpg",
+    "page": "https://hacom.vn/ban-phim-co-gaming-aula-f75-kbau0155",
+    "kind": "in_use",
+    "width": 640,
+    "height": 640
+  },
+  {
+    "file": "product_angle_3.jpg",
+    "url": "https://cdn-transformations.hacom.vn/insecure/f:webp/q:85/rt:fit/w:1080/aHR0cHM6Ly9jZG4tZmlsZXMuaGFjb20udm4vaGFjb20vY2RuL3dlYi8wMzA5MjAyNi9iYW4tcGhpbS1jby1nYW1pbmctYXVsYS1mNzUtMy1tb2RlLW1hdS1kZW4teGFtLW1pbGstd2hpdGUtc3dpdGNoLmpwZw.webp",
+    "page": "https://hacom.vn/ban-phim-co-gaming-aula-f75-kbau0155",
+    "kind": "product_angle",
+    "width": 850,
+    "height": 850
+  },
+  {
+    "file": "product_angle_4.jpg",
+    "url": "https://cdn-files.hacom.vn/hacom/cdn/web/15102026/hero-glow.2kiuslo7a3n6j.webp",
+    "page": "https://hacom.vn/ban-phim-co-gaming-aula-f75-kbau0155",
+    "kind": "product_angle",
+    "width": 1222,
+    "height": 1090
+  },
+  {
+    "file": "product_angle_5.jpg",
+    "url": "https://cdn-files.hacom.vn/hacom/cdn/web/15102026/pass3-no-fade-seam-poster-1440.webp",
+    "page": "https://hacom.vn/ban-phim-co-gaming-aula-f75-kbau0155",
+    "kind": "product_angle",
+    "width": 1440,
+    "height": 1440
+  },
+  {
+    "file": "product_angle_6.jpg",
+    "url": "https://phucanhcdn.com/media/product/58112_ban_phim_co_aula_f75_den.jpg",
+    "page": "https://www.phucanh.vn/ban-phim-co-aula-f75-den-red-switch.html",
+    "kind": "product_angle",
+    "width": 1000,
+    "height": 1000
+  }
+]

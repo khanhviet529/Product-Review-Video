@@ -1,0 +1,258 @@
+{
+  "id": "04",
+  "slug": "04_jbl-wave-beam-2",
+  "status": "mot_phan",
+  "chosen_model": "JBL Wave Beam 2 (SKU Hacom TNJB0098-0101; mã model hãng chưa xác minh)",
+  "alternatives_rejected": [
+    {
+      "model": "JBL Wave Beam (đời đầu)",
+      "reason": "Đời trước, chưa có ANC theo EarbudsArena; Wave Beam 2 là đời mới đang bán."
+    }
+  ],
+  "official_page": "https://cellphones.com.vn/tai-nghe-khong-day-jbl-wave-beam-2.html",
+  "price_vnd": {
+    "low": 1250000,
+    "high": 1364000,
+    "as_of": "2026-10-22",
+    "sources": [
+      "src1",
+      "src2",
+      "src3"
+    ],
+    "confidence": "vua"
+  },
+  "specs": [
+    {
+      "id": "s1",
+      "key": "Chống ồn",
+      "value_vi": "Có ANC và chế độ Smart Ambient",
+      "condition": "",
+      "source": "src1",
+      "confidence": "cao"
+    },
+    {
+      "id": "s2",
+      "key": "Pin tai nghe tắt ANC",
+      "value_vi": "tới 10 giờ nghe nhạc",
+      "condition": "tắt ANC, Bluetooth bật",
+      "source": "src1",
+      "confidence": "cao"
+    },
+    {
+      "id": "s3",
+      "key": "Pin tai nghe bật ANC",
+      "value_vi": "tới 8 giờ nghe nhạc",
+      "condition": "bật ANC",
+      "source": "src1",
+      "confidence": "cao"
+    },
+    {
+      "id": "s4",
+      "key": "Pin thực tế bật ANC",
+      "value_vi": "khoảng 7 giờ",
+      "condition": "ước lượng của một người đánh giá",
+      "source": "src4",
+      "confidence": "vua"
+    },
+    {
+      "id": "s5",
+      "key": "Sạc nhanh",
+      "value_vi": "sạc 10 phút nghe khoảng 3 giờ",
+      "condition": "tắt ANC; các trang bán ghi 3 giờ, EarbudsArena ghi 4 giờ",
+      "source": "src1",
+      "confidence": "vua"
+    },
+    {
+      "id": "s6",
+      "key": "Chống nước/bụi",
+      "value_vi": "tai nghe IP54, hộp IPX2",
+      "condition": "",
+      "source": "src1",
+      "confidence": "cao"
+    },
+    {
+      "id": "s7",
+      "key": "Bluetooth và đa điểm",
+      "value_vi": "Bluetooth 5.3, kết nối cùng lúc hai thiết bị (multipoint)",
+      "condition": "phiên bản BT từ Hacom và Di Động Việt",
+      "source": "src2",
+      "confidence": "cao"
+    },
+    {
+      "id": "s8",
+      "key": "Khối lượng",
+      "value_vi": "4,3 g mỗi tai, hộp 41 g",
+      "condition": "",
+      "source": "src1",
+      "confidence": "cao"
+    },
+    {
+      "id": "s9",
+      "key": "Driver",
+      "value_vi": "8 mm",
+      "condition": "",
+      "source": "src1",
+      "confidence": "cao"
+    },
+    {
+      "id": "s10",
+      "key": "Ứng dụng",
+      "value_vi": "JBL Headphones: EQ preset, EQ tùy chỉnh, Relax Mode",
+      "condition": "",
+      "source": "src1",
+      "confidence": "cao"
+    },
+    {
+      "id": "s11",
+      "key": "Giá CellphoneS",
+      "value_vi": "1.250.000 đồng (niêm yết 1.360.000 đồng)",
+      "condition": "xem 2026-10-22",
+      "source": "src1",
+      "confidence": "cao"
+    },
+    {
+      "id": "s12",
+      "key": "Giá Hacom / Di Động Việt",
+      "value_vi": "Hacom 1.299.000 đồng (đặt trước); Di Động Việt 1.364.000 đồng",
+      "condition": "xem 2026-10-22",
+      "source": "src3",
+      "confidence": "vua"
+    },
+    {
+      "id": "s13",
+      "key": "ANC trải nghiệm",
+      "value_vi": "xử lý ổn tiếng ồn đều như quạt, điều hòa, không gây cảm giác bí tai; dùng hằng ngày được, chưa nổi bật trong phân khúc",
+      "condition": "một đánh giá",
+      "source": "src4",
+      "confidence": "vua"
+    },
+    {
+      "id": "s14",
+      "key": "Độ thoải mái và mic",
+      "value_vi": "đeo lâu không khó chịu; mic gọi điện nghe rõ, nhỉnh hơn Wave Buds 2 ngoài trời",
+      "condition": "một đánh giá",
+      "source": "src4",
+      "confidence": "vua"
+    },
+    {
+      "id": "s15",
+      "key": "Chất âm",
+      "value_vi": "âm tách bạch, nhiều chi tiết nhưng treble đôi lúc hơi nhẹ",
+      "condition": "một đánh giá, sau khi chỉnh Studio EQ",
+      "source": "src4",
+      "confidence": "vua"
+    },
+    {
+      "id": "s16",
+      "key": "Cảm biến đeo",
+      "value_vi": "Không có phát hiện tai: nhạc vẫn chạy khi tháo tai nghe",
+      "condition": "một đánh giá",
+      "source": "src4",
+      "confidence": "vua"
+    }
+  ],
+  "strengths": [
+    {
+      "text": "Có ANC và Smart Ambient ở tầm hơn một triệu đồng; ANC xử lý ổn tiếng ồn đều, không bí tai.",
+      "source": "src4"
+    },
+    {
+      "text": "Đeo thoải mái, mic gọi điện rõ; âm tách bạch, nhiều chi tiết.",
+      "source": "src4"
+    },
+    {
+      "text": "Pin 10 giờ (tắt ANC), 8 giờ (bật ANC); IP54; kết nối cùng lúc hai thiết bị.",
+      "source": "src1"
+    },
+    {
+      "text": "Thương hiệu JBL, bảo hành chính hãng 12 tháng, đổi 1-1 trong 15 ngày nếu lỗi nhà sản xuất (Di Động Việt).",
+      "source": "src3"
+    }
+  ],
+  "caveats": [
+    {
+      "text": "Không có phát hiện tai nghe nên nhạc vẫn chạy khi tháo ra.",
+      "source": "src4"
+    },
+    {
+      "text": "ANC dùng hằng ngày được nhưng chưa nổi bật; treble đôi lúc nhẹ.",
+      "source": "src4"
+    },
+    {
+      "text": "Pin thực tế khi bật ANC khoảng 7 giờ, thấp hơn số hãng; giá cao hơn nhóm TWS phổ thông.",
+      "source": "src4"
+    }
+  ],
+  "sources": [
+    {
+      "id": "src1",
+      "url": "https://cellphones.com.vn/tai-nghe-khong-day-jbl-wave-beam-2.html",
+      "title": "CellphoneS - Tai nghe JBL Wave Beam 2",
+      "type": "cua_hang"
+    },
+    {
+      "id": "src2",
+      "url": "https://hacom.vn/tai-nghe-khong-day-jbl-wave-beam-2-tnjb0099",
+      "title": "Hà Nội Computer - JBL Wave Beam 2 (TNJB0099)",
+      "type": "cua_hang"
+    },
+    {
+      "id": "src3",
+      "url": "https://didongviet.vn/thiet-bi-am-thanh/tai-nghe-true-wireless-jbl-wave-beam-2.html",
+      "title": "Di Động Việt - JBL Wave Beam 2",
+      "type": "cua_hang"
+    },
+    {
+      "id": "src4",
+      "url": "https://earbudsarena.com/jbl-wave-buds-2-vs-wave-beam-2/",
+      "title": "EarbudsArena - JBL Wave Buds 2 vs Wave Beam 2 (27/02/2026)",
+      "type": "danh_gia"
+    }
+  ],
+  "unverified": [
+    "Trang chính hãng jbl.com trả về 403 nên không có trang hãng đã đọc; official_page tạm dùng CellphoneS. Thông số lấy từ ba cửa hàng Việt Nam.",
+    "Mã model hãng chưa xác minh (chỉ có SKU Hacom TNJB0098 đen, TNJB0099 xanh, TNJB0100 hồng, TNJB0101 trắng).",
+    "Pin tổng cùng hộp: cửa hàng ghi khoảng 40 giờ, EarbudsArena ghi 30 giờ (tắt ANC) và 24 giờ (bật ANC); số lệch nhau nên không dùng trong lời đọc.",
+    "Số micro: CellphoneS ghi mâu thuẫn (2 hoặc 4 mic); Hacom và Di Động Việt ghi 4 mic. Độ trễ không có nguồn nào ghi.",
+    "Sạc nhanh 10 phút: trang bán ghi 3 giờ, EarbudsArena ghi 4 giờ; dùng số trang bán.",
+    "Hacom ghi giá 1.299.000 đồng ở chế độ đặt trước, giá niêm yết 1.699.000 đồng. Kind của ảnh ref chưa kiểm bằng mắt."
+  ],
+  "product_visual_description": "JBL Wave Beam 2 stem-style (stick) true wireless earbuds with a compact charging case; sold in black, blue, pink and white.",
+  "ref_image_candidates": [
+    {
+      "url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/t/a/tai-nghe-khong-day-jbl-wave-beam-2_17_.png",
+      "page": "https://cellphones.com.vn/tai-nghe-khong-day-jbl-wave-beam-2.html",
+      "kind": "product_main"
+    },
+    {
+      "url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/t/a/tai_nghe_bluetooth_true_wireless_jbl_wave_beam_2_1.png",
+      "page": "https://cellphones.com.vn/tai-nghe-khong-day-jbl-wave-beam-2.html",
+      "kind": "product_angle"
+    },
+    {
+      "url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/t/a/tai-nghe-khong-day-jbl-wave-beam-2_20_.png",
+      "page": "https://cellphones.com.vn/tai-nghe-khong-day-jbl-wave-beam-2.html",
+      "kind": "product_angle"
+    },
+    {
+      "url": "https://cdn-files.hacom.vn/hacom/cdn/web/07102025/tai-nghe-khong-day-jbl-wave-beam-2-blue-1.jpg",
+      "page": "https://hacom.vn/tai-nghe-khong-day-jbl-wave-beam-2-tnjb0099",
+      "kind": "product_main"
+    },
+    {
+      "url": "https://cdn-files.hacom.vn/hacom/cdn/web/07102025/tai-nghe-khong-day-jbl-wave-beam-2-blue-2.jpg",
+      "page": "https://hacom.vn/tai-nghe-khong-day-jbl-wave-beam-2-tnjb0099",
+      "kind": "product_angle"
+    },
+    {
+      "url": "https://cdn-v2.didongviet.vn/files/products/2024/10/21/1/1732196373468_tai_nghe_true_wireless_jbl_wave_beam_2_den_10.png",
+      "page": "https://didongviet.vn/thiet-bi-am-thanh/tai-nghe-true-wireless-jbl-wave-beam-2.html",
+      "kind": "product_angle"
+    }
+  ],
+  "takeaway": "Cần tai nghe có chống ồn, đeo thoải mái, mic ổn từ thương hiệu quen thì JBL Wave Beam 2 đáng xem; cần giá rẻ hoặc cảm biến tai thì nên cân nhắc loại khác.",
+  "buyer_personas": [
+    "Người đi làm cần chống ồn nhẹ và gọi điện",
+    "Người dùng cùng lúc điện thoại và laptop"
+  ]
+}

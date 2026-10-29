@@ -1,0 +1,191 @@
+{
+  "product_id": "33",
+  "slug": "33_sandisk-extreme",
+  "model": "SanDisk Extreme microSDXC UHS-I 128GB (SDSQXAA-128G-GN6MN)",
+  "presenter": "M",
+  "takeaway": "Cần thẻ nhớ 128GB cho điện thoại hoặc camera với tốc độ đọc cao thì Extreme là lựa chọn cân bằng; cần tốc độ ghi cao hơn 90 MB/s thì cân nhắc dòng khác.",
+  "target_seconds": 72,
+  "clips": [
+    {
+      "n": 1,
+      "code": "P33C01",
+      "role": "hook",
+      "narration_vi": "Cần thẻ nhớ cho điện thoại hay camera, SanDisk Extreme một trăm hai mươi tám giga là lựa chọn cân bằng.",
+      "facts_used": [
+        "s1"
+      ],
+      "camera": "push in",
+      "camera_reason": "tiến vào người nói để mở đầu bằng câu trả lời ngắn",
+      "first_frame": "seated at the desk facing the camera, the SanDisk Extreme microSDXC UHS-I 128GB resting on the desk beside him, relaxed upright posture",
+      "motion": "slow push in toward his face as he starts speaking, he glances at the product then back to the lens",
+      "last_frame": "tighter on his face and shoulders, product still visible at the lower edge of the frame",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P33C01. Vertical 9:16, 8 seconds, photorealistic, medium close-up. First frame: seated at the desk facing the camera, the SanDisk Extreme microSDXC UHS-I 128GB resting on the desk beside him, relaxed upright posture. Motion: slow push in toward his face as he starts speaking, he glances at the product then back to the lens. Last frame: tighter on his face and shoulders, product still visible at the lower edge of the frame. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Cần thẻ nhớ cho điện thoại hay camera, SanDisk Extreme một trăm hai mươi tám giga là lựa chọn cân bằng.\" He is the SanDisk Extreme microSDXC UHS-I 128GB on the desk within reach; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P33C01. Vertical 9:16, 8 seconds, photorealistic, medium shot. First frame: Seated at the desk facing camera. Motion: Slow push in on the presenter, who speaks. Last frame: Closer, looking at camera. a Vietnamese woman in her late 20s with shoulder-length straight black hair and light side-swept bangs, warm light-brown skin, small gold stud earrings, natural makeup, wearing a plain white crew-neck t-shirt under a light beige overshirt, friendly confident expression, in a bright modern minimalist desk studio, light oak desk, soft natural window light from the left, plain warm-white wall, shallow depth of field. She says in Vietnamese, in a natural friendly tone: \"Cần thẻ nhớ cho điện thoại hay camera, SanDisk Extreme một trăm hai mươi tám giga là lựa chọn cân bằng.\" Product: exact product in the reference image, a small SanDisk Extreme microSD card. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+    },
+    {
+      "n": 2,
+      "code": "P33C02",
+      "role": "feature",
+      "narration_vi": "Đây là thẻ microSDXC, dùng cho điện thoại Android và thiết bị có khe thẻ nhớ, như camera.",
+      "facts_used": [
+        "s5",
+        "s6"
+      ],
+      "camera": "push in",
+      "camera_reason": "tiến vào đúng chi tiết sản phẩm đang nói đến",
+      "first_frame": "seated at the desk, one hand lifting the SanDisk Extreme microSDXC UHS-I 128GB toward the camera at chest height",
+      "motion": "slow push in on the product in his open palm while he keeps eye contact with the lens",
+      "last_frame": "product held close to the lens in sharp focus, his face softly blurred behind it",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P33C02. Vertical 9:16, 8 seconds, photorealistic, medium close-up. First frame: seated at the desk, one hand lifting the SanDisk Extreme microSDXC UHS-I 128GB toward the camera at chest height. Motion: slow push in on the product in his open palm while he keeps eye contact with the lens. Last frame: product held close to the lens in sharp focus, his face softly blurred behind it. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Đây là thẻ microSDXC, dùng cho điện thoại Android và thiết bị có khe thẻ nhớ, như camera.\" He is holding the SanDisk Extreme microSDXC UHS-I 128GB in his open palm; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P33C02. Vertical 9:16, 8 seconds, photorealistic, macro close-up. First frame: A single microSD card lying flat on a light oak desk, soft light. Motion: Slow push in to the card's contact side and label. Last frame: Card label fills most of the frame, sharp. Soft natural window light from the left, plain warm-white wall, light oak desk. Voice-over by the presenter, off-screen, in Vietnamese, in a natural friendly tone: \"Đây là thẻ microSDXC, dùng cho điện thoại Android và thiết bị có khe thẻ nhớ, như camera.\" Product: exact product shown in the reference image, a small SanDisk Extreme microSDXC memory card, 128GB (exact colours as in the reference image). No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+    },
+    {
+      "n": 3,
+      "code": "P33C03",
+      "role": "feature",
+      "narration_vi": "Tốc độ đọc công bố tối đa một trăm chín mươi mê-ga-bai mỗi giây, chép dữ liệu ra khá nhanh.",
+      "facts_used": [
+        "s2"
+      ],
+      "camera": "rack focus",
+      "camera_reason": "chuyển nét từ sản phẩm sang người nói để nối chi tiết với đánh giá",
+      "first_frame": "face and shoulders, one hand bringing the SanDisk Extreme microSDXC UHS-I 128GB up next to his cheek",
+      "motion": "rack focus from the product beside his cheek to his eyes, he turns slightly toward the lens",
+      "last_frame": "sharp on his face, product soft beside his cheek",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P33C03. Vertical 9:16, 8 seconds, photorealistic, close-up. First frame: face and shoulders, one hand bringing the SanDisk Extreme microSDXC UHS-I 128GB up next to his cheek. Motion: rack focus from the product beside his cheek to his eyes, he turns slightly toward the lens. Last frame: sharp on his face, product soft beside his cheek. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Tốc độ đọc công bố tối đa một trăm chín mươi mê-ga-bai mỗi giây, chép dữ liệu ra khá nhanh.\" He is showing the SanDisk Extreme microSDXC UHS-I 128GB beside his face; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P33C03. Vertical 9:16, 8 seconds, photorealistic, close-up. First frame: The card held between two fingers above the desk, shallow depth of field. Motion: Slow orbit around the card to the right, fingertips steady. Last frame: Card seen at a slight angle from the right. Soft natural window light from the left, plain warm-white wall, light oak desk. Voice-over by the presenter, off-screen, in Vietnamese, in a natural friendly tone: \"Tốc độ đọc công bố tối đa một trăm chín mươi mê-ga-bai mỗi giây, chép dữ liệu ra khá nhanh.\" Product: exact product shown in the reference image, a small SanDisk Extreme microSDXC memory card, 128GB (exact colours as in the reference image). No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+    },
+    {
+      "n": 4,
+      "code": "P33C04",
+      "role": "feature",
+      "narration_vi": "Thẻ ghi V30 và A2. Trang bán hàng nói hợp quay video Full HD, bốn-ca và dùng cho Android.",
+      "facts_used": [
+        "s4",
+        "s6"
+      ],
+      "camera": "dolly in",
+      "camera_reason": "lại gần dần để tạo cảm giác trò chuyện trực tiếp",
+      "first_frame": "seated at the desk, both hands holding the SanDisk Extreme microSDXC UHS-I 128GB at table height, looking down at it",
+      "motion": "he looks up at the camera mid-sentence while the camera does a slow dolly in",
+      "last_frame": "closer on his face with both hands and the product still in frame",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P33C04. Vertical 9:16, 8 seconds, photorealistic, medium shot. First frame: seated at the desk, both hands holding the SanDisk Extreme microSDXC UHS-I 128GB at table height, looking down at it. Motion: he looks up at the camera mid-sentence while the camera does a slow dolly in. Last frame: closer on his face with both hands and the product still in frame. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Thẻ ghi V30 và A2. Trang bán hàng nói hợp quay video Full HD, bốn-ca và dùng cho Android.\" He is turning the SanDisk Extreme microSDXC UHS-I 128GB in both hands; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P33C04. Vertical 9:16, 8 seconds, photorealistic, medium close-up. First frame: A smartphone lying on the desk with the card beside it. Motion: Rack focus from the phone to the card, then settle. Last frame: Card in sharp focus, phone blurred behind. Soft natural window light from the left, plain warm-white wall, light oak desk. Voice-over by the presenter, off-screen, in Vietnamese, in a natural friendly tone: \"Thẻ ghi V30 và A2. Trang bán hàng nói hợp quay video Full HD, bốn-ca và dùng cho Android.\" Product: exact product shown in the reference image, a small SanDisk Extreme microSDXC memory card, 128GB (exact colours as in the reference image). No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+    },
+    {
+      "n": 5,
+      "code": "P33C05",
+      "role": "caveat",
+      "narration_vi": "Đổi lại, tốc độ ghi tối đa chỉ chín mươi mê-ga-bai mỗi giây, thấp hơn nhiều so với tốc độ đọc.",
+      "facts_used": [
+        "s3"
+      ],
+      "camera": "dolly in",
+      "camera_reason": "tiến gần để nhấn vào điểm cần cân nhắc một cách thẳng thắn",
+      "first_frame": "seated at the desk, thoughtful expression, the SanDisk Extreme microSDXC UHS-I 128GB held loosely in one hand",
+      "motion": "slow dolly in as he tilts his head slightly and raises his eyebrows while speaking",
+      "last_frame": "closer on his face, product lowered out of focus",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P33C05. Vertical 9:16, 8 seconds, photorealistic, medium close-up. First frame: seated at the desk, thoughtful expression, the SanDisk Extreme microSDXC UHS-I 128GB held loosely in one hand. Motion: slow dolly in as he tilts his head slightly and raises his eyebrows while speaking. Last frame: closer on his face, product lowered out of focus. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Đổi lại, tốc độ ghi tối đa chỉ chín mươi mê-ga-bai mỗi giây, thấp hơn nhiều so với tốc độ đọc.\" He is holding the SanDisk Extreme microSDXC UHS-I 128GB loosely; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P33C05. Vertical 9:16, 8 seconds, photorealistic, close-up. First frame: The card centred on the desk, neutral light. Motion: Slow dolly in toward the card. Last frame: Card large in frame, still. Soft natural window light from the left, plain warm-white wall, light oak desk. Voice-over by the presenter, off-screen, in Vietnamese, in a natural friendly tone: \"Đổi lại, tốc độ ghi tối đa chỉ chín mươi mê-ga-bai mỗi giây, thấp hơn nhiều so với tốc độ đọc.\" Product: exact product shown in the reference image, a small SanDisk Extreme microSDXC memory card, 128GB (exact colours as in the reference image). No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+    },
+    {
+      "n": 6,
+      "code": "P33C06",
+      "role": "caveat",
+      "narration_vi": "Giá chênh giữa các nơi bán, và có nơi đang báo tạm hết hàng, nên so sánh trước khi mua.",
+      "facts_used": [
+        "s7"
+      ],
+      "camera": "pull back",
+      "camera_reason": "lùi ra để đặt điểm yếu trong bức tranh chung",
+      "first_frame": "seated at the desk, the SanDisk Extreme microSDXC UHS-I 128GB set down in front of him, hands open",
+      "motion": "slow pull back as he gestures with one open hand",
+      "last_frame": "wide on him and the desk, product small at the centre of the table",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P33C06. Vertical 9:16, 8 seconds, photorealistic, medium shot. First frame: seated at the desk, the SanDisk Extreme microSDXC UHS-I 128GB set down in front of him, hands open. Motion: slow pull back as he gestures with one open hand. Last frame: wide on him and the desk, product small at the centre of the table. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Giá chênh giữa các nơi bán, và có nơi đang báo tạm hết hàng, nên so sánh trước khi mua.\" He is with the SanDisk Extreme microSDXC UHS-I 128GB on the desk in front of him; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P33C06. Vertical 9:16, 8 seconds, photorealistic, medium close-up. First frame: Phone on the desk with a dark screen, card beside it. Motion: Slow pan left across the desk from phone to card. Last frame: Card at the left of the frame, desk empty to the right. Soft natural window light from the left, plain warm-white wall, light oak desk. Voice-over by the presenter, off-screen, in Vietnamese, in a natural friendly tone: \"Giá chênh giữa các nơi bán, và có nơi đang báo tạm hết hàng, nên so sánh trước khi mua.\" Product: exact product shown in the reference image, a small SanDisk Extreme microSDXC memory card, 128GB (exact colours as in the reference image). No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+    },
+    {
+      "n": 7,
+      "code": "P33C07",
+      "role": "caveat",
+      "narration_vi": "Khi mua, nhớ đối chiếu đúng mã SDSQXAA một trăm hai mươi tám G, GN6MN trên trang bán.",
+      "facts_used": [
+        "s8"
+      ],
+      "camera": "dolly in",
+      "camera_reason": "tiến gần để nhấn vào điểm cần cân nhắc một cách thẳng thắn",
+      "first_frame": "seated at the desk, thoughtful expression, the SanDisk Extreme microSDXC UHS-I 128GB held loosely in one hand",
+      "motion": "slow dolly in as he tilts his head slightly and raises his eyebrows while speaking",
+      "last_frame": "closer on his face, product lowered out of focus",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P33C07. Vertical 9:16, 8 seconds, photorealistic, medium close-up. First frame: seated at the desk, thoughtful expression, the SanDisk Extreme microSDXC UHS-I 128GB held loosely in one hand. Motion: slow dolly in as he tilts his head slightly and raises his eyebrows while speaking. Last frame: closer on his face, product lowered out of focus. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Khi mua, nhớ đối chiếu đúng mã SDSQXAA một trăm hai mươi tám G, GN6MN trên trang bán.\" He is holding the SanDisk Extreme microSDXC UHS-I 128GB loosely; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P33C07. Vertical 9:16, 8 seconds, photorealistic, macro close-up. First frame: Macro of the card's printed label, shallow depth of field. Motion: Slow push in on the label area. Last frame: Label detail fills the frame. Soft natural window light from the left, plain warm-white wall, light oak desk. Voice-over by the presenter, off-screen, in Vietnamese, in a natural friendly tone: \"Khi mua, nhớ đối chiếu đúng mã SDSQXAA một trăm hai mươi tám G, GN6MN trên trang bán.\" Product: exact product shown in the reference image, a small SanDisk Extreme microSDXC memory card, 128GB (exact colours as in the reference image). No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+    },
+    {
+      "n": 8,
+      "code": "P33C08",
+      "role": "fit",
+      "narration_vi": "Hợp ai cần mở rộng bộ nhớ cho điện thoại hay camera. Cần tốc độ ghi cao hơn thì xem dòng khác.",
+      "facts_used": [
+        "s1"
+      ],
+      "camera": "dolly in",
+      "camera_reason": "lại gần như nói chuyện với đúng người cần sản phẩm này",
+      "first_frame": "leaning slightly forward at the desk, the SanDisk Extreme microSDXC UHS-I 128GB beside him, open friendly posture",
+      "motion": "slow dolly in as he gestures with an open hand toward the camera",
+      "last_frame": "close on his smiling face, product visible at the edge",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P33C08. Vertical 9:16, 8 seconds, photorealistic, medium close-up. First frame: leaning slightly forward at the desk, the SanDisk Extreme microSDXC UHS-I 128GB beside him, open friendly posture. Motion: slow dolly in as he gestures with an open hand toward the camera. Last frame: close on his smiling face, product visible at the edge. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Hợp ai cần mở rộng bộ nhớ cho điện thoại hay camera. Cần tốc độ ghi cao hơn thì xem dòng khác.\" He is with the SanDisk Extreme microSDXC UHS-I 128GB beside him; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P33C08. Vertical 9:16, 8 seconds, photorealistic, medium shot. First frame: Seated at the desk, hand on the product. Motion: Slight pan right while nodding. Last frame: Facing camera, hand on the product. a Vietnamese woman in her late 20s with shoulder-length straight black hair and light side-swept bangs, warm light-brown skin, small gold stud earrings, natural makeup, wearing a plain white crew-neck t-shirt under a light beige overshirt, friendly confident expression, in a bright modern minimalist desk studio, light oak desk, soft natural window light from the left, plain warm-white wall, shallow depth of field. She says in Vietnamese, in a natural friendly tone: \"Hợp ai cần mở rộng bộ nhớ cho điện thoại hay camera. Cần tốc độ ghi cao hơn thì xem dòng khác.\" Product: exact product in the reference image, a small SanDisk Extreme microSD card. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+    },
+    {
+      "n": 9,
+      "code": "P33C09",
+      "role": "outro",
+      "narration_vi": "Lưu lại trước khi mua. Bạn đang dùng thẻ nhớ hãng nào cho điện thoại hoặc camera?",
+      "facts_used": [],
+      "camera": "pull back",
+      "camera_reason": "lùi ra khép lại video một cách thân thiện",
+      "first_frame": "seated at the desk, the SanDisk Extreme microSDXC UHS-I 128GB on the table, bright smile toward the camera",
+      "motion": "slow pull back while he gives a small friendly wave at the end",
+      "last_frame": "wide on him and the desk with the product, warm and relaxed",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P33C09. Vertical 9:16, 8 seconds, photorealistic, medium shot. First frame: seated at the desk, the SanDisk Extreme microSDXC UHS-I 128GB on the table, bright smile toward the camera. Motion: slow pull back while he gives a small friendly wave at the end. Last frame: wide on him and the desk with the product, warm and relaxed. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Lưu lại trước khi mua. Bạn đang dùng thẻ nhớ hãng nào cho điện thoại hoặc camera?\" He is with the SanDisk Extreme microSDXC UHS-I 128GB on the desk; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P33C09. Vertical 9:16, 8 seconds, photorealistic, medium shot. First frame: Seated at the desk, product in the foreground. Motion: Slow pull back, a small wave. Last frame: Wider desk shot, relaxed smile. a Vietnamese woman in her late 20s with shoulder-length straight black hair and light side-swept bangs, warm light-brown skin, small gold stud earrings, natural makeup, wearing a plain white crew-neck t-shirt under a light beige overshirt, friendly confident expression, in a bright modern minimalist desk studio, light oak desk, soft natural window light from the left, plain warm-white wall, shallow depth of field. She says in Vietnamese, in a natural friendly tone: \"Lưu lại trước khi mua. Bạn đang dùng thẻ nhớ hãng nào cho điện thoại hoặc camera?\" Product: exact product in the reference image, a small SanDisk Extreme microSD card. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+    }
+  ],
+  "onscreen_presenter": true
+}

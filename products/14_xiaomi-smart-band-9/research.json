@@ -1,0 +1,211 @@
+{
+  "id": "14",
+  "slug": "14_xiaomi-smart-band-9",
+  "status": "mot_phan",
+  "chosen_model": "Xiaomi Smart Band 9 (vòng đeo tay, mã SKU FPT Shop 00910368)",
+  "alternatives_rejected": [
+    {
+      "model": "Xiaomi Smart Band 10",
+      "reason": "Đời mới hơn (VN ra mắt 2025, 1.190.000 đ lúc ra mắt theo CellphoneS) nhưng ứng viên là Band 9 và chưa có trang bán hiện hành đọc được; có thể đổi nếu muốn đời mới."
+    },
+    {
+      "model": "Xiaomi Smart Band 11",
+      "reason": "Mới mở bán tại VN khoảng đầu 10/2026, giá các nguồn lệch (1,49 đến 1,69 triệu), chưa có đánh giá."
+    },
+    {
+      "model": "Xiaomi Smart Band 9 Active",
+      "reason": "Là phiên bản khác của dòng, không phải ứng viên."
+    }
+  ],
+  "official_page": null,
+  "price_vnd": {
+    "low": 880000,
+    "high": 980000,
+    "as_of": "2026-10-22",
+    "sources": [
+      "src1"
+    ],
+    "confidence": "vua"
+  },
+  "specs": [
+    {
+      "id": "s1",
+      "key": "Màn hình",
+      "value_vi": "AMOLED 1,62 inch, sáng tối đa 1.200 nit, có cảm biến tự chỉnh độ sáng",
+      "condition": "Theo FPT Shop; Viettablet ghi thêm tần số quét 60Hz",
+      "source": "src1",
+      "confidence": "cao"
+    },
+    {
+      "id": "s2",
+      "key": "Pin",
+      "value_vi": "Tới 21 ngày dùng thông thường; tới 9 ngày khi bật màn hình luôn sáng (AOD)",
+      "condition": "Theo hãng, bật/tắt AOD khác nhau",
+      "source": "src1",
+      "confidence": "cao"
+    },
+    {
+      "id": "s3",
+      "key": "Chống nước",
+      "value_vi": "5 ATM, đi tắm và bơi",
+      "condition": "",
+      "source": "src1",
+      "confidence": "cao"
+    },
+    {
+      "id": "s4",
+      "key": "Khối lượng và thân",
+      "value_vi": "Khung kim loại; nặng 27,4 g",
+      "condition": "Tính cả dây đeo",
+      "source": "src2",
+      "confidence": "cao"
+    },
+    {
+      "id": "s5",
+      "key": "Theo dõi sức khỏe",
+      "value_vi": "Nhịp tim, SpO2 liên tục, căng thẳng, giấc ngủ, sức khỏe nữ, VO2 max, bài tập thở; ứng dụng Mi Fitness",
+      "condition": "Hãng nói cảm biến nhịp tim chính xác hơn đời trước (không rõ điều kiện đo)",
+      "source": "src1",
+      "confidence": "cao"
+    },
+    {
+      "id": "s6",
+      "key": "Thể thao",
+      "value_vi": "Hơn 150 chế độ thể thao",
+      "condition": "",
+      "source": "src1",
+      "confidence": "cao"
+    },
+    {
+      "id": "s7",
+      "key": "GPS",
+      "value_vi": "Không có GPS tích hợp; muốn ghi đường chạy phải mang điện thoại",
+      "condition": "Theo bài của Viettel Store (cửa hàng)",
+      "source": "src3",
+      "confidence": "vua"
+    },
+    {
+      "id": "s8",
+      "key": "Giá",
+      "value_vi": "Khoảng 880.000 đồng, giá gốc 980.000 đồng; ba màu bạc, đen, xanh dương",
+      "condition": "FPT Shop ngày 2026-10-22; Viettablet ghi 990.000 đồng lúc ra mắt 2024",
+      "source": "src1",
+      "confidence": "vua"
+    },
+    {
+      "id": "s9",
+      "key": "Giấc ngủ",
+      "value_vi": "Thời lượng ngủ sâu đo ra có vẻ cao hơn các công cụ khác nên chỉ nên tham khảo",
+      "condition": "Nhận xét của reviewer, không phải đo kiểm chứng",
+      "source": "src3",
+      "confidence": "vua"
+    },
+    {
+      "id": "s10",
+      "key": "Hạn chế khác",
+      "value_vi": "Không gõ trả lời thông báo trên vòng; không sạc không dây; xem biểu đồ giấc ngủ chi tiết cần ứng dụng Mi Fitness",
+      "condition": "",
+      "source": "src3",
+      "confidence": "vua"
+    }
+  ],
+  "strengths": [
+    {
+      "text": "Pin tới 21 ngày, khoảng 9 ngày khi bật màn hình luôn sáng.",
+      "source": "src1"
+    },
+    {
+      "text": "Màn hình AMOLED 1,62 inch sáng tối đa 1.200 nit, đọc được ngoài nắng.",
+      "source": "src3"
+    },
+    {
+      "text": "Nhẹ, 27,4 g tính cả dây; chống nước 5 ATM; hơn 150 chế độ thể thao.",
+      "source": "src2"
+    },
+    {
+      "text": "Giá khoảng 880 nghìn đồng.",
+      "source": "src1"
+    }
+  ],
+  "caveats": [
+    {
+      "text": "Không có GPS tích hợp, phải mang điện thoại để ghi đường chạy.",
+      "source": "src3"
+    },
+    {
+      "text": "Số liệu giấc ngủ sâu hay cao hơn công cụ khác, chỉ nên tham khảo.",
+      "source": "src3"
+    },
+    {
+      "text": "Không gõ trả lời thông báo, không sạc không dây.",
+      "source": "src3"
+    }
+  ],
+  "sources": [
+    {
+      "id": "src1",
+      "url": "https://fptshop.com.vn/smartwatch/xiaomi-smart-band-9",
+      "title": "FPT Shop: Xiaomi Smart Band 9",
+      "type": "cua_hang"
+    },
+    {
+      "id": "src2",
+      "url": "https://www.viettablet.com/xiaomi-smart-band-9-ra-mat-tai-viet-nam",
+      "title": "Viettablet: Xiaomi Smart Band 9 ra mắt tại Việt Nam",
+      "type": "danh_gia"
+    },
+    {
+      "id": "src3",
+      "url": "https://viettelstore.vn/tin-tuc/xiaomi-smart-band-9-co-dang-mua-khong",
+      "title": "Viettel Store: Xiaomi Smart Band 9 có đáng mua không",
+      "type": "cua_hang"
+    }
+  ],
+  "unverified": [
+    "Trang chính hãng mi.com/vn trả lỗi 403 khi mở, nên official_page để trống và thông số lấy từ FPT Shop.",
+    "Tương thích Android/iOS (phiên bản tối thiểu), Bluetooth: các trang đã đọc không ghi. Không dùng.",
+    "Có nghe gọi hay không: chưa đọc được nguồn đáng tin; không nhắc trong lời đọc.",
+    "Các đánh giá quốc tế (GSMArena, Wareable, TechRadar...) xuất hiện trong kết quả tìm nhưng không mở được nội dung; điểm cần cân nhắc dựa trên bài Viettel Store.",
+    "Câu 'cảm biến nhịp tim chính xác hơn 16%' của hãng: không rõ so với đời nào, không dùng.",
+    "Giá trên Viettel Store (390.000 đ) lệch nhiều so với FPT Shop; không dùng.",
+    "Smart Band 10/11 là đời mới hơn, xem alternatives_rejected."
+  ],
+  "product_visual_description": "Slim rectangular 1.62-inch AMOLED fitness band in an all-metal (aluminium alloy) frame, sold in silver, black and blue colourways with an adjustable strap.",
+  "ref_image_candidates": [
+    {
+      "url": "https://cdn2.fptshop.com.vn/unsafe/1920x0/filters:format(webp):quality(75)/xiaomi_smart_band_9_1_7b0fe25755.jpg",
+      "page": "https://fptshop.com.vn/smartwatch/xiaomi-smart-band-9",
+      "kind": "product_main"
+    },
+    {
+      "url": "https://cdn2.fptshop.com.vn/unsafe/1920x0/filters:format(webp):quality(75)/xiaomi_smart_band_9_2_708ffa3702.jpg",
+      "page": "https://fptshop.com.vn/smartwatch/xiaomi-smart-band-9",
+      "kind": "product_angle"
+    },
+    {
+      "url": "https://cdn2.fptshop.com.vn/unsafe/1920x0/filters:format(webp):quality(75)/xiaomi_smart_band_9_3_74bf74a071.jpg",
+      "page": "https://fptshop.com.vn/smartwatch/xiaomi-smart-band-9",
+      "kind": "product_angle"
+    },
+    {
+      "url": "https://cdn2.fptshop.com.vn/unsafe/1920x0/filters:format(webp):quality(75)/xiaomi_smart_band_9_4_cbc1c03fef.jpg",
+      "page": "https://fptshop.com.vn/smartwatch/xiaomi-smart-band-9",
+      "kind": "in_use"
+    },
+    {
+      "url": "https://cdn2.fptshop.com.vn/unsafe/1920x0/filters:format(webp):quality(75)/xiaomi_smart_band_9_5_53271256a2.jpg",
+      "page": "https://fptshop.com.vn/smartwatch/xiaomi-smart-band-9",
+      "kind": "in_use"
+    },
+    {
+      "url": "https://cdn2.fptshop.com.vn/unsafe/1920x0/filters:format(webp):quality(75)/xiaomi_band_9_xanh_3_5612622710.jpg",
+      "page": "https://fptshop.com.vn/smartwatch/xiaomi-smart-band-9",
+      "kind": "product_angle"
+    }
+  ],
+  "takeaway": "Cần vòng đeo tay rẻ, pin lâu để theo dõi sức khỏe hằng ngày thì Smart Band 9 đủ dùng; cần ghi đường chạy không mang điện thoại thì nên cân nhắc loại có GPS.",
+  "buyer_personas": [
+    "Người muốn theo dõi bước chân, nhịp tim, giấc ngủ với ngân sách thấp",
+    "Người ngại sạc hằng tuần"
+  ]
+}

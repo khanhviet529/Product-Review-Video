@@ -1,0 +1,223 @@
+{
+  "id": "31",
+  "slug": "31_hollyland-lark-m2",
+  "status": "mot_phan",
+  "chosen_model": "Hollyland Lark M2 Combo (hai bộ phát, ba đầu thu camera/USB-C/Lightning, hộp sạc)",
+  "alternatives_rejected": [
+    {
+      "model": "Rode Wireless GO III",
+      "reason": "Không mở được trang chính hãng; chỉ có giá VN khoảng 6,5 đến 8 triệu từ kết quả tìm kiếm (chưa mở từng trang), cao hơn gấp khoảng hai lần rưỡi."
+    },
+    {
+      "model": "Hollyland Lark M2 Mini Combo / bản Mobile",
+      "reason": "Ít đầu thu hơn; chọn bản Combo cho cả máy ảnh và điện thoại."
+    },
+    {
+      "model": "Hollyland Lark M2S",
+      "reason": "Dòng khác (có ENC và app), chưa thấy bản bán ở VN trong các trang đã mở."
+    }
+  ],
+  "official_page": "https://www.hollyland.com/product/lark-m2",
+  "price_vnd": {
+    "low": 2760000,
+    "high": 2790000,
+    "as_of": "2026-10-22",
+    "sources": [
+      "src2",
+      "src3",
+      "src4"
+    ],
+    "confidence": "vua"
+  },
+  "specs": [
+    {
+      "id": "s1",
+      "key": "Nội dung bộ Combo",
+      "value_vi": "2 bộ phát (TX), 3 đầu thu (camera, USB-C, Lightning), hộp sạc, cáp USB-C và 3,5 mm, kẹp từ, chụp gió",
+      "condition": "",
+      "source": "src2",
+      "confidence": "cao"
+    },
+    {
+      "id": "s2",
+      "key": "Bộ phát",
+      "value_vi": "Nặng khoảng 9 g, hình tròn cỡ nút áo, gắn bằng nam châm hoặc dây đeo",
+      "condition": "",
+      "source": "src1",
+      "confidence": "cao"
+    },
+    {
+      "id": "s3",
+      "key": "Âm thanh",
+      "value_vi": "48 kHz / 24-bit, đáp tần 20 Hz - 20 kHz, SNR trên 70 dB",
+      "condition": "",
+      "source": "src1",
+      "confidence": "cao"
+    },
+    {
+      "id": "s4",
+      "key": "Chất lượng giọng",
+      "value_vi": "Đánh giá: giọng rõ, đầy, chống ồn ít méo giọng",
+      "condition": "Parka Blogs, bản đánh giá Lark M2",
+      "source": "src5",
+      "confidence": "vua"
+    },
+    {
+      "id": "s5",
+      "key": "Pin",
+      "value_vi": "Bộ phát khoảng 10 giờ; cả bộ với hộp sạc khoảng 40 giờ (bản camera)",
+      "condition": "Theo hãng; Parka Blogs ghi bộ phát và đầu thu khoảng 8 giờ",
+      "source": "src1",
+      "confidence": "cao"
+    },
+    {
+      "id": "s6",
+      "key": "Tầm truyền",
+      "value_vi": "300 m khi nhìn thẳng; 40 m có vật cản (bản camera), 60 m (bản mobile)",
+      "condition": "2,4 GHz, theo hãng",
+      "source": "src1",
+      "confidence": "cao"
+    },
+    {
+      "id": "s7",
+      "key": "Ghi âm trong bộ phát",
+      "value_vi": "Không có ghi âm tích hợp, không có timecode",
+      "condition": "",
+      "source": "src2",
+      "confidence": "vua"
+    },
+    {
+      "id": "s8",
+      "key": "Điểm nhỏ cần lưu ý",
+      "value_vi": "Không có màn hình báo phần trăm pin; núm âm lượng dễ xoay nhầm; hộp sạc không chứa cáp và đầu thu USB-C/Lightning",
+      "condition": "",
+      "source": "src5",
+      "confidence": "vua"
+    },
+    {
+      "id": "s9",
+      "key": "Giá bán tại VN (bản Combo)",
+      "value_vi": "2.760.000 đến 2.790.000 đồng",
+      "condition": "ngày 2026-10-22; giá khuyến mãi thay đổi",
+      "source": "src2",
+      "confidence": "vua"
+    },
+    {
+      "id": "s10",
+      "key": "Bảo hành",
+      "value_vi": "12 tháng",
+      "condition": "chính hãng theo trang đại lý",
+      "source": "src3",
+      "confidence": "cao"
+    }
+  ],
+  "strengths": [
+    {
+      "text": "Bộ phát cực nhỏ, khoảng 9 g, nhiều cách gắn.",
+      "source": "src1"
+    },
+    {
+      "text": "Combo có đủ đầu thu cho máy ảnh, USB-C và Lightning.",
+      "source": "src2"
+    },
+    {
+      "text": "Reviewer khen giọng rõ, đầy, chống ồn ít méo.",
+      "source": "src5"
+    },
+    {
+      "text": "Pin theo hãng khoảng 10 giờ mỗi bộ phát, 40 giờ cả bộ với hộp sạc.",
+      "source": "src1"
+    }
+  ],
+  "caveats": [
+    {
+      "text": "Không có ghi âm tích hợp và không có timecode.",
+      "source": "src2"
+    },
+    {
+      "text": "Không có màn hình báo pin; núm âm lượng dễ xoay nhầm; chụp gió khó lắp.",
+      "source": "src5"
+    },
+    {
+      "text": "Hộp sạc không có chỗ cho cáp và đầu thu USB-C/Lightning.",
+      "source": "src5"
+    }
+  ],
+  "sources": [
+    {
+      "id": "src1",
+      "url": "https://www.hollyland.com/product/lark-m2",
+      "title": "Hollyland - LARK M2 (trang chính hãng)",
+      "type": "chinh_hang"
+    },
+    {
+      "id": "src2",
+      "url": "https://bhasia.com.vn/products/bo-micro-khong-day-hollyland-lark-m2",
+      "title": "BH Asia - Hollyland Lark M2 Combo",
+      "type": "cua_hang"
+    },
+    {
+      "id": "src3",
+      "url": "https://phuquangkts.vn/products/hollyland-lark-m2-combo",
+      "title": "Phú Quang KTS - Hollyland Lark M2 Combo",
+      "type": "cua_hang"
+    },
+    {
+      "id": "src4",
+      "url": "https://store.kingcom.com.vn/collections/hollyland",
+      "title": "Kingcom - bộ sưu tập Hollyland",
+      "type": "cua_hang"
+    },
+    {
+      "id": "src5",
+      "url": "https://parkablogs.com/content/review-hollyland-lark-m2-wireless-microphone",
+      "title": "Parka Blogs - Review Hollyland Lark M2",
+      "type": "danh_gia"
+    }
+  ],
+  "unverified": [
+    "Chống ồn môi trường (ENC): chỉ thấy trên trang đại lý và các nguồn khác nhau mâu thuẫn; không dùng trong lời đọc.",
+    "Chưa mở được trang chính hãng của Rode Wireless GO III nên không so sánh số liệu hai hãng.",
+    "Giá và tình trạng hàng VN thay đổi: BH Asia ghi đặt trước, Kingcom ghi hết hàng, Phú Quang ghi còn hàng.",
+    "Thời hạn bảo hành 12 tháng lấy từ trang Phú Quang; BH Asia không ghi thời hạn.",
+    "Bản Lark M2S mới hơn nhưng chưa xác nhận có bán ở VN."
+  ],
+  "product_visual_description": "Tiny round button-sized transmitters with a metallic mesh front, a camera receiver with a volume knob and three LEDs, and a dark grey (Shine Charcoal) charging case; also offered in black and white skins (Hollyland and BH Asia pages).",
+  "ref_image_candidates": [
+    {
+      "url": "https://cdn.hollyland.com/file/product/6301/choosev2/combo-black-product.png",
+      "page": "https://www.hollyland.com/product/lark-m2",
+      "kind": "product_main"
+    },
+    {
+      "url": "https://cdn.hollyland.com/file/product/6301/choosev2/combo-white-product.png",
+      "page": "https://www.hollyland.com/product/lark-m2",
+      "kind": "product_angle"
+    },
+    {
+      "url": "https://cdn.hollyland.com/file/product/6301/choosev2/camera-black-product.png",
+      "page": "https://www.hollyland.com/product/lark-m2",
+      "kind": "product_angle"
+    },
+    {
+      "url": "https://cdn.hollyland.com/file/product/6301/larkm2-banner.jpg",
+      "page": "https://www.hollyland.com/product/lark-m2",
+      "kind": "in_use"
+    },
+    {
+      "url": "https://product.hstatic.net/1000340975/product/lark-m2-combo-21_11zon_d00bc4efb9b341daa8961148603f1386_master.jpg",
+      "page": "https://phuquangkts.vn/products/hollyland-lark-m2-combo",
+      "kind": "product_main"
+    },
+    {
+      "url": "https://product.hstatic.net/1000340975/product/lark-m2-combo-20_1878f6db798f4f9ca5a56ca4c0a92a02_master.png",
+      "page": "https://phuquangkts.vn/products/hollyland-lark-m2-combo",
+      "kind": "product_angle"
+    }
+  ],
+  "takeaway": "Cần mic cài áo gọn nhẹ, đủ đầu thu cho điện thoại và máy ảnh với giá khoảng hai triệu bảy thì chọn Hollyland Lark M2 Combo; cần ghi âm dự phòng trong bộ phát thì cân nhắc mẫu khác.",
+  "buyer_personas": [
+    "Người làm vlog và phỏng vấn bằng điện thoại",
+    "Người quay bằng máy ảnh cần mic không dây gọn"
+  ]
+}

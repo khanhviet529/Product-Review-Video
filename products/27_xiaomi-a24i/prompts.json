@@ -1,0 +1,229 @@
+{
+  "product_id": "27",
+  "slug": "27_xiaomi-a24i",
+  "model": "Xiaomi Monitor A24i 2026 23.8 inch (mã ELA6416EU)",
+  "presenter": "M",
+  "takeaway": "Cần màn hình văn phòng, học tập IPS, quét cao, giá khoảng hai triệu rưỡi thì chọn Xiaomi A24i; cần loa, chân đế chỉnh độ cao hoặc màu chuyên nghiệp thì cân nhắc màn khác.",
+  "target_seconds": 88,
+  "clips": [
+    {
+      "n": 1,
+      "code": "P27C01",
+      "role": "hook",
+      "narration_vi": "Cần màn IPS quét mượt, giá mềm thì chọn Xiaomi A24i. Cần loa hay chỉnh độ cao thì xem màn khác.",
+      "facts_used": [],
+      "camera": "push in",
+      "camera_reason": "tiến vào người nói để mở đầu bằng câu trả lời ngắn",
+      "first_frame": "seated at the desk facing the camera, the Xiaomi Monitor A24i 2026 23.8 inch resting on the desk beside him, relaxed upright posture",
+      "motion": "slow push in toward his face as he starts speaking, he glances at the product then back to the lens",
+      "last_frame": "tighter on his face and shoulders, product still visible at the lower edge of the frame",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P27C01. Vertical 9:16, 8 seconds, photorealistic, medium close-up. First frame: seated at the desk facing the camera, the Xiaomi Monitor A24i 2026 23.8 inch resting on the desk beside him, relaxed upright posture. Motion: slow push in toward his face as he starts speaking, he glances at the product then back to the lens. Last frame: tighter on his face and shoulders, product still visible at the lower edge of the frame. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Cần màn IPS quét mượt, giá mềm thì chọn Xiaomi A24i. Cần loa hay chỉnh độ cao thì xem màn khác.\" He is the Xiaomi Monitor A24i 2026 23.8 inch on the desk within reach; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P27C01. Vertical 9:16, 8 seconds, photorealistic, close-up, 50mm. First frame: Presenter at desk, monitor blurred behind. Motion: Slow push in. Last frame: She smiles at the camera. Host: a Vietnamese woman in her late 20s with shoulder-length straight black hair and light side-swept bangs, warm light-brown skin, small gold stud earrings, natural makeup, wearing a plain white crew-neck t-shirt under a light beige overshirt, friendly confident expression, in a bright modern minimalist desk studio, light oak desk, soft natural window light from the left, plain warm-white wall, shallow depth of field. She says in Vietnamese, in a natural friendly tone: \"Cần màn IPS quét mượt, giá mềm thì chọn Xiaomi A24i. Cần loa hay chỉnh độ cao thì xem màn khác.\" Product: exact product shown in the reference image, 23.8-inch flat black Xiaomi monitor, thin bezels. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+    },
+    {
+      "n": 2,
+      "code": "P27C02",
+      "role": "feature",
+      "narration_vi": "Màn hình hai mươi ba phẩy tám inch, Full HD, tấm nền IPS, góc nhìn rộng nên ngồi lệch vẫn nhìn rõ.",
+      "facts_used": [
+        "s1"
+      ],
+      "camera": "push in",
+      "camera_reason": "tiến vào đúng chi tiết sản phẩm đang nói đến",
+      "first_frame": "seated at the desk, one hand lifting the Xiaomi Monitor A24i 2026 23.8 inch toward the camera at chest height",
+      "motion": "slow push in on the product in his open palm while he keeps eye contact with the lens",
+      "last_frame": "product held close to the lens in sharp focus, his face softly blurred behind it",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P27C02. Vertical 9:16, 8 seconds, photorealistic, medium close-up. First frame: seated at the desk, one hand lifting the Xiaomi Monitor A24i 2026 23.8 inch toward the camera at chest height. Motion: slow push in on the product in his open palm while he keeps eye contact with the lens. Last frame: product held close to the lens in sharp focus, his face softly blurred behind it. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Màn hình hai mươi ba phẩy tám inch, Full HD, tấm nền IPS, góc nhìn rộng nên ngồi lệch vẫn nhìn rõ.\" He is holding the Xiaomi Monitor A24i 2026 23.8 inch in his open palm; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P27C02. Vertical 9:16, 8 seconds, photorealistic, medium shot, 50mm lens. First frame: The monitor stands on a light oak desk in a bright minimalist studio, soft window light from the left, front view, screen showing an abstract soft gradient wallpaper. Motion: Slow orbit to the right about thirty degrees; the colors stay even on the screen. Last frame: The monitor is seen from a three-quarter angle, image still even. Product: exact product shown in the reference image, 23.8-inch flat black Xiaomi monitor with ultra-thin bezels on three sides and a simple tilt-only stand. Voice-over by the presenter, off-screen, says in Vietnamese, in a natural friendly tone: \"Màn hình hai mươi ba phẩy tám inch, Full HD, tấm nền IPS, góc nhìn rộng nên ngồi lệch vẫn nhìn rõ.\" No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+    },
+    {
+      "n": 3,
+      "code": "P27C03",
+      "role": "feature",
+      "narration_vi": "Tần số quét một trăm bốn mươi bốn héc, cuộn trang và kéo cửa sổ mượt hơn. Nhớ kiểm tra mã model.",
+      "facts_used": [
+        "s2"
+      ],
+      "camera": "rack focus",
+      "camera_reason": "chuyển nét từ sản phẩm sang người nói để nối chi tiết với đánh giá",
+      "first_frame": "face and shoulders, one hand bringing the Xiaomi Monitor A24i 2026 23.8 inch up next to his cheek",
+      "motion": "rack focus from the product beside his cheek to his eyes, he turns slightly toward the lens",
+      "last_frame": "sharp on his face, product soft beside his cheek",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P27C03. Vertical 9:16, 8 seconds, photorealistic, close-up. First frame: face and shoulders, one hand bringing the Xiaomi Monitor A24i 2026 23.8 inch up next to his cheek. Motion: rack focus from the product beside his cheek to his eyes, he turns slightly toward the lens. Last frame: sharp on his face, product soft beside his cheek. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Tần số quét một trăm bốn mươi bốn héc, cuộn trang và kéo cửa sổ mượt hơn. Nhớ kiểm tra mã model.\" He is showing the Xiaomi Monitor A24i 2026 23.8 inch beside his face; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P27C03. Vertical 9:16, 8 seconds, photorealistic, close-up, 50mm lens. First frame: Front view of the monitor on a light oak desk in a bright minimalist studio, soft window light from the left, abstract gradient wallpaper on screen. Motion: Slow push in on the screen as a cursor sweeps smoothly across and a window is dragged. Last frame: The screen center fills the frame, the window sitting still. Product: exact product shown in the reference image, 23.8-inch flat black Xiaomi monitor with ultra-thin bezels on three sides and a simple tilt-only stand. Voice-over by the presenter, off-screen, says in Vietnamese, in a natural friendly tone: \"Tần số quét một trăm bốn mươi bốn héc, cuộn trang và kéo cửa sổ mượt hơn. Nhớ kiểm tra mã model.\" No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+    },
+    {
+      "n": 4,
+      "code": "P27C04",
+      "role": "feature",
+      "narration_vi": "Phủ chín mươi chín phần trăm sRGB, độ sáng ba trăm nít, đủ cho văn phòng và chỉnh ảnh cơ bản.",
+      "facts_used": [
+        "s3",
+        "s4"
+      ],
+      "camera": "dolly in",
+      "camera_reason": "lại gần dần để tạo cảm giác trò chuyện trực tiếp",
+      "first_frame": "seated at the desk, both hands holding the Xiaomi Monitor A24i 2026 23.8 inch at table height, looking down at it",
+      "motion": "he looks up at the camera mid-sentence while the camera does a slow dolly in",
+      "last_frame": "closer on his face with both hands and the product still in frame",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P27C04. Vertical 9:16, 8 seconds, photorealistic, medium shot. First frame: seated at the desk, both hands holding the Xiaomi Monitor A24i 2026 23.8 inch at table height, looking down at it. Motion: he looks up at the camera mid-sentence while the camera does a slow dolly in. Last frame: closer on his face with both hands and the product still in frame. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Phủ chín mươi chín phần trăm sRGB, độ sáng ba trăm nít, đủ cho văn phòng và chỉnh ảnh cơ bản.\" He is turning the Xiaomi Monitor A24i 2026 23.8 inch in both hands; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P27C04. Vertical 9:16, 8 seconds, photorealistic, medium close-up, 85mm lens. First frame: A small color-swatch card sits in the foreground on a light oak desk in a bright minimalist studio, soft window light from the left, the monitor blurred behind it showing a colorful photo. Motion: Rack focus from the swatch card to the monitor's photo. Last frame: The photo on the screen is sharp, the swatch card softly blurred. Product: exact product shown in the reference image, 23.8-inch flat black Xiaomi monitor with ultra-thin bezels on three sides and a simple tilt-only stand. Voice-over by the presenter, off-screen, says in Vietnamese, in a natural friendly tone: \"Phủ chín mươi chín phần trăm sRGB, độ sáng ba trăm nít, đủ cho văn phòng và chỉnh ảnh cơ bản.\" No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+    },
+    {
+      "n": 5,
+      "code": "P27C05",
+      "role": "feature",
+      "narration_vi": "Giảm ánh sáng xanh có chứng nhận TÜV Rheinland, độ sáng chỉnh kiểu DC chống nhấp nháy, hợp người làm việc lâu.",
+      "facts_used": [
+        "s5"
+      ],
+      "camera": "pan",
+      "camera_reason": "lia từ thiết bị sang người nói để cho thấy cách dùng thực tế",
+      "first_frame": "standing near the window, the Xiaomi Monitor A24i 2026 23.8 inch in one hand and a smartphone in the other",
+      "motion": "slow pan from the phone in his hand across to his face as he speaks",
+      "last_frame": "centred on his face, phone and product low in the frame",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P27C05. Vertical 9:16, 8 seconds, photorealistic, medium shot. First frame: standing near the window, the Xiaomi Monitor A24i 2026 23.8 inch in one hand and a smartphone in the other. Motion: slow pan from the phone in his hand across to his face as he speaks. Last frame: centred on his face, phone and product low in the frame. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Giảm ánh sáng xanh có chứng nhận TÜV Rheinland, độ sáng chỉnh kiểu DC chống nhấp nháy, hợp người làm việc lâu.\" He is holding the Xiaomi Monitor A24i 2026 23.8 inch and a phone; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P27C05. Vertical 9:16, 8 seconds, photorealistic, medium close-up, 50mm lens. First frame: Front view of the monitor on a light oak desk in a bright minimalist studio, soft window light from the left, a warm document page on screen. Motion: Slow push in on the screen's upper edge. Last frame: The upper half of the screen fills the frame. Product: exact product shown in the reference image, 23.8-inch flat black Xiaomi monitor with ultra-thin bezels on three sides and a simple tilt-only stand. Voice-over by the presenter, off-screen, says in Vietnamese, in a natural friendly tone: \"Giảm ánh sáng xanh có chứng nhận TÜV Rheinland, độ sáng chỉnh kiểu DC chống nhấp nháy, hợp người làm việc lâu.\" No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+    },
+    {
+      "n": 6,
+      "code": "P27C06",
+      "role": "feature",
+      "narration_vi": "Có một cổng DisplayPort và một HDMI, treo tường được theo chuẩn VESA bảy mươi lăm nhân bảy mươi lăm.",
+      "facts_used": [
+        "s6",
+        "s7"
+      ],
+      "camera": "pull back",
+      "camera_reason": "mở rộng khung hình để thấy quy mô sản phẩm so với người",
+      "first_frame": "seated at the desk, the Xiaomi Monitor A24i 2026 23.8 inch held out toward the camera at arm's length",
+      "motion": "he draws the product back toward himself as the camera pulls back to reveal the desk",
+      "last_frame": "wider shot of him at the desk, product held at chest height",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P27C06. Vertical 9:16, 8 seconds, photorealistic, medium close-up. First frame: seated at the desk, the Xiaomi Monitor A24i 2026 23.8 inch held out toward the camera at arm's length. Motion: he draws the product back toward himself as the camera pulls back to reveal the desk. Last frame: wider shot of him at the desk, product held at chest height. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Có một cổng DisplayPort và một HDMI, treo tường được theo chuẩn VESA bảy mươi lăm nhân bảy mươi lăm.\" He is pulling the Xiaomi Monitor A24i 2026 23.8 inch back from the lens; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P27C06. Vertical 9:16, 8 seconds, photorealistic, medium close-up, 50mm lens. First frame: Rear view of the monitor on a light oak desk in a bright minimalist studio, soft window light from the left, the back panel and its ports visible. Motion: Slow pan left to right along the ports on the rear panel. Last frame: The ports are visible in the frame center, sharp. Product: exact product shown in the reference image, 23.8-inch flat black Xiaomi monitor with ultra-thin bezels on three sides and a simple tilt-only stand. Voice-over by the presenter, off-screen, says in Vietnamese, in a natural friendly tone: \"Có một cổng DisplayPort và một HDMI, treo tường được theo chuẩn VESA bảy mươi lăm nhân bảy mươi lăm.\" No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+    },
+    {
+      "n": 7,
+      "code": "P27C07",
+      "role": "feature",
+      "narration_vi": "Giá hiện khoảng hai triệu hai trăm chín mươi nghìn đồng, bảo hành ba năm chính hãng.",
+      "facts_used": [
+        "s9",
+        "s10"
+      ],
+      "camera": "push in",
+      "camera_reason": "tiến vào đúng chi tiết sản phẩm đang nói đến",
+      "first_frame": "seated at the desk, one hand lifting the Xiaomi Monitor A24i 2026 23.8 inch toward the camera at chest height",
+      "motion": "slow push in on the product in his open palm while he keeps eye contact with the lens",
+      "last_frame": "product held close to the lens in sharp focus, his face softly blurred behind it",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P27C07. Vertical 9:16, 8 seconds, photorealistic, medium close-up. First frame: seated at the desk, one hand lifting the Xiaomi Monitor A24i 2026 23.8 inch toward the camera at chest height. Motion: slow push in on the product in his open palm while he keeps eye contact with the lens. Last frame: product held close to the lens in sharp focus, his face softly blurred behind it. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Giá hiện khoảng hai triệu hai trăm chín mươi nghìn đồng, bảo hành ba năm chính hãng.\" He is holding the Xiaomi Monitor A24i 2026 23.8 inch in his open palm; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P27C07. Vertical 9:16, 8 seconds, photorealistic, medium shot, 35mm lens. First frame: Front view of the monitor on a light oak desk in a bright minimalist studio, soft window light from the left. Motion: Slow dolly in toward the monitor, steady and level. Last frame: The monitor fills most of the frame. Product: exact product shown in the reference image, 23.8-inch flat black Xiaomi monitor with ultra-thin bezels on three sides and a simple tilt-only stand. Voice-over by the presenter, off-screen, says in Vietnamese, in a natural friendly tone: \"Giá hiện khoảng hai triệu hai trăm chín mươi nghìn đồng, bảo hành ba năm chính hãng.\" No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+    },
+    {
+      "n": 8,
+      "code": "P27C08",
+      "role": "caveat",
+      "narration_vi": "Đổi lại, màn không có loa, bạn cần thêm loa hoặc tai nghe để xem phim, họp trực tuyến.",
+      "facts_used": [
+        "s8"
+      ],
+      "camera": "dolly in",
+      "camera_reason": "tiến gần để nhấn vào điểm cần cân nhắc một cách thẳng thắn",
+      "first_frame": "seated at the desk, thoughtful expression, the Xiaomi Monitor A24i 2026 23.8 inch held loosely in one hand",
+      "motion": "slow dolly in as he tilts his head slightly and raises his eyebrows while speaking",
+      "last_frame": "closer on his face, product lowered out of focus",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P27C08. Vertical 9:16, 8 seconds, photorealistic, medium close-up. First frame: seated at the desk, thoughtful expression, the Xiaomi Monitor A24i 2026 23.8 inch held loosely in one hand. Motion: slow dolly in as he tilts his head slightly and raises his eyebrows while speaking. Last frame: closer on his face, product lowered out of focus. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Đổi lại, màn không có loa, bạn cần thêm loa hoặc tai nghe để xem phim, họp trực tuyến.\" He is holding the Xiaomi Monitor A24i 2026 23.8 inch loosely; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P27C08. Vertical 9:16, 8 seconds, photorealistic, medium shot, 50mm lens. First frame: Front view of the monitor on a light oak desk in a bright minimalist studio, soft window light from the left, a pair of earbuds beside it. Motion: Slow tilt down from the screen to the lower bezel and the earbuds beside the stand. Last frame: The earbuds and the base of the stand fill the frame. Product: exact product shown in the reference image, 23.8-inch flat black Xiaomi monitor with ultra-thin bezels on three sides and a simple tilt-only stand. Voice-over by the presenter, off-screen, says in Vietnamese, in a natural friendly tone: \"Đổi lại, màn không có loa, bạn cần thêm loa hoặc tai nghe để xem phim, họp trực tuyến.\" No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+    },
+    {
+      "n": 9,
+      "code": "P27C09",
+      "role": "caveat",
+      "narration_vi": "Chân đế chỉ nghiêng, không chỉnh độ cao hay xoay dọc. Làm đồ họa chuyên nghiệp Full HD và sRGB chưa đủ.",
+      "facts_used": [
+        "s7",
+        "s11"
+      ],
+      "camera": "pull back",
+      "camera_reason": "lùi ra để đặt điểm yếu trong bức tranh chung",
+      "first_frame": "seated at the desk, the Xiaomi Monitor A24i 2026 23.8 inch set down in front of him, hands open",
+      "motion": "slow pull back as he gestures with one open hand",
+      "last_frame": "wide on him and the desk, product small at the centre of the table",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P27C09. Vertical 9:16, 8 seconds, photorealistic, medium shot. First frame: seated at the desk, the Xiaomi Monitor A24i 2026 23.8 inch set down in front of him, hands open. Motion: slow pull back as he gestures with one open hand. Last frame: wide on him and the desk, product small at the centre of the table. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Chân đế chỉ nghiêng, không chỉnh độ cao hay xoay dọc. Làm đồ họa chuyên nghiệp Full HD và sRGB chưa đủ.\" He is with the Xiaomi Monitor A24i 2026 23.8 inch on the desk in front of him; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P27C09. Vertical 9:16, 8 seconds, photorealistic, medium shot, 35mm lens. First frame: Tight on the monitor's stand and hinge, on a light oak desk in a bright minimalist studio, soft window light from the left. Motion: Pull back as a hand tilts the screen forward and backward; no height change. Last frame: The whole monitor is visible, tilted slightly back. Product: exact product shown in the reference image, 23.8-inch flat black Xiaomi monitor with ultra-thin bezels on three sides and a simple tilt-only stand. Voice-over by the presenter, off-screen, says in Vietnamese, in a natural friendly tone: \"Chân đế chỉ nghiêng, không chỉnh độ cao hay xoay dọc. Làm đồ họa chuyên nghiệp Full HD và sRGB chưa đủ.\" No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+    },
+    {
+      "n": 10,
+      "code": "P27C10",
+      "role": "fit",
+      "narration_vi": "Hợp sinh viên, dân văn phòng cần màn thứ hai giá mềm. Không hợp nếu chơi game nặng hay làm đồ họa.",
+      "facts_used": [],
+      "camera": "dolly in",
+      "camera_reason": "lại gần như nói chuyện với đúng người cần sản phẩm này",
+      "first_frame": "leaning slightly forward at the desk, the Xiaomi Monitor A24i 2026 23.8 inch beside him, open friendly posture",
+      "motion": "slow dolly in as he gestures with an open hand toward the camera",
+      "last_frame": "close on his smiling face, product visible at the edge",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P27C10. Vertical 9:16, 8 seconds, photorealistic, medium close-up. First frame: leaning slightly forward at the desk, the Xiaomi Monitor A24i 2026 23.8 inch beside him, open friendly posture. Motion: slow dolly in as he gestures with an open hand toward the camera. Last frame: close on his smiling face, product visible at the edge. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Hợp sinh viên, dân văn phòng cần màn thứ hai giá mềm. Không hợp nếu chơi game nặng hay làm đồ họa.\" He is with the Xiaomi Monitor A24i 2026 23.8 inch beside him; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P27C10. Vertical 9:16, 8 seconds, photorealistic, medium shot, 35mm. First frame: Presenter at desk, monitor beside her. Motion: Slow widen to a laptop. Last frame: Wider desk setup. Host: a Vietnamese woman in her late 20s with shoulder-length straight black hair and light side-swept bangs, warm light-brown skin, small gold stud earrings, natural makeup, wearing a plain white crew-neck t-shirt under a light beige overshirt, friendly confident expression, in a bright modern minimalist desk studio, light oak desk, soft natural window light from the left, plain warm-white wall, shallow depth of field. She says in Vietnamese, in a natural friendly tone: \"Hợp sinh viên, dân văn phòng cần màn thứ hai giá mềm. Không hợp nếu chơi game nặng hay làm đồ họa.\" Product: exact product shown in the reference image, 23.8-inch flat black Xiaomi monitor, thin bezels. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+    },
+    {
+      "n": 11,
+      "code": "P27C11",
+      "role": "outro",
+      "narration_vi": "Bạn đang dùng màn hình loại nào? Lưu lại video này trước khi mua nhé.",
+      "facts_used": [],
+      "camera": "pull back",
+      "camera_reason": "lùi ra khép lại video một cách thân thiện",
+      "first_frame": "seated at the desk, the Xiaomi Monitor A24i 2026 23.8 inch on the table, bright smile toward the camera",
+      "motion": "slow pull back while he gives a small friendly wave at the end",
+      "last_frame": "wide on him and the desk with the product, warm and relaxed",
+      "ref_images": [
+        "presenter_front",
+        "product_main"
+      ],
+      "flow_prompt": "P27C11. Vertical 9:16, 8 seconds, photorealistic, medium shot. First frame: seated at the desk, the Xiaomi Monitor A24i 2026 23.8 inch on the table, bright smile toward the camera. Motion: slow pull back while he gives a small friendly wave at the end. Last frame: wide on him and the desk with the product, warm and relaxed. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Bạn đang dùng màn hình loại nào? Lưu lại video này trước khi mua nhé.\" He is with the Xiaomi Monitor A24i 2026 23.8 inch on the desk; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
+      "flow_prompt_voiceover": "P27C11. Vertical 9:16, 8 seconds, photorealistic, close-up, 50mm. First frame: Presenter at desk, monitor blurred behind. Motion: Gentle push in as she asks. Last frame: She smiles at the camera. Host: a Vietnamese woman in her late 20s with shoulder-length straight black hair and light side-swept bangs, warm light-brown skin, small gold stud earrings, natural makeup, wearing a plain white crew-neck t-shirt under a light beige overshirt, friendly confident expression, in a bright modern minimalist desk studio, light oak desk, soft natural window light from the left, plain warm-white wall, shallow depth of field. She says in Vietnamese, in a natural friendly tone: \"Bạn đang dùng màn hình loại nào? Lưu lại video này trước khi mua nhé.\" Product: exact product shown in the reference image, 23.8-inch flat black Xiaomi monitor, thin bezels. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+    }
+  ],
+  "onscreen_presenter": true
+}

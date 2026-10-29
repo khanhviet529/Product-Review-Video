@@ -1,0 +1,184 @@
+{
+  "id": "25",
+  "slug": "25_xiaomi-sound-pocket",
+  "status": "mot_phan",
+  "chosen_model": "Xiaomi Sound Pocket (mã MDZ-37-DB)",
+  "alternatives_rejected": [
+    {
+      "model": "Anker Soundcore 3",
+      "reason": "Không được nghiên cứu trong lượt này; chọn Xiaomi Sound Pocket vì tìm được đủ thông số, giá và đánh giá người dùng tại Việt Nam. Soundcore 3 chưa xác minh."
+    }
+  ],
+  "official_page": "https://www.mi.com/vn/product/xiaomi-sound-pocket/",
+  "official_page_note": "WebFetch trả 403; chưa đọc được trang này, thông số lấy từ cửa hàng",
+  "price_vnd": {
+    "low": 455000,
+    "high": 580000,
+    "as_of": "2026-10-22",
+    "sources": [
+      "src1",
+      "src2"
+    ],
+    "confidence": "vua"
+  },
+  "specs": [
+    {
+      "id": "s1",
+      "key": "Kích thước / khối lượng",
+      "value_vi": "90,8 x 74,4 x 42,6 mm; khoảng 200 g",
+      "condition": "",
+      "source": "src2",
+      "confidence": "cao"
+    },
+    {
+      "id": "s2",
+      "key": "Chống bụi nước",
+      "value_vi": "IP67; cổng USB-C có nắp cao su",
+      "condition": "",
+      "source": "src2",
+      "confidence": "cao"
+    },
+    {
+      "id": "s3",
+      "key": "Pin",
+      "value_vi": "Pin 1000 mAh, khoảng 10 giờ phát nhạc",
+      "condition": "ở mức âm lượng 40%; công bố của hãng",
+      "source": "src2",
+      "confidence": "cao"
+    },
+    {
+      "id": "s4",
+      "key": "Sạc",
+      "value_vi": "Cổng USB Type-C, đầy khoảng 3 giờ",
+      "condition": "",
+      "source": "src1",
+      "confidence": "cao"
+    },
+    {
+      "id": "s5",
+      "key": "Bluetooth",
+      "value_vi": "Bluetooth 5.4, tầm tối đa 25 m, ghép đôi hai loa TWS, có micro nghe gọi",
+      "condition": "",
+      "source": "src1",
+      "confidence": "cao"
+    },
+    {
+      "id": "s6",
+      "key": "Công suất / dải tần",
+      "value_vi": "5 W; 100 Hz đến 20 kHz",
+      "condition": "",
+      "source": "src2",
+      "confidence": "cao"
+    },
+    {
+      "id": "s7",
+      "key": "Giá",
+      "value_vi": "455.000 đ (Sforum, tháng 2/2026) đến 580.000 đ (Thế Giới Di Động, HCM, 22/10/2026)",
+      "condition": "tùy cửa hàng và thời điểm",
+      "source": "src1",
+      "confidence": "vua"
+    },
+    {
+      "id": "s8",
+      "key": "Âm thanh (đánh giá)",
+      "value_vi": "Thiên về ấm, bass khá chắc so với cỡ loa; âm cao không gắt; ngoài trời bass giảm rõ; không có ứng dụng chỉnh âm",
+      "condition": "theo Sforum, một người đánh giá",
+      "source": "src2",
+      "confidence": "vua"
+    },
+    {
+      "id": "s9",
+      "key": "Phản hồi người dùng về pin và độ ổn định",
+      "value_vi": "Vài người dùng trên trang Thế Giới Di Động báo pin thực tế ngắn hơn công bố, loa rè hoặc tự tắt",
+      "condition": "ý kiến cá nhân, chưa kiểm chứng",
+      "source": "src1",
+      "confidence": "vua"
+    }
+  ],
+  "strengths": [
+    {
+      "text": "Nhỏ gọn khoảng 200 g, chuẩn IP67",
+      "source": "src2"
+    },
+    {
+      "text": "Bluetooth 5.4, ghép đôi hai loa, có micro",
+      "source": "src1"
+    },
+    {
+      "text": "Bass khá chắc so với cỡ loa, giọng hát rõ ở nhạc pop và acoustic",
+      "source": "src2"
+    },
+    {
+      "text": "Giá khoảng nửa triệu đồng",
+      "source": "src1"
+    }
+  ],
+  "caveats": [
+    {
+      "text": "Một số người dùng báo pin thực tế ngắn hơn 10 giờ công bố",
+      "source": "src1"
+    },
+    {
+      "text": "Một số người dùng báo rè loa hoặc tự tắt; ý kiến cá nhân",
+      "source": "src1"
+    },
+    {
+      "text": "Âm hơi ấm và bí, ngoài trời bass giảm; không có ứng dụng chỉnh âm",
+      "source": "src2"
+    }
+  ],
+  "sources": [
+    {
+      "id": "src1",
+      "url": "https://www.thegioididong.com/loa-laptop/loa-bluetooth-xiaomi-sound-pocket",
+      "title": "Loa Bluetooth Xiaomi Sound Pocket - Thế Giới Di Động",
+      "type": "cua_hang"
+    },
+    {
+      "id": "src2",
+      "url": "https://cellphones.com.vn/sforum/tren-tay-xiaomi-sound-pocket",
+      "title": "Trên tay Xiaomi Sound Pocket - Sforum (CellphoneS)",
+      "type": "danh_gia"
+    }
+  ],
+  "unverified": [
+    "Trang chính hãng mi.com/vn trả 403, chưa đọc được; số liệu lấy từ Thế Giới Di Động và Sforum.",
+    "Thời lượng pin thực tế: chỉ có ý kiến người dùng lẻ, không dùng con số trong lời đọc.",
+    "Giá Sforum là tháng 2/2026; giá Thế Giới Di Động là ngày 22/10/2026.",
+    "Loại ảnh (kind) suy ra từ tên file, chưa xem ảnh trực tiếp.",
+    "Anker Soundcore 3 chưa nghiên cứu."
+  ],
+  "product_visual_description": "compact palm-sized portable Bluetooth speaker with a plastic body and fabric-mesh grille, physical buttons, USB-C port under a rubber cover, sold in black, blue-grey or pink",
+  "ref_image_candidates": [
+    {
+      "url": "https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/2162/327608/loa-bluetooth-xiaomi-sound-pocket-hong-1-638945032814744628.jpg",
+      "page": "https://www.thegioididong.com/loa-laptop/loa-bluetooth-xiaomi-sound-pocket",
+      "kind": "product_main"
+    },
+    {
+      "url": "https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/2162/327608/loa-bluetooth-xiaomi-sound-pocket-hong-2-638945032822155541.jpg",
+      "page": "https://www.thegioididong.com/loa-laptop/loa-bluetooth-xiaomi-sound-pocket",
+      "kind": "product_angle"
+    },
+    {
+      "url": "https://cdn.tgdd.vn/Products/Images/2162/327608/Kit/loa-bluetooth-xiaomi-sound-pocket-den-note.jpg",
+      "page": "https://www.thegioididong.com/loa-laptop/loa-bluetooth-xiaomi-sound-pocket",
+      "kind": "product_angle"
+    },
+    {
+      "url": "https://cdnv2.tgdd.vn/pim/cdn/images/202610/loa-bluetooth-xiaomi-sound-pocket-1203820.jpg",
+      "page": "https://www.thegioididong.com/loa-laptop/loa-bluetooth-xiaomi-sound-pocket",
+      "kind": "product_main"
+    },
+    {
+      "url": "https://cdn.tgdd.vn/Products/Images/2162/327608/Slider/vi-vn-loa-bluetooth-xiaomi-sound-pocket-thumbvideo.jpg",
+      "page": "https://www.thegioididong.com/loa-laptop/loa-bluetooth-xiaomi-sound-pocket",
+      "kind": "in_use"
+    }
+  ],
+  "takeaway": "Cần loa bỏ túi, chống nước, giá khoảng nửa triệu thì chọn Xiaomi Sound Pocket; cần âm chi tiết hoặc pin thật bền thì cân nhắc loa khác.",
+  "buyer_personas": [
+    "Người cần loa phụ cho bàn học, phòng ngủ, ban công",
+    "Người đi dã ngoại nhẹ, ngân sách dưới sáu trăm nghìn"
+  ]
+}

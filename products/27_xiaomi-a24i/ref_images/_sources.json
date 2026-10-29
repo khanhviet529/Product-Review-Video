@@ -1,0 +1,82 @@
+[
+  {
+    "file": "product_main.jpg",
+    "url": "https://cdn2.fptshop.com.vn/unsafe/1920x0/filters:format(webp):quality(75)/man_hinh_xiaomi_a24i_eu_black_01_d5e576eded.png",
+    "page": "https://fptshop.com.vn/man-hinh/xiaomi-a24i-eu-238-inch-fhd-ips-144hz-ela6416eu",
+    "kind": "product_main",
+    "width": 1920,
+    "height": 1920
+  },
+  {
+    "file": "product_angle_1.jpg",
+    "url": "https://cdn2.fptshop.com.vn/unsafe/1920x0/filters:format(webp):quality(75)/xiaomi_a24i_eu_238_inch_fhd_ips_144hz_ela6416eu_1_dc55acf7ce.jpg",
+    "page": "https://fptshop.com.vn/man-hinh/xiaomi-a24i-eu-238-inch-fhd-ips-144hz-ela6416eu",
+    "kind": "product_angle",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "file": "product_angle_2.jpg",
+    "url": "https://cdn2.fptshop.com.vn/unsafe/800x0/xiaomi_a24i_eu_ela_6416eu_1_111e98bd4d.jpg",
+    "page": "https://fptshop.com.vn/man-hinh/xiaomi-a24i-eu-238-inch-fhd-ips-144hz-ela6416eu",
+    "kind": "product_angle",
+    "width": 800,
+    "height": 538
+  },
+  {
+    "file": "product_main_2.jpg",
+    "url": "https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/5697/362654/xiaomi-23-8-inch-full-hd-a24i-2026-1-639076253861444213.jpg",
+    "page": "https://www.thegioididong.com/man-hinh-may-tinh/xiaomi-23-8-inch-full-hd-a24i-2026",
+    "kind": "product_main",
+    "width": 1020,
+    "height": 680
+  },
+  {
+    "file": "product_angle_3.jpg",
+    "url": "https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/5697/362654/xiaomi-23-8-inch-full-hd-a24i-2026-2-639076351845910853.jpg",
+    "page": "https://www.thegioididong.com/man-hinh-may-tinh/xiaomi-23-8-inch-full-hd-a24i-2026",
+    "kind": "product_angle",
+    "width": 1020,
+    "height": 680
+  },
+  {
+    "file": "in_use_1.jpg",
+    "url": "https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/5697/362654/xiaomi-23-8-inch-full-hd-a24i-2026-3-639076351856070063.jpg",
+    "page": "https://www.thegioididong.com/man-hinh-may-tinh/xiaomi-23-8-inch-full-hd-a24i-2026",
+    "kind": "in_use",
+    "width": 1020,
+    "height": 680
+  },
+  {
+    "file": "product_angle_4.jpg",
+    "url": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-monitor-a24i/PC/cd9b8e066409e68e93c80affa5f4cf87.jpg?f=webp",
+    "page": "https://www.mi.com/vn/product/xiaomi-monitor-a24i/",
+    "kind": "product_angle",
+    "width": 2560,
+    "height": 1380
+  },
+  {
+    "file": "product_angle_5.jpg",
+    "url": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-monitor-a24i/PC/2273db73032a0e83f766c703f51e41f7.png?f=webp",
+    "page": "https://www.mi.com/vn/product/xiaomi-monitor-a24i/",
+    "kind": "product_angle",
+    "width": 2560,
+    "height": 21100
+  },
+  {
+    "file": "product_angle_6.jpg",
+    "url": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-monitor-a24i/PC/ccfff2df0d953e517e12d29ff08fd8cc.jpg?f=webp",
+    "page": "https://www.mi.com/vn/product/xiaomi-monitor-a24i/",
+    "kind": "product_angle",
+    "width": 2560,
+    "height": 1707
+  },
+  {
+    "file": "product_angle_7.jpg",
+    "url": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-monitor-a24i/PC/0ad31ec6cb010b4178ece7fd38e2d07b.jpg?f=webp",
+    "page": "https://www.mi.com/vn/product/xiaomi-monitor-a24i/",
+    "kind": "product_angle",
+    "width": 2560,
+    "height": 839
+  }
+]

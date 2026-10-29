@@ -1,0 +1,195 @@
+{
+  "id": "30",
+  "slug": "30_logitech-c922",
+  "status": "mot_phan",
+  "chosen_model": "Logitech C922 Pro Stream Webcam",
+  "alternatives_rejected": [
+    {
+      "model": "Logitech C920 HD Pro (960-001055)",
+      "reason": "CellphoneS ghi 'tạm hết hàng' (2.890.000); không tìm được cửa hàng VN còn bán."
+    },
+    {
+      "model": "Logitech C920e",
+      "reason": "Hacom ghi 'Sản phẩm ngừng kinh doanh' (1.799.000)."
+    }
+  ],
+  "official_page": "https://www.logitech.com/en-us/shop/p/c922-pro-stream-webcam",
+  "price_vnd": {
+    "low": 2099000,
+    "high": 2099000,
+    "as_of": "2026-10-22",
+    "sources": [
+      "src2"
+    ],
+    "confidence": "vua"
+  },
+  "specs": [
+    {
+      "id": "s1",
+      "key": "Độ phân giải",
+      "value_vi": "Full HD 1080p ở 30 khung hình/giây; HD 720p ở 60 khung hình/giây",
+      "condition": "hai chế độ khác nhau",
+      "source": "src1",
+      "confidence": "cao"
+    },
+    {
+      "id": "s2",
+      "key": "Góc nhìn",
+      "value_vi": "78 độ chéo",
+      "condition": "",
+      "source": "src1",
+      "confidence": "cao"
+    },
+    {
+      "id": "s3",
+      "key": "Lấy nét",
+      "value_vi": "Tự động, thấu kính kính",
+      "condition": "",
+      "source": "src1",
+      "confidence": "cao"
+    },
+    {
+      "id": "s4",
+      "key": "Micro",
+      "value_vi": "Hai mic đa hướng, âm thanh nổi",
+      "condition": "",
+      "source": "src1",
+      "confidence": "cao"
+    },
+    {
+      "id": "s5",
+      "key": "Chỉnh sáng",
+      "value_vi": "Tự động hiệu chỉnh ánh sáng",
+      "condition": "",
+      "source": "src1",
+      "confidence": "cao"
+    },
+    {
+      "id": "s6",
+      "key": "Giá bán tại VN",
+      "value_vi": "2.099.000 đồng (giá gốc ghi 3.990.000)",
+      "condition": "Phong Vũ, ngày 2026-10-22, nút Mua ngay",
+      "source": "src2",
+      "confidence": "vua"
+    },
+    {
+      "id": "s7",
+      "key": "Nhận xét mic",
+      "value_vi": "Âm thanh 'loud and clear, but a little flat'",
+      "condition": "Đánh giá Laptop Mag trên C920, đời trước cùng nhóm; chưa mở đánh giá riêng C922",
+      "source": "src3",
+      "confidence": "vua"
+    },
+    {
+      "id": "s8",
+      "key": "Phần mềm",
+      "value_vi": "Phần mềm đi kèm bị gọi là 'buggy', chỉ chạy Windows",
+      "condition": "Đánh giá Laptop Mag trên C920, có thể đã cũ",
+      "source": "src3",
+      "confidence": "vua"
+    }
+  ],
+  "strengths": [
+    {
+      "text": "Full HD ở 30 khung hình/giây hoặc 720p ở 60 khung hình/giây trong cùng một webcam.",
+      "source": "src1"
+    },
+    {
+      "text": "Lấy nét tự động và tự chỉnh sáng.",
+      "source": "src1"
+    },
+    {
+      "text": "Hai mic stereo tích hợp, tiện cho họp nhanh.",
+      "source": "src1"
+    },
+    {
+      "text": "Dòng C920/C922 được Laptop Mag đánh giá hình ảnh sắc nét so với camera laptop (đánh giá C920).",
+      "source": "src3"
+    }
+  ],
+  "caveats": [
+    {
+      "text": "Mic tích hợp được nhận xét rõ nhưng hơi phẳng (đánh giá C920).",
+      "source": "src3"
+    },
+    {
+      "text": "Tối đa Full HD, không có độ phân giải cao hơn.",
+      "source": "src1"
+    },
+    {
+      "text": "Phần mềm đi kèm từng bị chê hay lỗi (đánh giá C920).",
+      "source": "src3"
+    }
+  ],
+  "sources": [
+    {
+      "id": "src1",
+      "url": "https://www.logitech.com/en-us/shop/p/c922-pro-stream-webcam",
+      "title": "Logitech - C922 Pro Stream Webcam",
+      "type": "chinh_hang"
+    },
+    {
+      "id": "src2",
+      "url": "https://phongvu.vn/webcam-logitech-full-hd-c922-pro-stream--s1603530",
+      "title": "Phong Vũ - Webcam Logitech C922 Pro HD Stream",
+      "type": "cua_hang"
+    },
+    {
+      "id": "src3",
+      "url": "https://www.laptopmag.com/reviews/accessories/logitech-hd-pro-webcam-c920",
+      "title": "Laptop Mag - Logitech HD Pro Webcam C920 review",
+      "type": "danh_gia"
+    },
+    {
+      "id": "src4",
+      "url": "https://cellphones.com.vn/webcam-logitech-c920-hd.html",
+      "title": "CellphoneS - Logitech C920 (tạm hết hàng)",
+      "type": "cua_hang"
+    },
+    {
+      "id": "src5",
+      "url": "https://hacom.vn/webcam-logitech-c920e",
+      "title": "Hacom - Logitech C920e (ngừng kinh doanh)",
+      "type": "cua_hang"
+    }
+  ],
+  "unverified": [
+    "Chưa tìm được đánh giá độc lập riêng cho C922 đã mở trực tiếp; nhận xét mic và phần mềm lấy từ đánh giá C920.",
+    "Chiều dài cáp, kích thước, khối lượng, tương thích hệ điều hành và thời hạn bảo hành của C922 chưa xác minh; không dùng trong lời đọc.",
+    "Chỉ một nguồn giá VN (Phong Vũ) và chưa thấy ngày cập nhật trên trang; cần kiểm tra lại trước khi đăng.",
+    "Trang Logitech ghi C922 giá 119,99 USD (Mỹ); không dùng cho giá Việt Nam."
+  ],
+  "product_visual_description": "Compact black Logitech webcam with a central round glass lens, on a small adjustable stand (Logitech and Phong Vu pages list it as black).",
+  "ref_image_candidates": [
+    {
+      "url": "https://resource.logitech.com/w_544,h_466,ar_7:6,c_pad,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/products/webcams/c922/gallery/c922-gallery-1.png",
+      "page": "https://www.logitech.com/en-us/shop/p/c922-pro-stream-webcam",
+      "kind": "product_main"
+    },
+    {
+      "url": "https://resource.logitech.com/w_544,h_466,ar_7:6,c_pad,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/products/webcams/c922/gallery/c922-gallery-2.png",
+      "page": "https://www.logitech.com/en-us/shop/p/c922-pro-stream-webcam",
+      "kind": "product_angle"
+    },
+    {
+      "url": "https://resource.logitech.com/w_544,h_466,ar_7:6,c_pad,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/products/webcams/c922/gallery/c922-gallery-3.png",
+      "page": "https://www.logitech.com/en-us/shop/p/c922-pro-stream-webcam",
+      "kind": "product_angle"
+    },
+    {
+      "url": "https://resource.logitech.com/w_544,h_466,ar_7:6,c_pad,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/products/webcams/c922/gallery/c922-gallery-4.png",
+      "page": "https://www.logitech.com/en-us/shop/p/c922-pro-stream-webcam",
+      "kind": "product_angle"
+    },
+    {
+      "url": "https://resource.logitech.com/w_1440,h_660,ar_24:11,c_fill,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/products/webcams/c922/2025/c922-pro-intro.jpg",
+      "page": "https://www.logitech.com/en-us/shop/p/c922-pro-stream-webcam",
+      "kind": "in_use"
+    }
+  ],
+  "takeaway": "Cần webcam Full HD họp online giá khoảng hai triệu thì chọn Logitech C922 Pro Stream; cần giọng thu tốt, hình cao hơn Full HD hay phần mềm êm hơn thì cân nhắc thêm mic rời hoặc dòng khác.",
+  "buyer_personas": [
+    "Người học và làm việc online",
+    "Người stream hoặc quay nội dung cơ bản"
+  ]
+}

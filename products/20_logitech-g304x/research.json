@@ -1,0 +1,196 @@
+{
+  "id": "20",
+  "slug": "20_logitech-g304x",
+  "status": "xac_minh",
+  "chosen_model": "Logitech G304 X LIGHTSPEED (bản Đen, mã 910-007867)",
+  "alternatives_rejected": [
+    {
+      "model": "Razer (các mẫu gaming nhẹ)",
+      "reason": "không tra nguồn giá VN; mẫu nhẹ thường cao hơn nhóm giá mềm"
+    },
+    {
+      "model": "Logitech G304 LIGHTSPEED đời cũ (pin AA, 99 g)",
+      "reason": "đời cũ, nặng hơn; G304 X là bản mới"
+    }
+  ],
+  "official_page": "https://www.logitechg.com/en-us/shop/p/g304x-lightspeed-wireless-gaming-mouse",
+  "price_vnd": {
+    "low": 949000,
+    "high": 999000,
+    "as_of": "2026-10-22",
+    "sources": [
+      "src1"
+    ],
+    "confidence": "vua"
+  },
+  "specs": [
+    {
+      "id": "s1",
+      "key": "Khối lượng",
+      "value_vi": "khoảng 57 g",
+      "condition": "",
+      "source": "src2",
+      "confidence": "cao"
+    },
+    {
+      "id": "s2",
+      "key": "Pin",
+      "value_vi": "lithium tích hợp 290 mAh, tới 106 giờ; sạc 10 phút thêm tới 11 giờ chơi; sạc qua USB-C",
+      "condition": "theo hãng",
+      "source": "src2",
+      "confidence": "cao"
+    },
+    {
+      "id": "s3",
+      "key": "Cảm biến",
+      "value_vi": "HERO 25K, tối đa 25.600 DPI",
+      "condition": "",
+      "source": "src2",
+      "confidence": "cao"
+    },
+    {
+      "id": "s4",
+      "key": "Kết nối không dây",
+      "value_vi": "LIGHTSPEED 2,4 GHz, tần số quét tối đa 1.000 Hz",
+      "condition": "polling rate chỉ có ở Hacom",
+      "source": "src1",
+      "confidence": "vua"
+    },
+    {
+      "id": "s5",
+      "key": "Kết nối khác, nút",
+      "value_vi": "USB-C có dây; không có Bluetooth; 6 nút lập trình qua G HUB",
+      "condition": "",
+      "source": "src1",
+      "confidence": "vua"
+    },
+    {
+      "id": "s6",
+      "key": "Độ bền phím",
+      "value_vi": "phím chính bền 20 triệu lần bấm",
+      "condition": "theo Hacom",
+      "source": "src1",
+      "confidence": "vua"
+    },
+    {
+      "id": "s7",
+      "key": "Bảo hành",
+      "value_vi": "24 tháng",
+      "condition": "theo Hacom",
+      "source": "src1",
+      "confidence": "vua"
+    },
+    {
+      "id": "s8",
+      "key": "Hình dáng",
+      "value_vi": "giữ dáng G305 quen thuộc; hãng nói nhiều người chơi ưa chuộng",
+      "condition": "",
+      "source": "src2",
+      "confidence": "cao"
+    },
+    {
+      "id": "s9",
+      "key": "Giá",
+      "value_vi": "khoảng 949.000 đến 999.000 đồng",
+      "condition": "FPT Shop 1.250.000 đồng nhưng chưa có hàng",
+      "source": "src1",
+      "confidence": "vua"
+    }
+  ],
+  "strengths": [
+    {
+      "text": "Nhẹ khoảng 57 g",
+      "source": "src2"
+    },
+    {
+      "text": "Cảm biến HERO 25K, tối đa 25.600 DPI",
+      "source": "src2"
+    },
+    {
+      "text": "Pin tới 106 giờ, sạc nhanh 10 phút thêm 11 giờ",
+      "source": "src2"
+    },
+    {
+      "text": "Giữ dáng G305 quen thuộc",
+      "source": "src2"
+    },
+    {
+      "text": "Giá chưa tới 1 triệu đồng, bảo hành 24 tháng",
+      "source": "src1"
+    }
+  ],
+  "caveats": [
+    {
+      "text": "Không có Bluetooth, chỉ LIGHTSPEED 2,4 GHz hoặc dây USB-C",
+      "source": "src1"
+    },
+    {
+      "text": "Pin lithium tích hợp, không phải pin AA thay được",
+      "source": "src1"
+    },
+    {
+      "text": "Trang bán và trang hãng không ghi kích thước",
+      "source": "src2"
+    }
+  ],
+  "sources": [
+    {
+      "id": "src1",
+      "url": "https://hacom.vn/chuot-khong-day-logitech-g304-x-den-melo0276",
+      "title": "Chuột không dây Logitech G304 X LIGHTSPEED Đen (910-007867) - Hà Nội Computer",
+      "type": "cua_hang"
+    },
+    {
+      "id": "src2",
+      "url": "https://www.logitechg.com/en-us/shop/p/g304x-lightspeed-wireless-gaming-mouse",
+      "title": "G304 X LIGHTSPEED Wireless Gaming Mouse - Logitech G",
+      "type": "chinh_hang"
+    },
+    {
+      "id": "src3",
+      "url": "https://fptshop.com.vn/phu-kien/chuot-gaming-khong-day-logitech-g304-x-lightspeed",
+      "title": "Chuột gaming không dây Logitech G304 X Lightspeed - FPT Shop",
+      "type": "cua_hang"
+    }
+  ],
+  "unverified": [
+    "Đánh giá độc lập đầy đủ cho G304 X: chưa tìm được; Notebookcheck (trả 403) và baonghean.vn (504) không mở được, chỉ thấy tóm tắt qua tìm kiếm, không dùng.",
+    "Lỗi double-click/scroll của G304 đời cũ có được khắc phục ở bản X hay không: chỉ thấy qua một bài tìm kiếm tiếng Hàn, chưa xác minh, không dùng.",
+    "Trang hãng ghi nhầm tên một số chỗ là G305 X và ảnh gallery là bản hồng; thông số khớp với Hacom/FPT nên dùng, ảnh nên ưu tiên Hacom (bản đen).",
+    "Kích thước: không có nguồn.",
+    "Razer: chưa tra cứu."
+  ],
+  "product_visual_description": "Compact lightweight wireless gaming mouse keeping the classic G305 shape, sold in black and white (a pink variant also appears on the brand page).",
+  "ref_image_candidates": [
+    {
+      "url": "https://cdn-files.hacom.vn/hacom/cdn/web/30092026/chuot-khong-day-logitech-g304-x-den-1.jpg",
+      "page": "https://hacom.vn/chuot-khong-day-logitech-g304-x-den-melo0276",
+      "kind": "product_main"
+    },
+    {
+      "url": "https://cdn-files.hacom.vn/hacom/cdn/web/30092026/chuot-khong-day-logitech-g304-x-den-2.jpg",
+      "page": "https://hacom.vn/chuot-khong-day-logitech-g304-x-den-melo0276",
+      "kind": "product_angle"
+    },
+    {
+      "url": "https://cdn2.fptshop.com.vn/unsafe/1920x0/filters:format(webp):quality(75)/chuot_gaming_khong_day_logitech_g304_x_lightspeed_den_1_0465d373e5.jpg",
+      "page": "https://fptshop.com.vn/phu-kien/chuot-gaming-khong-day-logitech-g304-x-lightspeed",
+      "kind": "product_main"
+    },
+    {
+      "url": "https://resource.logitechg.com/w_544,h_466,ar_7:6,c_pad,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/gaming/en/products/g304-x-lightspeed-pdp/2026-update/gallery/pink/g304-x-pink-top-angle-gallery-1.png",
+      "page": "https://www.logitechg.com/en-us/shop/p/g304x-lightspeed-wireless-gaming-mouse",
+      "kind": "product_angle"
+    },
+    {
+      "url": "https://resource.logitechg.com/w_544,h_466,ar_7:6,c_pad,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/gaming/en/products/g304-x-lightspeed-pdp/2026-update/gallery/pink/g304-x-pink-profile-angle-gallery-4.png",
+      "page": "https://www.logitechg.com/en-us/shop/p/g304x-lightspeed-wireless-gaming-mouse",
+      "kind": "product_angle"
+    }
+  ],
+  "takeaway": "Cần chuột gaming không dây nhẹ, giá chưa tới một triệu thì xem G304 X; cần Bluetooth hoặc chuột to tay thì nên cân nhắc loại khác.",
+  "buyer_personas": [
+    "Game thủ FPS phổ thông ngân sách vừa phải",
+    "Sinh viên cần chuột không dây nhẹ"
+  ]
+}

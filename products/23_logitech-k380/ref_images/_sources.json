@@ -1,0 +1,82 @@
+[
+  {
+    "file": "product_main.jpg",
+    "url": "https://resource.logitech.com/content/dam/logitech/en/products/keyboards/multi-keyboard-k380/gallery/k380-sand-gallery-1-us.png",
+    "page": "https://www.logitech.com/vi-vn/products/keyboards/k380-multi-device-bluetooth-keyboard.920-007582.html",
+    "kind": "product_main",
+    "width": 1600,
+    "height": 800
+  },
+  {
+    "file": "product_angle_1.jpg",
+    "url": "https://resource.logitech.com/content/dam/logitech/en/products/keyboards/multi-keyboard-k380/gallery/k380-lavender-gallery-2-us.png",
+    "page": "https://www.logitech.com/vi-vn/products/keyboards/k380-multi-device-bluetooth-keyboard.920-007582.html",
+    "kind": "product_angle",
+    "width": 1600,
+    "height": 800
+  },
+  {
+    "file": "product_angle_2.jpg",
+    "url": "https://resource.logitech.com/content/dam/logitech/en/products/keyboards/multi-keyboard-k380/gallery/k380-sand-gallery-3.png",
+    "page": "https://www.logitech.com/vi-vn/products/keyboards/k380-multi-device-bluetooth-keyboard.920-007582.html",
+    "kind": "product_angle",
+    "width": 1600,
+    "height": 800
+  },
+  {
+    "file": "in_use_1.jpg",
+    "url": "https://resource.logitech.com/content/dam/logitech/en/products/keyboards/multi-keyboard-k380/k380-type-on-anything-lavender.jpg",
+    "page": "https://www.logitech.com/vi-vn/products/keyboards/k380-multi-device-bluetooth-keyboard.920-007582.html",
+    "kind": "in_use",
+    "width": 1860,
+    "height": 1046
+  },
+  {
+    "file": "in_use_2.jpg",
+    "url": "https://resource.logitech.com/content/dam/logitech/en/products/keyboards/multi-keyboard-k380/k380-full-setup-lavender.jpg",
+    "page": "https://www.logitech.com/vi-vn/products/keyboards/k380-multi-device-bluetooth-keyboard.920-007582.html",
+    "kind": "in_use",
+    "width": 1800,
+    "height": 1044
+  },
+  {
+    "file": "product_angle_3.jpg",
+    "url": "https://resource.logitech.com/c_fill,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/products/keyboards/multi-keyboard-k380/gallery/k380-sand-gallery-1-us.png",
+    "page": "https://www.logitech.com/vi-vn/products/keyboards/k380-multi-device-bluetooth-keyboard.920-007582.html",
+    "kind": "product_angle",
+    "width": 1600,
+    "height": 800
+  },
+  {
+    "file": "product_angle_4.jpg",
+    "url": "https://resource.logitech.com/c_fill,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/products/keyboards/multi-keyboard-k380/gallery/k380-lavender-gallery-1-us.png",
+    "page": "https://www.logitech.com/vi-vn/products/keyboards/k380-multi-device-bluetooth-keyboard.920-007582.html",
+    "kind": "product_angle",
+    "width": 1600,
+    "height": 800
+  },
+  {
+    "file": "product_angle_5.jpg",
+    "url": "https://resource.logitech.com/c_fill,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/products/keyboards/multi-keyboard-k380/gallery/k380-lavender-gallery-2-us.png",
+    "page": "https://www.logitech.com/vi-vn/products/keyboards/k380-multi-device-bluetooth-keyboard.920-007582.html",
+    "kind": "product_angle",
+    "width": 1600,
+    "height": 800
+  },
+  {
+    "file": "product_angle_6.jpg",
+    "url": "https://resource.logitech.com/c_fill,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/products/keyboards/multi-keyboard-k380/gallery/k380-lavender-gallery-3.png",
+    "page": "https://www.logitech.com/vi-vn/products/keyboards/k380-multi-device-bluetooth-keyboard.920-007582.html",
+    "kind": "product_angle",
+    "width": 1600,
+    "height": 800
+  },
+  {
+    "file": "product_angle_7.jpg",
+    "url": "https://resource.logitech.com/c_fill,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/products/keyboards/multi-keyboard-k380/gallery/k380-lavender-gallery-4.png",
+    "page": "https://www.logitech.com/vi-vn/products/keyboards/k380-multi-device-bluetooth-keyboard.920-007582.html",
+    "kind": "product_angle",
+    "width": 1600,
+    "height": 800
+  }
+]

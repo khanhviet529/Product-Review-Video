@@ -1,0 +1,199 @@
+{
+  "id": "16",
+  "slug": "16_redmi-watch-5-active",
+  "status": "mot_phan",
+  "chosen_model": "Xiaomi Redmi Watch 5 Active (đồng hồ thông minh, bản bạc/đen)",
+  "alternatives_rejected": [
+    {
+      "model": "Redmi Watch 5 / Redmi Watch 5 Lite",
+      "reason": "Là phiên bản khác của dòng, không phải ứng viên; chưa có nguồn."
+    }
+  ],
+  "official_page": null,
+  "price_vnd": {
+    "low": 880000,
+    "high": 880000,
+    "as_of": "2026-10-22",
+    "sources": [
+      "src1",
+      "src2"
+    ],
+    "confidence": "cao"
+  },
+  "specs": [
+    {
+      "id": "s1",
+      "key": "Màn hình",
+      "value_vi": "LCD 2 inch, mặt đồng hồ 49,1 mm; hơn 200 mặt đồng hồ",
+      "condition": "Độ phân giải: FPT ghi 320x385, CellphoneS ghi 360x385, nên không dùng",
+      "source": "src2",
+      "confidence": "cao"
+    },
+    {
+      "id": "s2",
+      "key": "Pin",
+      "value_vi": "Tới 18 ngày dùng liên tục không bật màn hình luôn sáng; dùng nặng khoảng 12 ngày",
+      "condition": "Theo FPT Shop và CellphoneS (số liệu hãng)",
+      "source": "src1",
+      "confidence": "cao"
+    },
+    {
+      "id": "s3",
+      "key": "Nghe gọi",
+      "value_vi": "Gọi qua Bluetooth, hai micro khử ồn; không có eSIM nên điện thoại phải ở gần và kết nối",
+      "condition": "",
+      "source": "src1",
+      "confidence": "cao"
+    },
+    {
+      "id": "s4",
+      "key": "Sức khỏe và thể thao",
+      "value_vi": "Nhịp tim, SpO2, bước chân, giấc ngủ, căng thẳng; hơn 140 chế độ thể thao",
+      "condition": "",
+      "source": "src2",
+      "confidence": "cao"
+    },
+    {
+      "id": "s5",
+      "key": "GPS",
+      "value_vi": "Không có GPS tích hợp; muốn ghi đường chạy phải mang điện thoại",
+      "condition": "Theo FPT Shop. Bài Digit nhắc 'GPS' nhưng không nói rõ tích hợp hay dùng GPS điện thoại",
+      "source": "src1",
+      "confidence": "vua"
+    },
+    {
+      "id": "s6",
+      "key": "Khối lượng",
+      "value_vi": "Khoảng 30,6 g",
+      "condition": "Chưa tính dây đeo; thân kim loại theo bài Digit",
+      "source": "src1",
+      "confidence": "cao"
+    },
+    {
+      "id": "s7",
+      "key": "Giá",
+      "value_vi": "880.000 đồng",
+      "condition": "FPT Shop và CellphoneS, 2026-10-22",
+      "source": "src1",
+      "confidence": "cao"
+    },
+    {
+      "id": "s8",
+      "key": "Nhận xét hiển thị",
+      "value_vi": "LCD tiêu chuẩn, đo độ sáng tối đa 497 nit so với hãng ghi 500 nit; viền dưới dày, không đều",
+      "condition": "Reviewer Digit",
+      "source": "src3",
+      "confidence": "vua"
+    },
+    {
+      "id": "s9",
+      "key": "Độ chính xác chỉ số sức khỏe",
+      "value_vi": "Kém chính xác hơn đồng hồ đắt tiền hơn, nên xem là số tham khảo",
+      "condition": "Nhận xét reviewer Digit, không phải đo kiểm chứng",
+      "source": "src3",
+      "confidence": "vua"
+    }
+  ],
+  "strengths": [
+    {
+      "text": "Pin tới 18 ngày dùng thường, khoảng 12 ngày dùng nặng.",
+      "source": "src1"
+    },
+    {
+      "text": "Màn 2 inch, sáng đúng như hãng ghi (497 nit đo được), cảm ứng nhạy cả khi ướt.",
+      "source": "src3"
+    },
+    {
+      "text": "Gọi Bluetooth với hai micro khử ồn.",
+      "source": "src1"
+    },
+    {
+      "text": "Thân kim loại, hoàn thiện tốt; giá 880 nghìn đồng.",
+      "source": "src3"
+    }
+  ],
+  "caveats": [
+    {
+      "text": "Không có GPS tích hợp; phải mang điện thoại để ghi đường chạy.",
+      "source": "src1"
+    },
+    {
+      "text": "Viền dưới dày, không đều.",
+      "source": "src3"
+    },
+    {
+      "text": "Chỉ số sức khỏe kém chính xác hơn đồng hồ đắt hơn, nên xem là số tham khảo.",
+      "source": "src3"
+    },
+    {
+      "text": "Màn LCD, không có kho ứng dụng.",
+      "source": "src3"
+    }
+  ],
+  "sources": [
+    {
+      "id": "src1",
+      "url": "https://fptshop.com.vn/smartwatch/redmi-watch-5-active",
+      "title": "FPT Shop: Xiaomi Redmi Watch 5 Active",
+      "type": "cua_hang"
+    },
+    {
+      "id": "src2",
+      "url": "https://cellphones.com.vn/dong-ho-thong-minh-xiaomi-redmi-watch-5-active.html",
+      "title": "CellphoneS: Đồng hồ thông minh Xiaomi Redmi Watch 5 Active",
+      "type": "cua_hang"
+    },
+    {
+      "id": "src3",
+      "url": "https://www.digit.in/reviews/wearable-devices/redmi-watch-5-active-review-a-budget-friendly-daily-companion.html",
+      "title": "Digit: Redmi Watch 5 Active Review",
+      "type": "danh_gia"
+    }
+  ],
+  "unverified": [
+    "Trang chính hãng mi.com/vn trả lỗi 403; official_page để trống.",
+    "Chống nước: FPT ghi 5ATM, Digit ghi IPX8, CellphoneS chỉ ghi 'khá tốt'. Chưa thống nhất, không dùng trong lời đọc.",
+    "Độ phân giải màn hình (320x385 hay 360x385) và tương thích hệ điều hành (FPT: Android 8/iOS 12; CellphoneS: Android 6/iOS 11): nguồn lệch nhau, không dùng.",
+    "GPS: FPT ghi không có, Digit nhắc có 'GPS' nhưng không rõ; chọn FPT, độ tin cậy vừa.",
+    "Chất lượng cuộc gọi và độ chính xác thực tế khi dùng ngoài trời: chưa có kiểm chứng đọc được.",
+    "Digit là bài đánh giá tại Ấn Độ (giá Rs 2.799); chỉ dùng cho nhận xét thiết kế, màn hình."
+  ],
+  "product_visual_description": "Redmi Watch 5 Active: large rectangular 2-inch LCD touchscreen smartwatch with a metal case, a side button and a silicone strap, in silver and black versions.",
+  "ref_image_candidates": [
+    {
+      "url": "https://cdn2.fptshop.com.vn/unsafe/1920x0/filters:format(webp):quality(75)/redmi_watch_5_black_1_478444211c.png",
+      "page": "https://fptshop.com.vn/smartwatch/redmi-watch-5-active",
+      "kind": "product_main"
+    },
+    {
+      "url": "https://cdn2.fptshop.com.vn/unsafe/750x0/filters:format(webp):quality(75)/redmi_watch_5_black_2_e50c0eeceb.png",
+      "page": "https://fptshop.com.vn/smartwatch/redmi-watch-5-active",
+      "kind": "product_angle"
+    },
+    {
+      "url": "https://cdn2.fptshop.com.vn/unsafe/750x0/filters:format(webp):quality(75)/redmi_watch_5_black_3_ad8873acca.png",
+      "page": "https://fptshop.com.vn/smartwatch/redmi-watch-5-active",
+      "kind": "product_angle"
+    },
+    {
+      "url": "https://cdn2.fptshop.com.vn/unsafe/750x0/filters:format(webp):quality(75)/redmi_watch_5_black_4_01db05b7b8.png",
+      "page": "https://fptshop.com.vn/smartwatch/redmi-watch-5-active",
+      "kind": "in_use"
+    },
+    {
+      "url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/_/n/_ng_h__3.png",
+      "page": "https://cellphones.com.vn/dong-ho-thong-minh-xiaomi-redmi-watch-5-active.html",
+      "kind": "product_main"
+    },
+    {
+      "url": "https://cellphones.com.vn/media/wysiwyg/Watch/Xiaomi/dong-ho-thong-minh-xiaomi-redmi-watch-5-active-1.jpg",
+      "page": "https://cellphones.com.vn/dong-ho-thong-minh-xiaomi-redmi-watch-5-active.html",
+      "kind": "in_use"
+    }
+  ],
+  "takeaway": "Cần đồng hồ màn hình lớn, pin lâu, nghe gọi với giá mềm thì Redmi Watch 5 Active hợp lý; cần GPS riêng hoặc màn AMOLED thì nên cân nhắc loại khác.",
+  "buyer_personas": [
+    "Người cần xem thông báo, nghe gọi, pin lâu với ngân sách thấp",
+    "Người thích màn hình lớn dễ đọc"
+  ]
+}

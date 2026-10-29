@@ -1,0 +1,239 @@
+{
+  "id": "22",
+  "slug": "22_aula-f75",
+  "status": "xac_minh",
+  "chosen_model": "AULA F75 bản 3 chế độ không dây, switch Milk White (mã HACOM KBAU0155)",
+  "alternatives_rejected": [
+    {
+      "model": "AULA F75 bản có dây (Red/Blue switch)",
+      "reason": "Rẻ hơn (699.000 đến 750.000 đồng) nhưng chỉ có dây, không hợp góc 'không dây, hotswap'."
+    },
+    {
+      "model": "AULA F75 Pro",
+      "reason": "Bản khác, 81 phím, giá cao hơn (khoảng 1.590.000 đồng theo kết quả tìm kiếm ThinkPro), không phải mẫu F75 gốc trong danh sách."
+    }
+  ],
+  "official_page": "https://hacom.vn/ban-phim-co-gaming-aula-f75-kbau0155",
+  "price_vnd": {
+    "low": 949000,
+    "high": 949000,
+    "as_of": "2026-10-22",
+    "sources": [
+      "src1",
+      "src3"
+    ],
+    "confidence": "vua",
+    "note": "HACOM giá khuyến mãi 949.000 đồng (giá gạch 1.499.000), 2026-10-22. Bản có dây Phúc Anh/CellphoneS 699.000 đến 750.000 đồng."
+  },
+  "specs": [
+    {
+      "id": "s1",
+      "key": "Layout",
+      "value_vi": "75 phần trăm, 80 phím",
+      "condition": "",
+      "source": "src1",
+      "confidence": "cao"
+    },
+    {
+      "id": "s2",
+      "key": "Kết nối",
+      "value_vi": "Không dây 2.4GHz, Bluetooth, có dây USB; Bluetooth ghép tối đa 3 thiết bị",
+      "condition": "Phiên bản Bluetooth: ParkaBlogs ghi 5.0, nguồn khác ghi 5.1, không dùng",
+      "source": "src1",
+      "confidence": "cao"
+    },
+    {
+      "id": "s3",
+      "key": "Cấu trúc",
+      "value_vi": "Gasket mount, keycap PBT double-shot",
+      "condition": "",
+      "source": "src1",
+      "confidence": "cao"
+    },
+    {
+      "id": "s4",
+      "key": "Hot-swap",
+      "value_vi": "Hot-swap switch 5 chân, độ bền switch đến 60 triệu lần nhấn",
+      "condition": "",
+      "source": "src1",
+      "confidence": "cao"
+    },
+    {
+      "id": "s5",
+      "key": "Pin",
+      "value_vi": "4000 mAh, sạc lại được",
+      "condition": "",
+      "source": "src1",
+      "confidence": "cao"
+    },
+    {
+      "id": "s6",
+      "key": "Thời gian dùng pin",
+      "value_vi": "Quảng cáo khoảng 266 giờ khi tắt đèn; khoảng 17,5 giờ với hiệu ứng đèn mặc định",
+      "condition": "Theo ParkaBlogs trích số quảng cáo của hãng, chưa đo độc lập",
+      "source": "src2",
+      "confidence": "vua"
+    },
+    {
+      "id": "s7",
+      "key": "Kích thước, trọng lượng",
+      "value_vi": "322,7 x 143,2 x 43,1 mm; khoảng 1023 g",
+      "condition": "ParkaBlogs đo bản không dây; bản có dây Phúc Anh ghi khoảng 952 g gồm cáp",
+      "source": "src2",
+      "confidence": "vua"
+    },
+    {
+      "id": "s8",
+      "key": "Đèn, núm xoay",
+      "value_vi": "RGB 16,8 triệu màu, 16 hiệu ứng, núm xoay kim loại chỉnh âm lượng",
+      "condition": "",
+      "source": "src1",
+      "confidence": "cao"
+    },
+    {
+      "id": "s9",
+      "key": "Giá bản 3 chế độ",
+      "value_vi": "949.000 đồng (giá gạch 1.499.000)",
+      "condition": "HACOM 2026-10-22",
+      "source": "src1",
+      "confidence": "vua"
+    },
+    {
+      "id": "s10",
+      "key": "Giá bản có dây",
+      "value_vi": "Từ 699.000 đồng",
+      "condition": "Phúc Anh; CellphoneS 750.000 đồng",
+      "source": "src3",
+      "confidence": "vua"
+    },
+    {
+      "id": "s11",
+      "key": "Cảm giác gõ",
+      "value_vi": "Reviewer khen tiếng gõ và cảm giác gõ so với giá",
+      "condition": "Bản thử dùng switch Leobog Reaper, không phải Milk White",
+      "source": "src2",
+      "confidence": "vua"
+    },
+    {
+      "id": "s12",
+      "key": "Dùng với macOS",
+      "value_vi": "Không có phím Command bên phải, không dùng được tổ hợp phím tắt bên phải",
+      "condition": "",
+      "source": "src2",
+      "confidence": "vua"
+    },
+    {
+      "id": "s13",
+      "key": "Thân máy",
+      "value_vi": "Vỏ ABS nhựa, bóp mạnh thì hơi võng; phím Delete đặt lệch so với thói quen",
+      "condition": "",
+      "source": "src2",
+      "confidence": "vua"
+    },
+    {
+      "id": "s14",
+      "key": "Bảo hành",
+      "value_vi": "24 tháng",
+      "condition": "",
+      "source": "src1",
+      "confidence": "cao"
+    }
+  ],
+  "strengths": [
+    {
+      "text": "Không dây ba chế độ, 75 phần trăm 80 phím, giá dưới một triệu đồng ở HACOM",
+      "source": "src1"
+    },
+    {
+      "text": "Gasket mount, hot-swap 5 chân, keycap PBT double-shot",
+      "source": "src1"
+    },
+    {
+      "text": "Reviewer độc lập khen tiếng gõ và cảm giác gõ so với giá",
+      "source": "src2"
+    },
+    {
+      "text": "Pin 4000 mAh, quảng cáo hơn 266 giờ khi tắt đèn",
+      "source": "src2"
+    },
+    {
+      "text": "Có núm xoay chỉnh âm lượng, đèn RGB",
+      "source": "src1"
+    }
+  ],
+  "caveats": [
+    {
+      "text": "Thiếu phím Command bên phải nên không thuận cho người dùng macOS",
+      "source": "src2"
+    },
+    {
+      "text": "Thân nhựa, bóp mạnh hơi võng; phím Delete đặt lệch thói quen",
+      "source": "src2"
+    },
+    {
+      "text": "Nặng hơn một ki-lô-gam, bật đèn mặc định thì pin chỉ khoảng 17,5 giờ",
+      "source": "src2"
+    }
+  ],
+  "sources": [
+    {
+      "id": "src1",
+      "url": "https://hacom.vn/ban-phim-co-gaming-aula-f75-kbau0155",
+      "title": "HACOM: Bàn phím cơ gaming AULA F75 (3 mode, Milk White switch) KBAU0155",
+      "type": "cua_hang"
+    },
+    {
+      "id": "src2",
+      "url": "https://parkablogs.com/content/aula-f75-keyboard-review",
+      "title": "ParkaBlogs: Review AULA F75 wireless mechanical keyboard",
+      "type": "danh_gia"
+    },
+    {
+      "id": "src3",
+      "url": "https://www.phucanh.vn/ban-phim-co-aula-f75-den-red-switch.html",
+      "title": "Phúc Anh: Bàn phím cơ Aula F75 Đen Red Switch (bản có dây, mô tả 3 kết nối)",
+      "type": "cua_hang"
+    },
+    {
+      "id": "src4",
+      "url": "https://cellphones.com.vn/ban-phim-co-co-day-aula-f75-den.html",
+      "title": "CellphoneS: Bàn phím cơ có dây AULA F75 đen",
+      "type": "cua_hang"
+    }
+  ],
+  "unverified": [
+    "Trang chính hãng AULA không mở được, official_page là trang bán lẻ HACOM; thông số lấy từ HACOM và ParkaBlogs.",
+    "Phiên bản Bluetooth (5.0 hay 5.1) mỗi nguồn ghi một kiểu, không dùng trong lời đọc.",
+    "Số giờ pin là số quảng cáo của hãng được ParkaBlogs trích lại, chưa có đo độc lập.",
+    "ParkaBlogs thử với switch Leobog Reaper; bản HACOM dùng Milk White nên cảm giác gõ có thể khác."
+  ],
+  "product_visual_description": "A 75 percent mechanical keyboard with a black plastic case, black and grey two-tone keycaps, RGB lighting glowing around the keys, and a round metal volume knob at the top right (HACOM product image).",
+  "ref_image_candidates": [
+    {
+      "url": "https://cdn-files.hacom.vn/hacom/cdn/web/03092026/ban-phim-co-gaming-aula-f75-3-mode-mau-den-xam-milk-white-switch.jpg",
+      "page": "https://hacom.vn/ban-phim-co-gaming-aula-f75-kbau0155",
+      "kind": "product_main"
+    },
+    {
+      "url": "https://cdn-files.hacom.vn/hacom/cdn/web/24082026/ban-phim-co-gaming-aula-f75-3-mode-mau-xam-trang-milk-white-switch.jpg",
+      "page": "https://hacom.vn/ban-phim-co-gaming-aula-f75-kbau0155",
+      "kind": "product_angle"
+    },
+    {
+      "url": "https://cdn-files.hacom.vn/hacom/cdn/Media/Image/DescribeProduct/05082026/Ban-phim-co-gaming-AULA-F75-Ice-Green-2.jpg",
+      "page": "https://hacom.vn/ban-phim-co-gaming-aula-f75-kbau0155",
+      "kind": "product_angle"
+    },
+    {
+      "url": "https://cdn-files.hacom.vn/hacom/cdn/Media/Image/DescribeProduct/05082026/Ban-phim-co-gaming-AULA-F75-Ice-Green-3.jpg",
+      "page": "https://hacom.vn/ban-phim-co-gaming-aula-f75-kbau0155",
+      "kind": "in_use"
+    }
+  ],
+  "takeaway": "Cần bàn phím cơ không dây, hotswap, gõ êm mà giá dưới một triệu thì AULA F75 hợp; dùng macOS nhiều hoặc cần đồ bền chắc cao cấp thì cân nhắc loại khác.",
+  "buyer_personas": [
+    "Sinh viên, người mới chơi bàn phím cơ muốn giá mềm",
+    "Người dùng Windows thích tự thay switch",
+    "Người cần gọn hơn bàn full-size nhưng còn phím mũi tên"
+  ]
+}
