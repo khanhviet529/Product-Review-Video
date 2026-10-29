@@ -24,7 +24,6 @@ from flow_client import Flow, sync_playwright  # noqa: E402
 
 ROOT = Path(__file__).resolve().parents[2]
 UPLOAD = Path(__file__).resolve().parent / "_upload"
-CHAR_BY_PRESENTER = {"M": "NguoiDanNam"}          # nhân vật nữ sẽ thêm khi cần
 
 
 def load(pid):
@@ -36,9 +35,9 @@ def fcode(c):
     return c.get("flow_code") or c["code"]
 
 
-def prepare_composer(f, clips, char, product_file):
-    """Đưa ô nhập về trạng thái: ảnh sản phẩm (+ nhân vật nếu char) đã gắn, chưa có chữ. Số thành phần cần = 2 nếu có nhân vật, 1 nếu không."""
-    need = 2 if char else 1
+def prepare_composer(f, clips, product_file):
+    """Đưa ô nhập về trạng thái: ảnh sản phẩm đã gắn, chưa có chữ. Số thành phần cần = 1 (chỉ ảnh sản phẩm)."""
+    need = 1
     f._close_overlays()
     f.go_project_home()
     f.clear_prompt()
@@ -49,10 +48,8 @@ def prepare_composer(f, clips, char, product_file):
         return "reuse " + prev
     f.clear_prompt()
     f.upload_asset(str(product_file))            # tải lên tự gắn vào ô nhập
-    if char:
-        f.add_character(char)
     if f.chip_count() != need:
-        raise RuntimeError(f"Ô nhập có {f.chip_count()} thành phần, cần đúng {need}.")
+        raise RuntimeError(f"Ô nhập có {f.chip_count()} thành phần, cần đúng {need} (ảnh sản phẩm).")
     return "upload"
 
 
@@ -67,17 +64,11 @@ def main():
     a = ap.parse_args()
 
     d, pr = load(a.pid)
-    if pr.get("style") == "product-only":
-        char = None                                   # chỉ quay sản phẩm: không gắn nhân vật
-    else:
-        char = CHAR_BY_PRESENTER.get(pr.get("presenter"))
-        if not char:
-            sys.exit(f"Chưa có nhân vật Flow cho người dẫn {pr.get('presenter')}.")
     clips = pr["clips"]
     todo = [c for c in clips
             if not (d / "raw" / f"C{c['n']:02d}.mp4").exists() and not (ROOT / "inbox" / f"{c['code']}.mp4").exists()]
     n = min(len(todo), a.max)
-    print(f"{d.name}: {len(clips)} clip, còn thiếu {len(todo)}, nhân vật {char or '(không, chỉ quay sản phẩm)'}")
+    print(f"{d.name}: {len(clips)} clip, còn thiếu {len(todo)}, chế độ: chỉ quay sản phẩm (product-only)")
     print(f"Ước tính: {n} clip x {a.cost} = {n * a.cost} tín dụng")
     if not a.go and not a.download:
         print("(Chỉ xem kế hoạch. Thêm --go để tạo, hoặc --download để tải.)")
@@ -100,10 +91,11 @@ def main():
                     print(f"  {c['code']}: đã có thẻ {fc} trên Flow, bỏ qua (không tạo trùng)")
                     made.append(c)
                     continue
-                how = prepare_composer(f, clips, char, product_file)
-                f.fill_prompt(c["flow_prompt"])
+                how = prepare_composer(f, clips, product_file)
+                prompt_to_use = c.get("flow_prompt_voiceover") if ("presenter" in c.get("flow_prompt", "").lower()) else c["flow_prompt"]
+                f.fill_prompt(prompt_to_use)
                 assert f.prompt_text().startswith(fc + "."), f"prompt {fc} chưa điền đúng"
-                assert f.chip_count() == (2 if char else 1), "mất thành phần trước khi tạo"
+                assert f.chip_count() == 1, "mất thành phần ảnh sản phẩm trước khi tạo"
                 r = f.generate(a.cost, confirm=True)
                 print(f"  {c['code']}: đã bấm tạo ({how}; chi phí {r['cost']})")
                 made.append(c)

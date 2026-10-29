@@ -2,7 +2,6 @@
   "product_id": "01",
   "slug": "01_anker-soundcore-p20i",
   "model": "Anker Soundcore P20i (mã A3949)",
-  "presenter": "M",
   "takeaway": "Cần tai nghe không dây giá thấp, pin lâu, chống mồ hôi thì P20i đáng xem; cần chống ồn, độ trễ thấp hay nhiều thiết bị cùng lúc thì nên cân nhắc loại khác.",
   "target_seconds": 80,
   "clips": [
@@ -16,15 +15,13 @@
       ],
       "camera": "push in",
       "camera_reason": "tiến vào người nói để mở đầu bằng câu trả lời ngắn",
-      "first_frame": "seated at the desk facing the camera, the Anker Soundcore P20i earbuds resting on the desk beside him, relaxed upright posture",
-      "motion": "slow push in toward his face as he starts speaking, he glances at the product then back to the lens",
-      "last_frame": "tighter on his face and shoulders, product still visible at the lower edge of the frame",
+      "first_frame": "the open charging case centred on a warm beige surface",
+      "motion": "slow push in toward the open charging case with earbuds seated inside",
+      "last_frame": "tight on the earbuds in the case",
       "ref_images": [
-        "presenter_front",
         "product_main"
       ],
-      "flow_prompt": "P01C01. Vertical 9:16, 8 seconds, photorealistic, medium close-up. First frame: seated at the desk facing the camera, the Anker Soundcore P20i earbuds resting on the desk beside him, relaxed upright posture. Motion: slow push in toward his face as he starts speaking, he glances at the product then back to the lens. Last frame: tighter on his face and shoulders, product still visible at the lower edge of the frame. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Cần tai nghe giá mềm, pin lâu thì Soundcore P20i đáng xem. Cần chống ồn thì tìm loại khác.\" He is the Anker Soundcore P20i earbuds on the desk within reach; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
-      "flow_prompt_voiceover": "P01C01. Vertical 9:16, 8 seconds, photorealistic, medium close-up. First frame: seated facing the camera, earbud case on the desk. Motion: slow push in toward her face as she speaks. Last frame: tighter on her face and shoulders. Presenter: a Vietnamese woman in her late 20s with shoulder-length straight black hair and light side-swept bangs, warm light-brown skin, small gold stud earrings, natural makeup, wearing a plain white crew-neck t-shirt under a light beige overshirt, friendly confident expression. Setting: a bright modern minimalist desk studio, light oak desk, soft natural window light from the left, plain warm-white wall, shallow depth of field. She says in Vietnamese, in a natural friendly tone: \"Cần tai nghe giá mềm, pin lâu thì Soundcore P20i đáng xem. Cần chống ồn thì tìm loại khác.\" Product: exact product shown in the reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+      "flow_prompt": "P01C01. Vertical 9:16, 8 seconds, photorealistic commercial product cinematography, 85mm prime lens. Product: Anker Soundcore P20i true wireless earbuds with compact charging case, matching the reference image. Environment: Warm beige seamless studio background (#E8E0D0), soft diffused window light from the left, soft-edged natural shadows, premium minimal aesthetic. First frame: the open charging case centred on a warm beige surface. Motion: slow push in toward the open charging case with earbuds seated inside. Last frame: tight on the earbuds in the case. Camera: smooth steady motion, razor-sharp focus on the product, natural depth of field with creamy background blur. Voice-over: A calm friendly Vietnamese narrator speaks off-screen: \"Cần tai nghe giá mềm, pin lâu thì Soundcore P20i đáng xem. Cần chống ồn thì tìm loại khác.\". Cleanliness: No on-screen text, no typography, no watermarks, no human hands, no people. Pristine studio commercial look."
     },
     {
       "n": 2,
@@ -37,15 +34,13 @@
       ],
       "camera": "push in",
       "camera_reason": "tiến vào đúng chi tiết sản phẩm đang nói đến",
-      "first_frame": "seated at the desk, one hand lifting the Anker Soundcore P20i earbuds toward the camera at chest height",
-      "motion": "slow push in on the product in his open palm while he keeps eye contact with the lens",
-      "last_frame": "product held close to the lens in sharp focus, his face softly blurred behind it",
+      "first_frame": "close view of the charging case exterior",
+      "motion": "slow dolly in toward the charging port and indicator light on the case",
+      "last_frame": "crisp focus on the battery status LED",
       "ref_images": [
-        "presenter_front",
         "product_main"
       ],
-      "flow_prompt": "P01C02. Vertical 9:16, 8 seconds, photorealistic, medium close-up. First frame: seated at the desk, one hand lifting the Anker Soundcore P20i earbuds toward the camera at chest height. Motion: slow push in on the product in his open palm while he keeps eye contact with the lens. Last frame: product held close to the lens in sharp focus, his face softly blurred behind it. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Mỗi lần sạc nghe được khoảng mười tiếng. Hộp sạc nâng tổng lên ba mươi tiếng.\" He is holding the Anker Soundcore P20i earbuds in his open palm; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
-      "flow_prompt_voiceover": "P01C02. Vertical 9:16, 8 seconds, photorealistic, macro product shot, 100mm lens. First frame: the open charging case on a light oak desk with both earbuds seated inside, soft window light from the left, no hands. Motion: slow push in on the earbuds in the case; one earbud is lifted out by a hand and the case lid stays open. Last frame: close view of one earbud held between two fingers above the open case. Voice-over by the presenter, off-screen, in Vietnamese, in a natural friendly tone: \"Mỗi lần sạc nghe được khoảng mười tiếng. Hộp sạc nâng tổng lên ba mươi tiếng.\" Product: exact product shown in the reference image, Soundcore P20i true wireless earbuds with a short stem on each bud and a compact charging case with a carrying lanyard, matching the colour in the reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+      "flow_prompt": "P01C02. Vertical 9:16, 8 seconds, photorealistic commercial product cinematography, 85mm prime lens. Product: Anker Soundcore P20i true wireless earbuds with compact charging case, matching the reference image. Environment: Warm beige seamless studio background (#E8E0D0), soft diffused window light from the left, soft-edged natural shadows, premium minimal aesthetic. First frame: close view of the charging case exterior. Motion: slow dolly in toward the charging port and indicator light on the case. Last frame: crisp focus on the battery status LED. Camera: smooth steady motion, razor-sharp focus on the product, natural depth of field with creamy background blur. Voice-over: A calm friendly Vietnamese narrator speaks off-screen: \"Mỗi lần sạc nghe được khoảng mười tiếng. Hộp sạc nâng tổng lên ba mươi tiếng.\". Cleanliness: No on-screen text, no typography, no watermarks, no human hands, no people. Pristine studio commercial look."
     },
     {
       "n": 3,
@@ -57,15 +52,13 @@
       ],
       "camera": "rack focus",
       "camera_reason": "chuyển nét từ sản phẩm sang người nói để nối chi tiết với đánh giá",
-      "first_frame": "face and shoulders, one hand bringing the Anker Soundcore P20i earbuds up next to his cheek",
-      "motion": "rack focus from the product beside his cheek to his eyes, he turns slightly toward the lens",
-      "last_frame": "sharp on his face, product soft beside his cheek",
+      "first_frame": "one earbud resting on the matte podium",
+      "motion": "slow pan across the short stem and silicone ear tip of one earbud",
+      "last_frame": "sharp focus on the Soundcore logo on the earbud stem",
       "ref_images": [
-        "presenter_front",
         "product_main"
       ],
-      "flow_prompt": "P01C03. Vertical 9:16, 8 seconds, photorealistic, close-up. First frame: face and shoulders, one hand bringing the Anker Soundcore P20i earbuds up next to his cheek. Motion: rack focus from the product beside his cheek to his eyes, he turns slightly toward the lens. Last frame: sharp on his face, product soft beside his cheek. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Sạc nhanh mười phút là nghe thêm hai tiếng, tiện khi sắp ra khỏi nhà.\" He is showing the Anker Soundcore P20i earbuds beside his face; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
-      "flow_prompt_voiceover": "P01C03. Vertical 9:16, 8 seconds, photorealistic, close-up product shot, 85mm lens. First frame: the charging case on the desk with a USB-C cable plugged in, the earbuds sharp and the cable end soft. Motion: rack focus from the plugged cable end to the earbuds inside the case, a hand then unplugs the cable. Last frame: the case alone in sharp focus with the cable lying beside it. Voice-over by the presenter, off-screen, in Vietnamese, in a natural friendly tone: \"Sạc nhanh mười phút là nghe thêm hai tiếng, tiện khi sắp ra khỏi nhà.\" Product: exact product shown in the reference image, Soundcore P20i true wireless earbuds with a short stem on each bud and a compact charging case with a carrying lanyard, matching the colour in the reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+      "flow_prompt": "P01C03. Vertical 9:16, 8 seconds, photorealistic commercial product cinematography, 85mm prime lens. Product: Anker Soundcore P20i true wireless earbuds with compact charging case, matching the reference image. Environment: Warm beige seamless studio background (#E8E0D0), soft diffused window light from the left, soft-edged natural shadows, premium minimal aesthetic. First frame: one earbud resting on the matte podium. Motion: slow pan across the short stem and silicone ear tip of one earbud. Last frame: sharp focus on the Soundcore logo on the earbud stem. Camera: smooth steady motion, razor-sharp focus on the product, natural depth of field with creamy background blur. Voice-over: A calm friendly Vietnamese narrator speaks off-screen: \"Sạc nhanh mười phút là nghe thêm hai tiếng, tiện khi sắp ra khỏi nhà.\". Cleanliness: No on-screen text, no typography, no watermarks, no human hands, no people. Pristine studio commercial look."
     },
     {
       "n": 4,
@@ -78,15 +71,13 @@
       ],
       "camera": "dolly in",
       "camera_reason": "lại gần dần để tạo cảm giác trò chuyện trực tiếp",
-      "first_frame": "seated at the desk, both hands holding the Anker Soundcore P20i earbuds at table height, looking down at it",
-      "motion": "he looks up at the camera mid-sentence while the camera does a slow dolly in",
-      "last_frame": "closer on his face with both hands and the product still in frame",
+      "first_frame": "close-up on the earbud sound nozzle",
+      "motion": "rack focus from the smooth matte case surface to the IPX5 acoustic mesh",
+      "last_frame": "acoustic mesh in crisp high definition",
       "ref_images": [
-        "presenter_front",
         "product_main"
       ],
-      "flow_prompt": "P01C04. Vertical 9:16, 8 seconds, photorealistic, medium shot. First frame: seated at the desk, both hands holding the Anker Soundcore P20i earbuds at table height, looking down at it. Motion: he looks up at the camera mid-sentence while the camera does a slow dolly in. Last frame: closer on his face with both hands and the product still in frame. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Tai nghe đạt chuẩn IPX năm, nặng khoảng bốn phẩy ba gam mỗi bên, hợp mang đi tập.\" He is turning the Anker Soundcore P20i earbuds in both hands; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
-      "flow_prompt_voiceover": "P01C04. Vertical 9:16, 8 seconds, photorealistic, medium shot, 50mm lens. First frame: a person in a light sports top by a window holding the case, the earbuds still inside, the face out of frame. Motion: a hand takes out an earbud and places it into the ear, slow pan following the hand up to the ear. Last frame: close side view of the earbud worn in the ear, face turned away from the camera. Voice-over by the presenter, off-screen, in Vietnamese, in a natural friendly tone: \"Tai nghe đạt chuẩn IPX năm, nặng khoảng bốn phẩy ba gam mỗi bên, hợp mang đi tập.\" Product: exact product shown in the reference image, Soundcore P20i true wireless earbuds with a short stem on each bud and a compact charging case with a carrying lanyard, matching the colour in the reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+      "flow_prompt": "P01C04. Vertical 9:16, 8 seconds, photorealistic commercial product cinematography, 85mm prime lens. Product: Anker Soundcore P20i true wireless earbuds with compact charging case, matching the reference image. Environment: Warm beige seamless studio background (#E8E0D0), soft diffused window light from the left, soft-edged natural shadows, premium minimal aesthetic. First frame: close-up on the earbud sound nozzle. Motion: rack focus from the smooth matte case surface to the IPX5 acoustic mesh. Last frame: acoustic mesh in crisp high definition. Camera: smooth steady motion, razor-sharp focus on the product, natural depth of field with creamy background blur. Voice-over: A calm friendly Vietnamese narrator speaks off-screen: \"Tai nghe đạt chuẩn IPX năm, nặng khoảng bốn phẩy ba gam mỗi bên, hợp mang đi tập.\". Cleanliness: No on-screen text, no typography, no watermarks, no human hands, no people. Pristine studio commercial look."
     },
     {
       "n": 5,
@@ -99,15 +90,13 @@
       ],
       "camera": "pan",
       "camera_reason": "lia từ thiết bị sang người nói để cho thấy cách dùng thực tế",
-      "first_frame": "standing near the window, the Anker Soundcore P20i earbuds in one hand and a smartphone in the other",
-      "motion": "slow pan from the phone in his hand across to his face as he speaks",
-      "last_frame": "centred on his face, phone and product low in the frame",
+      "first_frame": "both earbuds placed neatly in front of the open case",
+      "motion": "slow orbit around the earbuds and charging case",
+      "last_frame": "both earbuds seen from a slight three-quarter angle",
       "ref_images": [
-        "presenter_front",
         "product_main"
       ],
-      "flow_prompt": "P01C05. Vertical 9:16, 8 seconds, photorealistic, medium shot. First frame: standing near the window, the Anker Soundcore P20i earbuds in one hand and a smartphone in the other. Motion: slow pan from the phone in his hand across to his face as he speaks. Last frame: centred on his face, phone and product low in the frame. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Dùng Bluetooth năm phẩy ba, và có ứng dụng với hai mươi hai kiểu chỉnh âm sẵn.\" He is holding the Anker Soundcore P20i earbuds and a phone; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
-      "flow_prompt_voiceover": "P01C05. Vertical 9:16, 8 seconds, photorealistic, overhead-angled shot, 35mm lens. First frame: a smartphone lying on the oak desk, its screen blank, with the earbuds beside it on the desk. Motion: slow pull back revealing the phone, the open case and the earbuds arranged neatly while a finger taps the blank phone screen. Last frame: wide tidy flat-lay of phone, case and earbuds. Voice-over by the presenter, off-screen, in Vietnamese, in a natural friendly tone: \"Dùng Bluetooth năm phẩy ba, và có ứng dụng với hai mươi hai kiểu chỉnh âm sẵn.\" Product: exact product shown in the reference image, Soundcore P20i true wireless earbuds with a short stem on each bud and a compact charging case with a carrying lanyard, matching the colour in the reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+      "flow_prompt": "P01C05. Vertical 9:16, 8 seconds, photorealistic commercial product cinematography, 85mm prime lens. Product: Anker Soundcore P20i true wireless earbuds with compact charging case, matching the reference image. Environment: Warm beige seamless studio background (#E8E0D0), soft diffused window light from the left, soft-edged natural shadows, premium minimal aesthetic. First frame: both earbuds placed neatly in front of the open case. Motion: slow orbit around the earbuds and charging case. Last frame: both earbuds seen from a slight three-quarter angle. Camera: smooth steady motion, razor-sharp focus on the product, natural depth of field with creamy background blur. Voice-over: A calm friendly Vietnamese narrator speaks off-screen: \"Dùng Bluetooth năm phẩy ba, và có ứng dụng với hai mươi hai kiểu chỉnh âm sẵn.\". Cleanliness: No on-screen text, no typography, no watermarks, no human hands, no people. Pristine studio commercial look."
     },
     {
       "n": 6,
@@ -119,15 +108,13 @@
       ],
       "camera": "pull back",
       "camera_reason": "mở rộng khung hình để thấy quy mô sản phẩm so với người",
-      "first_frame": "seated at the desk, the Anker Soundcore P20i earbuds held out toward the camera at arm's length",
-      "motion": "he draws the product back toward himself as the camera pulls back to reveal the desk",
-      "last_frame": "wider shot of him at the desk, product held at chest height",
+      "first_frame": "side profile of the compact pocketable case",
+      "motion": "slow lateral slider move across the case with warm directional lighting",
+      "last_frame": "case resting cleanly in the frame",
       "ref_images": [
-        "presenter_front",
         "product_main"
       ],
-      "flow_prompt": "P01C06. Vertical 9:16, 8 seconds, photorealistic, medium close-up. First frame: seated at the desk, the Anker Soundcore P20i earbuds held out toward the camera at arm's length. Motion: he draws the product back toward himself as the camera pulls back to reveal the desk. Last frame: wider shot of him at the desk, product held at chest height. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Âm thanh thiên về bass, nghe nhạc nền và xem video ổn. Đổi lại, âm giữa như guitar, piano khá lùi.\" He is pulling the Anker Soundcore P20i earbuds back from the lens; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
-      "flow_prompt_voiceover": "P01C06. Vertical 9:16, 8 seconds, photorealistic, product hero shot, 85mm lens. First frame: the two earbuds standing upright on the desk beside the closed case, plain warm-white wall behind. Motion: slow orbit left around the earbuds and case, the window light sliding across the surface. Last frame: the earbuds seen from the opposite side, case still beside them. Voice-over by the presenter, off-screen, in Vietnamese, in a natural friendly tone: \"Âm thanh thiên về bass, nghe nhạc nền và xem video ổn. Đổi lại, âm giữa như guitar, piano khá lùi.\" Product: exact product shown in the reference image, Soundcore P20i true wireless earbuds with a short stem on each bud and a compact charging case with a carrying lanyard, matching the colour in the reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+      "flow_prompt": "P01C06. Vertical 9:16, 8 seconds, photorealistic commercial product cinematography, 85mm prime lens. Product: Anker Soundcore P20i true wireless earbuds with compact charging case, matching the reference image. Environment: Warm beige seamless studio background (#E8E0D0), soft diffused window light from the left, soft-edged natural shadows, premium minimal aesthetic. First frame: side profile of the compact pocketable case. Motion: slow lateral slider move across the case with warm directional lighting. Last frame: case resting cleanly in the frame. Camera: smooth steady motion, razor-sharp focus on the product, natural depth of field with creamy background blur. Voice-over: A calm friendly Vietnamese narrator speaks off-screen: \"Âm thanh thiên về bass, nghe nhạc nền và xem video ổn. Đổi lại, âm giữa như guitar, piano khá lùi.\". Cleanliness: No on-screen text, no typography, no watermarks, no human hands, no people. Pristine studio commercial look."
     },
     {
       "n": 7,
@@ -140,15 +127,13 @@
       ],
       "camera": "dolly in",
       "camera_reason": "tiến gần để nhấn vào điểm cần cân nhắc một cách thẳng thắn",
-      "first_frame": "seated at the desk, thoughtful expression, the Anker Soundcore P20i earbuds held loosely in one hand",
-      "motion": "slow dolly in as he tilts his head slightly and raises his eyebrows while speaking",
-      "last_frame": "closer on his face, product lowered out of focus",
+      "first_frame": "earbud resting on an off-white circular display stand",
+      "motion": "gentle push in on the earbud touch sensor surface",
+      "last_frame": "close on the touch control area",
       "ref_images": [
-        "presenter_front",
         "product_main"
       ],
-      "flow_prompt": "P01C07. Vertical 9:16, 8 seconds, photorealistic, medium close-up. First frame: seated at the desk, thoughtful expression, the Anker Soundcore P20i earbuds held loosely in one hand. Motion: slow dolly in as he tilts his head slightly and raises his eyebrows while speaking. Last frame: closer on his face, product lowered out of focus. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Điểm cần cân nhắc: không có chống ồn, và không kết nối hai thiết bị cùng lúc.\" He is holding the Anker Soundcore P20i earbuds loosely; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
-      "flow_prompt_voiceover": "P01C07. Vertical 9:16, 8 seconds, photorealistic, medium close-up. First frame: a person at a busy cafe window seen from behind with the earbud in the ear, blurred street behind. Motion: slow dolly in toward the ear and earbud as people pass in the soft background. Last frame: tight view of the earbud in the ear, background still blurred. Voice-over by the presenter, off-screen, in Vietnamese, in a natural friendly tone: \"Điểm cần cân nhắc: không có chống ồn, và không kết nối hai thiết bị cùng lúc.\" Product: exact product shown in the reference image, Soundcore P20i true wireless earbuds with a short stem on each bud and a compact charging case with a carrying lanyard, matching the colour in the reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+      "flow_prompt": "P01C07. Vertical 9:16, 8 seconds, photorealistic commercial product cinematography, 85mm prime lens. Product: Anker Soundcore P20i true wireless earbuds with compact charging case, matching the reference image. Environment: Warm beige seamless studio background (#E8E0D0), soft diffused window light from the left, soft-edged natural shadows, premium minimal aesthetic. First frame: earbud resting on an off-white circular display stand. Motion: gentle push in on the earbud touch sensor surface. Last frame: close on the touch control area. Camera: smooth steady motion, razor-sharp focus on the product, natural depth of field with creamy background blur. Voice-over: A calm friendly Vietnamese narrator speaks off-screen: \"Điểm cần cân nhắc: không có chống ồn, và không kết nối hai thiết bị cùng lúc.\". Cleanliness: No on-screen text, no typography, no watermarks, no human hands, no people. Pristine studio commercial look."
     },
     {
       "n": 8,
@@ -161,15 +146,13 @@
       ],
       "camera": "pull back",
       "camera_reason": "lùi ra để đặt điểm yếu trong bức tranh chung",
-      "first_frame": "seated at the desk, the Anker Soundcore P20i earbuds set down in front of him, hands open",
-      "motion": "slow pull back as he gestures with one open hand",
-      "last_frame": "wide on him and the desk, product small at the centre of the table",
+      "first_frame": "tight shot on the earbud tip",
+      "motion": "slow pull back revealing the earbuds and case together",
+      "last_frame": "full charging case and earbuds in the center of the frame",
       "ref_images": [
-        "presenter_front",
         "product_main"
       ],
-      "flow_prompt": "P01C08. Vertical 9:16, 8 seconds, photorealistic, medium shot. First frame: seated at the desk, the Anker Soundcore P20i earbuds set down in front of him, hands open. Motion: slow pull back as he gestures with one open hand. Last frame: wide on him and the desk, product small at the centre of the table. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Theo SoundGuys, độ trễ khoảng hai trăm chín mươi lăm mi-li-giây. Một đánh giá khác thấy giọng gọi điện hơi nhỏ.\" He is with the Anker Soundcore P20i earbuds on the desk in front of him; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
-      "flow_prompt_voiceover": "P01C08. Vertical 9:16, 8 seconds, photorealistic, medium shot, 50mm lens. First frame: a person from behind watching a video on a phone propped on the desk, earbud in ear, the screen not visible. Motion: slow push in over the shoulder toward the phone and the earbud. Last frame: close view of the phone edge and the earbud, screen out of frame. Voice-over by the presenter, off-screen, in Vietnamese, in a natural friendly tone: \"Theo SoundGuys, độ trễ khoảng hai trăm chín mươi lăm mi-li-giây. Một đánh giá khác thấy giọng gọi điện hơi nhỏ.\" Product: exact product shown in the reference image, Soundcore P20i true wireless earbuds with a short stem on each bud and a compact charging case with a carrying lanyard, matching the colour in the reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+      "flow_prompt": "P01C08. Vertical 9:16, 8 seconds, photorealistic commercial product cinematography, 85mm prime lens. Product: Anker Soundcore P20i true wireless earbuds with compact charging case, matching the reference image. Environment: Warm beige seamless studio background (#E8E0D0), soft diffused window light from the left, soft-edged natural shadows, premium minimal aesthetic. First frame: tight shot on the earbud tip. Motion: slow pull back revealing the earbuds and case together. Last frame: full charging case and earbuds in the center of the frame. Camera: smooth steady motion, razor-sharp focus on the product, natural depth of field with creamy background blur. Voice-over: A calm friendly Vietnamese narrator speaks off-screen: \"Theo SoundGuys, độ trễ khoảng hai trăm chín mươi lăm mi-li-giây. Một đánh giá khác thấy giọng gọi điện hơi nhỏ.\". Cleanliness: No on-screen text, no typography, no watermarks, no human hands, no people. Pristine studio commercial look."
     },
     {
       "n": 9,
@@ -181,15 +164,13 @@
       ],
       "camera": "dolly in",
       "camera_reason": "lại gần như nói chuyện với đúng người cần sản phẩm này",
-      "first_frame": "leaning slightly forward at the desk, the Anker Soundcore P20i earbuds beside him, open friendly posture",
-      "motion": "slow dolly in as he gestures with an open hand toward the camera",
-      "last_frame": "close on his smiling face, product visible at the edge",
+      "first_frame": "the earbuds displayed cleanly under soft window light",
+      "motion": "slow dolly in highlighting the lightweight design and modern contours",
+      "last_frame": "sharp focus on the subtle curvature of the buds",
       "ref_images": [
-        "presenter_front",
         "product_main"
       ],
-      "flow_prompt": "P01C09. Vertical 9:16, 8 seconds, photorealistic, medium close-up. First frame: leaning slightly forward at the desk, the Anker Soundcore P20i earbuds beside him, open friendly posture. Motion: slow dolly in as he gestures with an open hand toward the camera. Last frame: close on his smiling face, product visible at the edge. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Hợp người cần tai nghe rẻ để nghe nhạc, xem video. Cần chống ồn thì cân nhắc loại khác.\" He is with the Anker Soundcore P20i earbuds beside him; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
-      "flow_prompt_voiceover": "P01C09. Vertical 9:16, 8 seconds, photorealistic, medium shot. First frame: seated facing the camera, earbuds in one open hand. Motion: slow dolly in as she speaks. Last frame: closer on her face, earbuds in palm. Presenter: a Vietnamese woman in her late 20s with shoulder-length straight black hair and light side-swept bangs, warm light-brown skin, small gold stud earrings, natural makeup, wearing a plain white crew-neck t-shirt under a light beige overshirt, friendly confident expression. Setting: a bright modern minimalist desk studio, light oak desk, soft natural window light from the left, plain warm-white wall, shallow depth of field. She says in Vietnamese, in a natural friendly tone: \"Hợp người cần tai nghe rẻ để nghe nhạc, xem video. Cần chống ồn thì cân nhắc loại khác.\" Product: exact product shown in the reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+      "flow_prompt": "P01C09. Vertical 9:16, 8 seconds, photorealistic commercial product cinematography, 85mm prime lens. Product: Anker Soundcore P20i true wireless earbuds with compact charging case, matching the reference image. Environment: Warm beige seamless studio background (#E8E0D0), soft diffused window light from the left, soft-edged natural shadows, premium minimal aesthetic. First frame: the earbuds displayed cleanly under soft window light. Motion: slow dolly in highlighting the lightweight design and modern contours. Last frame: sharp focus on the subtle curvature of the buds. Camera: smooth steady motion, razor-sharp focus on the product, natural depth of field with creamy background blur. Voice-over: A calm friendly Vietnamese narrator speaks off-screen: \"Hợp người cần tai nghe rẻ để nghe nhạc, xem video. Cần chống ồn thì cân nhắc loại khác.\". Cleanliness: No on-screen text, no typography, no watermarks, no human hands, no people. Pristine studio commercial look."
     },
     {
       "n": 10,
@@ -199,16 +180,14 @@
       "facts_used": [],
       "camera": "pull back",
       "camera_reason": "lùi ra khép lại video một cách thân thiện",
-      "first_frame": "seated at the desk, the Anker Soundcore P20i earbuds on the table, bright smile toward the camera",
-      "motion": "slow pull back while he gives a small friendly wave at the end",
-      "last_frame": "wide on him and the desk with the product, warm and relaxed",
+      "first_frame": "the complete Soundcore P20i earbuds and case resting stably",
+      "motion": "slow cinematic pull back to a wide studio display",
+      "last_frame": "wide centered shot with clean negative space around the product",
       "ref_images": [
-        "presenter_front",
         "product_main"
       ],
-      "flow_prompt": "P01C10. Vertical 9:16, 8 seconds, photorealistic, medium shot. First frame: seated at the desk, the Anker Soundcore P20i earbuds on the table, bright smile toward the camera. Motion: slow pull back while he gives a small friendly wave at the end. Last frame: wide on him and the desk with the product, warm and relaxed. The presenter from the character reference sits in a bright minimalist desk studio, light oak desk, soft window light from the left, plain warm-white wall. He speaks to the camera in Vietnamese, upbeat, lips in sync: \"Lưu lại trước khi mua. Bạn đang dùng tai nghe nào, nói cho mình biết nhé.\" He is with the Anker Soundcore P20i earbuds on the desk; the product matches the exact one in the product reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music.",
-      "flow_prompt_voiceover": "P01C10. Vertical 9:16, 8 seconds, photorealistic, medium close-up. First frame: facing the camera with a warm smile, case beside her. Motion: slow pull back as she speaks and waves. Last frame: wider view of her at the desk. Presenter: a Vietnamese woman in her late 20s with shoulder-length straight black hair and light side-swept bangs, warm light-brown skin, small gold stud earrings, natural makeup, wearing a plain white crew-neck t-shirt under a light beige overshirt, friendly confident expression. Setting: a bright modern minimalist desk studio, light oak desk, soft natural window light from the left, plain warm-white wall, shallow depth of field. She says in Vietnamese, in a natural friendly tone: \"Lưu lại trước khi mua. Bạn đang dùng tai nghe nào, nói cho mình biết nhé.\" Product: exact product shown in the reference image. No on-screen text, no captions, no subtitles, no watermarks. Clean audio: clear Vietnamese speech, soft room tone, no music."
+      "flow_prompt": "P01C10. Vertical 9:16, 8 seconds, photorealistic commercial product cinematography, 85mm prime lens. Product: Anker Soundcore P20i true wireless earbuds with compact charging case, matching the reference image. Environment: Warm beige seamless studio background (#E8E0D0), soft diffused window light from the left, soft-edged natural shadows, premium minimal aesthetic. First frame: the complete Soundcore P20i earbuds and case resting stably. Motion: slow cinematic pull back to a wide studio display. Last frame: wide centered shot with clean negative space around the product. Camera: smooth steady motion, razor-sharp focus on the product, natural depth of field with creamy background blur. Voice-over: A calm friendly Vietnamese narrator speaks off-screen: \"Lưu lại trước khi mua. Bạn đang dùng tai nghe nào, nói cho mình biết nhé.\". Cleanliness: No on-screen text, no typography, no watermarks, no human hands, no people. Pristine studio commercial look."
     }
   ],
-  "onscreen_presenter": true
+  "style": "product-only"
 }
